@@ -1,0 +1,470 @@
+{
+  "info": {
+    "_postman_id": "c7b562fe-1058-48e1-a2a7-acaef4b8f98b",
+    "name": "NutriPlan API",
+    "description": "<html><head></head><body><p>A unified API proxying TheMealDB, USDA, and OpenFoodFacts with normalized responses.</p>\n<h2 id=\"authentication\">Authentication</h2>\n<p>Nutrition endpoints require a USDA API key in the <code>x-api-key</code> header.\nGet your key at: <a href=\"https://fdc.nal.usda.gov/api-key-signup.html\">https://fdc.nal.usda.gov/api-key-signup.html</a></p>\n</body></html>",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+    "toc": [],
+    "owner": "24475784",
+    "collectionId": "c7b562fe-1058-48e1-a2a7-acaef4b8f98b",
+    "publishedId": "2sBXVhCqYt",
+    "public": true,
+    "customColor": {
+      "top-bar": "FFFFFF",
+      "right-sidebar": "303030",
+      "highlight": "002d8c"
+    },
+    "publishDate": "2026-01-14T16:02:35.000Z"
+  },
+  "item": [
+    {
+      "name": "Meals",
+      "item": [
+        {
+          "name": "Search Meals",
+          "id": "adb6b50e-3804-4c89-90e1-7b8a4d6d52ab",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/search?q=chicken&page=1&limit=25",
+            "description": "<p>Search meals by name or first letter</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "search"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [
+                {
+                  "description": {
+                    "content": "<p>Search term (e.g. \"chicken\", \"pasta\")</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "q",
+                  "value": "chicken"
+                },
+                {
+                  "disabled": true,
+                  "description": {
+                    "content": "<p>Search by first letter</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "f",
+                  "value": "a"
+                },
+                {
+                  "description": {
+                    "content": "<p>Page number</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "page",
+                  "value": "1"
+                },
+                {
+                  "description": {
+                    "content": "<p>Results per page</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "limit",
+                  "value": "25"
+                }
+              ],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "adb6b50e-3804-4c89-90e1-7b8a4d6d52ab"
+        },
+        {
+          "name": "Filter Meals",
+          "id": "e3d1bd46-bd3f-42db-bc46-e099d59fce86",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/filter?category=Seafood&page=1&limit=25",
+            "description": "<p>Filter meals by category, area, or ingredient. Returns full meal details.</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "filter"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [
+                {
+                  "description": {
+                    "content": "<p>Category name (e.g. \"Seafood\", \"Beef\")</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "category",
+                  "value": "Seafood"
+                },
+                {
+                  "disabled": true,
+                  "description": {
+                    "content": "<p>Area/cuisine name</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "area",
+                  "value": "Canadian"
+                },
+                {
+                  "disabled": true,
+                  "description": {
+                    "content": "<p>Main ingredient</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "ingredient",
+                  "value": "Chicken_Breast"
+                },
+                {
+                  "description": {
+                    "content": "<p>Page number</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "page",
+                  "value": "1"
+                },
+                {
+                  "description": {
+                    "content": "<p>Results per page</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "limit",
+                  "value": "25"
+                }
+              ],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "e3d1bd46-bd3f-42db-bc46-e099d59fce86"
+        },
+        {
+          "name": "Get Meal by ID",
+          "id": "89d4a646-ef9c-4f25-8291-ac3e35e2f112",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/52772",
+            "description": "<p>Get a single meal by its ID</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "52772"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "89d4a646-ef9c-4f25-8291-ac3e35e2f112"
+        },
+        {
+          "name": "Get Random Meals",
+          "id": "41f34b49-1043-4e34-a17f-7c523c0d6491",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/random?count=3",
+            "description": "<p>Get one or more random meals</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "random"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [
+                {
+                  "description": {
+                    "content": "<p>Number of random meals to return</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "count",
+                  "value": "3"
+                }
+              ],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "41f34b49-1043-4e34-a17f-7c523c0d6491"
+        },
+        {
+          "name": "Get All Categories",
+          "id": "e2981ece-03c4-4fac-8975-80b4982c2974",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/categories",
+            "description": "<p>Get all meal categories with thumbnails and descriptions</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "categories"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "e2981ece-03c4-4fac-8975-80b4982c2974"
+        },
+        {
+          "name": "Get All Areas",
+          "id": "bc322a9a-39a6-4dda-9728-4f6cad16c967",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/meals/areas",
+            "description": "<p>Get all cuisine areas/regions</p>\n",
+            "urlObject": {
+              "path": [
+                "meals",
+                "areas"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "bc322a9a-39a6-4dda-9728-4f6cad16c967"
+        }
+      ],
+      "id": "e150eaad-add5-4ef3-bf77-a464ffd3b538",
+      "description": "<p>Recipe and meal data from TheMealDB</p>\n",
+      "_postman_id": "e150eaad-add5-4ef3-bf77-a464ffd3b538"
+    },
+    {
+      "name": "Nutrition",
+      "item": [
+        {
+          "name": "Analyze recipe nutrition",
+          "id": "e711a3c9-42d2-498a-91d0-5cee18868f7d",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "x-api-key",
+                "value": "YOUR_USDA_API_KEY",
+                "description": "<p>Your USDA API key (required)</p>\n",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"recipeName\": \"Baked salmon with fennel & tomatoes\",\r\n    \"ingredients\": [\r\n        \"2 medium Fennel\",\r\n        \"2 tbs chopped Parsley\",\r\n        \"Juice of 1 Lemon\",\r\n        \"175g Cherry Tomatoes\",\r\n        \"1 tbs Olive Oil\",\r\n        \"350g Salmon\",\r\n        \"to serve Black Olives\"\r\n    ]\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": "https://nutriplan-api.vercel.app/api/nutrition/analyze",
+            "description": "<p>Search USDA food database for nutrition information</p>\n",
+            "urlObject": {
+              "path": [
+                "nutrition",
+                "analyze"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "e711a3c9-42d2-498a-91d0-5cee18868f7d"
+        }
+      ],
+      "id": "5a5d6e66-4e37-4330-a904-8d5535a79b35",
+      "description": "<p>Food nutrition data from USDA.</p>\n<p>⚠️ <strong>Authentication Required</strong>: All endpoints require <code>x-api-key</code> header with your USDA API key.</p>\n",
+      "_postman_id": "5a5d6e66-4e37-4330-a904-8d5535a79b35"
+    },
+    {
+      "name": "Products",
+      "item": [
+        {
+          "name": "Search Products",
+          "id": "871f2b18-beff-480d-9401-f704d0ff7a2a",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/products/search?q=nutella&page=1&limit=24",
+            "description": "<p>Search packaged products in OpenFoodFacts database</p>\n",
+            "urlObject": {
+              "path": [
+                "products",
+                "search"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [
+                {
+                  "description": {
+                    "content": "<p>Search term</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "q",
+                  "value": "nutella"
+                },
+                {
+                  "description": {
+                    "content": "<p>Page number</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "page",
+                  "value": "1"
+                },
+                {
+                  "description": {
+                    "content": "<p>Results per page</p>\n",
+                    "type": "text/plain"
+                  },
+                  "key": "limit",
+                  "value": "24"
+                }
+              ],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "871f2b18-beff-480d-9401-f704d0ff7a2a"
+        },
+        {
+          "name": "Get Product by Barcode",
+          "id": "e80dd2b8-a9cd-4bdd-9f72-99aa42392ed2",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/products/barcode/3017620422003",
+            "description": "<p>Lookup a product by its barcode (EAN/UPC)</p>\n",
+            "urlObject": {
+              "path": [
+                "products",
+                "barcode",
+                "3017620422003"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "e80dd2b8-a9cd-4bdd-9f72-99aa42392ed2"
+        },
+        {
+          "name": "Get all product categories",
+          "id": "05b78fef-2fc1-433b-9e5e-0a5221f90602",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/products/categories",
+            "urlObject": {
+              "path": [
+                "products",
+                "categories"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "05b78fef-2fc1-433b-9e5e-0a5221f90602"
+        },
+        {
+          "name": "Get products by category",
+          "id": "b1eb7407-0a2a-4681-aaf0-78846748c247",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "https://nutriplan-api.vercel.app/api/products/category/snacks",
+            "urlObject": {
+              "path": [
+                "products",
+                "category",
+                "snacks"
+              ],
+              "host": [
+                "https://nutriplan-api.vercel.app/api"
+              ],
+              "query": [],
+              "variable": []
+            }
+          },
+          "response": [],
+          "_postman_id": "b1eb7407-0a2a-4681-aaf0-78846748c247"
+        }
+      ],
+      "id": "13f2301f-e35e-4887-8f3c-99d8a5999ec5",
+      "description": "<p>Packaged products from OpenFoodFacts</p>\n",
+      "_postman_id": "13f2301f-e35e-4887-8f3c-99d8a5999ec5"
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://nutriplan-api.vercel.app/api",
+      "type": "string"
+    },
+    {
+      "key": "usdaApiKey",
+      "value": "YOUR_USDA_API_KEY",
+      "type": "string"
+    }
+  ]
+}

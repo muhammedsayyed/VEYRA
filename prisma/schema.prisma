@@ -1,0 +1,141 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id                 String              @id @default(uuid())
+  firstName          String
+  lastName           String
+  email              String              @unique
+  passwordHash       String
+  wellnessGoal       String              @default("Lose Weight")
+  age                Int                 @default(28)
+  gender             String?
+  height             Float               @default(178)
+  weight             Float               @default(80)
+  targetWeight       Float               @default(75)
+  activityLevel      String              @default("moderate")
+  dietaryPreferences String[]            @default([])
+  allergens          String[]            @default([])
+  favoriteFoods      String[]            @default([])
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+
+  dailyNutritions    DailyNutrition[]
+  foodLogs           FoodLog[]
+  scanHistories      ScanHistory[]
+  workoutHistories   WorkoutHistory[]
+  aiConversations    AiConversation[]
+}
+
+model DailyNutrition {
+  id               String   @id @default(uuid())
+  userId           String
+  user             User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  date             String   // YYYY-MM-DD
+  calorieTarget    Float    @default(2100)
+  caloriesConsumed Float    @default(0)
+  proteinTarget    Float    @default(130)
+  proteinConsumed  Float    @default(0)
+  carbsTarget      Float    @default(240)
+  carbsConsumed    Float    @default(0)
+  fatTarget        Float    @default(70)
+  fatConsumed      Float    @default(0)
+  waterTarget      Float    @default(2.5)
+  waterConsumed    Float    @default(0)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@unique([userId, date])
+}
+
+model FoodLog {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  date           String   // YYYY-MM-DD
+  mealType       String   // breakfast, lunch, snack, dinner, drinks
+  productBarcode String?
+  productName    String
+  brand          String?
+  imageUrl       String?
+  servingSize    String?
+  grams          Float    @default(100)
+  servings       Float    @default(1)
+
+  // Verified Nutrition
+  calories       Float    @default(0)
+  protein        Float    @default(0)
+  carbs          Float    @default(0)
+  sugar          Float?
+  fat            Float    @default(0)
+  saturatedFat   Float?
+  fiber          Float?
+  sodium         Float?
+  salt           Float?
+
+  // Micronutrients
+  calcium        Float?
+  iron           Float?
+  magnesium      Float?
+  potassium      Float?
+  zinc           Float?
+  vitaminA       Float?
+  vitaminC       Float?
+  vitaminD       Float?
+  vitaminE       Float?
+  vitaminK       Float?
+  vitaminB1      Float?
+  vitaminB2      Float?
+  vitaminB6      Float?
+  vitaminB12     Float?
+  folate         Float?
+
+  createdAt      DateTime @default(now())
+}
+
+model ScanHistory {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  barcode     String
+  productName String
+  brand       String?
+  imageUrl    String?
+  scannedAt   DateTime @default(now())
+
+  @@index([userId, barcode])
+}
+
+model WorkoutHistory {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  workoutName    String
+  duration       Int      // in minutes
+  caloriesBurned Float?
+  completedAt    DateTime @default(now())
+}
+
+model AiConversation {
+  id        String      @id @default(uuid())
+  userId    String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+  messages  AiMessage[]
+}
+
+model AiMessage {
+  id             String         @id @default(uuid())
+  conversationId String
+  conversation   AiConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  role           String         // user or ai
+  content        String
+  createdAt      DateTime       @default(now())
+}
