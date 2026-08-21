@@ -11,6 +11,18 @@ export class LocalOllamaProvider implements IServerAIProvider {
   private model: string;
 
   constructor() {
+    const isVercelOrProd = Boolean(
+      process.env.VERCEL ||
+      process.env.VERCEL_ENV ||
+      process.env.NODE_ENV === 'production'
+    );
+
+    if (isVercelOrProd) {
+      throw new Error(
+        'SECURITY ERROR: LocalOllamaProvider cannot be instantiated in production or Vercel. Production AI requests must use CloudAIProvider.'
+      );
+    }
+
     this.baseUrl =
       process.env.VEYRA_AI_BASE_URL ||
       process.env.AI_BASE_URL ||

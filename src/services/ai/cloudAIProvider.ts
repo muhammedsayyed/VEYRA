@@ -13,22 +13,27 @@ export class CloudAIProvider implements IServerAIProvider {
   private model: string;
 
   constructor() {
+    const cleanEnv = (val: string | undefined): string => {
+      if (!val) return '';
+      return val.replace(/[\r\n"']/g, '').trim();
+    };
+
     this.baseUrl =
-      process.env.VEYRA_AI_CLOUD_BASE_URL ||
-      process.env.AI_GATEWAY_URL ||
-      process.env.OPENROUTER_BASE_URL ||
+      cleanEnv(process.env.VEYRA_AI_CLOUD_BASE_URL) ||
+      cleanEnv(process.env.AI_GATEWAY_URL) ||
+      cleanEnv(process.env.OPENROUTER_BASE_URL) ||
       'https://openrouter.ai/api/v1';
 
     this.apiKey =
-      process.env.VEYRA_AI_CLOUD_API_KEY ||
-      process.env.AI_GATEWAY_API_KEY ||
-      process.env.OPENROUTER_API_KEY ||
+      cleanEnv(process.env.VEYRA_AI_CLOUD_API_KEY) ||
+      cleanEnv(process.env.AI_GATEWAY_API_KEY) ||
+      cleanEnv(process.env.OPENROUTER_API_KEY) ||
       '';
 
     this.model =
-      process.env.VEYRA_AI_CLOUD_MODEL ||
-      process.env.AI_GATEWAY_MODEL ||
-      process.env.OPENROUTER_MODEL ||
+      cleanEnv(process.env.VEYRA_AI_CLOUD_MODEL) ||
+      cleanEnv(process.env.AI_GATEWAY_MODEL) ||
+      cleanEnv(process.env.OPENROUTER_MODEL) ||
       'openai/gpt-oss-20b:free';
   }
 
@@ -99,20 +104,26 @@ export class CloudAIProvider implements IServerAIProvider {
       }
 
       const data = await res.json();
-      const text = data?.choices?.[0]?.message?.content?.trim();
+      const rawContent = data?.choices?.[0]?.message?.content;
+      let text = '';
+      if (typeof rawContent === 'string') {
+        text = rawContent.trim();
+      } else if (Array.isArray(rawContent)) {
+        text = rawContent.map((item: any) => (typeof item === 'string' ? item : item?.text || '')).join('').trim();
+      }
 
       if (!text) {
         return {
           isUnavailable: true,
           error: 'Empty response returned from Cloud AI service.',
-          provider: `cloud/${this.model}`,
+          provider: `OpenRouter (${this.model})`,
         };
       }
 
       return {
         message: text,
         conversationId: `conv_cloud_${Date.now()}`,
-        provider: `cloud/${this.model}`,
+        provider: `OpenRouter (${this.model})`,
         usage: {
           promptTokens: data?.usage?.prompt_tokens,
           completionTokens: data?.usage?.completion_tokens,

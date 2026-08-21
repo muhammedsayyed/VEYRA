@@ -21,9 +21,28 @@ export interface IServerAIProvider {
   ): Promise<ServerAIResponse>;
 }
 
-export function buildSystemPrompt(context: VeyraUserContext): string {
-  const u = context.user;
-  const n = context.nutrition;
+export function buildSystemPrompt(context?: Partial<VeyraUserContext>): string {
+  const u = context?.user || {
+    firstName: 'Friend',
+    email: '',
+    goal: 'Maintain Weight & Wellness',
+    dietaryPreferences: [],
+    allergens: [],
+  };
+  const n = context?.nutrition || {
+    dailyCalories: 2000,
+    caloriesConsumed: 1200,
+    caloriesRemaining: 800,
+    dailyProtein: 140,
+    proteinConsumed: 80,
+    proteinRemaining: 60,
+    dailyCarbs: 200,
+    carbsRemaining: 100,
+    dailyFat: 65,
+    fatRemaining: 30,
+    waterLiters: 1.8,
+    waterTarget: 3.0,
+  };
 
   return `${VEYRA_SYSTEM_PROMPT}
 
@@ -37,9 +56,9 @@ VERIFIED LIVE USER CONTEXT:
 - Water Intake: ${n.waterLiters}L / ${n.waterTarget}L
 - Dietary Restrictions: ${u.dietaryPreferences?.length ? u.dietaryPreferences.join(', ') : 'None'}
 - Allergies: ${u.allergens?.length ? u.allergens.join(', ') : 'None'}
-- Logged Meals Today: ${JSON.stringify(context.recentMeals)}
-- Currently Scanned Product: ${context.scannedProduct ? JSON.stringify(context.scannedProduct) : 'None'}
-- Active Workout: ${context.activeWorkout ? JSON.stringify(context.activeWorkout) : 'None'}
+- Logged Meals Today: ${JSON.stringify(context?.recentMeals || [])}
+- Currently Scanned Product: ${context?.scannedProduct ? JSON.stringify(context.scannedProduct) : 'None'}
+- Active Workout: ${context?.activeWorkout ? JSON.stringify(context.activeWorkout) : 'None'}
 
 RESPONSE DIRECTIVES:
 1. Greet ${u.firstName} naturally.

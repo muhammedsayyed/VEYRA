@@ -8,7 +8,9 @@ import { VeyraAIResponse } from './aiProvider';
  */
 export class OpenSourceAIProvider {
   name = 'Veyra Open-Source AI Provider';
-  private endpoint = '/api/ai/chat';
+  private endpoint =
+    (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_VEYRA_AI_ENDPOINT) ||
+    '/api/ai/chat';
 
   async queryAI(
     message: string,
@@ -44,8 +46,8 @@ export class OpenSourceAIProvider {
 
         if (data.isUnavailable) {
           return {
-            text: 'AI service is currently unavailable. Please verify that Ollama or your open-source LLM server is running.',
-            provider: 'veyra-backend (unavailable)',
+            text: data.error || 'AI service is currently unavailable. Please check your cloud AI configuration.',
+            provider: data.provider || 'veyra-backend (unavailable)',
             timestamp,
             isUnavailable: true,
           };
@@ -54,7 +56,7 @@ export class OpenSourceAIProvider {
         if (data.message || data.text) {
           return {
             text: data.message || data.text,
-            provider: data.provider || 'qwen2.5:3b (via Veyra Backend)',
+            provider: data.provider || 'OpenRouter (via Veyra Backend)',
             timestamp,
             conversationId: data.conversationId,
             isUnavailable: false,
@@ -65,8 +67,8 @@ export class OpenSourceAIProvider {
       if (response.status === 503 || response.status === 500) {
         const errData = await response.json().catch(() => ({}));
         return {
-          text: errData.error || 'AI service unavailable. Open-source LLM model server is offline.',
-          provider: 'veyra-backend (503)',
+          text: errData.error || errData.content || 'AI service unavailable. Cloud AI model service error.',
+          provider: errData.provider || 'veyra-backend (error)',
           timestamp,
           isUnavailable: true,
         };
@@ -76,7 +78,7 @@ export class OpenSourceAIProvider {
     }
 
     return {
-      text: 'AI service unavailable. Could not reach Veyra backend or open-source model server.',
+      text: 'AI service unavailable. Could not reach Veyra backend AI endpoint.',
       provider: 'veyra-backend (network error)',
       timestamp,
       isUnavailable: true,
