@@ -41,9 +41,9 @@ export class OpenSourceAIProvider {
         }),
       });
 
-      if (response.ok) {
-        const data = await response.json();
+      const data = await response.json().catch(() => null);
 
+      if (response.ok && data) {
         if (data.isUnavailable) {
           return {
             text: data.error || 'AI service is currently unavailable. Please check your cloud AI configuration.',
@@ -64,11 +64,10 @@ export class OpenSourceAIProvider {
         }
       }
 
-      if (response.status === 503 || response.status === 500) {
-        const errData = await response.json().catch(() => ({}));
+      if (data) {
         return {
-          text: errData.error || errData.content || 'AI service unavailable. Cloud AI model service error.',
-          provider: errData.provider || 'veyra-backend (error)',
+          text: data.error || data.content || data.message || `AI service unavailable (HTTP ${response.status}).`,
+          provider: data.provider || 'veyra-backend (service error)',
           timestamp,
           isUnavailable: true,
         };

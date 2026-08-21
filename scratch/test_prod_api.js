@@ -1,7 +1,6 @@
-async function test() {
-  const url = 'https://veyra-wellness-ai.vercel.app/api/ai/chat';
+async function test(url) {
   try {
-    console.log('Testing LIVE Production URL:', url);
+    console.log('Testing URL:', url);
     const res = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -10,10 +9,14 @@ async function test() {
       })
     });
     console.log('Status:', res.status, res.statusText);
-    const data = await res.json();
-    console.log('Response JSON:', JSON.stringify(data, null, 2));
+    const text = await res.text();
+    console.log('Response Text:', text);
   } catch (e) {
     console.error('Fetch error:', e);
   }
 }
-test();
+async function run() {
+  await test('https://veyra-theta-five.vercel.app/api/ai/chat');
+  await test('https://veyra-wellness-ai.vercel.app/api/ai/chat');
+}
+run();

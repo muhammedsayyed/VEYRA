@@ -11,6 +11,7 @@ export interface ServerAIResponse {
     promptTokens?: number;
     completionTokens?: number;
   };
+  latencyMs?: number;
 }
 
 export interface IServerAIProvider {
