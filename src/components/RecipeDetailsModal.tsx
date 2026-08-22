@@ -113,12 +113,27 @@ export default function RecipeDetailsModal({ recipe, onClose }: RecipeDetailsMod
     ? (reviews.reduce((sum, r) => sum + r.rating, 0) / reviews.length).toFixed(1)
     : null
 
-  // Extract YouTube Embed URL
+  // Extract & Validate YouTube Embed URL for Cooking Videos
   const getEmbedYoutubeUrl = (url?: string) => {
-    if (!url) return null
-    if (url.includes("embed/")) return url
-    const match = url.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|v\/|embed\/))([a-zA-Z0-9_-]{11})/)
-    return match ? `https://www.youtube.com/embed/${match[1]}` : null
+    if (!url || typeof url !== "string") return null
+    const clean = url.trim()
+    if (!clean) return null
+
+    // Reject known dummy/music video IDs like Rick Astley (dQw4w9WgXcQ)
+    if (clean.includes("dQw4w9WgXcQ")) return null
+
+    if (clean.includes("embed/")) {
+      const parts = clean.split("embed/")
+      const id = parts[1]?.substring(0, 11)
+      return id && id.length === 11 && id !== "dQw4w9WgXcQ" ? `https://www.youtube.com/embed/${id}` : null
+    }
+
+    const match = clean.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|v\/|embed\/))([a-zA-Z0-9_-]{11})/)
+    const videoId = match ? match[1] : null
+
+    if (!videoId || videoId.length !== 11 || videoId === "dQw4w9WgXcQ") return null
+
+    return `https://www.youtube.com/embed/${videoId}`
   }
 
   const embedUrl = getEmbedYoutubeUrl(recipe.youtubeUrl)
@@ -221,8 +236,8 @@ export default function RecipeDetailsModal({ recipe, onClose }: RecipeDetailsMod
           </div>
         </div>
 
-        {/* YouTube Embedded Video */}
-        {embedUrl && (
+        {/* YouTube Embedded Video or Fallback */}
+        {embedUrl ? (
           <div className="space-y-2">
             <h3 className="text-sm font-bold text-[#172A35] font-display flex items-center gap-1.5">
               <PlayIcon size={16} className="text-[#EF4444]" />
@@ -237,6 +252,11 @@ export default function RecipeDetailsModal({ recipe, onClose }: RecipeDetailsMod
                 allowFullScreen
               />
             </div>
+          </div>
+        ) : (
+          <div className="bg-[#F7F5EF] p-4 rounded-xl border text-center text-xs font-semibold text-[#6B7280] flex items-center justify-center gap-2" style={{ borderColor: "#E6E0D5" }}>
+            <PlayIcon size={16} className="text-[#9CA3AF]" />
+            <span>Cooking video unavailable</span>
           </div>
         )}
 

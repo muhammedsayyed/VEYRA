@@ -34,7 +34,7 @@ export class CloudAIProvider implements IServerAIProvider {
       cleanEnv(process.env.VEYRA_AI_CLOUD_MODEL) ||
       cleanEnv(process.env.AI_GATEWAY_MODEL) ||
       cleanEnv(process.env.OPENROUTER_MODEL) ||
-      'google/gemini-2.0-flash-lite-preview-02-05:free';
+      'nvidia/nemotron-3.5-lightning:free';
   }
 
   async generateChatResponse(
@@ -68,13 +68,15 @@ export class CloudAIProvider implements IServerAIProvider {
     const candidateModels = Array.from(
       new Set([
         this.model,
-        'google/gemini-2.0-flash-lite-preview-02-05:free',
-        'meta-llama/llama-3.3-70b-instruct:free',
-        'qwen/qwen-2.5-coder-32b-instruct:free',
-        'deepseek/deepseek-r1:free',
-        'openai/gpt-oss-20b:free',
+        'nvidia/nemotron-3.5-lightning:free',
+        'google/gemma-4-31b-it:free',
+        'google/gemma-4-26b-a4b-it:free',
+        'liquid/lfm-2.5-2.6b:free',
+        'z-ai/glm-5.2:free',
+        'dots-studio/dots-3-note-preview:free',
       ])
     );
+
 
     let lastError = 'Cloud AI model service error.';
 

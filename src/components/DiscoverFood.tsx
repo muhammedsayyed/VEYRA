@@ -35,7 +35,7 @@ const AUTHENTIC_RECIPES: FoodItem[] = [
     currency: "EGP",
     country: "Egypt",
     timeToPrepareMin: 35,
-    youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    youtubeUrl: "https://www.youtube.com/watch?v=0kF6l4eMskY",
     img: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop&auto=format",
   },
   {
@@ -74,7 +74,7 @@ const AUTHENTIC_RECIPES: FoodItem[] = [
     currency: "EUR",
     country: "Italy",
     timeToPrepareMin: 18,
-    youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    youtubeUrl: "https://www.youtube.com/watch?v=sH4aZfH2vP8",
     img: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
   },
   {

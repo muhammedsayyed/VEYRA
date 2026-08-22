@@ -409,7 +409,7 @@ export default function Pantry() {
                   restaurantPrice: 14.0,
                   currency: "USD",
                   country: "Italy",
-                  youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                  youtubeUrl: "https://www.youtube.com/watch?v=sH4aZfH2vP8",
                   img: "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&h=300&fit=crop&auto=format",
                 },
                 {
