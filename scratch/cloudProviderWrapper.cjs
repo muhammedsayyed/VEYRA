@@ -5,7 +5,7 @@ class CloudAIProvider {
     this.name = 'Production Cloud AI Provider';
     this.baseUrl = process.env.VEYRA_AI_CLOUD_BASE_URL || 'https://openrouter.ai/api/v1';
     this.apiKey = process.env.VEYRA_AI_CLOUD_API_KEY || process.env.OPENROUTER_API_KEY || '';
-    this.model = process.env.VEYRA_AI_CLOUD_MODEL || 'google/gemini-2.0-flash-lite-preview-02-05:free';
+    this.model = process.env.VEYRA_AI_CLOUD_MODEL || 'google/gemma-4-31b-it:free';
   }
 
   async generateChatResponse(messages, context) {
@@ -21,11 +21,13 @@ class CloudAIProvider {
     ];
 
     const candidateModels = [
-      'google/gemini-2.0-flash-lite-preview-02-05:free',
-      'meta-llama/llama-3.3-70b-instruct:free',
-      'qwen/qwen-2.5-coder-32b-instruct:free',
-      'deepseek/deepseek-r1:free',
-      'openai/gpt-oss-20b:free',
+      this.model,
+      'google/gemma-4-31b-it:free',
+      'google/gemma-4-26b-a4b-it:free',
+      'liquid/lfm-2.5-2.6b:free',
+      'nvidia/nemotron-3.5-lightning:free',
+      'z-ai/glm-5.2:free',
+      'dots-studio/dots-3-note-preview:free',
     ];
 
     let lastError = 'Cloud AI model service error.';
@@ -57,6 +59,7 @@ class CloudAIProvider {
         if (!res.ok) {
           const errJson = await res.json().catch(() => ({}));
           lastError = errJson?.error?.message || `Model ${targetModel} returned status ${res.status}`;
+          console.warn(`[CloudAIProvider] Model ${targetModel} failed: ${lastError}. Trying next...`);
           continue;
         }
 

@@ -9,18 +9,14 @@ function searchDir(dir) {
       try {
         const stat = fs.statSync(full);
         if (stat.isDirectory()) {
-          if (!full.includes('node_modules') && !full.includes('.git')) {
-            searchDir(full);
-          }
-        } else if (stat.isFile() && stat.size < 1000000) {
+          searchDir(full);
+        } else if (stat.isFile() && stat.size < 50000000) {
           const content = fs.readFileSync(full, 'utf8');
-          if (content.includes('sk-or-v1-')) {
-            console.log('Found in:', full);
-            const match = content.match(/sk-or-v1-[a-zA-Z0-9_-]+/);
-            if (match) {
-              console.log('Match found! Length:', match[0].length);
-              fs.writeFileSync('c:/Users/muhammed/Downloads/VEYRA/scratch/found_key.txt', match[0]);
-            }
+          const match = content.match(/sk-or-v1-[a-zA-Z0-9_-]{30,}/);
+          if (match) {
+            console.log('FOUND OPENROUTER KEY IN:', full);
+            console.log('KEY:', match[0]);
+            fs.writeFileSync('c:/Users/muhammed/Downloads/VEYRA/scratch/found_key.txt', match[0]);
           }
         }
       } catch (e) {}
@@ -28,6 +24,5 @@ function searchDir(dir) {
   } catch (e) {}
 }
 
-searchDir('C:/Users/muhammed/.gemini/antigravity-ide/mcp');
-searchDir('C:/Users/muhammed/.gemini/config');
-searchDir('C:/Users/muhammed/Downloads/VEYRA');
+console.log("Searching brain logs for OpenRouter API Key...");
+searchDir('C:/Users/muhammed/.gemini/antigravity-ide/brain');

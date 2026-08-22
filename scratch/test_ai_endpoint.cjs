@@ -1,8 +1,9 @@
+process.env.VEYRA_AI_CLOUD_API_KEY = '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';
 const { CloudAIProvider } = require('./cloudProviderWrapper.cjs');
 
 // Test Cloud AI Provider with real user context
 async function testAI() {
-  console.log("--- TESTING OPENROUTER CLOUD AI ---");
+  console.log("--- TESTING OPENROUTER CLOUD AI WITH REAL KEY ---");
   const provider = new CloudAIProvider();
   
   const testContext = {
@@ -51,7 +52,7 @@ async function testAI() {
   };
 
   const messages = [
-    { role: "user", content: "What should I eat tonight to hit my remaining 40g protein target using my pantry items?" }
+    { role: "user", content: "Give me a high protein breakfast under 500 calories." }
   ];
 
   console.log("Sending query to OpenRouter...");
