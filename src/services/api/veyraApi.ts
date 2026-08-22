@@ -379,11 +379,22 @@ export class VeyraApiClient {
         exercises: [],
       }));
     }
+    
     return [];
   }
 
   static async addWorkout(w: WorkoutRoutine): Promise<boolean> {
     const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/workouts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ workoutName: w.name, duration: w.durationMin, caloriesBurned: w.caloriesBurned }),
+      });
+      const data = await res.json();
+      return data.success;
+    }
     const res = await VeyraApiRouter.addWorkout(userId, {
       workoutName: w.name,
       duration: w.durationMin,
@@ -391,4 +402,363 @@ export class VeyraApiClient {
     });
     return res.success;
   }
+
+  // Water API
+  static async updateWater(waterConsumed: number, date?: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    const d = date || new Date().toISOString().split('T')[0];
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/water?date=${d}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ waterConsumed }),
+      });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.updateWater(userId, d, waterConsumed);
+    return res.success;
+  }
+
+  // Pantry APIs
+  static async getPantry(): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/pantry', { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getPantryItems(userId);
+    return res.success ? res.data : [];
+  }
+
+  static async addPantryItem(item: { name: string; quantity: number; unit: string; expirationDate?: string }): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/pantry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify(item),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.addPantryItem(userId, item);
+    return res.success ? res.data : null;
+  }
+
+  static async updatePantryItem(id: string, updates: any): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/pantry?id=${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify(updates),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.updatePantryItem(userId, id, updates);
+    return res.success ? res.data : null;
+  }
+
+  static async deletePantryItem(id: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/pantry?id=${id}`, { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.deletePantryItem(userId, id);
+    return res.success;
+  }
+
+  // Shopping List APIs
+  static async getShoppingList(): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/shopping-list', { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getShoppingList(userId);
+    return res.success ? res.data : [];
+  }
+
+  static async addShoppingListItem(item: { name: string; quantity: number; unit: string; recipeId?: string }): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/shopping-list', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify(item),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.addShoppingListItem(userId, item);
+    return res.success ? res.data : null;
+  }
+
+  static async addBatchShoppingList(items: Array<{ name: string; quantity: number; unit: string; recipeId?: string }>): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/shopping-list', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ items }),
+      });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.addBatchShoppingList(userId, items);
+    return res.success ? res.data : [];
+  }
+
+  static async updateShoppingListItem(id: string, updates: any): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/shopping-list?id=${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify(updates),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.updateShoppingListItem(userId, id, updates);
+    return res.success ? res.data : null;
+  }
+
+  static async deleteShoppingListItem(id: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/shopping-list?id=${id}`, { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.deleteShoppingListItem(userId, id);
+    return res.success;
+  }
+
+  static async clearPurchasedShoppingList(): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/shopping-list?action=clear-purchased', { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.clearPurchasedShoppingList(userId);
+    return res.success;
+  }
+
+  static async clearEntireShoppingList(): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/shopping-list?action=clear-all', { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.clearEntireShoppingList(userId);
+    return res.success;
+  }
+
+  // Meal Plan APIs
+  static async getMealPlan(weekStartDate: string): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/meal-plan?week=${weekStartDate}`, { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.getMealPlan(userId, weekStartDate);
+    return res.success ? res.data : null;
+  }
+
+  static async saveMealPlan(weekStartDate: string, mealsJson: any): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    const str = typeof mealsJson === 'string' ? mealsJson : JSON.stringify(mealsJson);
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/meal-plan?week=${weekStartDate}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ mealsJson: str }),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.saveMealPlan(userId, weekStartDate, str);
+    return res.success ? res.data : null;
+  }
+
+  static async generateMealPlan(weekStartDate: string): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/meal-plan?week=${weekStartDate}&action=generate`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    return null;
+  }
+
+  // Weight History APIs
+  static async getWeightHistory(): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/weight-history', { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getWeightHistory(userId);
+    return res.success ? res.data : [];
+  }
+
+  static async addWeightEntry(weight: number, date?: string): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/weight-history', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ weight, date }),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.addWeightEntry(userId, weight, date);
+    return res.success ? res.data : null;
+  }
+
+  // Favorites APIs
+  static async getFavorites(): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/favorites', { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getFavorites(userId);
+    return res.success ? res.data : [];
+  }
+
+  static async addFavorite(recipe: { recipeId: string; recipeTitle: string; recipeImage?: string; recipeCategory?: string; recipeCountry?: string }): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/favorites', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify(recipe),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.addFavorite(userId, recipe);
+    return res.success ? res.data : null;
+  }
+
+  static async removeFavorite(recipeId: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/favorites?recipeId=${recipeId}`, { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.removeFavorite(userId, recipeId);
+    return res.success;
+  }
+
+  // Recipe Reviews APIs
+  static async getRecipeReviews(recipeId: string): Promise<any[]> {
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/reviews?recipeId=${recipeId}`);
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getRecipeReviews(recipeId);
+    return res.success ? res.data : [];
+  }
+
+  static async addRecipeReview(recipeId: string, rating: number, text: string): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/reviews', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ recipeId, rating, text }),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.addRecipeReview(userId, recipeId, rating, text);
+    return res.success ? res.data : null;
+  }
+
+  static async updateRecipeReview(id: string, rating: number, text: string): Promise<any> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/reviews?id=${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ rating, text }),
+      });
+      const data = await res.json();
+      return data.success ? data.data : null;
+    }
+    const res = await VeyraApiRouter.updateRecipeReview(userId, id, rating, text);
+    return res.success ? res.data : null;
+  }
+
+  static async deleteRecipeReview(id: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/reviews?id=${id}`, { method: 'DELETE', credentials: 'include' });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.deleteRecipeReview(userId, id);
+    return res.success;
+  }
+
+  // Notifications APIs
+  static async getNotifications(): Promise<any[]> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch('/api/notifications', { credentials: 'include' });
+      const data = await res.json();
+      return data.success ? data.data : [];
+    }
+    const res = await VeyraApiRouter.getNotifications(userId);
+    return res.success ? res.data : [];
+  }
+
+  static async markNotificationAsRead(id: string): Promise<boolean> {
+    const userId = VeyraApiClient.getActiveUserId();
+    if (typeof window !== 'undefined') {
+      const res = await fetch(`/api/notifications?id=${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ isRead: true }),
+      });
+      const data = await res.json();
+      return data.success;
+    }
+    const res = await VeyraApiRouter.markNotificationAsRead(userId, id);
+    return res.success;
+  }
 }
+

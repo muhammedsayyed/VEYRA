@@ -25,6 +25,9 @@ export type Screen =
   | "coach"
   | "ai"
   | "profile"
+  | "pantry"
+  | "shopping"
+  | "planner"
 
 export interface UserProfile {
   name: string
@@ -116,7 +119,7 @@ export interface FoodItem {
   brand?: string
   genericName?: string
   cuisine?: string
-  category: "Breakfast" | "Lunch" | "Dinner" | "Snack" | "Main Meals" | "Desserts" | "Drinks" | "Vegan" | "Vegetarian"
+  category: "Breakfast" | "Lunch" | "Dinner" | "Snack" | "Main Meals" | "Desserts" | "Drinks" | "Vegan" | "Vegetarian" | "Popular" | "Traditional" | "Street Food" | "Healthy" | "High Protein" | "Budget Friendly" | "Easy Recipes"
   calories: number
   protein: number
   carbs: number
@@ -147,6 +150,77 @@ export interface FoodItem {
   micronutrients?: ProductMicronutrients
   robotoffInsights?: RobotoffInsight[]
   product?: Product
+
+  // Extended Pricing & Video Metadata
+  homePrepCost?: number
+  restaurantPrice?: number
+  currency?: string // e.g. EGP, USD, JPY, EUR, GBP
+  country?: string
+  youtubeUrl?: string
+}
+
+export interface PantryItem {
+  id: string
+  name: string
+  quantity: number
+  unit: string
+  addedDate: string
+  expirationDate?: string
+  isUsed: boolean
+}
+
+export interface ShoppingListItem {
+  id: string
+  name: string
+  quantity: number
+  unit: string
+  isPurchased: boolean
+  recipeId?: string
+}
+
+export interface MealPlanSlot {
+  mealType: "Breakfast" | "Lunch" | "Dinner" | "Snack"
+  recipeTitle: string
+  recipeId?: string
+  calories: number
+  protein: number
+  carbs: number
+  fat: number
+  prepTimeMin?: number
+  country?: string
+}
+
+export interface WeeklyMealPlan {
+  id?: string
+  weekStartDate: string // YYYY-MM-DD
+  days: Record<string, MealPlanSlot[]>
+}
+
+export interface WeightRecord {
+  id: string
+  weight: number
+  date: string
+  createdAt?: string
+}
+
+export interface RecipeReview {
+  id: string
+  userId: string
+  userName?: string
+  recipeId: string
+  rating: number
+  text: string
+  createdAt: string
+  updatedAt: string
+}
+
+export interface SmartNotification {
+  id: string
+  title: string
+  message: string
+  category: "meal_logging" | "protein" | "water" | "pantry_expiring" | "meal_plan" | "weight" | "workout"
+  isRead: boolean
+  createdAt: string
 }
 
 export interface LoggedMealEntry {
@@ -221,3 +295,4 @@ export interface ToastAlert {
   type?: "success" | "info" | "warning"
   icon?: string
 }
+

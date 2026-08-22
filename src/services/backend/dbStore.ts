@@ -101,6 +101,80 @@ export interface DbWorkoutHistory {
   createdAt: string;
 }
 
+export interface DbPantryItem {
+  id: string;
+  userId: string;
+  name: string;
+  quantity: number;
+  unit: string;
+  addedDate: string;
+  expirationDate?: string;
+  isUsed: boolean;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface DbShoppingListItem {
+  id: string;
+  userId: string;
+  name: string;
+  quantity: number;
+  unit: string;
+  isPurchased: boolean;
+  recipeId?: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface DbMealPlan {
+  id: string;
+  userId: string;
+  weekStartDate: string;
+  mealsJson: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface DbWeightHistory {
+  id: string;
+  userId: string;
+  weight: number;
+  date: string;
+  createdAt: string;
+}
+
+export interface DbFavoriteRecipe {
+  id: string;
+  userId: string;
+  recipeId: string;
+  recipeTitle: string;
+  recipeImage?: string;
+  recipeCategory?: string;
+  recipeCountry?: string;
+  createdAt: string;
+}
+
+export interface DbRecipeReview {
+  id: string;
+  userId: string;
+  userName?: string;
+  recipeId: string;
+  rating: number;
+  text: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface DbNotification {
+  id: string;
+  userId: string;
+  title: string;
+  message: string;
+  category: string;
+  isRead: boolean;
+  createdAt: string;
+}
+
 // Stateless Neon HTTP Query Executor for Vercel Edge & Serverless Functions
 async function neonQuery(sqlQuery: string, params: any[] = []): Promise<any[] | null> {
   if (typeof process === 'undefined' || !process.env.DATABASE_URL) {
@@ -117,6 +191,14 @@ export class DbStore {
   private foodLogs: Map<string, DbFoodLog> = new Map();
   private scanHistories: Map<string, DbScanHistory> = new Map();
   private workoutHistories: Map<string, DbWorkoutHistory> = new Map();
+  private pantryItems: Map<string, DbPantryItem> = new Map();
+  private shoppingListItems: Map<string, DbShoppingListItem> = new Map();
+  private mealPlans: Map<string, DbMealPlan> = new Map();
+  private weightHistories: Map<string, DbWeightHistory> = new Map();
+  private favoriteRecipes: Map<string, DbFavoriteRecipe> = new Map();
+  private recipeReviews: Map<string, DbRecipeReview> = new Map();
+  private notifications: Map<string, DbNotification> = new Map();
+
 
   private safeDateIso(val: any): string {
     if (!val) return new Date().toISOString();
@@ -741,6 +823,681 @@ export class DbStore {
     this.workoutHistories.set(id, workout);
     return workout;
   }
+
+  // Water Operations
+  async updateWater(userId: string, date: string, waterConsumed: number): Promise<DbDailyNutrition> {
+    if (process.env.DATABASE_URL) {
+      await neonQuery(
+        `INSERT INTO "DailyNutrition" ("id", "userId", "date", "waterConsumed", "waterTarget", "createdAt", "updatedAt")
+         VALUES ($1, $2, $3, $4, 2.5, NOW(), NOW())
+         ON CONFLICT ("userId", "date") DO UPDATE SET "waterConsumed" = EXCLUDED."waterConsumed", "updatedAt" = NOW()`,
+        [`dn_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`, userId, date, waterConsumed]
+      );
+      return this.getDailyNutrition(userId, date);
+    }
+
+    const daily = await this.getDailyNutrition(userId, date);
+    daily.waterConsumed = waterConsumed;
+    daily.updatedAt = new Date().toISOString();
+    return daily;
+  }
+
+  // Pantry Operations
+  async getPantryItems(userId: string): Promise<DbPantryItem[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "PantryItem" WHERE "userId" = $1 ORDER BY "addedDate" DESC',
+        [userId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        name: r.name,
+        quantity: r.quantity,
+        unit: r.unit,
+        addedDate: this.safeDateIso(r.addedDate),
+        expirationDate: r.expirationDate ? this.safeDateIso(r.expirationDate) : undefined,
+        isUsed: Boolean(r.isUsed),
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      }));
+    }
+
+    return Array.from(this.pantryItems.values())
+      .filter((p) => p.userId === userId)
+      .sort((a, b) => new Date(b.addedDate).getTime() - new Date(a.addedDate).getTime());
+  }
+
+  async addPantryItem(userId: string, data: { name: string; quantity: number; unit: string; expirationDate?: string }): Promise<DbPantryItem> {
+    if (process.env.DATABASE_URL) {
+      const id = `pantry_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const now = new Date();
+      const exp = data.expirationDate ? new Date(data.expirationDate) : null;
+
+      const rows = await neonQuery(
+        `INSERT INTO "PantryItem" ("id", "userId", "name", "quantity", "unit", "addedDate", "expirationDate", "isUsed", "createdAt", "updatedAt")
+         VALUES ($1, $2, $3, $4, $5, $6, $7, false, $6, $6)
+         RETURNING *`,
+        [id, userId, data.name, data.quantity || 1, data.unit || 'pcs', now, exp]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        name: r.name || data.name,
+        quantity: r.quantity || data.quantity || 1,
+        unit: r.unit || data.unit || 'pcs',
+        addedDate: this.safeDateIso(r.addedDate),
+        expirationDate: r.expirationDate ? this.safeDateIso(r.expirationDate) : undefined,
+        isUsed: Boolean(r.isUsed),
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const id = `pantry_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const item: DbPantryItem = {
+      id,
+      userId,
+      name: data.name,
+      quantity: data.quantity || 1,
+      unit: data.unit || 'pcs',
+      addedDate: now,
+      expirationDate: data.expirationDate,
+      isUsed: false,
+      createdAt: now,
+      updatedAt: now,
+    };
+    this.pantryItems.set(id, item);
+    return item;
+  }
+
+  async updatePantryItem(userId: string, itemId: string, updates: Partial<DbPantryItem>): Promise<DbPantryItem> {
+    if (process.env.DATABASE_URL) {
+      const exp = updates.expirationDate ? new Date(updates.expirationDate) : null;
+      const rows = await neonQuery(
+        `UPDATE "PantryItem" SET
+          "name" = COALESCE($1, "name"),
+          "quantity" = COALESCE($2, "quantity"),
+          "unit" = COALESCE($3, "unit"),
+          "expirationDate" = COALESCE($4, "expirationDate"),
+          "isUsed" = COALESCE($5, "isUsed"),
+          "updatedAt" = NOW()
+         WHERE "id" = $6 AND "userId" = $7
+         RETURNING *`,
+        [updates.name || null, updates.quantity ?? null, updates.unit || null, exp, updates.isUsed ?? null, itemId, userId]
+      );
+      if (!rows || rows.length === 0) throw new Error('Pantry item not found');
+      const r = rows[0];
+      return {
+        id: r.id,
+        userId: r.userId,
+        name: r.name,
+        quantity: r.quantity,
+        unit: r.unit,
+        addedDate: this.safeDateIso(r.addedDate),
+        expirationDate: r.expirationDate ? this.safeDateIso(r.expirationDate) : undefined,
+        isUsed: Boolean(r.isUsed),
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const existing = this.pantryItems.get(itemId);
+    if (!existing || existing.userId !== userId) throw new Error('Pantry item not found');
+    const updated: DbPantryItem = { ...existing, ...updates, updatedAt: new Date().toISOString() };
+    this.pantryItems.set(itemId, updated);
+    return updated;
+  }
+
+  async deletePantryItem(userId: string, itemId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      const res = await neonQuery('DELETE FROM "PantryItem" WHERE "id" = $1 AND "userId" = $2 RETURNING id', [itemId, userId]);
+      return Boolean(res && res.length > 0);
+    }
+    const existing = this.pantryItems.get(itemId);
+    if (existing && existing.userId === userId) {
+      this.pantryItems.delete(itemId);
+      return true;
+    }
+    return false;
+  }
+
+  // Shopping List Operations
+  async getShoppingList(userId: string): Promise<DbShoppingListItem[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "ShoppingListItem" WHERE "userId" = $1 ORDER BY "createdAt" DESC',
+        [userId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        name: r.name,
+        quantity: r.quantity,
+        unit: r.unit,
+        isPurchased: Boolean(r.isPurchased),
+        recipeId: r.recipeId || undefined,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      }));
+    }
+
+    return Array.from(this.shoppingListItems.values())
+      .filter((s) => s.userId === userId)
+      .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  }
+
+  async addShoppingListItem(userId: string, data: { name: string; quantity: number; unit: string; recipeId?: string }): Promise<DbShoppingListItem> {
+    if (process.env.DATABASE_URL) {
+      const id = `shop_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const now = new Date();
+      const rows = await neonQuery(
+        `INSERT INTO "ShoppingListItem" ("id", "userId", "name", "quantity", "unit", "isPurchased", "recipeId", "createdAt", "updatedAt")
+         VALUES ($1, $2, $3, $4, $5, false, $6, $7, $7)
+         RETURNING *`,
+        [id, userId, data.name, data.quantity || 1, data.unit || 'pcs', data.recipeId || null, now]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        name: r.name || data.name,
+        quantity: r.quantity || data.quantity || 1,
+        unit: r.unit || data.unit || 'pcs',
+        isPurchased: Boolean(r.isPurchased),
+        recipeId: r.recipeId || data.recipeId || undefined,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const id = `shop_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const item: DbShoppingListItem = {
+      id,
+      userId,
+      name: data.name,
+      quantity: data.quantity || 1,
+      unit: data.unit || 'pcs',
+      isPurchased: false,
+      recipeId: data.recipeId,
+      createdAt: now,
+      updatedAt: now,
+    };
+    this.shoppingListItems.set(id, item);
+    return item;
+  }
+
+  async addBatchShoppingList(userId: string, items: Array<{ name: string; quantity: number; unit: string; recipeId?: string }>): Promise<DbShoppingListItem[]> {
+    const results: DbShoppingListItem[] = [];
+    for (const item of items) {
+      const added = await this.addShoppingListItem(userId, item);
+      results.push(added);
+    }
+    return results;
+  }
+
+  async updateShoppingListItem(userId: string, itemId: string, updates: Partial<DbShoppingListItem>): Promise<DbShoppingListItem> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        `UPDATE "ShoppingListItem" SET
+          "name" = COALESCE($1, "name"),
+          "quantity" = COALESCE($2, "quantity"),
+          "unit" = COALESCE($3, "unit"),
+          "isPurchased" = COALESCE($4, "isPurchased"),
+          "updatedAt" = NOW()
+         WHERE "id" = $5 AND "userId" = $6
+         RETURNING *`,
+        [updates.name || null, updates.quantity ?? null, updates.unit || null, updates.isPurchased ?? null, itemId, userId]
+      );
+      if (!rows || rows.length === 0) throw new Error('Shopping item not found');
+      const r = rows[0];
+      return {
+        id: r.id,
+        userId: r.userId,
+        name: r.name,
+        quantity: r.quantity,
+        unit: r.unit,
+        isPurchased: Boolean(r.isPurchased),
+        recipeId: r.recipeId || undefined,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const existing = this.shoppingListItems.get(itemId);
+    if (!existing || existing.userId !== userId) throw new Error('Shopping item not found');
+    const updated: DbShoppingListItem = { ...existing, ...updates, updatedAt: new Date().toISOString() };
+    this.shoppingListItems.set(itemId, updated);
+    return updated;
+  }
+
+  async deleteShoppingListItem(userId: string, itemId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      const res = await neonQuery('DELETE FROM "ShoppingListItem" WHERE "id" = $1 AND "userId" = $2 RETURNING id', [itemId, userId]);
+      return Boolean(res && res.length > 0);
+    }
+    const existing = this.shoppingListItems.get(itemId);
+    if (existing && existing.userId === userId) {
+      this.shoppingListItems.delete(itemId);
+      return true;
+    }
+    return false;
+  }
+
+  async clearPurchasedShoppingList(userId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      await neonQuery('DELETE FROM "ShoppingListItem" WHERE "userId" = $1 AND "isPurchased" = true', [userId]);
+      return true;
+    }
+    for (const [id, item] of this.shoppingListItems.entries()) {
+      if (item.userId === userId && item.isPurchased) {
+        this.shoppingListItems.delete(id);
+      }
+    }
+    return true;
+  }
+
+  async clearEntireShoppingList(userId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      await neonQuery('DELETE FROM "ShoppingListItem" WHERE "userId" = $1', [userId]);
+      return true;
+    }
+    for (const [id, item] of this.shoppingListItems.entries()) {
+      if (item.userId === userId) {
+        this.shoppingListItems.delete(id);
+      }
+    }
+    return true;
+  }
+
+  // Meal Plan Operations
+  async getMealPlan(userId: string, weekStartDate: string): Promise<DbMealPlan | null> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "MealPlan" WHERE "userId" = $1 AND "weekStartDate" = $2',
+        [userId, weekStartDate]
+      );
+      if (!rows || rows.length === 0) return null;
+      const r = rows[0];
+      return {
+        id: r.id,
+        userId: r.userId,
+        weekStartDate: r.weekStartDate,
+        mealsJson: r.mealsJson,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const key = `${userId}_${weekStartDate}`;
+    return this.mealPlans.get(key) || null;
+  }
+
+  async saveMealPlan(userId: string, weekStartDate: string, mealsJson: string): Promise<DbMealPlan> {
+    if (process.env.DATABASE_URL) {
+      const id = `mp_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const rows = await neonQuery(
+        `INSERT INTO "MealPlan" ("id", "userId", "weekStartDate", "mealsJson", "createdAt", "updatedAt")
+         VALUES ($1, $2, $3, $4, NOW(), NOW())
+         ON CONFLICT ("userId", "weekStartDate") DO UPDATE SET "mealsJson" = EXCLUDED."mealsJson", "updatedAt" = NOW()
+         RETURNING *`,
+        [id, userId, weekStartDate, mealsJson]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        weekStartDate: r.weekStartDate || weekStartDate,
+        mealsJson: r.mealsJson || mealsJson,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const key = `${userId}_${weekStartDate}`;
+    const id = `mp_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const plan: DbMealPlan = {
+      id,
+      userId,
+      weekStartDate,
+      mealsJson,
+      createdAt: now,
+      updatedAt: now,
+    };
+    this.mealPlans.set(key, plan);
+    return plan;
+  }
+
+  // Weight History Operations
+  async getWeightHistory(userId: string): Promise<DbWeightHistory[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "WeightHistory" WHERE "userId" = $1 ORDER BY "date" ASC',
+        [userId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        weight: r.weight,
+        date: r.date,
+        createdAt: this.safeDateIso(r.createdAt),
+      }));
+    }
+
+    return Array.from(this.weightHistories.values())
+      .filter((w) => w.userId === userId)
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  }
+
+  async addWeightEntry(userId: string, weight: number, date?: string): Promise<DbWeightHistory> {
+    const entryDate = date || new Date().toISOString().split('T')[0];
+    if (process.env.DATABASE_URL) {
+      const id = `weight_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const rows = await neonQuery(
+        `INSERT INTO "WeightHistory" ("id", "userId", "weight", "date", "createdAt")
+         VALUES ($1, $2, $3, $4, NOW())
+         RETURNING *`,
+        [id, userId, weight, entryDate]
+      );
+
+      // Update current user weight
+      await neonQuery('UPDATE "User" SET "weight" = $1, "updatedAt" = NOW() WHERE "id" = $2', [weight, userId]);
+
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        weight: r.weight || weight,
+        date: r.date || entryDate,
+        createdAt: this.safeDateIso(r.createdAt),
+      };
+    }
+
+    const id = `weight_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const entry: DbWeightHistory = {
+      id,
+      userId,
+      weight,
+      date: entryDate,
+      createdAt: now,
+    };
+    this.weightHistories.set(id, entry);
+    const u = this.users.get(userId);
+    if (u) u.weight = weight;
+    return entry;
+  }
+
+  // Favorites Operations
+  async getFavorites(userId: string): Promise<DbFavoriteRecipe[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "FavoriteRecipe" WHERE "userId" = $1 ORDER BY "createdAt" DESC',
+        [userId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        recipeId: r.recipeId,
+        recipeTitle: r.recipeTitle,
+        recipeImage: r.recipeImage || undefined,
+        recipeCategory: r.recipeCategory || undefined,
+        recipeCountry: r.recipeCountry || undefined,
+        createdAt: this.safeDateIso(r.createdAt),
+      }));
+    }
+
+    return Array.from(this.favoriteRecipes.values())
+      .filter((f) => f.userId === userId)
+      .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  }
+
+  async addFavorite(userId: string, recipe: { recipeId: string; recipeTitle: string; recipeImage?: string; recipeCategory?: string; recipeCountry?: string }): Promise<DbFavoriteRecipe> {
+    if (process.env.DATABASE_URL) {
+      const id = `fav_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const rows = await neonQuery(
+        `INSERT INTO "FavoriteRecipe" ("id", "userId", "recipeId", "recipeTitle", "recipeImage", "recipeCategory", "recipeCountry", "createdAt")
+         VALUES ($1, $2, $3, $4, $5, $6, $7, NOW())
+         ON CONFLICT ("userId", "recipeId") DO UPDATE SET "recipeTitle" = EXCLUDED."recipeTitle"
+         RETURNING *`,
+        [id, userId, recipe.recipeId, recipe.recipeTitle, recipe.recipeImage || null, recipe.recipeCategory || null, recipe.recipeCountry || null]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        recipeId: r.recipeId || recipe.recipeId,
+        recipeTitle: r.recipeTitle || recipe.recipeTitle,
+        recipeImage: r.recipeImage || recipe.recipeImage || undefined,
+        recipeCategory: r.recipeCategory || recipe.recipeCategory || undefined,
+        recipeCountry: r.recipeCountry || recipe.recipeCountry || undefined,
+        createdAt: this.safeDateIso(r.createdAt),
+      };
+    }
+
+    const key = `${userId}_${recipe.recipeId}`;
+    const id = `fav_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const fav: DbFavoriteRecipe = {
+      id,
+      userId,
+      recipeId: recipe.recipeId,
+      recipeTitle: recipe.recipeTitle,
+      recipeImage: recipe.recipeImage,
+      recipeCategory: recipe.recipeCategory,
+      recipeCountry: recipe.recipeCountry,
+      createdAt: new Date().toISOString(),
+    };
+    this.favoriteRecipes.set(key, fav);
+    return fav;
+  }
+
+  async removeFavorite(userId: string, recipeId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      const res = await neonQuery('DELETE FROM "FavoriteRecipe" WHERE "userId" = $1 AND "recipeId" = $2 RETURNING id', [userId, recipeId]);
+      return Boolean(res && res.length > 0);
+    }
+    const key = `${userId}_${recipeId}`;
+    if (this.favoriteRecipes.has(key)) {
+      this.favoriteRecipes.delete(key);
+      return true;
+    }
+    return false;
+  }
+
+  // Recipe Reviews Operations
+  async getRecipeReviews(recipeId: string): Promise<DbRecipeReview[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        `SELECT r.*, concat(u."firstName", ' ', u."lastName") as "userName"
+         FROM "RecipeReview" r
+         LEFT JOIN "User" u ON r."userId" = u."id"
+         WHERE r."recipeId" = $1
+         ORDER BY r."createdAt" DESC`,
+        [recipeId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        userName: r.userName ? r.userName.trim() : 'Anonymous Member',
+        recipeId: r.recipeId,
+        rating: r.rating,
+        text: r.text,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      }));
+    }
+
+    return Array.from(this.recipeReviews.values())
+      .filter((r) => r.recipeId === recipeId)
+      .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  }
+
+  async addRecipeReview(userId: string, recipeId: string, rating: number, text: string): Promise<DbRecipeReview> {
+    const user = await this.getUserById(userId);
+    const userName = user ? `${user.firstName} ${user.lastName}`.trim() : 'Member';
+
+    if (process.env.DATABASE_URL) {
+      const id = `rev_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const rows = await neonQuery(
+        `INSERT INTO "RecipeReview" ("id", "userId", "recipeId", "rating", "text", "createdAt", "updatedAt")
+         VALUES ($1, $2, $3, $4, $5, NOW(), NOW())
+         RETURNING *`,
+        [id, userId, recipeId, rating, text]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        userName,
+        recipeId: r.recipeId || recipeId,
+        rating: r.rating || rating,
+        text: r.text || text,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const id = `rev_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const rev: DbRecipeReview = {
+      id,
+      userId,
+      userName,
+      recipeId,
+      rating,
+      text,
+      createdAt: now,
+      updatedAt: now,
+    };
+    this.recipeReviews.set(id, rev);
+    return rev;
+  }
+
+  async updateRecipeReview(userId: string, reviewId: string, rating: number, text: string): Promise<DbRecipeReview> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        `UPDATE "RecipeReview" SET "rating" = $1, "text" = $2, "updatedAt" = NOW()
+         WHERE "id" = $3 AND "userId" = $4
+         RETURNING *`,
+        [rating, text, reviewId, userId]
+      );
+      if (!rows || rows.length === 0) throw new Error('Review not found or unauthorized');
+      const r = rows[0];
+      const user = await this.getUserById(userId);
+      return {
+        id: r.id,
+        userId: r.userId,
+        userName: user ? `${user.firstName} ${user.lastName}`.trim() : 'Member',
+        recipeId: r.recipeId,
+        rating: r.rating,
+        text: r.text,
+        createdAt: this.safeDateIso(r.createdAt),
+        updatedAt: this.safeDateIso(r.updatedAt),
+      };
+    }
+
+    const existing = this.recipeReviews.get(reviewId);
+    if (!existing || existing.userId !== userId) throw new Error('Review not found or unauthorized');
+    const updated: DbRecipeReview = { ...existing, rating, text, updatedAt: new Date().toISOString() };
+    this.recipeReviews.set(reviewId, updated);
+    return updated;
+  }
+
+  async deleteRecipeReview(userId: string, reviewId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      const res = await neonQuery('DELETE FROM "RecipeReview" WHERE "id" = $1 AND "userId" = $2 RETURNING id', [reviewId, userId]);
+      return Boolean(res && res.length > 0);
+    }
+    const existing = this.recipeReviews.get(reviewId);
+    if (existing && existing.userId === userId) {
+      this.recipeReviews.delete(reviewId);
+      return true;
+    }
+    return false;
+  }
+
+  // Smart Notifications Operations
+  async getNotifications(userId: string): Promise<DbNotification[]> {
+    if (process.env.DATABASE_URL) {
+      const rows = await neonQuery(
+        'SELECT * FROM "Notification" WHERE "userId" = $1 ORDER BY "createdAt" DESC LIMIT 50',
+        [userId]
+      );
+      if (!rows) return [];
+      return rows.map((r: any) => ({
+        id: r.id,
+        userId: r.userId,
+        title: r.title,
+        message: r.message,
+        category: r.category,
+        isRead: Boolean(r.isRead),
+        createdAt: this.safeDateIso(r.createdAt),
+      }));
+    }
+
+    return Array.from(this.notifications.values())
+      .filter((n) => n.userId === userId)
+      .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  }
+
+  async addNotification(userId: string, data: { title: string; message: string; category: string }): Promise<DbNotification> {
+    if (process.env.DATABASE_URL) {
+      const id = `notif_${Date.now()}_${Math.random().toString(36).substring(2, 8)}`;
+      const rows = await neonQuery(
+        `INSERT INTO "Notification" ("id", "userId", "title", "message", "category", "isRead", "createdAt")
+         VALUES ($1, $2, $3, $4, $5, false, NOW())
+         RETURNING *`,
+        [id, userId, data.title, data.message, data.category]
+      );
+      const r = (rows && rows[0]) || {};
+      return {
+        id: r.id || id,
+        userId: r.userId || userId,
+        title: r.title || data.title,
+        message: r.message || data.message,
+        category: r.category || data.category,
+        isRead: Boolean(r.isRead),
+        createdAt: this.safeDateIso(r.createdAt),
+      };
+    }
+
+    const id = `notif_${Date.now()}_${Math.random().toString(36).substring(2, 6)}`;
+    const now = new Date().toISOString();
+    const notif: DbNotification = {
+      id,
+      userId,
+      title: data.title,
+      message: data.message,
+      category: data.category,
+      isRead: false,
+      createdAt: now,
+    };
+    this.notifications.set(id, notif);
+    return notif;
+  }
+
+  async markNotificationAsRead(userId: string, notificationId: string): Promise<boolean> {
+    if (process.env.DATABASE_URL) {
+      const res = await neonQuery('UPDATE "Notification" SET "isRead" = true WHERE "id" = $1 AND "userId" = $2 RETURNING id', [notificationId, userId]);
+      return Boolean(res && res.length > 0);
+    }
+    const n = this.notifications.get(notificationId);
+    if (n && n.userId === userId) {
+      n.isRead = true;
+      return true;
+    }
+    return false;
+  }
 }
 
 export const dbStore = new DbStore();
+

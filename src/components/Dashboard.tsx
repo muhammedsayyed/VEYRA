@@ -427,7 +427,7 @@ export default function Dashboard({ setScreen }: { setScreen: (s: Screen) => voi
           <div className="glass rounded-2xl p-4">
             <div className="flex items-center justify-between mb-3">
               <h3 className="font-display font-700 text-sm text-[#172A35]">Fitness Summary</h3>
-              <button onClick={() => setScreen("fitness")} className="text-xs" style={{ color: "#C18A5A" }}>
+              <button onClick={() => setScreen("fitness")} className="text-xs font-bold" style={{ color: "#C18A5A" }}>
                 View
               </button>
             </div>
@@ -449,8 +449,56 @@ export default function Dashboard({ setScreen }: { setScreen: (s: Screen) => voi
               ))}
             </div>
           </div>
+
+          {/* Smart Pantry & Shopping List Widget */}
+          <div className="grid grid-cols-2 gap-3">
+            <div
+              onClick={() => setScreen("pantry")}
+              className="glass rounded-2xl p-4 cursor-pointer card-hover flex flex-col justify-between"
+            >
+              <div>
+                <span className="label-mono" style={{ fontSize: 9, color: "#C18A5A" }}>PANTRY</span>
+                <div className="font-display font-800 text-xl text-[#172A35] mt-1">Smart Pantry</div>
+              </div>
+              <div className="text-xs text-[#6B7280] mt-3 font-semibold flex items-center justify-between">
+                <span>View items</span>
+                <ChevronRightIcon size={12} />
+              </div>
+            </div>
+
+            <div
+              onClick={() => setScreen("shopping")}
+              className="glass rounded-2xl p-4 cursor-pointer card-hover flex flex-col justify-between"
+            >
+              <div>
+                <span className="label-mono" style={{ fontSize: 9, color: "#315A63" }}>GROCERIES</span>
+                <div className="font-display font-800 text-xl text-[#172A35] mt-1">Shopping List</div>
+              </div>
+              <div className="text-xs text-[#6B7280] mt-3 font-semibold flex items-center justify-between">
+                <span>View list</span>
+                <ChevronRightIcon size={12} />
+              </div>
+            </div>
+          </div>
+
+          {/* Weekly Meal Planner Widget */}
+          <div
+            onClick={() => setScreen("planner")}
+            className="glass rounded-2xl p-4 cursor-pointer card-hover border flex items-center justify-between"
+            style={{ borderColor: "#E6E0D5" }}
+          >
+            <div>
+              <span className="label-mono" style={{ fontSize: 9, color: "#172A35" }}>MEAL PLANNER</span>
+              <div className="font-display font-800 text-sm text-[#172A35]">Weekly Meal Menu</div>
+              <div className="text-xs text-[#6B7280]">AI-planned nutrition grid</div>
+            </div>
+            <button className="btn-primary text-xs px-3 py-1.5 font-bold">
+              Plan <ChevronRightIcon size={12} />
+            </button>
+          </div>
         </div>
       </div>
     </div>
   )
 }
+

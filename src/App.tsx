@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import veyraLogo from "@/imports/image.png"
 import {
   HomeIcon,
@@ -9,6 +9,9 @@ import {
   BrainIcon,
   SparklesIcon,
   UserIcon,
+  BellIcon,
+  ShoppingCartIcon,
+  CalendarIcon,
 } from "@/components/icons"
 import Dashboard from "@/components/Dashboard"
 import DiscoverFood from "@/components/DiscoverFood"
@@ -18,6 +21,10 @@ import FitnessCoach from "@/components/FitnessCoach"
 import SmartCoach from "@/components/SmartCoach"
 import AIAssistant from "@/components/AIAssistant"
 import Profile from "@/components/Profile"
+import Pantry from "@/components/Pantry"
+import ShoppingList from "@/components/ShoppingList"
+import MealPlanner from "@/components/MealPlanner"
+import NotificationCenter from "@/components/NotificationCenter"
 import Onboarding from "@/components/onboarding/Onboarding"
 import AuthPage from "@/components/auth/AuthPage"
 import { AppProvider, useApp } from "@/context/AppContext"
@@ -28,6 +35,9 @@ import { Screen } from "@/types"
 const navItems: { id: Screen; label: string; icon: (active: boolean) => React.ReactElement }[] = [
   { id: "dashboard", label: "Overview", icon: (a) => <HomeIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
   { id: "discover", label: "Discover", icon: (a) => <CompassIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
+  { id: "pantry", label: "Smart Pantry", icon: (a) => <SparklesIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
+  { id: "shopping", label: "Shopping List", icon: (a) => <ShoppingCartIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
+  { id: "planner", label: "Meal Planner", icon: (a) => <CalendarIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
   { id: "scanner", label: "Scanner", icon: (a) => <CameraIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
   { id: "log", label: "Food Log", icon: (a) => <BookIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
   { id: "fitness", label: "Fitness", icon: (a) => <DumbbellIcon size={18} className={a ? "text-[#C18A5A]" : ""} /> },
@@ -39,8 +49,8 @@ const navItems: { id: Screen; label: string; icon: (active: boolean) => React.Re
 const mobileNav: { id: Screen; label: string; icon: (a: boolean) => React.ReactElement }[] = [
   { id: "dashboard", label: "Home", icon: (a) => <HomeIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
   { id: "discover", label: "Discover", icon: (a) => <CompassIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
-  { id: "scanner", label: "Scan", icon: (a) => <CameraIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
-  { id: "log", label: "Log", icon: (a) => <BookIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
+  { id: "pantry", label: "Pantry", icon: (a) => <SparklesIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
+  { id: "planner", label: "Plan", icon: (a) => <CalendarIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
   { id: "ai", label: "AI", icon: (a) => <SparklesIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
   { id: "profile", label: "Profile", icon: (a) => <UserIcon size={20} className={a ? "text-[#C18A5A]" : "text-[#6B7280]"} /> },
 ]
@@ -52,6 +62,12 @@ function ScreenContent() {
       return <Dashboard setScreen={setScreen} />
     case "discover":
       return <DiscoverFood />
+    case "pantry":
+      return <Pantry />
+    case "shopping":
+      return <ShoppingList />
+    case "planner":
+      return <MealPlanner />
     case "scanner":
       return <FoodScanner />
     case "log":
@@ -69,6 +85,7 @@ function ScreenContent() {
 
 function MainLayout() {
   const { screen, setScreen, user } = useApp()
+  const [showNotifications, setShowNotifications] = useState(false)
 
   return (
     <div className="app-bg flex h-full overflow-hidden relative">
@@ -80,18 +97,29 @@ function MainLayout() {
         className="hidden md:flex flex-col w-60 shrink-0 h-full border-r relative z-20"
         style={{ borderColor: "#E6E0D5", background: "#F1EEE6" }}
       >
-        {/* Logo */}
-        <div className="flex items-center gap-3 px-5 py-6 border-b" style={{ borderColor: "#E6E0D5" }}>
-          <div
-            className="w-9 h-9 rounded-xl overflow-hidden flex items-center justify-center shrink-0"
-            style={{ background: "#FFFFFF", border: "1px solid #E6E0D5" }}
+        {/* Logo & Notifications */}
+        <div className="flex items-center justify-between px-5 py-6 border-b" style={{ borderColor: "#E6E0D5" }}>
+          <div className="flex items-center gap-3">
+            <div
+              className="w-9 h-9 rounded-xl overflow-hidden flex items-center justify-center shrink-0"
+              style={{ background: "#FFFFFF", border: "1px solid #E6E0D5" }}
+            >
+              <img src={veyraLogo} alt="Veyra" className="w-6 h-6 object-contain" />
+            </div>
+            <div>
+              <div className="font-display font-800 text-base text-[#172A35] leading-tight">Veyra</div>
+              <div className="text-xs font-semibold" style={{ color: "#C18A5A" }}>Wellness AI</div>
+            </div>
+          </div>
+
+          <button
+            onClick={() => setShowNotifications(true)}
+            className="p-2 rounded-xl border bg-[#FFFFFF] text-[#172A35] hover:border-[#C18A5A] transition-all relative"
+            style={{ borderColor: "#E6E0D5" }}
           >
-            <img src={veyraLogo} alt="Veyra" className="w-6 h-6 object-contain" />
-          </div>
-          <div>
-            <div className="font-display font-800 text-base text-[#172A35] leading-tight">Veyra</div>
-            <div className="text-xs font-semibold" style={{ color: "#C18A5A" }}>Wellness AI</div>
-          </div>
+            <BellIcon size={16} />
+            <span className="absolute top-1 right-1 w-2 h-2 rounded-full bg-[#C18A5A]" />
+          </button>
         </div>
 
         {/* Nav items */}
@@ -145,6 +173,9 @@ function MainLayout() {
         <ScreenContent />
       </main>
 
+      {/* ── Notification Drawer ───────────────────────────── */}
+      {showNotifications && <NotificationCenter onClose={() => setShowNotifications(false)} />}
+
       {/* ── Mobile bottom nav ──────────────────────────────── */}
       <nav
         className="md:hidden fixed bottom-0 left-0 right-0 flex items-center justify-around px-1 py-1.5 z-50 pb-[calc(0.5rem+env(safe-area-inset-bottom))]"
@@ -173,6 +204,9 @@ function MainLayout() {
     </div>
   )
 }
+
+
+
 
 function RootGate() {
   const { onboardingCompleted, isAuthenticated } = useApp()

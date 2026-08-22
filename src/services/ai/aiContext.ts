@@ -1,4 +1,4 @@
-import { UserProfile, LoggedMealEntry, FoodItem, WorkoutRoutine } from '../../types'
+import { UserProfile, LoggedMealEntry, FoodItem, WorkoutRoutine, PantryItem, ShoppingListItem, WeightRecord } from '../../types'
 
 export interface VeyraUserContext {
   user: {
@@ -33,6 +33,11 @@ export interface VeyraUserContext {
   recentMeals: Array<{ name: string; calories: number; protein: number; time: string }>
   scannedProduct?: { name: string; brand?: string; calories: number; protein: number; nutriScore?: string } | null
   activeWorkout?: { name: string; category: string; durationMin: number; caloriesBurned: number } | null
+  pantryItems?: Array<{ name: string; quantity: number; unit: string; expirationDate?: string }>
+  shoppingList?: Array<{ name: string; quantity: number; unit: string; isPurchased: boolean }>
+  weightHistory?: Array<{ weight: number; date: string }>
+  workoutHistory?: Array<{ name: string; durationMin: number; caloriesBurned: number; completedAt: string }>
+  favoritesCount?: number
 }
 
 export function buildVeyraUserContext(
@@ -40,7 +45,11 @@ export function buildVeyraUserContext(
   meals: LoggedMealEntry[],
   waterLiters: number,
   scannedProduct?: FoodItem | null,
-  activeWorkout?: WorkoutRoutine | null
+  activeWorkout?: WorkoutRoutine | null,
+  pantryItems?: PantryItem[],
+  shoppingList?: ShoppingListItem[],
+  weightHistory?: WeightRecord[],
+  workoutsCount?: number
 ): VeyraUserContext {
   const caloriesConsumed = meals.reduce((sum, m) => sum + m.calories, 0)
   const proteinConsumed = meals.reduce((sum, m) => sum + m.protein, 0)
@@ -102,5 +111,9 @@ export function buildVeyraUserContext(
           caloriesBurned: activeWorkout.caloriesBurned,
         }
       : null,
+    pantryItems: pantryItems ? pantryItems.filter((p) => !p.isUsed).map((p) => ({ name: p.name, quantity: p.quantity, unit: p.unit, expirationDate: p.expirationDate })) : [],
+    shoppingList: shoppingList ? shoppingList.map((s) => ({ name: s.name, quantity: s.quantity, unit: s.unit, isPurchased: s.isPurchased })) : [],
+    weightHistory: weightHistory ? weightHistory.slice(-5).map((w) => ({ weight: w.weight, date: w.date })) : [],
   }
 }
+

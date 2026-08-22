@@ -9,7 +9,12 @@ import {
   VeyMood,
   ToastAlert,
   ProductComparison,
+  PantryItem,
+  ShoppingListItem,
+  WeeklyMealPlan,
+  WeightRecord,
 } from "@/types"
+
 import { searchProducts, getProductByBarcode, ApiProduct } from "@/services/api/productService"
 import { filterMeals, searchMeals, ApiMeal } from "@/services/api/mealService"
 import {
@@ -215,6 +220,28 @@ interface AppContextType {
   favorites: Set<string | number>
   toggleFavorite: (id: string | number) => void
 
+  // New Persistent Features
+  pantryItems: PantryItem[]
+  addPantryItem: (item: { name: string; quantity: number; unit: string; expirationDate?: string }) => Promise<void>
+  updatePantryItem: (id: string, updates: Partial<PantryItem>) => Promise<void>
+  deletePantryItem: (id: string) => Promise<void>
+
+  shoppingList: ShoppingListItem[]
+  addShoppingListItem: (item: { name: string; quantity: number; unit: string; recipeId?: string }) => Promise<void>
+  addBatchShoppingList: (items: Array<{ name: string; quantity: number; unit: string; recipeId?: string }>) => Promise<void>
+  updateShoppingListItem: (id: string, updates: Partial<ShoppingListItem>) => Promise<void>
+  deleteShoppingListItem: (id: string) => Promise<void>
+  clearPurchasedShoppingList: () => Promise<void>
+  clearEntireShoppingList: () => Promise<void>
+
+  mealPlan: WeeklyMealPlan | null
+  getMealPlanApi: (weekStartDate: string) => Promise<any>
+  saveMealPlanApi: (weekStartDate: string, plan: any) => Promise<any>
+  generateMealPlanApi: (weekStartDate: string) => Promise<any>
+
+  weightHistory: WeightRecord[]
+  addWeightEntry: (weight: number, date?: string) => Promise<void>
+
   scannedProduct: FoodItem | null
   setScannedProduct: (item: FoodItem | null) => void
   comparison: ProductComparison
@@ -245,6 +272,7 @@ interface AppContextType {
   selectedFoodForModal: FoodItem | null
   setSelectedFoodForModal: (food: FoodItem | null) => void
 }
+
 
 const initialUser: UserProfile = {
   name: "Veyra Member",
@@ -371,6 +399,11 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [waterLiters, setWaterLiters] = useState<number>(1.8)
   const [favorites, setFavorites] = useState<Set<string | number>>(new Set(["prod-3", 1, 2]))
 
+  const [pantryItems, setPantryItems] = useState<PantryItem[]>([])
+  const [shoppingList, setShoppingList] = useState<ShoppingListItem[]>([])
+  const [mealPlan, setMealPlan] = useState<WeeklyMealPlan | null>(null)
+  const [weightHistory, setWeightHistory] = useState<WeightRecord[]>([])
+
   const [scannedProduct, setScannedProduct] = useState<FoodItem | null>(null)
   const [comparison, setComparison] = useState<ProductComparison>({ productA: null, productB: null })
 
@@ -383,6 +416,20 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [toasts, setToasts] = useState<ToastAlert[]>([])
 
   const [selectedFoodForModal, setSelectedFoodForModal] = useState<FoodItem | null>(null)
+
+  // Sync Cloud Database state on mount & login
+  useEffect(() => {
+    if (isAuthenticated) {
+      VeyraApiClient.getPantry().then((data) => { if (Array.isArray(data)) setPantryItems(data) }).catch(() => {})
+      VeyraApiClient.getShoppingList().then((data) => { if (Array.isArray(data)) setShoppingList(data) }).catch(() => {})
+      VeyraApiClient.getWeightHistory().then((data) => { if (Array.isArray(data)) setWeightHistory(data) }).catch(() => {})
+      VeyraApiClient.getFavorites().then((favs) => {
+        if (Array.isArray(favs)) {
+          setFavorites(new Set(favs.map((f: any) => f.recipeId)))
+        }
+      }).catch(() => {})
+    }
+  }, [isAuthenticated])
 
   const completeOnboarding = () => {
     setOnboardingCompleted(true)
@@ -408,8 +455,14 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
           if (logs && logs.length > 0) {
             setMeals(logs);
           }
+          const pData = await VeyraApiClient.getPantry();
+          if (Array.isArray(pData)) setPantryItems(pData);
+          const sData = await VeyraApiClient.getShoppingList();
+          if (Array.isArray(sData)) setShoppingList(sData);
+          const wData = await VeyraApiClient.getWeightHistory();
+          if (Array.isArray(wData)) setWeightHistory(wData);
         } catch (e) {
-          // ignore error fetching initial food log
+          // ignore fetching initial log
         }
 
         addToast(`Welcome back, ${res.user.name.split(' ')[0]}!`, "success");
@@ -467,6 +520,90 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     saveMealLogsToStorage(meals);
   }, [meals]);
 
+  // Persistent Domain Handlers
+  const addPantryItem = async (item: { name: string; quantity: number; unit: string; expirationDate?: string }) => {
+    const res = await VeyraApiClient.addPantryItem(item);
+    if (res) {
+      setPantryItems((prev) => [res, ...prev]);
+    }
+  }
+
+  const updatePantryItem = async (id: string, updates: Partial<PantryItem>) => {
+    const res = await VeyraApiClient.updatePantryItem(id, updates);
+    if (res) {
+      setPantryItems((prev) => prev.map((p) => (p.id === id ? res : p)));
+    }
+  }
+
+  const deletePantryItem = async (id: string) => {
+    const ok = await VeyraApiClient.deletePantryItem(id);
+    if (ok) {
+      setPantryItems((prev) => prev.filter((p) => p.id !== id));
+    }
+  }
+
+  const addShoppingListItem = async (item: { name: string; quantity: number; unit: string; recipeId?: string }) => {
+    const res = await VeyraApiClient.addShoppingListItem(item);
+    if (res) {
+      setShoppingList((prev) => [res, ...prev]);
+    }
+  }
+
+  const addBatchShoppingList = async (items: Array<{ name: string; quantity: number; unit: string; recipeId?: string }>) => {
+    const res = await VeyraApiClient.addBatchShoppingList(items);
+    if (Array.isArray(res)) {
+      setShoppingList((prev) => [...res, ...prev]);
+    }
+  }
+
+  const updateShoppingListItem = async (id: string, updates: Partial<ShoppingListItem>) => {
+    const res = await VeyraApiClient.updateShoppingListItem(id, updates);
+    if (res) {
+      setShoppingList((prev) => prev.map((s) => (s.id === id ? res : s)));
+    }
+  }
+
+  const deleteShoppingListItem = async (id: string) => {
+    const ok = await VeyraApiClient.deleteShoppingListItem(id);
+    if (ok) {
+      setShoppingList((prev) => prev.filter((s) => s.id !== id));
+    }
+  }
+
+  const clearPurchasedShoppingList = async () => {
+    const ok = await VeyraApiClient.clearPurchasedShoppingList();
+    if (ok) {
+      setShoppingList((prev) => prev.filter((s) => !s.isPurchased));
+    }
+  }
+
+  const clearEntireShoppingList = async () => {
+    const ok = await VeyraApiClient.clearEntireShoppingList();
+    if (ok) {
+      setShoppingList([]);
+    }
+  }
+
+  const getMealPlanApi = async (weekStartDate: string) => {
+    return await VeyraApiClient.getMealPlan(weekStartDate);
+  }
+
+  const saveMealPlanApi = async (weekStartDate: string, plan: any) => {
+    return await VeyraApiClient.saveMealPlan(weekStartDate, plan);
+  }
+
+  const generateMealPlanApi = async (weekStartDate: string) => {
+    return await VeyraApiClient.generateMealPlan(weekStartDate);
+  }
+
+  const addWeightEntry = async (weight: number, date?: string) => {
+    const res = await VeyraApiClient.addWeightEntry(weight, date);
+    if (res) {
+      setWeightHistory((prev) => [...prev, res]);
+      setUser((prev) => ({ ...prev, weightKg: weight }));
+    }
+  }
+
   // Reactive mascot moods
   useEffect(() => {
     const totalProtein = meals.reduce((sum, m) => sum + m.protein, 0);
@@ -495,7 +632,6 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       const apiProd = await getProductByBarcode(barcode);
       if (apiProd) {
         const item = mapApiProductToFoodItem(apiProd);
-        // Persist scan to backend scan history
         VeyraApiClient.addScan(item.barcode || barcode, item).catch(() => {});
         addToast(`Verified product: ${item.name}`, "success");
         return item;
@@ -593,6 +729,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const addWater = (amountL: number) => {
     const next = Math.min(Math.round((waterLiters + amountL) * 100) / 100, user.dailyWater + 1)
     setWaterLiters(next)
+    VeyraApiClient.updateWater(next).catch(() => {})
     addToast(`Logged +${Math.round(amountL * 1000)}ml water`, "success")
 
     if (next >= user.dailyWater && waterLiters < user.dailyWater) {
@@ -602,17 +739,21 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const resetWater = () => {
     setWaterLiters(0)
+    VeyraApiClient.updateWater(0).catch(() => {})
     addToast("Water count reset to 0L", "info")
   }
 
   const toggleFavorite = (id: string | number) => {
+    const idStr = String(id)
     setFavorites((prev) => {
       const next = new Set(prev)
-      if (next.has(id)) {
-        next.delete(id)
+      if (next.has(idStr)) {
+        next.delete(idStr)
+        VeyraApiClient.removeFavorite(idStr).catch(() => {})
         addToast("Removed from favorites", "info")
       } else {
-        next.add(id)
+        next.add(idStr)
+        VeyraApiClient.addFavorite({ recipeId: idStr, recipeTitle: `Recipe ${idStr}` }).catch(() => {})
         addToast("Saved to favorites", "success")
       }
       return next
@@ -622,6 +763,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const completeWorkout = (w: WorkoutRoutine) => {
     setCompletedWorkoutsCount((c) => c + 1)
     setActiveWorkout(null)
+    VeyraApiClient.addWorkout(w).catch(() => {})
     triggerCelebration(`Workout completed! +${w.caloriesBurned} kcal burned 🔥`)
   }
 
@@ -660,7 +802,16 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
     try {
       const history = chatMessages.map((m) => ({ role: m.role, text: m.text }))
-      const context = buildVeyraUserContext(user, meals, waterLiters, scannedProduct, activeWorkout)
+      const context = buildVeyraUserContext(
+        user,
+        meals,
+        waterLiters,
+        scannedProduct,
+        activeWorkout,
+        pantryItems,
+        shoppingList,
+        weightHistory
+      )
       
       const aiRes = await VeyraAIService.queryAI(text.trim(), context, history)
       
@@ -722,6 +873,23 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         resetWater,
         favorites,
         toggleFavorite,
+        pantryItems,
+        addPantryItem,
+        updatePantryItem,
+        deletePantryItem,
+        shoppingList,
+        addShoppingListItem,
+        addBatchShoppingList,
+        updateShoppingListItem,
+        deleteShoppingListItem,
+        clearPurchasedShoppingList,
+        clearEntireShoppingList,
+        mealPlan,
+        getMealPlanApi,
+        saveMealPlanApi,
+        generateMealPlanApi,
+        weightHistory,
+        addWeightEntry,
         scannedProduct,
         setScannedProduct,
         comparison,
@@ -756,3 +924,4 @@ export function useApp() {
   if (!ctx) throw new Error("useApp must be used within AppProvider")
   return ctx
 }
+

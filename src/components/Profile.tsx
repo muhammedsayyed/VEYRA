@@ -5,7 +5,10 @@ import { useApp } from "@/context/AppContext"
 import Modal from "@/components/Modal"
 import { UserProfile } from "@/types"
 
+import WeightHistory from "@/components/WeightHistory"
+
 const tabs = ["Overview", "Goals", "Nutrition", "Settings"]
+
 
 function Ring({ value, max, color, label, center, sub }: { value: number; max: number; color: string; label: string; center: string; sub?: string }) {
   const pct = Math.min(1, value / max)
@@ -156,37 +159,43 @@ export default function Profile() {
 
       {/* Overview Tab */}
       {activeTab === "Overview" && (
-        <div className="grid lg:grid-cols-3 gap-4 animate-fade-in">
-          <div className="lg:col-span-2 glass rounded-2xl p-6">
-            <div className="label-mono mb-4 text-[#6B7280]">Body Metrics</div>
-            <div className="flex flex-wrap items-center justify-between gap-6">
-              <Ring value={user.weightKg} max={120} color="#172A35" label="Current kg" center={`${user.weightKg}`} />
-              <Ring value={user.targetWeightKg} max={120} color="#315A63" label="Target kg" center={`${user.targetWeightKg}`} />
-              <Ring value={user.heightCm} max={220} color="#C18A5A" label="Height cm" center={`${user.heightCm}`} />
-              <div className="flex flex-col gap-3">
-                <div>
-                  <div className="label-mono text-[10px] text-[#6B7280]">AGE</div>
-                  <div className="font-display font-800 text-[#172A35] text-xl">{user.age} yrs</div>
-                </div>
-                <div>
-                  <div className="label-mono text-[10px] text-[#6B7280]">GOAL</div>
-                  <div className="font-display font-800 text-[#C18A5A] text-sm">{user.goal}</div>
+        <div className="space-y-6 animate-fade-in">
+          <div className="grid lg:grid-cols-3 gap-4">
+            <div className="lg:col-span-2 glass rounded-2xl p-6">
+              <div className="label-mono mb-4 text-[#6B7280]">Body Metrics</div>
+              <div className="flex flex-wrap items-center justify-between gap-6">
+                <Ring value={user.weightKg} max={120} color="#172A35" label="Current kg" center={`${user.weightKg}`} />
+                <Ring value={user.targetWeightKg} max={120} color="#315A63" label="Target kg" center={`${user.targetWeightKg}`} />
+                <Ring value={user.heightCm} max={220} color="#C18A5A" label="Height cm" center={`${user.heightCm}`} />
+                <div className="flex flex-col gap-3">
+                  <div>
+                    <div className="label-mono text-[10px] text-[#6B7280]">AGE</div>
+                    <div className="font-display font-800 text-[#172A35] text-xl">{user.age} yrs</div>
+                  </div>
+                  <div>
+                    <div className="label-mono text-[10px] text-[#6B7280]">GOAL</div>
+                    <div className="font-display font-800 text-[#C18A5A] text-sm">{user.goal}</div>
+                  </div>
                 </div>
               </div>
             </div>
+
+            <div className="glass rounded-2xl p-6 relative overflow-hidden">
+              <div className="absolute -bottom-6 -right-4 opacity-90">
+                <VeyraCharacter mood="think" accent="mint" size={92} />
+              </div>
+              <div className="label-mono mb-3 text-[#C18A5A]">Veyra AI Profile</div>
+              <p className="text-sm leading-relaxed text-[#28302E]">
+                Your profile is configured for <span className="font-bold text-[#172A35]">{user.goal}</span>. We've set your daily targets to {user.dailyCalories} kcal and {user.dailyProtein}g protein.
+              </p>
+            </div>
           </div>
 
-          <div className="glass rounded-2xl p-6 relative overflow-hidden">
-            <div className="absolute -bottom-6 -right-4 opacity-90">
-              <VeyraCharacter mood="think" accent="mint" size={92} />
-            </div>
-            <div className="label-mono mb-3 text-[#C18A5A]">Veyra AI Profile</div>
-            <p className="text-sm leading-relaxed text-[#28302E]">
-              Your profile is configured for <span className="font-bold text-[#172A35]">{user.goal}</span>. We've set your daily targets to {user.dailyCalories} kcal and {user.dailyProtein}g protein.
-            </p>
-          </div>
+          {/* Interactive Weight & Body Progress Tracker */}
+          <WeightHistory />
         </div>
       )}
+
 
       {/* Goals Tab */}
       {activeTab === "Goals" && (

@@ -31,6 +31,13 @@ model User {
   scanHistories      ScanHistory[]
   workoutHistories   WorkoutHistory[]
   aiConversations    AiConversation[]
+  pantryItems        PantryItem[]
+  shoppingListItems  ShoppingListItem[]
+  mealPlans          MealPlan[]
+  weightHistories    WeightHistory[]
+  favoriteRecipes    FavoriteRecipe[]
+  recipeReviews      RecipeReview[]
+  notifications      Notification[]
 }
 
 model DailyNutrition {
@@ -138,4 +145,98 @@ model AiMessage {
   role           String         // user or ai
   content        String
   createdAt      DateTime       @default(now())
+}
+
+model PantryItem {
+  id             String    @id @default(uuid())
+  userId         String
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name           String
+  quantity       Float     @default(1)
+  unit           String    @default("pcs")
+  addedDate      DateTime  @default(now())
+  expirationDate DateTime?
+  isUsed         Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  @@index([userId])
+}
+
+model ShoppingListItem {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name        String
+  quantity    Float    @default(1)
+  unit        String   @default("pcs")
+  isPurchased Boolean  @default(false)
+  recipeId    String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([userId])
+}
+
+model MealPlan {
+  id            String   @id @default(uuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  weekStartDate String   // YYYY-MM-DD
+  mealsJson     String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@unique([userId, weekStartDate])
+}
+
+model WeightHistory {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  weight    Float
+  date      String   // YYYY-MM-DD
+  createdAt DateTime @default(now())
+
+  @@index([userId, date])
+}
+
+model FavoriteRecipe {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  recipeId       String
+  recipeTitle    String
+  recipeImage    String?
+  recipeCategory String?
+  recipeCountry  String?
+  createdAt      DateTime @default(now())
+
+  @@unique([userId, recipeId])
+}
+
+model RecipeReview {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  recipeId  String
+  rating    Int
+  text      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([recipeId])
+}
+
+model Notification {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     String
+  message   String
+  category  String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([userId, isRead])
 }

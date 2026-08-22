@@ -246,4 +246,168 @@ export class VeyraApiRouter {
   static async handleAddWorkout(userId: string | null, workoutData: any): Promise<ApiResponse> {
     return this.addWorkout(userId, workoutData);
   }
+
+  // Water Endpoint
+  static async updateWater(userId: string | null, date: string, waterConsumed: number): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const updated = await dbStore.updateWater(userId, date, waterConsumed);
+    return { success: true, data: updated };
+  }
+
+  // Pantry Endpoints
+  static async getPantryItems(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const items = await dbStore.getPantryItems(userId);
+    return { success: true, data: items };
+  }
+
+  static async addPantryItem(userId: string | null, data: any): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const item = await dbStore.addPantryItem(userId, data);
+    return { success: true, data: item };
+  }
+
+  static async updatePantryItem(userId: string | null, itemId: string, updates: any): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const item = await dbStore.updatePantryItem(userId, itemId, updates);
+    return { success: true, data: item };
+  }
+
+  static async deletePantryItem(userId: string | null, itemId: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.deletePantryItem(userId, itemId);
+    return { success: res };
+  }
+
+  // Shopping List Endpoints
+  static async getShoppingList(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const list = await dbStore.getShoppingList(userId);
+    return { success: true, data: list };
+  }
+
+  static async addShoppingListItem(userId: string | null, data: any): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const item = await dbStore.addShoppingListItem(userId, data);
+    return { success: true, data: item };
+  }
+
+  static async addBatchShoppingList(userId: string | null, items: any[]): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.addBatchShoppingList(userId, items);
+    return { success: true, data: res };
+  }
+
+  static async updateShoppingListItem(userId: string | null, itemId: string, updates: any): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const item = await dbStore.updateShoppingListItem(userId, itemId, updates);
+    return { success: true, data: item };
+  }
+
+  static async deleteShoppingListItem(userId: string | null, itemId: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.deleteShoppingListItem(userId, itemId);
+    return { success: res };
+  }
+
+  static async clearPurchasedShoppingList(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.clearPurchasedShoppingList(userId);
+    return { success: res };
+  }
+
+  static async clearEntireShoppingList(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.clearEntireShoppingList(userId);
+    return { success: res };
+  }
+
+  // Meal Plan Endpoints
+  static async getMealPlan(userId: string | null, weekStartDate: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const plan = await dbStore.getMealPlan(userId, weekStartDate);
+    return { success: true, data: plan };
+  }
+
+  static async saveMealPlan(userId: string | null, weekStartDate: string, mealsJson: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const plan = await dbStore.saveMealPlan(userId, weekStartDate, mealsJson);
+    return { success: true, data: plan };
+  }
+
+  // Weight History Endpoints
+  static async getWeightHistory(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const history = await dbStore.getWeightHistory(userId);
+    return { success: true, data: history };
+  }
+
+  static async addWeightEntry(userId: string | null, weight: number, date?: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const entry = await dbStore.addWeightEntry(userId, weight, date);
+    return { success: true, data: entry };
+  }
+
+  // Favorites Endpoints
+  static async getFavorites(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const favorites = await dbStore.getFavorites(userId);
+    return { success: true, data: favorites };
+  }
+
+  static async addFavorite(userId: string | null, recipe: any): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const fav = await dbStore.addFavorite(userId, recipe);
+    return { success: true, data: fav };
+  }
+
+  static async removeFavorite(userId: string | null, recipeId: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.removeFavorite(userId, recipeId);
+    return { success: res };
+  }
+
+  // Recipe Reviews Endpoints
+  static async getRecipeReviews(recipeId: string): Promise<ApiResponse> {
+    const reviews = await dbStore.getRecipeReviews(recipeId);
+    return { success: true, data: reviews };
+  }
+
+  static async addRecipeReview(userId: string | null, recipeId: string, rating: number, text: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const rev = await dbStore.addRecipeReview(userId, recipeId, rating, text);
+    return { success: true, data: rev };
+  }
+
+  static async updateRecipeReview(userId: string | null, reviewId: string, rating: number, text: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const rev = await dbStore.updateRecipeReview(userId, reviewId, rating, text);
+    return { success: true, data: rev };
+  }
+
+  static async deleteRecipeReview(userId: string | null, reviewId: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.deleteRecipeReview(userId, reviewId);
+    return { success: res };
+  }
+
+  // Smart Notifications Endpoints
+  static async getNotifications(userId: string | null): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const notifs = await dbStore.getNotifications(userId);
+    return { success: true, data: notifs };
+  }
+
+  static async addNotification(userId: string | null, data: { title: string; message: string; category: string }): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const notif = await dbStore.addNotification(userId, data);
+    return { success: true, data: notif };
+  }
+
+  static async markNotificationAsRead(userId: string | null, notificationId: string): Promise<ApiResponse> {
+    if (!userId) return { success: false, error: 'Unauthorized' };
+    const res = await dbStore.markNotificationAsRead(userId, notificationId);
+    return { success: res };
+  }
 }
+
