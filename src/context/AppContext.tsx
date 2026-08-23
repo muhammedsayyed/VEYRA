@@ -259,6 +259,7 @@ interface AppContextType {
 
   chatMessages: ChatMessage[]
   sendMessage: (text: string) => void
+  isAiTyping: boolean
 
   mascotMood: VeyMood
   setMascotMood: (mood: VeyMood) => void
@@ -411,6 +412,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   const [completedWorkoutsCount, setCompletedWorkoutsCount] = useState<number>(2)
 
   const [chatMessages, setChatMessages] = useState<ChatMessage[]>(initialChat)
+  const [isAiTyping, setIsAiTyping] = useState<boolean>(false)
   const [mascotMood, setMascotMood] = useState<VeyMood>("happy")
   const [showConfetti, setShowConfetti] = useState<boolean>(false)
   const [toasts, setToasts] = useState<ToastAlert[]>([])
@@ -788,7 +790,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
   }
 
   const sendMessage = async (text: string) => {
-    if (!text.trim()) return
+    if (!text.trim() || isAiTyping) return
 
     const userMsg: ChatMessage = {
       id: `msg-${Date.now()}`,
@@ -799,6 +801,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
     setChatMessages((prev) => [...prev, userMsg])
     setMascotMood("think")
+    setIsAiTyping(true)
 
     try {
       const history = chatMessages.map((m) => ({ role: m.role, text: m.text }))
@@ -812,9 +815,9 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         shoppingList,
         weightHistory
       )
-      
+
       const aiRes = await VeyraAIService.queryAI(text.trim(), context, history)
-      
+
       const totalProtein = meals.reduce((s, m) => s + m.protein, 0)
       const totalCal = meals.reduce((s, m) => s + m.calories, 0)
       const calLeft = Math.max(user.dailyCalories - totalCal, 0)
@@ -824,22 +827,25 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         id: `msg-${Date.now() + 1}`,
         role: "ai",
         text: aiRes.text,
-        cards: [
-          {
-            type: "nutrition",
-            title: "Daily Calories Target",
-            subtitle: `${totalCal} / ${user.dailyCalories} kcal`,
-            value: `${calLeft} left`,
-            color: "#C18A5A",
-          },
-          {
-            type: "nutrition",
-            title: "Protein Target",
-            subtitle: `${totalProtein} / ${user.dailyProtein} g`,
-            value: `${proteinLeft}g left`,
-            color: "#315A63",
-          },
-        ],
+        cards:
+          aiRes.isUnavailable
+            ? undefined
+            : [
+                {
+                  type: "nutrition",
+                  title: "Daily Calories Target",
+                  subtitle: `${totalCal} / ${user.dailyCalories} kcal`,
+                  value: `${calLeft} left`,
+                  color: "#C18A5A",
+                },
+                {
+                  type: "nutrition",
+                  title: "Protein Target",
+                  subtitle: `${totalProtein} / ${user.dailyProtein} g`,
+                  value: `${proteinLeft}g left`,
+                  color: "#315A63",
+                },
+              ],
         timestamp: aiRes.timestamp,
       }
 
@@ -847,7 +853,16 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       setMascotMood("happy")
     } catch (err) {
       console.warn("AI query error:", err)
+      const errMsg: ChatMessage = {
+        id: `msg-${Date.now() + 1}`,
+        role: "ai",
+        text: "Sorry, I couldn't reach my AI core just now. Please check your connection and try again in a moment.",
+        timestamp: new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }),
+      }
+      setChatMessages((prev) => [...prev, errMsg])
       setMascotMood("happy")
+    } finally {
+      setIsAiTyping(false)
     }
   }
 
@@ -903,6 +918,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         completedWorkoutsCount,
         chatMessages,
         sendMessage,
+        isAiTyping,
         mascotMood,
         setMascotMood,
         triggerCelebration,

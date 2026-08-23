@@ -97,7 +97,11 @@ export class CloudAIProvider implements IServerAIProvider {
             model: targetModel,
             messages: formattedMessages,
             temperature: 0.7,
-            max_tokens: 450,
+            // Reasoning-style models spend tokens before the visible answer.
+            // Disable reasoning output where supported (ignored otherwise) and
+            // keep enough token headroom to avoid empty-content truncations.
+            reasoning: { enabled: false },
+            max_tokens: 700,
           }),
           signal: controller.signal,
         });
@@ -123,7 +127,8 @@ export class CloudAIProvider implements IServerAIProvider {
         const rawContent = data?.choices?.[0]?.message?.content;
         let text = '';
         if (typeof rawContent === 'string') {
-          text = rawContent.trim();
+          // Some models embed chain-of-thought inline; strip <think> blocks.
+          text = rawContent.replace(/<think>[\s\S]*?<\/think>/gi, '').trim();
         } else if (Array.isArray(rawContent)) {
           text = rawContent
             .map((item: any) => (typeof item === 'string' ? item : item?.text || ''))

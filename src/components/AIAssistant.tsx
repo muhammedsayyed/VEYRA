@@ -5,7 +5,7 @@ import { useApp } from "@/context/AppContext"
 import { ChatMessageCard } from "@/types"
 
 export default function AIAssistant() {
-  const { user, meals, addWater, addMeal, setScreen, chatMessages, sendMessage, mascotMood } = useApp()
+  const { user, meals, addWater, addMeal, setScreen, chatMessages, sendMessage, mascotMood, isAiTyping } = useApp()
 
   const [input, setInput] = useState("")
   const [isRecording, setIsRecording] = useState(false)
@@ -164,6 +164,27 @@ export default function AIAssistant() {
           )
         })}
 
+        {/* AI Typing Indicator */}
+        {isAiTyping && (
+          <div className="flex items-start gap-2.5 sm:gap-3 animate-fade-in-up w-full max-w-full">
+            <div className="shrink-0 -mt-1">
+              <VeyraCharacter mood="think" accent="mint" size={36} float={false} />
+            </div>
+            <div
+              className="px-4 py-3 rounded-2xl rounded-t-md flex items-center gap-1.5"
+              style={{ color: "#28302E", background: "#F1EEE6", border: "1px solid #E6E0D5" }}
+            >
+              {[0, 1, 2].map((i) => (
+                <span
+                  key={i}
+                  className="w-2 h-2 rounded-full inline-block animate-bounce"
+                  style={{ background: "#C18A5A", animationDelay: `${i * 150}ms` }}
+                />
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Voice recording animation simulation */}
         {isRecording && (
           <div className="p-3.5 glass rounded-2xl flex items-center justify-center gap-2 text-[#C18A5A] text-xs sm:text-sm font-semibold border border-[#E6E0D5]">
@@ -205,7 +226,7 @@ export default function AIAssistant() {
           </button>
           <button
             onClick={() => handleSend(input)}
-            disabled={!input.trim()}
+            disabled={!input.trim() || isAiTyping}
             className="w-9 h-9 sm:w-11 sm:h-11 rounded-xl sm:rounded-2xl flex items-center justify-center shrink-0 disabled:opacity-40 btn-primary"
           >
             <SendIcon size={16} />

@@ -1,4 +1,4 @@
-import { defineConfig, type HtmlTagDescriptor, type Plugin } from 'vite'
+import { defineConfig, loadEnv, type HtmlTagDescriptor, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import path from 'node:path'
@@ -373,6 +373,17 @@ function veyraApiDevServerPlugin(): Plugin {
     name: 'veyra-api-dev-server',
     apply: 'serve',
     configureServer(server) {
+      // Server-side API handlers read secrets from process.env (same as the
+      // Vercel production runtime). Vite only exposes VITE_* vars to client
+      // code via import.meta.env, so load every .env var into process.env
+      // here to give local development parity with production.
+      const fileEnv = loadEnv(server.config.mode || 'development', process.cwd(), '')
+      for (const [key, value] of Object.entries(fileEnv)) {
+        if (!(key in process.env)) {
+          process.env[key] = value
+        }
+      }
+
       server.middlewares.use(async (req, res, next) => {
         const path = (req.url || '').split('?')[0];
         if (!path.startsWith('/api/')) return next();
