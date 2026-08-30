@@ -1,4 +1,5 @@
-import React, { useState } from "react"
+import { useState, useEffect, useCallback } from "react"
+import { motion, AnimatePresence, MotionConfig } from "framer-motion"
 import veyraLogo from "@/imports/image.png"
 import OnboardingSlide, { SlideData } from "./OnboardingSlide"
 import OnboardingProgress from "./OnboardingProgress"
@@ -61,106 +62,239 @@ export default function Onboarding({ onFinish }: OnboardingProps) {
   const [currentIndex, setCurrentIndex] = useState(0)
 
   const isLast = currentIndex === slides.length - 1
+  const isFirst = currentIndex === 0
 
-  const handleNext = () => {
+  const handleNext = useCallback(() => {
     if (isLast) {
       completeOnboarding()
       if (onFinish) onFinish()
     } else {
       setCurrentIndex((prev) => prev + 1)
     }
-  }
+  }, [isLast, completeOnboarding, onFinish])
 
-  const handleBack = () => {
+  const handleBack = useCallback(() => {
     if (currentIndex > 0) {
       setCurrentIndex((prev) => prev - 1)
     }
-  }
+  }, [currentIndex])
 
-  const handleSkip = () => {
+  const handleSkip = useCallback(() => {
     completeOnboarding()
     if (onFinish) onFinish()
-  }
+  }, [completeOnboarding, onFinish])
+
+  // Keyboard navigation — preserve logic, enhance interaction
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "ArrowRight" || e.key === "Enter") {
+        e.preventDefault()
+        handleNext()
+      } else if (e.key === "ArrowLeft") {
+        e.preventDefault()
+        handleBack()
+      } else if (e.key === "Escape" && !isLast) {
+        handleSkip()
+      }
+    }
+    window.addEventListener("keydown", onKey)
+    return () => window.removeEventListener("keydown", onKey)
+  }, [handleNext, handleBack, handleSkip, isLast])
 
   return (
-    <div
-      className="min-h-screen w-full flex flex-col justify-between p-4 sm:p-6 md:p-8 relative overflow-hidden"
-      style={{ background: "#F7F5EF" }}
-    >
-      {/* Ambient background decoration */}
-      <div
-        className="absolute -top-24 -left-24 w-96 h-96 rounded-full blur-3xl opacity-30 pointer-events-none"
-        style={{ background: "#E6E0D5" }}
-      />
-      <div
-        className="absolute -bottom-24 -right-24 w-96 h-96 rounded-full blur-3xl opacity-20 pointer-events-none"
-        style={{ background: "#C18A5A" }}
-      />
+    <MotionConfig reducedMotion="user">
+      <div className="min-h-[100dvh] w-full flex flex-col relative overflow-hidden bg-[var(--veyra-paper)] selection:bg-[var(--veyra-ink)] selection:text-white">
+        {/* ── Cinematic paper + lighting ── */}
+        <div
+          aria-hidden
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background:
+              "radial-gradient(1000px circle at 12% 10%, rgba(196,90,60,0.07) 0%, transparent 56%), radial-gradient(900px circle at 92% 94%, rgba(138,154,139,0.09) 0%, transparent 58%), radial-gradient(700px circle at 48% 42%, rgba(224,122,95,0.045) 0%, transparent 64%), var(--veyra-paper)",
+          }}
+        />
+        {/* grain */}
+        <div
+          aria-hidden
+          className="absolute inset-0 pointer-events-none opacity-[0.28] mix-blend-multiply"
+          style={{
+            backgroundImage:
+              "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E\")",
+          }}
+        />
+        {/* top hairline */}
+        <div aria-hidden className="absolute top-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-[#E8E0D0] to-transparent opacity-80" />
 
-      {/* Header with Logo & Brand Name */}
-      <header className="relative z-20 flex items-center justify-between w-full max-w-2xl mx-auto pt-2">
-        <div className="flex items-center gap-3">
-          <div
-            className="w-10 h-10 rounded-xl flex items-center justify-center shadow-sm"
-            style={{ background: "#FFFFFF", border: "1px solid #E6E0D5" }}
-          >
-            <img src={veyraLogo} alt="Veyra" className="w-6 h-6 object-contain" />
-          </div>
-          <div>
-            <div className="font-display font-800 text-lg text-[#172A35] leading-none">VEYRA</div>
-            <div className="text-xs font-semibold tracking-wide" style={{ color: "#C18A5A" }}>
-              Wellness AI
+        {/* drifting ambient orbs — subtle */}
+        <motion.div
+          aria-hidden
+          className="absolute -top-24 -left-24 sm:-top-20 sm:-left-16 w-[380px] h-[380px] sm:w-[520px] sm:h-[520px] rounded-full blur-3xl pointer-events-none"
+          style={{ background: "radial-gradient(circle, rgba(232,224,208,0.85) 0%, transparent 72%)" }}
+          animate={{ x: [0, 10, 0], y: [0, -6, 0] }}
+          transition={{ duration: 18, repeat: Infinity, ease: "easeInOut" }}
+        />
+        <motion.div
+          aria-hidden
+          className="absolute -bottom-32 -right-20 sm:-bottom-24 sm:-right-16 w-[420px] h-[420px] sm:w-[560px] sm:h-[560px] rounded-full blur-3xl pointer-events-none"
+          style={{ background: "radial-gradient(circle, rgba(196,90,60,0.08) 0%, transparent 70%)" }}
+          animate={{ x: [0, -12, 0], y: [0, 8, 0] }}
+          transition={{ duration: 22, repeat: Infinity, ease: "easeInOut", delay: 1.2 }}
+        />
+
+        {/* ── Header — editorial, warm, tactile ── */}
+        <header className="relative z-20 w-full max-w-[1160px] mx-auto px-4 sm:px-6 lg:px-8 pt-4 sm:pt-6 flex items-center justify-between gap-4 shrink-0">
+          <div className="flex items-center gap-3 min-w-0">
+            <div
+              className="w-10 h-10 sm:w-11 sm:h-11 rounded-[14px] flex items-center justify-center shrink-0 overflow-hidden"
+              style={{
+                background: "var(--veyra-ink)",
+                boxShadow: "0 4px 14px rgba(15,26,28,0.14), inset 0 1px 0 rgba(255,255,255,0.08)",
+                border: "1px solid rgba(255,255,255,0.06)",
+              }}
+            >
+              <img src={veyraLogo} alt="Veyra" className="w-6 h-6 sm:w-[26px] sm:h-[26px] object-contain brightness-0 invert" />
+            </div>
+            <div className="min-w-0">
+              <div className="font-display font-800 text-[15px] sm:text-[16px] tracking-[-0.02em] text-[var(--veyra-ink)] leading-none">VEYRA</div>
+              <div className="flex items-center gap-1.5">
+                <span className="font-mono text-[9px] sm:text-[10px] tracking-[0.15em] font-700 text-[var(--veyra-clay)] uppercase">Wellness AI</span>
+                <span className="hidden sm:inline w-1 h-1 rounded-full bg-[#C9B99A] opacity-60" aria-hidden />
+                <span className="hidden sm:inline font-mono text-[9px] tracking-[0.12em] text-[#9CA3AF] uppercase">Intelligent food • personal</span>
+              </div>
             </div>
           </div>
+
+          <div className="flex items-center gap-2 shrink-0">
+            {/* keyboard hint — desktop */}
+            <span className="hidden lg:inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white border border-[#E8E0D0] text-[10px] font-mono tracking-[0.08em] text-[#9CA3AF] shadow-sm">
+              <span className="w-4 h-4 rounded-[6px] bg-[#F5F0E8] border border-[#E8E0D0] flex items-center justify-center text-[9px] font-700 text-[#6B7280]">←</span>
+              <span className="w-4 h-4 rounded-[6px] bg-[#F5F0E8] border border-[#E8E0D0] flex items-center justify-center text-[9px] font-700 text-[#6B7280]">→</span>
+              <span className="hidden xl:inline">to navigate</span>
+            </span>
+
+            {!isLast && (
+              <motion.button
+                onClick={handleSkip}
+                whileHover={{ y: -1 }}
+                whileTap={{ scale: 0.97 }}
+                className="inline-flex items-center gap-1.5 px-3.5 sm:px-4 py-2 rounded-full text-xs font-600 tracking-[-0.01em] transition-all bg-white border border-[#E8E0D0] text-[#6B7280] hover:text-[var(--veyra-ink)] hover:border-[var(--veyra-ink)]/15 hover:shadow-sm"
+                style={{ boxShadow: "0 2px 10px rgba(15,26,28,0.04)" }}
+              >
+                Skip
+                <span className="hidden sm:inline opacity-60">→</span>
+              </motion.button>
+            )}
+          </div>
+        </header>
+
+        {/* Editorial kicker — strong first impression */}
+        <div className="relative z-20 w-full max-w-[580px] mx-auto px-4 sm:px-6 mt-3 sm:mt-4 flex justify-center shrink-0">
+          <motion.div
+            initial={{ opacity: 0, y: 6 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1], delay: 0.08 }}
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/88 backdrop-blur-md border border-[#E8E0D0]/80 shadow-[0_2px_12px_rgba(15,26,28,0.04)]"
+          >
+            <span className="w-1.5 h-1.5 rounded-full bg-[var(--veyra-sage)] animate-pulse shrink-0" aria-hidden />
+            <span className="font-mono text-[9px] sm:text-[10px] tracking-[0.14em] font-600 text-[#6B7280] uppercase whitespace-nowrap">Intelligent food</span>
+            <span className="w-px h-3 bg-[#E8E0D0] hidden sm:block" aria-hidden />
+            <span className="hidden sm:inline font-mono text-[9px] tracking-[0.14em] font-600 text-[#6B7280] uppercase">Wellness</span>
+            <span className="hidden sm:inline w-px h-3 bg-[#E8E0D0]" aria-hidden />
+            <span className="hidden sm:inline font-mono text-[9px] tracking-[0.14em] font-600 text-[#6B7280] uppercase">Personalization</span>
+            <span className="w-px h-3 bg-[#E8E0D0] sm:hidden" aria-hidden />
+            <span className="sm:hidden font-mono text-[9px] tracking-[0.14em] font-700 text-[var(--veyra-ink)] uppercase">Personal</span>
+          </motion.div>
         </div>
 
-        {/* Skip button at top right */}
-        {!isLast && (
-          <button
-            onClick={handleSkip}
-            className="text-xs font-bold px-3 py-1.5 rounded-lg transition-colors text-[#6B7280] hover:text-[#172A35] hover:bg-[#F1EEE6]"
-          >
-            Skip
-          </button>
-        )}
-      </header>
-
-      {/* Main Slide Content */}
-      <main className="relative z-20 flex-1 flex items-center justify-center py-6">
-        <OnboardingSlide key={slides[currentIndex].id} slide={slides[currentIndex]} />
-      </main>
-
-      {/* Footer Navigation Controls */}
-      <footer className="relative z-20 w-full max-w-md mx-auto pb-4 flex flex-col items-center gap-2">
-        <OnboardingProgress total={slides.length} current={currentIndex} />
-
-        <div className="w-full flex items-center gap-3 mt-2">
-          {currentIndex > 0 && (
-            <button
-              onClick={handleBack}
-              className="btn-ghost flex-1 py-3 text-sm font-semibold"
+        {/* ── Main — cinematic progressive reveal with depth ── */}
+        <main className="relative z-10 flex-1 flex items-center justify-center py-4 sm:py-6 lg:py-8 min-h-0 w-full">
+          <AnimatePresence mode="wait" initial={false}>
+            <motion.div
+              key={slides[currentIndex].id}
+              initial={{ opacity: 0, x: 18, scale: 0.99 }}
+              animate={{ opacity: 1, x: 0, scale: 1 }}
+              exit={{ opacity: 0, x: -18, scale: 0.99 }}
+              transition={{ duration: 0.52, ease: [0.16, 1, 0.3, 1] }}
+              className="w-full"
+              // swipe gesture for mobile — progressive interaction
+              drag="x"
+              dragConstraints={{ left: 0, right: 0 }}
+              dragElastic={0.18}
+              onDragEnd={(_, info) => {
+                if (info.offset.x < -60) handleNext()
+                else if (info.offset.x > 60) handleBack()
+              }}
             >
-              Back
-            </button>
-          )}
+              <OnboardingSlide slide={slides[currentIndex]} />
+            </motion.div>
+          </AnimatePresence>
+        </main>
 
-          <button
-            onClick={handleNext}
-            className="btn-primary flex-1 py-3.5 text-base font-bold tracking-wide shadow-lg"
-          >
-            {isLast ? "Get Started" : "Next"}
-          </button>
-        </div>
+        {/* ── Footer — tactile progress + controls ── */}
+        <footer className="relative z-20 w-full max-w-[520px] mx-auto px-4 sm:px-6 pb-[max(16px,env(safe-area-inset-bottom))] sm:pb-7 flex flex-col items-center gap-4 sm:gap-5 shrink-0">
+          <OnboardingProgress total={slides.length} current={currentIndex} />
 
-        {!isLast && (
-          <button
-            onClick={handleSkip}
-            className="text-xs font-medium mt-1 text-[#6B7280] hover:text-[#172A35] underline underline-offset-4"
-          >
-            Skip intro
-          </button>
-        )}
-      </footer>
-    </div>
+          <div className="w-full flex items-center gap-3">
+            {!isFirst ? (
+              <motion.button
+                onClick={handleBack}
+                whileHover={{ y: -1 }}
+                whileTap={{ scale: 0.97 }}
+                className="flex-1 py-3.5 sm:py-3.5 rounded-[14px] text-[13px] sm:text-sm font-700 tracking-[-0.01em] bg-white border border-[#E8E0D0] text-[var(--veyra-ink)] hover:bg-[#F5F0E8] hover:border-[var(--veyra-ink)]/10 transition-colors shadow-sm"
+                style={{ boxShadow: "0 2px 10px rgba(15,26,28,0.04)" }}
+              >
+                Back
+              </motion.button>
+            ) : (
+              <div className="flex-1 hidden sm:block" aria-hidden />
+            )}
+
+            <motion.button
+              onClick={handleNext}
+              whileHover={{ y: -1, scale: 1.01 }}
+              whileTap={{ scale: 0.97 }}
+              className="flex-[1.7] py-3.5 rounded-[14px] text-[13px] sm:text-sm font-800 tracking-[-0.01em] text-white relative overflow-hidden flex items-center justify-center gap-2.5"
+              style={{
+                background: "var(--veyra-ink)",
+                boxShadow: "0 8px 24px rgba(15,26,28,0.16), 0 2px 8px rgba(15,26,28,0.08)",
+              }}
+            >
+              <span aria-hidden className="absolute inset-0 pointer-events-none" style={{ background: "linear-gradient(180deg, rgba(255,255,255,0.08), transparent 55%)" }} />
+              <span className="relative">{isLast ? "Get Started" : "Continue"}</span>
+              <span
+                aria-hidden
+                className="relative w-6 h-6 rounded-full bg-white/10 flex items-center justify-center text-[11px] leading-none backdrop-blur"
+              >
+                →
+              </span>
+            </motion.button>
+          </div>
+
+          <div className="flex items-center justify-center gap-2 text-[11px] leading-none min-h-[16px]">
+            {!isLast ? (
+              <>
+                <span className="font-mono text-[10px] tracking-[0.12em] text-[#9CA3AF] uppercase">Prefer to explore?</span>
+                <button
+                  onClick={handleSkip}
+                  className="font-600 text-[#6B7280] hover:text-[var(--veyra-ink)] underline underline-offset-4 decoration-[#E8E0D0] hover:decoration-[var(--veyra-ink)]/30 transition-colors"
+                >
+                  Skip intro
+                </button>
+                <span className="hidden sm:inline font-mono text-[9px] tracking-[0.10em] text-[#9CA3AF] ml-1">• swipe or use arrows</span>
+              </>
+            ) : (
+              <span className="label-serif italic text-[13px] text-[#9CA3AF]">Your wellness story starts now —</span>
+            )}
+          </div>
+
+          {/* swipe indicator — mobile */}
+          <div className="flex sm:hidden items-center justify-center gap-1.5 opacity-40">
+            <span className="w-8 h-px bg-[#E8E0D0]" aria-hidden />
+            <span className="font-mono text-[9px] tracking-[0.12em] text-[#9CA3AF] uppercase">Swipe to navigate</span>
+            <span className="w-8 h-px bg-[#E8E0D0]" aria-hidden />
+          </div>
+        </footer>
+      </div>
+    </MotionConfig>
   )
 }

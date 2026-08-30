@@ -1,0 +1,6717 @@
+{
+  "countryCode": "ng",
+  "recipes": [
+    {
+      "slug": "beef-suya",
+      "name": "Beef Suya",
+      "description": "Peanut-spice rubbed open-fire beef skewers - Nigeria's night king.",
+      "categories": [
+        "beef",
+        "street-food",
+        "grill"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 30,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "4 skewers (250g)",
+      "homePrepCost": 5500,
+      "restaurantPrice": 8500,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 95,
+      "tags": [
+        "yaji-spice"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef thin cuts",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Yaji/Suya spice (groundnut-chili-ginger)",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Groundnut oil brush",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Onion & tomato slices & extra yaji",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Oil meat; press yaji generously; rest 1h."
+        },
+        {
+          "position": 2,
+          "instruction": "Charcoal grill hot ~4 min/side."
+        },
+        {
+          "position": 3,
+          "instruction": "Re-yaji off fire; onion-tomato crown."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 40,
+        "carbohydrates": 10,
+        "fat": 30,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 980,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "IFJ3escq4-Q",
+          "youtubeUrl": "https://www.youtube.com/watch?v=IFJ3escq4-Q",
+          "videoTitle": "Nigerian Suya | Spiced Grilled Beef",
+          "channelName": "Plated Planner",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "egusi-beef-soup",
+      "name": "Egusi Soup with Beef",
+      "description": "Melon-seed thickened soup with beef - swallow's best friend.",
+      "categories": [
+        "beef",
+        "traditional",
+        "soup"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 75,
+      "servings": 6,
+      "servingSize": "1 bowl with meat (340g)",
+      "homePrepCost": 6500,
+      "restaurantPrice": 9500,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "melon-seed"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground egusi seeds",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Beef assortment",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Red palm oil & onions & pepper blend",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Spinach or bitterleaf",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Stock cubes & crayfish (optional)",
+          "quantity": 2,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef till tender with pepper/onion."
+        },
+        {
+          "position": 2,
+          "instruction": "Palm oil; egusi fry till curdled gold."
+        },
+        {
+          "position": 3,
+          "instruction": "Broth in; simmer 20; greens last."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 34,
+        "carbohydrates": 14,
+        "fat": 38,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 880,
+        "saturatedFat": 12
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XeZJlxAsP18",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XeZJlxAsP18",
+          "videoTitle": "THE BEST NIGERIAN EGUSI SOUP RECIPE | EGUSI SOUP RECIPE : SISI JEMIMAH",
+          "channelName": "Sisi Jemimah's Recipes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "efo-riro-beef",
+      "name": "Efo Riro with Beef",
+      "description": "'Stirred spinach' Yoruba stew loaded with beef and peppers.",
+      "categories": [
+        "beef",
+        "traditional",
+        "stew"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 55,
+      "servings": 5,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 5800,
+      "restaurantPrice": 8800,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "yoruba"
+      ],
+      "ingredients": [
+        {
+          "name": "Blanched spinach squeezed dry",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Beef chunks cooked",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Red pepper-onion blend fried till paste",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Palm oil & locust bean (iru)",
+          "quantity": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry pepper blend in palm oil till oil rises."
+        },
+        {
+          "position": 2,
+          "instruction": "Iru + seasoned beef broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Spinach fold-through 5 min only."
+        }
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 33,
+        "carbohydrates": 13,
+        "fat": 29,
+        "fiber": 6,
+        "sugar": 7,
+        "sodium": 780,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "lxCY5fObe30",
+          "youtubeUrl": "https://www.youtube.com/watch?v=lxCY5fObe30",
+          "videoTitle": "HOW TO MAKE EFO RIRO: UPDATED EFO RIRO RECIPE | SISI JEMIMAH",
+          "channelName": "Sisi Jemimah's Recipes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "nigerian-beef-pepper-soup",
+      "name": "Nigerian Beef Pepper Soup",
+      "description": "Clear fiery herb-spiced broth - the ultimate Nigerian pick-me-up.",
+      "categories": [
+        "beef",
+        "soup",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 4,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": 4200,
+      "restaurantPrice": 7500,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "pepper-hot"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef cubes on bone",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Pepper soup spice (uziza-calabusk-ehu)",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Scotch bonnets & onions",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Scent leaves (ocimum)",
+          "quantity": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil beef with onion till tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Spices + bonnet; simmer 20 min watery-clear."
+        },
+        {
+          "position": 3,
+          "instruction": "Scent leaf wilt; serve steaming."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 32,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 720,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XzLKEDwPMpo",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XzLKEDwPMpo",
+          "videoTitle": "PEPPER SOUP RECIPE | HOW TO MAKE COW MEAT/ BEEF PEPPER SOUP",
+          "channelName": "Ijeoma Channel TV",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "ofada-rice",
+      "name": "Ofada Rice",
+      "description": "Fragrant local rice with spicy ayamase stew",
+      "categories": [
+        "beef",
+        "regional",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ofada rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "assorted beef",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "locust beans",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash ofada rice and parboil until half-cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry blended pepper mix in palm oil with locust beans."
+        },
+        {
+          "position": 3,
+          "instruction": "Add assorted beef and cook until tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in parboiled rice and simmer until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 442,
+        "protein": 28,
+        "carbohydrates": 42,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "oXLaCsU7q-w",
+          "youtubeUrl": "https://www.youtube.com/watch?v=oXLaCsU7q-w",
+          "videoTitle": "How To Cook Ofada Rice | Ofada rice recipe | The Online Cook",
+          "channelName": "The Online Cook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kilishi",
+      "name": "Kilishi",
+      "description": "Thin dried spiced beef jerky from northern Nigeria",
+      "categories": [
+        "beef",
+        "snack",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef top round",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "groundnut paste",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cayenne pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef paper-thin across the grain."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend groundnut paste with spices into a marinade."
+        },
+        {
+          "position": 3,
+          "instruction": "Coat beef strips evenly and sun-dry for 4 hours."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill over low charcoal until crispy."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 42,
+        "carbohydrates": 8,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "abacha",
+      "name": "Abacha",
+      "description": "African salad made from dried shredded cassava",
+      "categories": [
+        "beef",
+        "salad",
+        "street-food",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "abacha shreds",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "ground crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pomo",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "utazi leaves",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak abacha shreds in warm water until softened."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil beef and pomo until tender, slice thinly."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix palm oil with potash to thicken."
+        },
+        {
+          "position": 4,
+          "instruction": "Combine abacha, meats, oil mix, crayfish, and utazi."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 26,
+        "carbohydrates": 30,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 460,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "banga-soup",
+      "name": "Banga Soup",
+      "description": "Rich palm fruit soup with spices from the Niger Delta",
+      "categories": [
+        "beef",
+        "soup",
+        "regional",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chunks",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "banga concentrate",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "beletete sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": " crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil beef with onion until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Add banga concentrate and bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add beletete, crayfish, and pepper."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer for 10 minutes until oil floats."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 30,
+        "carbohydrates": 8,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 510,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "efirin-rice",
+      "name": "Efirin Rice",
+      "description": "Jollof-style rice cooked with scent leaf and beef",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "long grain rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef strips",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scent leaves",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato blend",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry beef strips with onion until browned."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomato blend and cook down."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in washed rice and water to cover."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook until rice is done, fold in scent leaves at end."
+        }
+      ],
+      "nutrition": {
+        "calories": 396,
+        "protein": 32,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 490,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-pepper-soup",
+      "name": "Beef Pepper Soup",
+      "description": "Aromatic spicy beef broth with uziza leaves",
+      "categories": [
+        "beef",
+        "soup",
+        "spicy",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chunks",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pepper soup spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "uziza leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil beef with onion and pepper soup spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Add scotch bonnet and cook until beef is tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in uziza leaves."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer 5 more minutes and serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 36,
+        "carbohydrates": 4,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "suya",
+      "name": "Suya Kebab",
+      "description": "Spiced grilled beef skewers with yaji spice",
+      "categories": [
+        "beef",
+        "street-food",
+        "grill",
+        "snack",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yaji spice",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "groundnut powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "skewers",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef thinly against the grain."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat generously with yaji spice and groundnut powder."
+        },
+        {
+          "position": 3,
+          "instruction": "Thread onto skewers and rest for 30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill over hot coals until charred and cooked."
+        }
+      ],
+      "nutrition": {
+        "calories": 346,
+        "protein": 40,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 490,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kundi-beef",
+      "name": "Kundi Beef",
+      "description": "Dried spiced beef from Hausa tradition",
+      "categories": [
+        "beef",
+        "snack",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yaji spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef thin and pound lightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate with yaji spice, ginger, garlic, and lemon."
+        },
+        {
+          "position": 3,
+          "instruction": "Sun-dry for 6 hours or until leathery."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill or smoke briefly before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 44,
+        "carbohydrates": 5,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 530,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kilishi-rolls",
+      "name": "Kilishi Rolls",
+      "description": "Rolled beef kilishi with groundnut filling",
+      "categories": [
+        "beef",
+        "snack",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "groundnut paste",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "yaji spice",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound beef paper thin."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix groundnut paste with yaji spice and honey."
+        },
+        {
+          "position": 3,
+          "instruction": "Spread filling on beef and roll tightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Dry in sun or low oven until firm."
+        }
+      ],
+      "nutrition": {
+        "calories": 424,
+        "protein": 42,
+        "carbohydrates": 10,
+        "fat": 24,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 510,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dindin-rice",
+      "name": "Dindin Rice",
+      "description": "Crispy fried rice with beef from southwestern Nigeria",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cooked rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef strips",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mixed vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat oil in a wok and fry beef strips."
+        },
+        {
+          "position": 2,
+          "instruction": "Scramble egg and push to the side."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables and stir-fry briefly."
+        },
+        {
+          "position": 4,
+          "instruction": "Add rice and soy sauce, toss until heated through."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 26,
+        "carbohydrates": 36,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "uyoyo",
+      "name": "Uyoyo",
+      "description": "Yam porridge with beef and palm oil",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food",
+        "home-style",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yam",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "leafy greens",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil beef until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Add cubed yam to the pot with water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until yam is soft, mash slightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Add palm oil, crayfish, pepper, beef, and greens."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 28,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "osu-beef",
+      "name": "Osu Beef Stew",
+      "description": "Smoky beef stew from southeastern Nigeria",
+      "categories": [
+        "beef",
+        "stew",
+        "regional",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato blend",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry beef until browned and set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat palm oil and fry tomato blend until reduced."
+        },
+        {
+          "position": 3,
+          "instruction": "Add onion, thyme, pepper, and bouillon."
+        },
+        {
+          "position": 4,
+          "instruction": "Return beef and simmer 15 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 30,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 5,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "masa-rice",
+      "name": "Masa Rice Cakes",
+      "description": "Fermented rice cakes fried until golden",
+      "categories": [
+        "beef",
+        "breakfast",
+        "street-food",
+        "traditional",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yeast",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice flour with warm water and yeast, let ferment overnight."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook and shred beef, season lightly."
+        },
+        {
+          "position": 3,
+          "instruction": "Heat masa pan and add oil to each mold."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour batter, add beef filling, cover and cook until set."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 22,
+        "carbohydrates": 28,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 360,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "palm-wine-stew",
+      "name": "Palm Wine Stew",
+      "description": "Beef stew cooked in palm wine from southeastern Nigeria",
+      "categories": [
+        "beef",
+        "stew",
+        "regional",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chunks",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm wine",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "tomato",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "utazi leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef in palm oil with onion."
+        },
+        {
+          "position": 2,
+          "instruction": "Add blended tomato and cook down."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in palm wine and bring to a simmer."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook until sauce thickens, garnish with utazi."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 32,
+        "carbohydrates": 6,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "asun",
+      "name": "Asun Peppered Goat",
+      "description": "Spicy grilled peppered goat meat",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food",
+        "party-food",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "goat meat",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil goat meat until tender with thyme."
+        },
+        {
+          "position": 2,
+          "instruction": "Cut into bite-sized pieces."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over charcoal until slightly charred."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with fried peppers and onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 38,
+        "carbohydrates": 2,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "goat-pepper-soup",
+      "name": "Goat Pepper Soup",
+      "description": "Aromatic spicy goat meat broth",
+      "categories": [
+        "beef",
+        "soup",
+        "spicy",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "goat meat",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pepper soup spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "uziza leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil goat meat with pepper soup spice and onion."
+        },
+        {
+          "position": 2,
+          "instruction": "Add scotch bonnet and cook until tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in uziza leaves."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer 5 minutes and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 238,
+        "protein": 34,
+        "carbohydrates": 3,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 510,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "party-jollof-chicken",
+      "name": "Party Jollof Rice with Chicken",
+      "description": "Smoky firewood-flavor jollof crowned with spiced fried chicken.",
+      "categories": [
+        "chicken",
+        "celebration",
+        "rice-dish",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 35,
+      "cookTimeMin": 85,
+      "servings": 8,
+      "servingSize": "1 party plate (430g)",
+      "homePrepCost": 9500,
+      "restaurantPrice": 12000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 97,
+      "tags": [
+        "owambe-classic"
+      ],
+      "ingredients": [
+        {
+          "name": "Long grain parboiled rice",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Chicken pieces fried",
+          "quantity": 1500,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato-pepper base stew (fried hard)",
+          "quantity": 900,
+          "unit": "ml"
+        },
+        {
+          "name": "Curry, thyme, bay, stock cubes",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season-fry chicken; keep oil for stew."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry blended tomato-pepper till deep red reduced."
+        },
+        {
+          "position": 3,
+          "instruction": "Rice fold; steam covered low till smoky-bottom done."
+        }
+      ],
+      "nutrition": {
+        "calories": 690,
+        "protein": 36,
+        "carbohydrates": 78,
+        "fat": 26,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 1050,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "1kdpLPwQBeA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=1kdpLPwQBeA",
+          "videoTitle": "How to Cook Nigeria Perfect Jollof Rice with Chicken",
+          "channelName": "Nigerian Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "obe-ata-chicken-stew",
+      "name": "Obe Ata (Nigerian Chicken Stew)",
+      "description": "Silky roasted-pepper chicken stew eaten with everything.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "stew"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 65,
+      "servings": 6,
+      "servingSize": "1 portion (330g)",
+      "homePrepCost": 7200,
+      "restaurantPrice": 10500,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "everyday-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Roasted red bell + scotch bonnet blend",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Onions & palm/vegetable oil",
+          "quantity": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "Stock cube & thyme & curry",
+          "quantity": 2,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil-season chicken; reserve stock."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry pepper blend till oil crowns."
+        },
+        {
+          "position": 3,
+          "instruction": "Chicken + stock; reduce 30 min glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 38,
+        "carbohydrates": 12,
+        "fat": 35,
+        "fiber": 3.5,
+        "sugar": 9,
+        "sodium": 860,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "ofada-ayamase-chicken",
+      "name": "Ofada Rice & Ayamase Chicken",
+      "description": "Local unpolished rice wrapped in leaves beside green-pepper ayamase chicken.",
+      "categories": [
+        "chicken",
+        "regional",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 45,
+      "cookTimeMin": 75,
+      "servings": 4,
+      "servingSize": "1 wrapped plate (420g)",
+      "homePrepCost": 8800,
+      "restaurantPrice": 12500,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "lagos-signature"
+      ],
+      "ingredients": [
+        {
+          "name": "Ofada local rice",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Green peppers-rodo blend (ayamase)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Chicken pieces fried",
+          "quantity": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Palm oil fermented-green & iru",
+          "quantity": 130,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil ofada well; steam tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Green blend fried in palm oil till dark."
+        },
+        {
+          "position": 3,
+          "instruction": "Chicken through sauce; wrap both in leaves."
+        }
+      ],
+      "nutrition": {
+        "calories": 710,
+        "protein": 39,
+        "carbohydrates": 74,
+        "fat": 30,
+        "fiber": 5,
+        "sugar": 10,
+        "sodium": 1120,
+        "saturatedFat": 7.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "grilled-suya-chicken",
+      "name": "Grilled Suya Chicken",
+      "description": "Yaji-rubbed chicken thighs off the grill, suya-style.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "grill"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 30,
+      "cookTimeMin": 22,
+      "servings": 4,
+      "servingSize": "1 thigh quarter (270g)",
+      "homePrepCost": 5800,
+      "restaurantPrice": 8200,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "yaji"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs skinless",
+          "quantity": 1100,
+          "unit": "g"
+        },
+        {
+          "name": "Yaji spice blend",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Oil brush & lime",
+          "quantity": 50,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub yaji + oil; marinate 2h."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill 6-7 min per side charred."
+        },
+        {
+          "position": 3,
+          "instruction": "Extra yaji dust + lime squeeze."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 42,
+        "carbohydrates": 8,
+        "fat": 24,
+        "fiber": 1.8,
+        "sugar": 4,
+        "sodium": 920,
+        "saturatedFat": 5.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "n9A8gUxYnYA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=n9A8gUxYnYA",
+          "videoTitle": "HOW TO MAKE THE BEST CHICKEN SUYA!",
+          "channelName": "SisiYemmieTV",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 52,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pepper-chicken-ng",
+      "name": "Pepper Chicken",
+      "description": "Fiery Nigerian-style chicken in spicy pepper sauce",
+      "categories": [
+        "chicken",
+        "spicy",
+        "street-food",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "curry powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and boil chicken until half-cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend scotch bonnets with onion and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry pepper blend in oil until reduced."
+        },
+        {
+          "position": 4,
+          "instruction": "Add chicken and simmer until cooked through and saucy."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "dH2DPT13h6A",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dH2DPT13h6A",
+          "videoTitle": "HOW TO MAKE PEPPER CHICKEN AT HOME | BEST PEPPER CHICKEN FRY",
+          "channelName": "The Online Cook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ayamase",
+      "name": "Ayamase",
+      "description": "Spicy green pepper stew with assorted meats and chicken",
+      "categories": [
+        "chicken",
+        "stew",
+        "spicy",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green bell peppers",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "locust beans",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil and season chicken until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend green peppers and scotch bonnets."
+        },
+        {
+          "position": 3,
+          "instruction": "Heat palm oil until very hot, add blended mix."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook down, add locust beans, onion, and chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 332,
+        "protein": 32,
+        "carbohydrates": 6,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 510,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-yassa",
+      "name": "Chicken Yassa",
+      "description": "Senegalese-influenced chicken stew with caramelized onions",
+      "categories": [
+        "chicken",
+        "stew",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onions",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in mustard, lemon, and onion slices."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill or pan-fry chicken until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Caramelize sliced onions in oil until golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Add chicken back with a little water and simmer."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 490,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "nkwobi-chicken",
+      "name": "Chicken Nkwobi",
+      "description": "Spiced chicken in thickened palm oil sauce",
+      "categories": [
+        "chicken",
+        "starter",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "ground crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "utazi leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil and shred chicken."
+        },
+        {
+          "position": 2,
+          "instruction": "Dissolve potash in water."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix palm oil with potash water until thick."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in chicken, crayfish, pepper, and utazi."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 36,
+        "carbohydrates": 4,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 510,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "doro-wat",
+      "name": "Doro Wat",
+      "description": "Ethiopian-inspired spicy chicken stew served with rice",
+      "categories": [
+        "chicken",
+        "stew",
+        "spicy",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "berbere spice",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "niter kibbeh",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "hard-boiled eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize onions in niter kibbeh for 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add berbere spice and tomato paste, stir well."
+        },
+        {
+          "position": 3,
+          "instruction": "Add chicken and simmer until nearly done."
+        },
+        {
+          "position": 4,
+          "instruction": "Add halved hard-boiled eggs and cook 5 more minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 34,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 530,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jollof-chicken",
+      "name": "Jollof Chicken",
+      "description": "Chicken pieces cooked in jollof rice sauce",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "party-food",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato blend",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "curry powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry chicken pieces until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook tomato blend with onion until oil separates."
+        },
+        {
+          "position": 3,
+          "instruction": "Add rice, spices, and water."
+        },
+        {
+          "position": 4,
+          "instruction": "Nestle chicken on top and cook until rice is done."
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 32,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-riz",
+      "name": "Poulet au Riz",
+      "description": "Chicken and rice one-pot from Francophone West Africa",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "one-pot",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato blend",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green beans",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and brown chicken pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and garlic, add tomato blend."
+        },
+        {
+          "position": 3,
+          "instruction": "Add rice, water, and vegetables."
+        },
+        {
+          "position": 4,
+          "instruction": "Add chicken on top, cover and cook until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 30,
+        "carbohydrates": 36,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 510,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "masa-chicken",
+      "name": "Masa with Chicken",
+      "description": "Fermented rice cakes served with shredded chicken",
+      "categories": [
+        "chicken",
+        "breakfast",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yeast",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Ferment rice flour batter overnight."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil and shred chicken with onion and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook masa cakes in a special pan."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve topped with shredded chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 288,
+        "protein": 24,
+        "carbohydrates": 30,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 380,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "atama-soup",
+      "name": "Atama Soup",
+      "description": "Palm leaf soup with chicken from southeastern Nigeria",
+      "categories": [
+        "chicken",
+        "soup",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "atama leaves",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil chicken with onion until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Add palm oil and potash dissolved in water."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in shredded atama leaves and crayfish."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer until soup thickens slightly."
+        }
+      ],
+      "nutrition": {
+        "calories": 298,
+        "protein": 30,
+        "carbohydrates": 4,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ofada-chicken",
+      "name": "Ofada Chicken",
+      "description": "Local chicken in spicy ofada sauce",
+      "categories": [
+        "chicken",
+        "regional",
+        "spicy",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green peppers",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "locust beans",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil and season chicken."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend peppers."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry in palm oil."
+        },
+        {
+          "position": 4,
+          "instruction": "Add chicken and simmer."
+        }
+      ],
+      "nutrition": {
+        "calories": 306,
+        "protein": 32,
+        "carbohydrates": 4,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fried-rice-ng",
+      "name": "Fried Rice Nigerian",
+      "description": "Stir-fried rice with vegetables and chicken",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "party-food",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mixed vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook and cool rice."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry chicken and set aside."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir-fry vegetables."
+        },
+        {
+          "position": 4,
+          "instruction": "Add rice, chicken, and soy sauce, toss together."
+        }
+      ],
+      "nutrition": {
+        "calories": 346,
+        "protein": 26,
+        "carbohydrates": 38,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pepper-chicken-c",
+      "name": "Pepper Chicken Special",
+      "description": "Extra spicy chicken in scotch bonnet sauce",
+      "categories": [
+        "chicken",
+        "spicy",
+        "dinner",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil chicken."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend peppers."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry pepper blend."
+        },
+        {
+          "position": 4,
+          "instruction": "Add chicken and simmer."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jollof-spaghetti",
+      "name": "Jollof Spaghetti",
+      "description": "Spaghetti cooked in jollof sauce with chicken",
+      "categories": [
+        "chicken",
+        "noodles",
+        "party-food",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato blend",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil spaghetti until al dente."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry tomato blend."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss spaghetti in jollof sauce with chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 28,
+        "carbohydrates": 34,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "peppered-snail",
+      "name": "Peppered Snail",
+      "description": "Spicy peppered snail in palm oil sauce",
+      "categories": [
+        "seafood",
+        "spicy",
+        "street-food",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "snails",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean snails thoroughly with lime and salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil snails until tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry pepper blend in palm oil."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss snails in sauce and cook 5 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 282,
+        "protein": 28,
+        "carbohydrates": 2,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 480,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "boboli-fish",
+      "name": "Boboli Grilled Fish",
+      "description": "Whole grilled fish with spicy pepper sauce",
+      "categories": [
+        "seafood",
+        "grill",
+        "dinner",
+        "traditional",
+        "healthy",
+        "spicy"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole fish",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean fish and score the sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate with blended pepper, onion, thyme, and lemon."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium coals, basting with oil."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with extra pepper sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 42,
+        "carbohydrates": 2,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "moi-moi",
+      "name": "Moi Moi",
+      "description": "Steamed peeled-bean pudding, silky-spiced Nigerian classic.",
+      "categories": [
+        "seafood",
+        "vegan-option",
+        "traditional",
+        "breakfast"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 60,
+      "servings": 8,
+      "servingSize": "1 moi moi (180g)",
+      "homePrepCost": 3200,
+      "restaurantPrice": 4500,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "steamed-beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Brown/black-eyed beans peeled",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Red bell & rodo & onion blend",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Palm or neutral oil & stock",
+          "quantity": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Boiled eggs optional centers",
+          "quantity": 4,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend beans fluffy with pepper mix minimal water."
+        },
+        {
+          "position": 2,
+          "instruction": "Whip air in; season; oil fold."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into wraps/molds; steam 55 min set."
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 14,
+        "carbohydrates": 28,
+        "fat": 8,
+        "fiber": 8,
+        "sugar": 5,
+        "sodium": 480,
+        "saturatedFat": 1.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ccjOaLGqiX8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ccjOaLGqiX8",
+          "videoTitle": "Nigerian Moi Moi with Beans Flour | Flo Chinyere",
+          "channelName": "Flo Chinyere",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "akara",
+      "name": "Akara",
+      "description": "Crisp bean fritters fried golden - street breakfast legend.",
+      "categories": [
+        "seafood",
+        "vegan-option",
+        "breakfast",
+        "street-food"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "servingSize": "4 balls (160g)",
+      "homePrepCost": 2200,
+      "restaurantPrice": 3800,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "bean-fritters"
+      ],
+      "ingredients": [
+        {
+          "name": "Peeled beans soaked",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Peppers & onion blend",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Salt & scotch bonnet",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Deep frying oil",
+          "quantity": 900,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend beans airy with peppers; whip hard."
+        },
+        {
+          "position": 2,
+          "instruction": "Scoop rounds into 175°C oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry golden turning; drain paper."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 12,
+        "carbohydrates": 24,
+        "fat": 13,
+        "fiber": 7,
+        "sugar": 3,
+        "sodium": 380,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "eoUbeBXwYHY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=eoUbeBXwYHY",
+          "videoTitle": "How to make Nigerian Akara in 2 ways for beginners | step by step",
+          "channelName": "Tspices Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "asaro-yam-porridge",
+      "name": "Asaro with Chicken (Yam Porridge)",
+      "description": "Yam porridge with chicken, palm oil and peppers - hearty southwestern classic.",
+      "categories": [
+        "chicken",
+        "vegan-option",
+        "comfort-food",
+        "lunch"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": 3800,
+      "restaurantPrice": 5200,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "one-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Puna yam cubes",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Palm oil & pepper-onion blend",
+          "quantity": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "Scent leaves or spinach",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer yam with pepper blend + oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Mash some cubes for creamy body."
+        },
+        {
+          "position": 3,
+          "instruction": "Greens wilt-in; adjust salt."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 5,
+        "carbohydrates": 46,
+        "fat": 9,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 2.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "ewa-agoyin",
+      "name": "Ewa Agoyin",
+      "description": "Mashed beans drowned in slow-fried agoyin pepper sauce.",
+      "categories": [
+        "seafood",
+        "vegan-option",
+        "breakfast",
+        "street-food"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 70,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": 2800,
+      "restaurantPrice": 4500,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "lagos-street"
+      ],
+      "ingredients": [
+        {
+          "name": "Honey beans cooked very soft",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Agoyin sauce: bleached oil + dried pepper-onion-crayfish-free blend fried long",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Agege bread to serve",
+          "quantity": 4,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beans falling-apart soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Mash rough; spoon sauce over generously."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 16,
+        "carbohydrates": 44,
+        "fat": 12,
+        "fiber": 11,
+        "sugar": 6,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "nkwobi",
+      "name": "Nkwobi",
+      "description": "Spiced cow foot in rich palm oil sauce served on a platter",
+      "categories": [
+        "seafood",
+        "starter",
+        "street-food",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cow foot",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "ground crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "utazi leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil cow foot with onion until very tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Dissolve potash in a little water."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix palm oil with potash water until it thickens."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in cooked cow foot, crayfish, pepper, and utazi."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 38,
+        "carbohydrates": 5,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 540,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dodo-gizzards",
+      "name": "Chicken Gizzards with Dodo",
+      "description": "Fried plantain chunks with seasoned gizzard sauce",
+      "categories": [
+        "chicken",
+        "street-food",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken gizzards",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ripe plantain",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean and boil gizzards until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Season and deep-fry gizzards until crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Cut plantain into cubes and fry golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss fried plantain with gizzards, onion, and pepper."
+        }
+      ],
+      "nutrition": {
+        "calories": 368,
+        "protein": 24,
+        "carbohydrates": 32,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 380,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "catfish-pepper-soup",
+      "name": "Catfish Pepper Soup",
+      "description": "Spicy catfish broth with Nigerian spices",
+      "categories": [
+        "seafood",
+        "soup",
+        "spicy",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "catfish",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pepper soup spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "uziza leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean catfish and cut into steaks."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil water with pepper soup spice and onion."
+        },
+        {
+          "position": 3,
+          "instruction": "Add fish steaks and cook gently for 10 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Add uziza and serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 276,
+        "protein": 38,
+        "carbohydrates": 4,
+        "fat": 12,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 490,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "banga-soup-ns",
+      "name": "Banga Soup with Fish",
+      "description": "Palm fruit soup with fresh fish",
+      "categories": [
+        "seafood",
+        "soup",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "fresh fish",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "banga concentrate",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "beletete sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Add fish to boiling banga concentrate."
+        },
+        {
+          "position": 2,
+          "instruction": "Add beletete, crayfish, and pepper."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer gently so fish doesn't break."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook 15 minutes until oil floats on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 332,
+        "protein": 32,
+        "carbohydrates": 6,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 490,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "edikaikong",
+      "name": "Edikaikong",
+      "description": "Mixed vegetable soup with waterleaf and pumpkin leaves",
+      "categories": [
+        "seafood",
+        "soup",
+        "healthy",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pumpkin leaves",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "waterleaf",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "locust beans",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash and shred all vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat palm oil and fry onion and locust beans."
+        },
+        {
+          "position": 3,
+          "instruction": "Add waterleaf and cook down."
+        },
+        {
+          "position": 4,
+          "instruction": "Add pumpkin leaves and crayfish, cook 3 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 12,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 390,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "WcDVR6S_we8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=WcDVR6S_we8",
+          "videoTitle": "How to make Edikaikong soup",
+          "channelName": "Chef Fiffy",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pounded-yam",
+      "name": "Pounded Yam",
+      "description": "Smooth stretchy pounded yam served with soup",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "white yam",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "water",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel and cut yam into chunks."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil in water until very soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Drain and pound with a pestle until smooth."
+        },
+        {
+          "position": 4,
+          "instruction": "Shape into smooth balls and serve with soup."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 4,
+        "carbohydrates": 52,
+        "fat": 0,
+        "fiber": 3,
+        "sugar": 1,
+        "sodium": 120,
+        "saturatedFat": 0
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "2DUgLGvNrMY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=2DUgLGvNrMY",
+          "videoTitle": "how to make pounded yam in a food processor",
+          "channelName": "Chef Aleeza",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fufu",
+      "name": "Fufu Pounded Yam",
+      "description": "Elastic starchy accompaniment made from cassava",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "comfort-food",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cassava flour",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "water",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "palm oil",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix cassava flour with water in a pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir continuously over heat until it forms a thick dough."
+        },
+        {
+          "position": 3,
+          "instruction": "Knead with a wooden spoon until elastic."
+        },
+        {
+          "position": 4,
+          "instruction": "Shape into balls and serve with soup."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 2,
+        "carbohydrates": 54,
+        "fat": 0,
+        "fiber": 2,
+        "sugar": 0,
+        "sodium": 80,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ofada-sauce",
+      "name": "Ofada Sauce",
+      "description": "Spicy green pepper sauce for rice",
+      "categories": [
+        "vegetarian",
+        "side",
+        "spicy",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "green bell peppers",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "locust beans",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend green peppers and scotch bonnets."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat palm oil until smoking."
+        },
+        {
+          "position": 3,
+          "instruction": "Add blended peppers and fry until reduced."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in locust beans and cook 5 more minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 182,
+        "protein": 4,
+        "carbohydrates": 10,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 420,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "asaro",
+      "name": "Asaro",
+      "description": "Yam porridge mashed with tomato and palm oil",
+      "categories": [
+        "seafood",
+        "stew",
+        "comfort-food",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yam",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomatoes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "crayfish",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil cubed yam until soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend tomatoes and fry in palm oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add fried tomato to yam and mash together."
+        },
+        {
+          "position": 4,
+          "instruction": "Season and cook until thick."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 6,
+        "carbohydrates": 44,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 350,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "nkwobi-veg",
+      "name": "Vegetable Nkwobi",
+      "description": "Spiced vegetable medley in thickened palm oil",
+      "categories": [
+        "seafood",
+        "starter",
+        "street-food",
+        "traditional",
+        "vegan-option"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "garden eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "utazi leaves",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm oil",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potash",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "ground crayfish",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice garden eggs into rounds."
+        },
+        {
+          "position": 2,
+          "instruction": "Dissolve potash in water."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix palm oil with potash water until thick."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss vegetables in sauce with crayfish and utazi."
+        }
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": 6,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 380,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "iwa-pepper-soup",
+      "name": "Iwa Pepper Soup",
+      "description": "Spicy catfish pepper soup with uziza",
+      "categories": [
+        "seafood",
+        "soup",
+        "spicy",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "catfish",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pepper soup spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scotch bonnet",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "uziza leaves",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean and slice catfish into steaks."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil pepper soup spice with water and onion."
+        },
+        {
+          "position": 3,
+          "instruction": "Add fish and cook gently for 8 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Garnish with uziza leaves and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 246,
+        "protein": 36,
+        "carbohydrates": 3,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 510,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kokoro",
+      "name": "Kokoro",
+      "description": "Crunchy corn snack sticks from southwestern Nigeria",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "street-food",
+        "traditional",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "corn flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix corn flour with ginger, sugar, and salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water to form a stiff dough."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll into thin sticks."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry until crunchy and golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 228,
+        "protein": 5,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 300,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "DWSxODJv6Qk",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DWSxODJv6Qk",
+          "videoTitle": "HOW TO MAKE KOKORO SNACKS.  TRY  THIS RECIPE. No sugar mixed spices kokoro #kokoro #teammotso",
+          "channelName": "360° Baking Explore",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kuli-kuli",
+      "name": "Kuli Kuli",
+      "description": "Crunchy groundnut cake fried without oil",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "traditional",
+        "budget-friendly",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "groundnuts",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "cayenne pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grind groundnuts into a paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Season with ginger, pepper, and salt."
+        },
+        {
+          "position": 3,
+          "instruction": "Squeeze out oil using a cloth."
+        },
+        {
+          "position": 4,
+          "instruction": "Shape and fry the dry paste until crunchy."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 12,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 340,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rice-water",
+      "name": "Rice Water",
+      "description": "Thin rice porridge served as a light breakfast",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "comfort-food",
+        "budget-friendly",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 50,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash rice thoroughly."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil rice in plenty of water until very soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Mash slightly and let it become porridge-like."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve warm with milk and sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 113,
+        "protein": 4,
+        "carbohydrates": 22,
+        "fat": 1,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 40,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dodo",
+      "name": "Dodo Fried Plantain",
+      "description": "Ripe plantain fried until caramelized golden",
+      "categories": [
+        "vegetarian",
+        "side",
+        "street-food",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ripe plantain",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "pinch"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel plantains and cut into diagonal slices."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat oil in a frying pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry plantain slices until golden on both sides."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain on paper towels and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 246,
+        "protein": 1,
+        "carbohydrates": 38,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 18,
+        "sodium": 200,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kulikuli-crunch",
+      "name": "Kulikuli Crunch",
+      "description": "Roasted groundnut brittle snack",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "traditional",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "groundnuts",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roast groundnuts until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Melt sugar in a pan until caramelized."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix groundnuts with sugar, ginger, and pepper."
+        },
+        {
+          "position": 4,
+          "instruction": "Spread on a greased surface and cut into bars."
+        }
+      ],
+      "nutrition": {
+        "calories": 276,
+        "protein": 10,
+        "carbohydrates": 14,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 360,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "puff-puff",
+      "name": "Puff Puff",
+      "description": "Airy yeast doughnut spheres - every party's opening act.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "street-food",
+        "snack"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 10,
+      "servingSize": "5 balls (170g)",
+      "homePrepCost": 2500,
+      "restaurantPrice": 4000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 92,
+      "tags": [
+        "party-staple"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Yeast & sugar & nutmeg & pinch salt",
+          "quantity": 3,
+          "unit": "tsp"
+        },
+        {
+          "name": "Lukewarm water",
+          "quantity": 450,
+          "unit": "ml"
+        },
+        {
+          "name": "Deep frying oil",
+          "quantity": 1000,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slack batter; rise 50 min bubbly."
+        },
+        {
+          "position": 2,
+          "instruction": "Squeeze-round drops into 175°C oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry rolling till uniform brown; drain."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 4,
+        "carbohydrates": 38,
+        "fat": 7,
+        "fiber": 1.2,
+        "sugar": 10,
+        "sodium": 140,
+        "saturatedFat": 0.9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "SaFwHF0cOtg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=SaFwHF0cOtg",
+          "videoTitle": "Best Puff-Puff Recipe | Easy Nigerian Snack Tutorial (Step by Step)",
+          "channelName": "Sim's Home Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chin-chin",
+      "name": "Chin Chin",
+      "description": "Crunchy sweet fried dough bites in endless jars.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "snack",
+        "party-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 35,
+      "cookTimeMin": 25,
+      "servings": 16,
+      "servingSize": "1 cup handful (80g)",
+      "homePrepCost": 3000,
+      "restaurantPrice": 5000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "crunchy"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour + sugar + butter + milk dough",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Nutmeg & baking powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Deep frying oil",
+          "quantity": 1200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead firm sweet dough; rest 20."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll; cut small squares."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry batches golden; cool to crunch."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 6,
+        "carbohydrates": 48,
+        "fat": 16,
+        "fiber": 1.5,
+        "sugar": 16,
+        "sodium": 95,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "LePP7XKMn9s",
+          "youtubeUrl": "https://www.youtube.com/watch?v=LePP7XKMn9s",
+          "videoTitle": "How to make the Best Crunchy & Milky Chin Chin in Bulk. Very detailed and Beginner friendly",
+          "channelName": "Recipes By Jenny",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "mango-mousse",
+      "name": "Mango Mousse",
+      "description": "Light and airy mango cream dessert",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "easy-recipes"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "mango pulp",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "whipping cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "gelatin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bloom gelatin in water and melt."
+        },
+        {
+          "position": 2,
+          "instruction": "Whip cream to soft peaks."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold mango pulp, sugar, and gelatin into cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Chill for 2 hours until set."
+        }
+      ],
+      "nutrition": {
+        "calories": 272,
+        "protein": 4,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 22,
+        "sodium": 80,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XlRYcSL7E1o",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XlRYcSL7E1o",
+          "videoTitle": "Easy Mango Dessert | Mango Mousse Recipe",
+          "channelName": "Cozy Desserts",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chocolate-cake-ng",
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate cake with cocoa frosting",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "celebration",
+        "baked",
+        "party-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cocoa powder",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "baking powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cream butter and sugar until fluffy."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat in eggs one at a time."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold in flour, cocoa, and baking powder alternately with milk."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180C for 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 8,
+        "carbohydrates": 42,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 22,
+        "sodium": 320,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "G_IAd7jVfF0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=G_IAd7jVfF0",
+          "videoTitle": "NIGERIAN CHOCOLATE CAKE RECIPE/FLUFFY AND YUMMY TO THE LAST BITE",
+          "channelName": "Titilayo Sheriff",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pawpaw-cream",
+      "name": "Pawpaw Cream",
+      "description": "Creamy chilled papaya dessert",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pawpaw",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Scoop ripe pawpaw flesh into chunks."
+        },
+        {
+          "position": 2,
+          "instruction": "Whip cream with sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold pawpaw into cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Chill and serve with a squeeze of lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 216,
+        "protein": 3,
+        "carbohydrates": 24,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 18,
+        "sodium": 60,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "coconut-candy",
+      "name": "Coconut Candy",
+      "description": "Sweet chewy coconut fudge",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "snack",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "grated coconut",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "vanilla",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Combine sugar and water in a heavy pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook until it reaches soft-ball stage."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in grated coconut and vanilla."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into greased tray and cut when cool."
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 3,
+        "carbohydrates": 30,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 60,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "coconut-candy-c",
+      "name": "Coconut Candy Sweet",
+      "description": "Chewy coconut fudge pieces",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "snack",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "grated coconut",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "vanilla",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook sugar and water."
+        },
+        {
+          "position": 2,
+          "instruction": "Add coconut and stir."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into greased tray."
+        },
+        {
+          "position": 4,
+          "instruction": "Cut when cool."
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 3,
+        "carbohydrates": 30,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 60,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fried-ice-cream-ng",
+      "name": "Fried Ice Cream",
+      "description": "Deep-fried ice cream balls with coating",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "party-food",
+        "street-food",
+        "snack"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "vanilla ice cream",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cornflakes",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Scoop ice cream and freeze hard."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in flour, egg, then cornflakes."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry 30 seconds."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 5,
+        "carbohydrates": 24,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 16,
+        "sodium": 100,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "knock-knock",
+      "name": "Knock Knock Pastry",
+      "description": "Flaky pastry filled with egg and spice",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "breakfast",
+        "snack",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vanilla",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Make pastry dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill with egg mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Seal and shape."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry until golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 8,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 320,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fura-da-nono",
+      "name": "Fura da Nono",
+      "description": "Millet balls with fermented milk drink",
+      "categories": [
+        "desserts",
+        "breakfast",
+        "street-food",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "millet flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fermented milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "cloves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook millet flour with water into a thick dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Knead with ginger and cloves into smooth balls."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve dissolved in cold fermented milk."
+        },
+        {
+          "position": 4,
+          "instruction": "Add sugar to taste."
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 8,
+        "carbohydrates": 28,
+        "fat": 4,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 200,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-asun-style",
+      "name": "Chicken Asun (Peppered Smoked Chicken)",
+      "description": "Smoky grilled chicken tossed in spicy pepper sauce - chicken version of Asun.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "spicy",
+        "grill",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scotch bonnet",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Bouillon cube",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with thyme, bouillon and salt, grill over charcoal until 80% cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend scotch bonnet, onion and bell pepper coarsely."
+        },
+        {
+          "position": 3,
+          "instruction": "Heat oil, fry pepper blend 5 minutes until fragrant."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss grilled chicken in pepper sauce, smoke 5 more minutes and serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 385,
+        "protein": 34,
+        "carbohydrates": 8,
+        "fat": 24,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    }
+  ]
+}

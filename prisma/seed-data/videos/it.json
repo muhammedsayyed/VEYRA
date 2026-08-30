@@ -1,0 +1,117 @@
+{
+  "countryCode": "it",
+  "videos": [
+    {
+      "recipeSlug": "tiramisu",
+      "youtubeVideoId": "Y_Ev7AzI6mg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y_Ev7AzI6mg",
+      "videoTitle": "Homemade Tiramisu That Tastes Like Italy",
+      "channelName": "Giallo Zafferano"
+    },
+    {
+      "recipeSlug": "pizza-margherita",
+      "youtubeVideoId": "F_W3wmOQdns",
+      "youtubeUrl": "https://www.youtube.com/watch?v=F_W3wmOQdns",
+      "videoTitle": "Authentic Italian Margherita Pizza",
+      "channelName": "Giallo Zafferano"
+    },
+    {
+      "recipeSlug": "tagliatelle-ragu-bolognese",
+      "youtubeVideoId": "Fco9TZYnkVE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fco9TZYnkVE",
+      "videoTitle": "Classic Tagliatelle al Ragu Bolognese | Pasta Bolognese | Food Channel L Recipes",
+      "channelName": "Food Channel L | Lora Naydenova"
+    },
+    {
+      "recipeSlug": "ossobuco-alla-milanese",
+      "youtubeVideoId": "JybEISCidNY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JybEISCidNY",
+      "videoTitle": "How to make Ossobuco alla milanese",
+      "channelName": "AMC International"
+    },
+    {
+      "recipeSlug": "bistecca-alla-fiorentina",
+      "youtubeVideoId": "FdMGxZRj4TM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FdMGxZRj4TM",
+      "videoTitle": "Bistecca alla Fiorentina - Italy's Most Famous Steak at the Best Steakhouse in Florence!",
+      "channelName": "Vincenzo's Plate"
+    },
+    {
+      "recipeSlug": "chicken-cacciatore",
+      "youtubeVideoId": "mJ0QgzMjdrU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mJ0QgzMjdrU",
+      "videoTitle": "AUTHENTIC ITALIAN CHICKEN CACCIATORE",
+      "channelName": "Padellando_con_Ivan"
+    },
+    {
+      "recipeSlug": "pollo-alla-milanese",
+      "youtubeVideoId": "DVQ5MMlEBSA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DVQ5MMlEBSA",
+      "videoTitle": "Chicken Milanese / Pollo alla Milanese",
+      "channelName": "What to eat?"
+    },
+    {
+      "recipeSlug": "chicken-parmigiana",
+      "youtubeVideoId": "zdOWiSdLN44",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zdOWiSdLN44",
+      "videoTitle": "Crispy Chicken Parmigiana (Pollo alla Parmigiana) | Italian-American Comfort Food",
+      "channelName": "Happy Mediterranean"
+    },
+    {
+      "recipeSlug": "pollo-alla-romana",
+      "youtubeVideoId": "2apmCCz8axY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2apmCCz8axY",
+      "videoTitle": "How to Make Pollo alla Romana - Roman Style Chicken",
+      "channelName": "bestbitesforever"
+    },
+    {
+      "recipeSlug": "pollo-arrosto",
+      "youtubeVideoId": "ObH9XhTTBzA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ObH9XhTTBzA",
+      "videoTitle": "Chicken Roast | Arrosto di pollo",
+      "channelName": "Nilas Italian Kitchen"
+    },
+    {
+      "recipeSlug": "risotto-ai-funghi",
+      "youtubeVideoId": "KCag-eSLES8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KCag-eSLES8",
+      "videoTitle": "Mushroom Risotto - Risotto ai Funghi",
+      "channelName": "Francesco Mattana"
+    },
+    {
+      "recipeSlug": "panna-cotta",
+      "youtubeVideoId": "z0EuLWudR-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=z0EuLWudR-Q",
+      "videoTitle": "How to Make PANNA COTTA Like an Italian",
+      "channelName": "Vincenzo's Plate"
+    },
+    {
+      "recipeSlug": "cannoli",
+      "youtubeVideoId": "Fm7JBQGp6vw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fm7JBQGp6vw",
+      "videoTitle": "Homemade Sicilian Cannoli from Scratch | A Warm Day with us in the Kitchen",
+      "channelName": "Tortellino"
+    },
+    {
+      "recipeSlug": "sfogliatelle",
+      "youtubeVideoId": "9hI6CHgymPQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9hI6CHgymPQ",
+      "videoTitle": "Sfogliatella: la ricetta originale di uno dei più difficili dolci italiani con Sabatino Sirica",
+      "channelName": "Italia Squisita"
+    },
+    {
+      "recipeSlug": "minestrone",
+      "youtubeVideoId": "alU_S3c8XBo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=alU_S3c8XBo",
+      "videoTitle": "Homemade Minestrone Soup | Keep Cooking & Carry On | Jamie Oliver",
+      "channelName": "Jamie Oliver"
+    },
+    {
+      "recipeSlug": "bruschetta",
+      "youtubeVideoId": "Q3xg35pcLyo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q3xg35pcLyo",
+      "videoTitle": "How to Make Italian BRUSCHETTA - Easy Appetizer",
+      "channelName": "Natashas Kitchen"
+    }
+  ]
+}

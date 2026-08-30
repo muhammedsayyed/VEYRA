@@ -1,0 +1,22 @@
+[
+  { "code": "eg", "slug": "egypt",                "name": "Egypt",               "region": "Middle East & North Africa", "cuisineLabel": "Egyptian",   "currency": "EGP" },
+  { "code": "sa", "slug": "saudi-arabia",         "name": "Saudi Arabia",        "region": "Middle East & North Africa", "cuisineLabel": "Saudi",      "currency": "SAR" },
+  { "code": "ae", "slug": "united-arab-emirates", "name": "United Arab Emirates","region": "Middle East & North Africa", "cuisineLabel": "Emirati",    "currency": "AED" },
+  { "code": "tr", "slug": "turkey",               "name": "Turkey",              "region": "Middle East & North Africa", "cuisineLabel": "Turkish",    "currency": "TRY" },
+  { "code": "ma", "slug": "morocco",              "name": "Morocco",             "region": "Middle East & North Africa", "cuisineLabel": "Moroccan",   "currency": "MAD" },
+  { "code": "it", "slug": "italy",                "name": "Italy",               "region": "Europe",                     "cuisineLabel": "Italian",    "currency": "EUR" },
+  { "code": "fr", "slug": "france",               "name": "France",              "region": "Europe",                     "cuisineLabel": "French",     "currency": "EUR" },
+  { "code": "es", "slug": "spain",                "name": "Spain",               "region": "Europe",                     "cuisineLabel": "Spanish",    "currency": "EUR" },
+  { "code": "de", "slug": "germany",              "name": "Germany",             "region": "Europe",                     "cuisineLabel": "German",     "currency": "EUR" },
+  { "code": "gb", "slug": "united-kingdom",       "name": "United Kingdom",      "region": "Europe",                     "cuisineLabel": "British",    "currency": "GBP" },
+  { "code": "gr", "slug": "greece",               "name": "Greece",              "region": "Europe",                     "cuisineLabel": "Greek",      "currency": "EUR" },
+  { "code": "us", "slug": "united-states",        "name": "United States",       "region": "Americas",                   "cuisineLabel": "American",   "currency": "USD" },
+  { "code": "mx", "slug": "mexico",               "name": "Mexico",              "region": "Americas",                   "cuisineLabel": "Mexican",    "currency": "MXN" },
+  { "code": "br", "slug": "brazil",               "name": "Brazil",              "region": "Americas",                   "cuisineLabel": "Brazilian",  "currency": "BRL" },
+  { "code": "in", "slug": "india",                "name": "India",               "region": "Asia",                       "cuisineLabel": "Indian",     "currency": "INR" },
+  { "code": "cn", "slug": "china",                "name": "China",               "region": "Asia",                       "cuisineLabel": "Chinese",    "currency": "CNY" },
+  { "code": "jp", "slug": "japan",                "name": "Japan",               "region": "Asia",                       "cuisineLabel": "Japanese",   "currency": "JPY" },
+  { "code": "kr", "slug": "south-korea",          "name": "South Korea",         "region": "Asia",                       "cuisineLabel": "Korean",     "currency": "KRW" },
+  { "code": "th", "slug": "thailand",             "name": "Thailand",            "region": "Asia",                       "cuisineLabel": "Thai",       "currency": "THB" },
+  { "code": "ng", "slug": "nigeria",              "name": "Nigeria",             "region": "Africa",                     "cuisineLabel": "Nigerian",   "currency": "NGN" }
+]

@@ -25,6 +25,7 @@ export type Screen =
   | "coach"
   | "ai"
   | "profile"
+  | "preferences"
   | "pantry"
   | "shopping"
   | "planner"
@@ -157,6 +158,12 @@ export interface FoodItem {
   currency?: string // e.g. EGP, USD, JPY, EUR, GBP
   country?: string
   youtubeUrl?: string
+  videos?: Array<{
+    youtubeVideoId: string
+    youtubeUrl: string
+    videoTitle?: string | null
+    channelName?: string | null
+  }>
 }
 
 export interface PantryItem {

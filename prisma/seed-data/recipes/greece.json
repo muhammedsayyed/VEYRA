@@ -1,0 +1,6694 @@
+{
+  "countryCode": "gr",
+  "recipes": [
+    {
+      "slug": "moussaka",
+      "name": "Moussaka",
+      "description": "Layered eggplant, spiced beef and béchamel baked until bronzed.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 60,
+      "cookTimeMin": 75,
+      "servings": 8,
+      "servingSize": "1 square (300g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 15,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 94,
+      "tags": [
+        "oven-bake",
+        "iconic"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "sliced, roasted"
+        },
+        {
+          "name": "Ground Beef",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Onion, Garlic & Cinnamon",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Chopped Tomatoes & Red Wine",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Béchamel + Kefalotyri",
+          "quantity": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Potatoes (base layer)",
+          "quantity": 400,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roast eggplant; brown beef with aromatics into thick sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer potato-eggplant-meat twice; top with béchamel."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180°C 50 min; rest 30 min before cutting."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 26,
+        "carbohydrates": 34,
+        "fat": 31,
+        "fiber": 6,
+        "sugar": 11,
+        "sodium": 720,
+        "saturatedFat": 13
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "W-2qdsVNHQo",
+          "youtubeUrl": "https://www.youtube.com/watch?v=W-2qdsVNHQo",
+          "videoTitle": "Amazing Moussaka Recipe",
+          "channelName": "Preppy Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 135,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-stifado",
+      "name": "Beef Stifado",
+      "description": "Pearl-onion red-wine beef stew perfumed with cinnamon and allspice.",
+      "categories": [
+        "beef",
+        "traditional",
+        "winter"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 150,
+      "servings": 5,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": 13,
+      "restaurantPrice": 18,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "onion-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Stew Cubes",
+          "quantity": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Red Wine & Red Wine Vinegar",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Tomatoes, Cinnamon & Allspice",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "name": "Bay Leaves & Garlic",
+          "quantity": 4,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef in wine/vinegar 2+ hours; pat dry, brown."
+        },
+        {
+          "position": 2,
+          "instruction": "Add marinade, tomatoes, spices; braise 90 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Blanched pearl onions in; cook 40 more till jammy."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 41,
+        "carbohydrates": 22,
+        "fat": 24,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 620,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XM22m3AoUCQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XM22m3AoUCQ",
+          "videoTitle": "Stifado - Beef Stifado Recipe - Greek Beef Stew by Theo Michaels, Masterchef",
+          "channelName": "Theo Michaels",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 175,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pastitsio",
+      "name": "Pastitsio",
+      "description": "Greek lasagna: tubular pasta, cinnamon meat sauce, nutmeg béchamel cap.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 55,
+      "cookTimeMin": 70,
+      "servings": 10,
+      "servingSize": "1 slice (310g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 14,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "pasta-bake"
+      ],
+      "ingredients": [
+        {
+          "name": "Pastitsio Pasta No.2 or Ziti",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Ground Beef",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Cinnamon Tomato Sauce",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Nutmeg Béchamel",
+          "quantity": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "Kefalotyri Cheese",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil pasta; make cinnamon meat ragu."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer pasta-meat-pasta-béchamel; cheese over."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180°C ~45 min; rest well before slicing."
+        }
+      ],
+      "nutrition": {
+        "calories": 610,
+        "protein": 31,
+        "carbohydrates": 52,
+        "fat": 29,
+        "fiber": 3.5,
+        "sugar": 9,
+        "sodium": 780,
+        "saturatedFat": 14
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XW1sN2rMxqw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XW1sN2rMxqw",
+          "videoTitle": "Pastitsio | Greek Pastitsio Recipe",
+          "channelName": "Ken's Greek Table",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 125,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "yiouvetsi-beef",
+      "name": "Yiouvetsi (Beef with Kritharaki)",
+      "description": "Beef braised until the orzo drinks every drop of tomato-cinnamon broth.",
+      "categories": [
+        "beef",
+        "traditional",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 130,
+      "servings": 4,
+      "servingSize": "1 clay pot (360g)",
+      "homePrepCost": 11,
+      "restaurantPrice": 16,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "orzo",
+        "clay-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shank",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Kritharaki Orzo",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Crushed Tomatoes & Cinnamon Stick",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Onion & Garlic",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Graviera to Finish",
+          "quantity": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef with onion; add tomatoes, spice, water."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 90 minutes until nearly tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in orzo; bake/steam 25 min absorbed; cheese on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 38,
+        "carbohydrates": 48,
+        "fat": 22,
+        "fiber": 3.5,
+        "sugar": 8,
+        "sodium": 640,
+        "saturatedFat": 8.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "j1s1ZP51l4M",
+          "youtubeUrl": "https://www.youtube.com/watch?v=j1s1ZP51l4M",
+          "videoTitle": "The Secret to the Best Youvetsi: A Greek Grandma's Recipe",
+          "channelName": "Greek Cuisine",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 155,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chicken-souvlaki",
+      "name": "Chicken Souvlaki",
+      "description": "Lemon-oregano chicken skewers wrapped in pita with tzatziki.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 wrap (320g)",
+      "homePrepCost": 7,
+      "restaurantPrice": 9.5,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "grill",
+        "wrap"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": "cubes"
+        },
+        {
+          "name": "Lemon-Oregano Marinade",
+          "quantity": 200,
+          "unit": "ml",
+          "note": "lemon, olive oil, oregano, garlic"
+        },
+        {
+          "name": "Pita Breads",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Tzatziki",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato & Red Onion",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate cubes 2+ hours; skewer."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill hot ~12 minutes turning."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap in grilled pita with tzatziki and salads."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 45,
+        "carbohydrates": 46,
+        "fat": 27,
+        "fiber": 3.5,
+        "sugar": 6,
+        "sodium": 890,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Cg5TZJ2lZPQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Cg5TZJ2lZPQ",
+          "videoTitle": "The Ultimate Chicken Souvlaki Board/Platter",
+          "channelName": "Dimitra's Dishes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chicken-gyros",
+      "name": "Chicken Gyros",
+      "description": "Stacked marinated chicken shaved thin, fries inside the pita - Greek way.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 35,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 pita (340g)",
+      "homePrepCost": 7.5,
+      "restaurantPrice": 8,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "vertical-roast"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Gyros Marinade (yogurt-lemon-paprika-oregano)",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Pita + Tzatziki + Tomato + Fries",
+          "quantity": 4,
+          "unit": "sets"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate overnight; stack onto skewer loaf."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast vertical-ish at 190°C 50 min, shaving edges."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill pitas: gyros, tzatziki, tomato, chips."
+        }
+      ],
+      "nutrition": {
+        "calories": 720,
+        "protein": 43,
+        "carbohydrates": 62,
+        "fat": 33,
+        "fiber": 4.5,
+        "sugar": 7,
+        "sodium": 1050,
+        "saturatedFat": 7.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "mxqAMcoYS3U",
+          "youtubeUrl": "https://www.youtube.com/watch?v=mxqAMcoYS3U",
+          "videoTitle": "Homemade Chicken Gyros | Akis Petretzikis",
+          "channelName": "Akis Petretzikis",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kotopoulo-skorthato",
+      "name": "Kotopoulo Skorthato",
+      "description": "Golden lemon-garlic roast chicken with potatoes in its juices.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 85,
+      "servings": 4,
+      "servingSize": "1 quarter + potatoes (380g)",
+      "homePrepCost": 9,
+      "restaurantPrice": 14,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "one-pan-roast"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 800,
+          "unit": "g",
+          "note": "wedges"
+        },
+        {
+          "name": "Garlic Cloves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": "slivered under skin"
+        },
+        {
+          "name": "Lemon Juice & Oregano & Olive Oil",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Chicken Stock Splash",
+          "quantity": 200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Tuck garlic under skin; season with oregano."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast with potatoes at 195°C 75 min, basting lemon-oil-stock."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest; spoon pan juices over."
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 39,
+        "carbohydrates": 42,
+        "fat": 33,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 7.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kotopoulo-lemonato",
+      "name": "Kotopoulo Lemonato",
+      "description": "Skillet lemon chicken with bright avgolemono-style pan sauce.",
+      "categories": [
+        "chicken",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 portion (280g)",
+      "homePrepCost": 6.5,
+      "restaurantPrice": 12,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "lemon",
+        "skillet"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Lemon Juice & Zest",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Oregano & Garlic",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "name": "Chicken Broth",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season; sear chicken golden both sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add garlic, broth, lemon; simmer 10 minutes covered."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce glossy; finish with oregano."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 44,
+        "carbohydrates": 4,
+        "fat": 15,
+        "fiber": 0.8,
+        "sugar": 1.5,
+        "sodium": 580,
+        "saturatedFat": 2.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "GTxsJIG2OoY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=GTxsJIG2OoY",
+          "videoTitle": "Kotopoulo Lemonato (Greek-Style Lemon Chicken)",
+          "channelName": "Giselle Flavour Table",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "horiatiki-salad",
+      "name": "Horiatiki (Greek Salad)",
+      "description": "Tomato, cucumber, olives, onion and a slab of feta under dried oregano - no lettuce allowed.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "street-food",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 5.5,
+      "restaurantPrice": 9,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 91,
+      "tags": [
+        "no-cook",
+        "iconic"
+      ],
+      "ingredients": [
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": 600,
+          "unit": "g",
+          "note": "wedged"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 400,
+          "unit": "g",
+          "note": "thick half-moons"
+        },
+        {
+          "name": "Kalamata Olives",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Feta Block",
+          "quantity": 200,
+          "unit": "g",
+          "note": "one slab per bowl"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "thin rings"
+        },
+        {
+          "name": "Olive Oil & Dried Oregano",
+          "quantity": 80,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season vegetables; toss gently with oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Top with whole feta slab; oregano snowfall."
+        },
+        {
+          "position": 3,
+          "instruction": "More oil; serve with bread for juice mopping."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 11,
+        "carbohydrates": 14,
+        "fat": 22,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 850,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "j7rU-1-s7NM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=j7rU-1-s7NM",
+          "videoTitle": "Greek Salad Recipe | How to Make Greek Salad",
+          "channelName": "The Cooking Foodie",
+          "isPrimary": true
+        }
+      ],
+      "cookTimeMin": 25,
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "spanakopita",
+      "name": "Spanakopita",
+      "description": "Spinach-feta-herb pie in shattering phyllo layers.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 55,
+      "servings": 8,
+      "servingSize": "1 slice (220g)",
+      "homePrepCost": 6,
+      "restaurantPrice": 6.5,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "phyllo-pie"
+      ],
+      "ingredients": [
+        {
+          "name": "Spinach",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "wilted, squeezed dry"
+        },
+        {
+          "name": "Feta",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Spring Onions & Dill & Eggs",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Phyllo Sheets",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Olive Oil (or butter) between layers",
+          "quantity": 150,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix dry spinach with crumbled feta, herbs, eggs."
+        },
+        {
+          "position": 2,
+          "instruction": "Line pan with 8 oiled phyllo; fill; cap with 8 more."
+        },
+        {
+          "position": 3,
+          "instruction": "Score; bake 175°C 50 min until deep gold."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 14,
+        "carbohydrates": 28,
+        "fat": 23,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 780,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Wyj4kpsjv4o",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Wyj4kpsjv4o",
+          "videoTitle": "The Best Greek Spanakopita (Updated Video)",
+          "channelName": "Dimitra's Dishes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "fasolada",
+      "name": "Fasolada",
+      "description": "Ancient white-bean-tomato soup, Greece's national comfort.",
+      "categories": [
+        "vegetarian",
+        "budget-friendly",
+        "healthy",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 75,
+      "servings": 6,
+      "servingSize": "1 bowl (340g)",
+      "homePrepCost": 3,
+      "restaurantPrice": 6,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "bean-soup",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "White Beans",
+          "quantity": 400,
+          "unit": "g",
+          "note": "soaked"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Carrot, Celery & Onion",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Olive Oil (generous)",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Bay & Parsley",
+          "quantity": 3,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer beans till tender (~60 min)."
+        },
+        {
+          "position": 2,
+          "instruction": "Add vegetables, tomatoes, oil; cook 20 more."
+        },
+        {
+          "position": 3,
+          "instruction": "Season boldly; finish with raw olive oil drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 15,
+        "carbohydrates": 44,
+        "fat": 10,
+        "fiber": 14,
+        "sugar": 10,
+        "sodium": 520,
+        "saturatedFat": 1.4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "iXHGsZknzKQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=iXHGsZknzKQ",
+          "videoTitle": "FASOLADA — GREECE’S NATIONAL DISH (TRADITIONAL GREEK BEAN SOUP) 🇬🇷",
+          "channelName": "Christina Dynamite",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "gigantes-plaki",
+      "name": "Gigantes Plaki",
+      "description": "Giant beans baked in sweet tomato-dill sauce until creamy.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "meze",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 90,
+      "servings": 5,
+      "servingSize": "1 dish (260g)",
+      "homePrepCost": 4,
+      "restaurantPrice": 7,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "baked-beans"
+      ],
+      "ingredients": [
+        {
+          "name": "Giant White Beans",
+          "quantity": 450,
+          "unit": "g",
+          "note": "soaked overnight"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Dill & Parsley",
+          "quantity": 25,
+          "unit": "g"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil beans 30 minutes; drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Make tomato sauce with onions/garlic/herbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine; bake covered 170°C ~1 hour till buttery."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 16,
+        "carbohydrates": 48,
+        "fat": 11,
+        "fiber": 15,
+        "sugar": 12,
+        "sodium": 480,
+        "saturatedFat": 1.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "loukoumades",
+      "name": "Loukoumades",
+      "description": "Honey doughnut puffs with cinnamon and crushed walnuts.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "servingSize": "10 puffs (160g)",
+      "homePrepCost": 3.5,
+      "restaurantPrice": 6.5,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "honey-puffs"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Yeast & Sugar & Warm Water",
+          "quantity": 420,
+          "unit": "ml"
+        },
+        {
+          "name": "Honey Syrup (honey-water-lemon)",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Walnuts & Cinnamon",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 800,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat batter; rise 1 hour till bubbly."
+        },
+        {
+          "position": 2,
+          "instruction": "Drop rings of dough into 180°C oil; fry deep gold."
+        },
+        {
+          "position": 3,
+          "instruction": "Soak seconds in syrup; walnut-cinnamon dust."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 6,
+        "carbohydrates": 62,
+        "fat": 13,
+        "fiber": 1.8,
+        "sugar": 36,
+        "sodium": 95,
+        "saturatedFat": 1.8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "galaktoboureko",
+      "name": "Galaktoboureko",
+      "description": "Semolina custard wrapped in crisp phyllo, soaked in lemon syrup.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 60,
+      "cookTimeMin": 55,
+      "servings": 12,
+      "servingSize": "1 piece (140g)",
+      "homePrepCost": 7,
+      "restaurantPrice": 6,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "custard-phyllo"
+      ],
+      "ingredients": [
+        {
+          "name": "Semolina Custard (milk-sugar-eggs-semolina)",
+          "quantity": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Phyllo Sheets",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "name": "Melted Butter",
+          "quantity": 220,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar-Lemon Syrup",
+          "quantity": 400,
+          "unit": "ml",
+          "note": "cold over hot bake"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook thick custard; cool slightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll custard logs in phyllo; butter each fold; arrange snuggly."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 170°C 50 min; cold syrup immediately over."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 8,
+        "carbohydrates": 52,
+        "fat": 19,
+        "fiber": 0.8,
+        "sugar": 34,
+        "sodium": 260,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "tM2cbXWHSLY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=tM2cbXWHSLY",
+          "videoTitle": "Galaktoboureko: Greek Custard Pie Perfection!",
+          "channelName": "Dimitra's Dishes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 115,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bifteki",
+      "name": "Bifteki",
+      "description": "Hand-formed Greek beef patties stuffed with feta and oregano.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 patty (220g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta Cheese",
+          "quantity": 150,
+          "unit": "g",
+          "note": "crumbled"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 120,
+          "unit": "g",
+          "note": "finely diced"
+        },
+        {
+          "name": "Bread Crumbs",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Oregano and Garlic",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season beef with oregano, garlic, salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into thick patties, pressing feta into center."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium-high heat 5 minutes each side until charred."
+        }
+      ],
+      "nutrition": {
+        "calories": 392,
+        "protein": 32,
+        "carbohydrates": 12,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 32
+    },
+    {
+      "slug": "stifado",
+      "name": "Stifado",
+      "description": "Slow-braised beef with pearl onions, cinnamon and red wine.",
+      "categories": [
+        "beef",
+        "stew",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 120,
+      "servings": 5,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 500,
+          "unit": "g",
+          "note": "peeled"
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic Cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef in batches; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onions; add wine, vinegar, tomatoes, spices."
+        },
+        {
+          "position": 3,
+          "instruction": "Return beef; simmer covered 2 hours until fork-tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 422,
+        "protein": 38,
+        "carbohydrates": 18,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 620,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 145
+    },
+    {
+      "slug": "yiouvetsi",
+      "name": "Yiouvetsi",
+      "description": "Beef and kritharaki orzo in cinnamon-spiced tomato broth.",
+      "categories": [
+        "beef",
+        "clay-pot",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 110,
+      "servings": 4,
+      "servingSize": "1 clay pot (380g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "clay-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shank",
+          "quantity": 900,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Kritharaki Orzo",
+          "quantity": 320,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Graviera Cheese",
+          "quantity": 80,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef with onion; add tomatoes, spice, and water."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer covered 90 minutes until nearly tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in orzo; cook uncovered 20 minutes until absorbed; top with cheese."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 35,
+        "carbohydrates": 42,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 7,
+        "sodium": 580,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 135
+    },
+    {
+      "slug": "keftedes",
+      "name": "Keftedes",
+      "description": "Crispy Greek meatballs seasoned with mint and cinnamon.",
+      "categories": [
+        "beef",
+        "meze",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "5 meatballs (240g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "meze",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bread Crumbs",
+          "quantity": 80,
+          "unit": "g",
+          "note": "soaked in milk"
+        },
+        {
+          "name": "Onion",
+          "quantity": 100,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Fresh Mint",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 2,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 40,
+          "unit": "g",
+          "note": "for dredging"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": "for shallow-frying"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix beef with soaked bread, onion, egg, mint, cinnamon, salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Form small balls; dust lightly in flour."
+        },
+        {
+          "position": 3,
+          "instruction": "Shallow-fry in olive oil until golden brown all over."
+        }
+      ],
+      "nutrition": {
+        "calories": 370,
+        "protein": 28,
+        "carbohydrates": 15,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 540,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "pastitsio-meat",
+      "name": "Pastitsio ala Polita",
+      "description": "Istanbul-style pastitsio with spiced lamb and tubular pasta.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 40,
+      "cookTimeMin": 50,
+      "servings": 8,
+      "servingSize": "1 slice (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Lamb",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pastitsio Pasta",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon and Allspice",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bechamel",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Kefalotyri",
+          "quantity": 80,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown lamb with spices; make thick tomato ragu."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook pasta al dente; drain."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer pasta, meat, bechamel; cheese on top; 180C 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 478,
+        "protein": 30,
+        "carbohydrates": 40,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 720,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90
+    },
+    {
+      "slug": "beef-giouvetsi",
+      "name": "Beef Giouvetsi",
+      "description": "Hearty beef chunks braised with tomato and orzo in a clay pot.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 110,
+      "servings": 4,
+      "servingSize": "1 plate (380g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 900,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Orzo",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion and Garlic",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Graviera",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef cubes; deglaze with wine."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomatoes, cinnamon, water; simmer 90 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Add orzo to pot; cook until al dente; finish with grated cheese."
+        }
+      ],
+      "nutrition": {
+        "calories": 500,
+        "protein": 36,
+        "carbohydrates": 44,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 7,
+        "sodium": 600,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 130
+    },
+    {
+      "slug": "soutzoukakia",
+      "name": "Soutzoukakia Smyrneika",
+      "description": "Elongated beef meatballs in a fragrant tomato-wine sauce from Smyrna.",
+      "categories": [
+        "beef",
+        "stew",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "4 meatballs plus sauce (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Cumin and Cinnamon",
+          "quantity": 4,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bread Crumbs",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shape beef into torpedo shapes with garlic, cumin, cinnamon, bread crumbs and egg."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown in olive oil; remove."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer tomatoes and wine; return meatballs; cook 30 minutes gently."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 30,
+        "carbohydrates": 14,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "kontosouvli",
+      "name": "Kontosouvli",
+      "description": "Greek slow-roasted pork on the spit seasoned with lemon and oregano.",
+      "categories": [
+        "beef",
+        "grill",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 30,
+      "cookTimeMin": 120,
+      "servings": 6,
+      "servingSize": "1 portion (250g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "celebration"
+      ],
+      "ingredients": [
+        {
+          "name": "Pork Shoulder",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "bone-in chunks"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Oregano and Garlic",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sweet Paprika",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate pork in lemon, oregano, garlic, paprika, oil for 4 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread onto large skewer; tie with wire."
+        },
+        {
+          "position": 3,
+          "instruction": "Slow-roast over charcoal 2 hours, basting with marinade."
+        }
+      ],
+      "nutrition": {
+        "calories": 425,
+        "protein": 40,
+        "carbohydrates": 10,
+        "fat": 25,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 560,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 150
+    },
+    {
+      "slug": "gyros-beef",
+      "name": "Beef Gyros",
+      "description": "Thinly sliced seasoned beef served in pita with fresh toppings.",
+      "categories": [
+        "beef",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "street-food",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Sirloin",
+          "quantity": 800,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Gyros Spice Mix",
+          "quantity": 20,
+          "unit": "g",
+          "note": "paprika, oregano, garlic, cumin"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Pita Bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Tzatziki",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato and Onion",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss beef slices in spice mix and oil; marinate 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook in hot skillet in batches until caramelized edges."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve in warm pita with tzatziki, tomato, onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 35,
+        "carbohydrates": 28,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 780,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "paidakia",
+      "name": "Paidakia",
+      "description": "Grilled lamb chops rubbed with lemon, garlic and oregano.",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "1 chop (200g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb Loin Chops",
+          "quantity": 800,
+          "unit": "g",
+          "note": "4 thick chops"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Dried Oregano",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": 4,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub chops with garlic, lemon, oregano, oil, salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Let rest 30 minutes at room temperature."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over high charcoal 3 to 4 minutes per side for medium."
+        }
+      ],
+      "nutrition": {
+        "calories": 468,
+        "protein": 42,
+        "carbohydrates": 12,
+        "fat": 28,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 440,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 20
+    },
+    {
+      "slug": "arni-kokkinisto",
+      "name": "Arni Kokkinisto",
+      "description": "Lamb braised low and slow in a rich cinnamon-tomato sauce.",
+      "categories": [
+        "beef",
+        "stew",
+        "winter"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 120,
+      "servings": 4,
+      "servingSize": "1 bowl (340g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew",
+        "winter"
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb Shoulder",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown lamb in batches; saute onion until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Add wine, tomatoes, cinnamon, garlic; return lamb."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise covered at 160C for 2 hours until falling apart."
+        }
+      ],
+      "nutrition": {
+        "calories": 424,
+        "protein": 36,
+        "carbohydrates": 16,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 580,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 140
+    },
+    {
+      "slug": "stifatho",
+      "name": "Stifatho",
+      "description": "Traditional Cretan beef stew with pearl onions and honey-vinegar glaze.",
+      "categories": [
+        "beef",
+        "stew",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 120,
+      "servings": 5,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew",
+        "regional"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shin",
+          "quantity": 900,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 400,
+          "unit": "g",
+          "note": "whole peeled"
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon and Cloves",
+          "quantity": 4,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; add vinegar to deglaze."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomatoes, honey, spices, and enough water to cover."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer 90 minutes; add pearl onions; cook 30 more."
+        }
+      ],
+      "nutrition": {
+        "calories": 414,
+        "protein": 34,
+        "carbohydrates": 20,
+        "fat": 22,
+        "fiber": 4,
+        "sugar": 10,
+        "sodium": 540,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 145
+    },
+    {
+      "slug": "greek-burger",
+      "name": "Greek Burger",
+      "description": "Beef burger patty with feta, oregano and sun-dried tomato.",
+      "categories": [
+        "beef",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "1 burger (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta Cheese",
+          "quantity": 120,
+          "unit": "g",
+          "note": "crumbled"
+        },
+        {
+          "name": "Sun-dried Tomatoes",
+          "quantity": 40,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Oregano and Garlic",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Burger Buns",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Lettuce and Tomato",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix beef with feta, tomatoes, oregano, garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Form 4 thick patties; grill 4 to 5 minutes per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve on buns with lettuce, tomato, and tzatziki."
+        }
+      ],
+      "nutrition": {
+        "calories": 490,
+        "protein": 34,
+        "carbohydrates": 30,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 720,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "lamb-chops-greek",
+      "name": "Lamb Chops Greek-Style",
+      "description": "Thick-cut lamb chops marinated in lemon and herbs then charcoal-grilled.",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "2 chops (200g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb Chops",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "juiced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Rosemary and Oregano",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Pepper Flakes",
+          "quantity": 2,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chops in lemon, garlic, herbs, oil 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Preheat grill to high."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 3 minutes per side; rest 5 minutes before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 426,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 26,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 400,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "beef-gyro",
+      "name": "Beef Gyro Plate",
+      "description": "Seasoned beef slices served over pita with tzatziki and fresh vegetables.",
+      "categories": [
+        "beef",
+        "street-food",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 plate (310g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "street-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 800,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Gyros Spice",
+          "quantity": 15,
+          "unit": "g",
+          "note": "paprika, oregano, cumin"
+        },
+        {
+          "name": "Pita",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Tzatziki",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 80,
+          "unit": "g",
+          "note": "sliced"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss beef in spice mix; marinate 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear in very hot skillet in batches."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer pita, beef, tzatziki, tomato, onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 436,
+        "protein": 32,
+        "carbohydrates": 32,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 820,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "kotopoulo-kokkinisto",
+      "name": "Kotopoulo Kokkinisto",
+      "description": "Chicken braised in cinnamon-scented tomato sauce, Greek comfort classic.",
+      "categories": [
+        "chicken",
+        "stew",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 portion (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew",
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": "chopped"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onion and garlic; add tomatoes and cinnamon."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken; simmer covered 45 minutes until tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 354,
+        "protein": 34,
+        "carbohydrates": 14,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 7,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "kota-yiachni",
+      "name": "Kota Yiachni",
+      "description": "Lemon-chicken stew finished with creamy avgolemono egg sauce.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 bowl (340g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "comfort-food",
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": "served alongside"
+        },
+        {
+          "name": "Dill",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer chicken with onion and water until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Strain broth; return chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk eggs with lemon; slowly temper with hot broth; pour over chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 364,
+        "protein": 36,
+        "carbohydrates": 10,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "giapoyla",
+      "name": "Giapoyla",
+      "description": "Spatchcocked chicken grilled over charcoal with mountain herbs and lemon.",
+      "categories": [
+        "chicken",
+        "grill",
+        "summer"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 quarter (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "summer"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "spatchcocked"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "juiced"
+        },
+        {
+          "name": "Oregano and Thyme",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt and Pepper",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Butterfly chicken; flatten firmly."
+        },
+        {
+          "position": 2,
+          "instruction": "Rub with lemon, garlic, herbs, oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill skin-side down over medium charcoal 20 minutes; flip and finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 40,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 500,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "kritharaki-poulo",
+      "name": "Kritharaki Poulo",
+      "description": "Chicken thighs baked with orzo in a tomato-cinnamon broth.",
+      "categories": [
+        "chicken",
+        "one-pot",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "one-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Kritharaki Orzo",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Graviera",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onion; add tomatoes, cinnamon, water."
+        },
+        {
+          "position": 3,
+          "instruction": "Add orzo and chicken; 180C 25 minutes; cheese on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 34,
+        "carbohydrates": 40,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 540,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "koulourakia",
+      "name": "Koulourakia Tou Kamilariou",
+      "description": "Savory Greek twisted biscuits enriched with chicken broth.",
+      "categories": [
+        "chicken",
+        "snack",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "servingSize": "3 biscuits (120g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "snack",
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "All-Purpose Flour",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chicken Broth",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 80,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Anise Seeds",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix flour, broth, butter, eggs, and anise into smooth dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll into ropes; twist into traditional shapes."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush with egg wash, sprinkle sesame; 180C 20 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 326,
+        "protein": 22,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 380,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-stifado",
+      "name": "Chicken Stifado",
+      "description": "Chicken thigh stew with pearl onions in cinnamon-red wine sauce.",
+      "categories": [
+        "chicken",
+        "stew",
+        "winter"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 900,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 400,
+          "unit": "g",
+          "note": "peeled"
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon and Allspice",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onions; deglaze with wine."
+        },
+        {
+          "position": 3,
+          "instruction": "Add tomatoes, spices, chicken; simmer 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 370,
+        "protein": 36,
+        "carbohydrates": 16,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 7,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70
+    },
+    {
+      "slug": "poula-kokkinisto",
+      "name": "Poula Kokkinisto",
+      "description": "Whole chicken pieces braised in herbed tomato broth with potatoes.",
+      "categories": [
+        "chicken",
+        "home-style",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 plate (340g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "home-style",
+        "family"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "mixed cuts"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": "quartered"
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Oregano and Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onion; add tomatoes, oregano."
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes and chicken; simmer covered 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 35,
+        "carbohydrates": 18,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "chicken-pita",
+      "name": "Chicken Pita",
+      "description": "Grilled chicken breast in pita with tomato, onion and mustard sauce.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "lunch"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 pita (290g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "street-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breast",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pita",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Mustard-Yogurt Sauce",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 80,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Paprika and Oregano",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with paprika and oregano."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill 5 to 6 minutes per side; slice."
+        },
+        {
+          "position": 3,
+          "instruction": "Stuff warm pita with chicken, tomato, onion, sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 30,
+        "carbohydrates": 32,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 680,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "afelia",
+      "name": "Afelia",
+      "description": "Chicken pieces slowly braised in coriander seed and red wine.",
+      "categories": [
+        "chicken",
+        "braise",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 portion (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "braise",
+        "regional"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 900,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Coriander Seeds",
+          "quantity": 10,
+          "unit": "g",
+          "note": "crushed"
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toast and crush coriander seeds."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown chicken; remove."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise onion and garlic in oil; add wine, coriander, chicken; simmer 45 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 364,
+        "protein": 34,
+        "carbohydrates": 12,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "youvetsi-poulo",
+      "name": "Youvetsi Poulo",
+      "description": "Chicken baked with orzo in tomato sauce until the grains drink every drop.",
+      "categories": [
+        "chicken",
+        "clay-pot",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 plate (360g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "clay-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Orzo",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Graviera",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken with onion."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomatoes, cinnamon, water; simmer 30 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Add orzo; 180C 20 minutes; cheese on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 34,
+        "carbohydrates": 42,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "kotosoupa",
+      "name": "Kotosoupa",
+      "description": "Traditional Greek chicken avgolemono soup with rice and dill.",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "soup",
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dill",
+          "quantity": 15,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Carrot and Celery",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil chicken with carrot and celery until cooked through."
+        },
+        {
+          "position": 2,
+          "instruction": "Remove chicken; add rice to broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk eggs with lemon; slowly temper with broth; return shredded chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 308,
+        "protein": 28,
+        "carbohydrates": 22,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "poulet-kaserolaki",
+      "name": "Poulet Kaserolaki",
+      "description": "Greek chicken casserole with tomatoes, peppers and crumbled feta.",
+      "categories": [
+        "chicken",
+        "one-pot",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 portion (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "one-pot",
+        "family"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta",
+          "quantity": 100,
+          "unit": "g",
+          "note": "crumbled"
+        },
+        {
+          "name": "Onion and Garlic",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute peppers and onion; add tomatoes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken; top with feta; 180C 35 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 386,
+        "protein": 36,
+        "carbohydrates": 20,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "chicken-lemonato",
+      "name": "Chicken Lemonato",
+      "description": "Pan-seared chicken finished in a bright lemon-butter pan sauce.",
+      "categories": [
+        "chicken",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 portion (220g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "easy-recipes",
+        "healthy"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice and Zest",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Chicken Broth",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Oregano",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and sear chicken golden both sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add garlic, broth, lemon; simmer 10 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Swirl in butter; finish with oregano and lemon zest."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 40,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 490,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "miso-chicken-greek",
+      "name": "Miso Chicken Greek-Style",
+      "description": "White-miso and lemon-marinated chicken grilled over charcoal.",
+      "categories": [
+        "chicken",
+        "grill",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 portion (240g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "grill",
+        "high-protein"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "White Miso",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk miso, lemon, honey, garlic, oil into marinade."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate chicken 2 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over high heat 5 to 6 minutes per side until caramelized."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "spanakorizo",
+      "name": "Spanakorizo",
+      "description": "Hearty spinach rice simmered with dill, lemon and olive oil.",
+      "categories": [
+        "vegetarian",
+        "rice-dish",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "healthy",
+        "home-style"
+      ],
+      "ingredients": [
+        {
+          "name": "Spinach",
+          "quantity": 800,
+          "unit": "g",
+          "note": "roughly chopped"
+        },
+        {
+          "name": "Rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 120,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Fresh Dill",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Feta",
+          "quantity": 80,
+          "unit": "g",
+          "note": "crumbled on top"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion in olive oil until soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add spinach; wilt; add rice and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer 18 minutes; finish with lemon and dill; feta on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 22,
+        "carbohydrates": 34,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "briam",
+      "name": "Briam",
+      "description": "Rustic Greek roasted vegetable medley drenched in olive oil.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 75,
+      "servings": 5,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "vegan",
+        "summer",
+        "healthy"
+      ],
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": 400,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Eggplant",
+          "quantity": 300,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic and Oregano",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Layer vegetables in a deep tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Season generously; pour olive oil and tomatoes over."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast 180C 75 minutes until golden and collapsed."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 20,
+        "carbohydrates": 36,
+        "fat": 14,
+        "fiber": 8,
+        "sugar": 10,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 95
+    },
+    {
+      "slug": "fava-santorini",
+      "name": "Fava Santorini",
+      "description": "Silky yellow split pea puree from Santorini topped with capers and onion.",
+      "categories": [
+        "vegetarian",
+        "meze",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (220g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "meze",
+        "traditional",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Yellow Split Peas",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "finely diced"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Capers",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 60,
+          "unit": "g",
+          "note": "thin rings"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse split peas; simmer with onion and water 40 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend smooth with lemon and oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with capers, red onion rings and olive oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 22,
+        "carbohydrates": 38,
+        "fat": 10,
+        "fiber": 8,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "horta",
+      "name": "Horta",
+      "description": "Blanched wild greens dressed with olive oil and fresh lemon.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 plate (200g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "healthy",
+        "vegan",
+        "summer"
+      ],
+      "ingredients": [
+        {
+          "name": "Wild Greens",
+          "quantity": 800,
+          "unit": "g",
+          "note": "dandelion, chicory, or mixed"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash greens thoroughly; boil in salted water 10 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Drain well; chop roughly."
+        },
+        {
+          "position": 3,
+          "instruction": "Dress with olive oil, lemon, vinegar, garlic."
+        }
+      ],
+      "nutrition": {
+        "calories": 218,
+        "protein": 20,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 6,
+        "sugar": 2,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 27
+    },
+    {
+      "slug": "horiatiki",
+      "name": "Horiatiki",
+      "description": "Traditional Greek village salad with thick feta, olives and oregano.",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "starter",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "summer"
+      ],
+      "ingredients": [
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "wedged"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 300,
+          "unit": "g",
+          "note": "chunked"
+        },
+        {
+          "name": "Kalamata Olives",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta",
+          "quantity": 200,
+          "unit": "g",
+          "note": "one slab"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 80,
+          "unit": "g",
+          "note": "rings"
+        },
+        {
+          "name": "Olive Oil and Oregano",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Arrange tomatoes, cucumber, onion on plate."
+        },
+        {
+          "position": 2,
+          "instruction": "Top with whole feta slab and olives."
+        },
+        {
+          "position": 3,
+          "instruction": "Drizzle olive oil; shower with dried oregano."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 20,
+        "carbohydrates": 14,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 9,
+        "sodium": 850,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 10
+    },
+    {
+      "slug": "melitzanosalata",
+      "name": "Melitzanosalata",
+      "description": "Smoky charred eggplant dip whipped with garlic, olive oil and lemon.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "meze",
+        "starter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 6,
+      "servingSize": "1 dip (150g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "meze",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "quantity": 800,
+          "unit": "g",
+          "note": "whole for charring"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Flat-Leaf Parsley",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Char eggplants directly over flame until collapsed."
+        },
+        {
+          "position": 2,
+          "instruction": "Peel; drain liquid; chop flesh."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix with garlic, lemon, oil, parsley, vinegar."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 20,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 6,
+        "sugar": 5,
+        "sodium": 320,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "taramosalata",
+      "name": "Taramosalata",
+      "description": "Silky fish roe dip blended with bread and olive oil.",
+      "categories": [
+        "seafood",
+        "meze",
+        "starter"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 6,
+      "servingSize": "1 dip (120g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "meze",
+        "starter"
+      ],
+      "ingredients": [
+        {
+          "name": "Tarama (fish roe)",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Stale Bread",
+          "quantity": 200,
+          "unit": "g",
+          "note": "crusts removed, soaked"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Potato",
+          "quantity": 100,
+          "unit": "g",
+          "note": "boiled, optional thickener"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak bread in water; squeeze dry."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend tarama with lemon and onion until pale."
+        },
+        {
+          "position": 3,
+          "instruction": "Stream in oil; fold in bread until smooth."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 22,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 20
+    },
+    {
+      "slug": "fakies",
+      "name": "Fakies",
+      "description": "Thick Greek red lentil soup with cumin and a squeeze of lemon.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "soup",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 5,
+      "servingSize": "1 bowl (300g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "soup",
+        "vegan",
+        "budget-friendly"
+      ],
+      "ingredients": [
+        {
+          "name": "Red Lentils",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 150,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Cumin",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion and carrot; add cumin."
+        },
+        {
+          "position": 2,
+          "instruction": "Add lentils, tomatoes, water; simmer 25 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Blend partially; finish with lemon and olive oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 22,
+        "carbohydrates": 36,
+        "fat": 10,
+        "fiber": 6,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "revithada",
+      "name": "Revithada",
+      "description": "Slow-baked chickpea stew from Sifnos with bay and lemon.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "stew",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 180,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "vegan",
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "Dried Chickpeas",
+          "quantity": 400,
+          "unit": "g",
+          "note": "soaked overnight"
+        },
+        {
+          "name": "Onion",
+          "quantity": 200,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Rosemary",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Drain soaked chickpeas; place in clay pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add onion, bay, rosemary, oil, water to cover."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover tightly; 160C 3 hours until melting."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 22,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 10,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 190
+    },
+    {
+      "slug": "fasolakia",
+      "name": "Fasolakia",
+      "description": "Green beans braised in olive oil and tomato.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "vegan",
+        "home-style"
+      ],
+      "ingredients": [
+        {
+          "name": "Green Beans",
+          "quantity": 600,
+          "unit": "g",
+          "note": "trimmed"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": "cubed optional"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion until translucent."
+        },
+        {
+          "position": 2,
+          "instruction": "Add beans, tomatoes, oil, potatoes, water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered 40 minutes until very tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 326,
+        "protein": 20,
+        "carbohydrates": 30,
+        "fat": 14,
+        "fiber": 8,
+        "sugar": 10,
+        "sodium": 440,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "kolokithakia",
+      "name": "Kolokithakia",
+      "description": "Baby zucchini braised in tomato sauce with fresh mint and dill.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "side",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (250g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "vegan",
+        "summer"
+      ],
+      "ingredients": [
+        {
+          "name": "Baby Zucchini",
+          "quantity": 600,
+          "unit": "g",
+          "note": "halved"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 120,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Fresh Mint and Dill",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion and garlic in olive oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Add zucchini, tomatoes, water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer 25 minutes until soft; finish with herbs."
+        }
+      ],
+      "nutrition": {
+        "calories": 276,
+        "protein": 20,
+        "carbohydrates": 22,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 8,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "fasolakia-ladera",
+      "name": "Fasolakia Ladera",
+      "description": "Olive oil-braised green beans and tomatoes.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "vegan",
+        "budget-friendly"
+      ],
+      "ingredients": [
+        {
+          "name": "Green Beans",
+          "quantity": 600,
+          "unit": "g",
+          "note": "trimmed"
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": "generous"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 5,
+          "unit": "g",
+          "note": "pinch to balance acidity"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion until soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add beans, tomatoes, garlic, oil, sugar, water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer uncovered 45 minutes until rich and concentrated."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 20,
+        "carbohydrates": 32,
+        "fat": 16,
+        "fiber": 8,
+        "sugar": 10,
+        "sodium": 460,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "yemista",
+      "name": "Yemista",
+      "description": "Tomatoes and bell peppers stuffed with herbed rice and pine nuts.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 60,
+      "servings": 4,
+      "servingSize": "2 stuffed vegetables (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "traditional",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Large Tomatoes",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "hollowed"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "hollowed"
+        },
+        {
+          "name": "Rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pine Nuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 100,
+          "unit": "g",
+          "note": "finely diced"
+        },
+        {
+          "name": "Mint and Parsley",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion; add rice, pine nuts, herbs, oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Stuff vegetables with rice mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Add water to tray; 180C 60 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 20,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 380,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90
+    },
+    {
+      "slug": "manitaria",
+      "name": "Manitaria",
+      "description": "Greek-style wild mushrooms sauteed with garlic, wine and herbs.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "meze",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 plate (180g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "meze",
+        "vegan",
+        "healthy"
+      ],
+      "ingredients": [
+        {
+          "name": "Mixed Mushrooms",
+          "quantity": 600,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 5,
+          "unit": "cloves",
+          "note": "sliced"
+        },
+        {
+          "name": "White Wine",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Fresh Thyme and Parsley",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute mushrooms in hot oil without crowding."
+        },
+        {
+          "position": 2,
+          "instruction": "Add garlic and thyme; cook 1 minute."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; finish with lemon and parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 252,
+        "protein": 22,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 340,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 22
+    },
+    {
+      "slug": "prasorizo",
+      "name": "Prasorizo",
+      "description": "Greek leek and rice pilaf with tomato and fresh herbs.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "rice-dish",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "rice-dish",
+        "vegan",
+        "home-style"
+      ],
+      "ingredients": [
+        {
+          "name": "Leeks",
+          "quantity": 500,
+          "unit": "g",
+          "note": "cleaned, sliced"
+        },
+        {
+          "name": "Rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Crushed Tomatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fresh Dill and Parsley",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon Zest",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute leeks in olive oil until very soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomatoes, rice, water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer 18 minutes until rice is tender; fold in herbs and lemon."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 22,
+        "carbohydrates": 36,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "kataifi",
+      "name": "Kataifi",
+      "description": "Shredded pastry rolled around walnuts and soaked in cinnamon syrup.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 30,
+      "cookTimeMin": 35,
+      "servings": 8,
+      "servingSize": "1 slice (150g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "celebration",
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "Kataifi Shreds",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Walnuts",
+          "quantity": 200,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Butter",
+          "quantity": 150,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Syrup (sugar-water-lemon)",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss kataifi shreds in melted butter."
+        },
+        {
+          "position": 2,
+          "instruction": "Spread; sprinkle walnut-cinnamon filling."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll into log; 170C 35 minutes; drench in cold syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 428,
+        "protein": 20,
+        "carbohydrates": 42,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 28,
+        "sodium": 120,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "karydopita",
+      "name": "Karydopita",
+      "description": "Moist walnut cake soaked in spiced lemon syrup.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 10,
+      "servingSize": "1 slice (130g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "Walnuts",
+          "quantity": 250,
+          "unit": "g",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "name": "Cinnamon and Clove Syrup",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Baking Powder",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs with sugar until pale."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in walnuts, flour, butter, baking powder."
+        },
+        {
+          "position": 3,
+          "instruction": "175C 35 minutes; soak in warm syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 418,
+        "protein": 20,
+        "carbohydrates": 44,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 30,
+        "sodium": 180,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "galaktoboureko-var",
+      "name": "Galaktoboureko Trachanas",
+      "description": "Semolina custard wrapped in phyllo with a tangy twist.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 40,
+      "cookTimeMin": 45,
+      "servings": 12,
+      "servingSize": "1 piece (140g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "celebration"
+      ],
+      "ingredients": [
+        {
+          "name": "Semolina",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Phyllo",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 200,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "name": "Lemon Syrup",
+          "quantity": 350,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook thick semolina custard with milk, eggs, sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll custard in buttered phyllo sheets."
+        },
+        {
+          "position": 3,
+          "instruction": "175C 45 minutes; cold syrup over hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 426,
+        "protein": 20,
+        "carbohydrates": 46,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 32,
+        "sodium": 240,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 85
+    },
+    {
+      "slug": "melomakarona",
+      "name": "Melomakarona",
+      "description": "Honey-soaked semolina-orange cookies crowned with walnut crumbs.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 20,
+      "servings": 8,
+      "servingSize": "3 cookies (150g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "traditional",
+        "celebration"
+      ],
+      "ingredients": [
+        {
+          "name": "Semolina",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Orange Juice and Zest",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey Syrup",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Walnuts",
+          "quantity": 100,
+          "unit": "g",
+          "note": "crushed"
+        },
+        {
+          "name": "Cinnamon and Clove",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix semolina, flour, oil, orange into dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape oval cookies; 175C 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Dip hot cookies in cold honey syrup; walnut-cinnamon topping."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 20,
+        "carbohydrates": 38,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 26,
+        "sodium": 110,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "koulourakia-sweet",
+      "name": "Koulourakia",
+      "description": "Classic Greek Easter butter cookies twisted into braids.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 8,
+      "servingSize": "3 cookies (130g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "traditional",
+        "celebration"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 150,
+          "unit": "g",
+          "note": "softened"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Vanilla and Orange Zest",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baking Powder",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cream butter and sugar; add eggs, vanilla, zest."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in flour and baking powder."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape into twists; egg wash and sesame; 175C 20 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 342,
+        "protein": 20,
+        "carbohydrates": 34,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 10,
+        "sodium": 140,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "sfakianopita",
+      "name": "Sfakianopita",
+      "description": "Thin Cretan cheese pie drizzled with honey.",
+      "categories": [
+        "desserts",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 15,
+      "servings": 6,
+      "servingSize": "1 pie (180g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "regional",
+        "traditional"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mizithra Cheese",
+          "quantity": 250,
+          "unit": "g",
+          "note": "soft fresh"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Orange Juice",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 100,
+          "unit": "g",
+          "note": "for drizzling"
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Make elastic dough with flour, oil, juice."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll thin; fill with mizithra; fold into round."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook on hot griddle both sides; honey drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 368,
+        "protein": 20,
+        "carbohydrates": 36,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 18,
+        "sodium": 360,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "amygdalota",
+      "name": "Amygdalota",
+      "description": "Delicate Greek almond macaroons scented with rosewater.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "gluten-free"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 8,
+      "servingSize": "3 cookies (120g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [
+        "traditional",
+        "gluten-free"
+      ],
+      "ingredients": [
+        {
+          "name": "Almond Flour",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg Whites",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rosewater",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon Zest",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole Almonds",
+          "quantity": 24,
+          "unit": "pcs",
+          "note": "for pressing on top"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat egg whites to soft peaks with sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in almond flour, rosewater, zest."
+        },
+        {
+          "position": 3,
+          "instruction": "Form rounds; press almond on top; 160C 20 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 318,
+        "protein": 20,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 18,
+        "sodium": 90,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "giouvetsi",
+      "name": "Giouvetsi",
+      "description": "Orzo pasta baked with chicken in tomato sauce",
+      "categories": [
+        "chicken",
+        "baked",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "one-pot"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "orzo pasta",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "cinnamon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "feta cheese",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomato sauce, onion, and cinnamon."
+        },
+        {
+          "position": 3,
+          "instruction": "Add orzo and water."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180C until orzo absorbs sauce and chicken is cooked."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 32,
+        "carbohydrates": 30,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "arni-kokkinisto-kleftiko",
+      "name": "Arni Kokkinisto Kleftiko",
+      "description": "Braised lamb in tomato and cinnamon",
+      "categories": [
+        "beef",
+        "stew",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "winter"
+      ],
+      "dietType": "HIGH_PROTEIN",
+      "ingredients": [
+        {
+          "name": "lamb shoulder",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "cinnamon stick",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "red wine",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown lamb pieces.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and garlic.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Add tomato sauce, wine, and cinnamon.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Braise until tender.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "proteinType": "BEEF",
+      "totalTimeMin": 32,
+      "nutrition": {
+        "protein": 32,
+        "carbs": 8,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 6,
+        "sodium": 480,
+        "saturatedFat": 5,
+        "calories": 304,
+        "carbohydrates": 8
+      },
+      "videos": [],
+      "images": null,
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kotopoulo-sfacto",
+      "name": "Kotopoulo Kokkinisto Sfacto",
+      "description": "Braised chicken in tomato sauce",
+      "categories": [
+        "chicken",
+        "stew",
+        "dinner",
+        "traditional",
+        "home-style"
+      ],
+      "dietType": "HIGH_PROTEIN",
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves"
+        },
+        {
+          "name": "oregano",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and garlic.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Add tomato sauce and oregano.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Braise until chicken is tender.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "proteinType": "CHICKEN",
+      "totalTimeMin": 32,
+      "nutrition": {
+        "protein": 32,
+        "carbs": 8,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 5,
+        "sodium": 500,
+        "saturatedFat": 4,
+        "calories": 286,
+        "carbohydrates": 8
+      },
+      "videos": [],
+      "images": null,
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "fasolakia-saltsa",
+      "name": "Fasolakia Ladera Saltsa",
+      "description": "Green beans in olive oil and tomato",
+      "categories": [
+        "vegetarian",
+        "stew",
+        "dinner",
+        "traditional",
+        "healthy",
+        "vegan-option"
+      ],
+      "dietType": "VEGAN",
+      "ingredients": [
+        {
+          "name": "green beans",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "parsley",
+          "quantity": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Trim beans.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Add tomatoes and beans.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Braise until tender.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "proteinType": "VEGETARIAN",
+      "totalTimeMin": 32,
+      "nutrition": {
+        "protein": 6,
+        "carbs": 14,
+        "fat": 10,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 320,
+        "saturatedFat": 1,
+        "calories": 170,
+        "carbohydrates": 14
+      },
+      "videos": [],
+      "images": null,
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "portokalopita-gr",
+      "name": "Portokalopita",
+      "description": "Orange phyllo cake soaked in syrup",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "baked",
+        "traditional",
+        "celebration"
+      ],
+      "dietType": "VEGETARIAN",
+      "ingredients": [
+        {
+          "name": "phyllo dough",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "sugar",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "orange juice",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "eggs",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "yogurt",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "baking powder",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Crumble phyllo and let dry.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Mix eggs, sugar, yogurt, orange juice, and baking powder.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Pour over phyllo.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180C for 40 minutes, pour syrup on top.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "proteinType": "VEGETARIAN",
+      "totalTimeMin": 32,
+      "nutrition": {
+        "protein": 6,
+        "carbs": 42,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 28,
+        "sodium": 280,
+        "saturatedFat": 2,
+        "calories": 264,
+        "carbohydrates": 42
+      },
+      "videos": [],
+      "images": null,
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    }
+  ]
+}

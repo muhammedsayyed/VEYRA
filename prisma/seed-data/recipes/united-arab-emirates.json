@@ -1,0 +1,5917 @@
+{
+  "countryCode": "ae",
+  "recipes": [
+    {
+      "slug": "chicken-machboos",
+      "name": "Chicken Machboos",
+      "description": "The UAE's everyday masterpiece: chicken and basmati rice cooked together with loomi, turmeric and baharat.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 65,
+      "servings": 5,
+      "servingSize": "1 plate (390g)",
+      "homePrepCost": 42,
+      "restaurantPrice": 70,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 95,
+      "tags": [
+        "national-dish",
+        "one-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "quartered"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Dried Black Lime (loomi)",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "pierced"
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "sliced"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Baharat Spice Mix",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Turmeric",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken in oil; remove and soften onions with spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tomatoes, loomi and water; poach chicken 30 minutes; reserve broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook rice in the broth until just tender; do not over-stir."
+        },
+        {
+          "position": 4,
+          "instruction": "Pile rice on a platter; top with chicken and a spoon of the cooking liquid."
+        }
+      ],
+      "nutrition": {
+        "calories": 600,
+        "protein": 37,
+        "carbohydrates": 72,
+        "fat": 17,
+        "fiber": 3.5,
+        "sugar": 7,
+        "sodium": 710,
+        "saturatedFat": 4.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "klCuAquIIeg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=klCuAquIIeg",
+          "videoTitle": "Authentic Chicken Majboos Recipe | Arabic Rice Machboos | Arabian Chicken Dish by Nawab's Kitchen",
+          "channelName": "Nawab's Kitchen Official",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "harees-emirati",
+      "name": "Harees bil Dajaj",
+      "description": "Wheat beaten with chicken into a velvet porridge - the dish that opens every Emirati Ramadan table.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 210,
+      "servings": 8,
+      "servingSize": "1 cup (280g)",
+      "homePrepCost": 38,
+      "restaurantPrice": 65,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "ramadan",
+        "heritage"
+      ],
+      "ingredients": [
+        {
+          "name": "Cracked Wheat",
+          "quantity": 500,
+          "unit": "g",
+          "note": "soaked"
+        },
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "about 1.3kg"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 90,
+          "unit": "g"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Cardamom Pods",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Salt & White Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken with aromatics until very tender; shred finely."
+        },
+        {
+          "position": 2,
+          "instruction": "Add wheat to the strained broth; simmer low 2-3 hours, whisking often."
+        },
+        {
+          "position": 3,
+          "instruction": "Beat until smooth porridge with shredded chicken throughout."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with ghee, salt and white pepper; serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 27,
+        "carbohydrates": 50,
+        "fat": 11,
+        "fiber": 8,
+        "sugar": 1.5,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "x0skm1MmZeI",
+          "youtubeUrl": "https://www.youtube.com/watch?v=x0skm1MmZeI",
+          "videoTitle": "Emirati Harees Recipe | Hareesa | الهريس الاماراتي | Arabic Chicken Harees Recipe | हरीस रेसिपी",
+          "channelName": "Mamoona Ki Duniya",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 230,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "thareed-dajaj",
+      "name": "Thareed Dajaj",
+      "description": "Layers of thin regag bread soaked under a brothy lamb-style chicken-and-vegetable ragu.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "ramadan"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 60,
+      "servings": 5,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 40,
+      "restaurantPrice": 68,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "iftar",
+        "bread-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Regag or Thin Bread",
+          "quantity": 6,
+          "unit": "sheets"
+        },
+        {
+          "name": "Potato, Carrot & Zucchini",
+          "quantity": 500,
+          "unit": "g",
+          "note": "chunked"
+        },
+        {
+          "name": "Tomato Paste & Grated Tomato",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Baharat",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Dried Black Lime",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Coriander (fresh)",
+          "quantity": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; add tomato, spices, loomi and water; simmer 25 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add vegetables; cook until everything is tender and brothy."
+        },
+        {
+          "position": 3,
+          "instruction": "Line bowls with regag bread; ladle stew over to soak."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with coriander and serve immediately while bread is softening."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 34,
+        "carbohydrates": 56,
+        "fat": 17,
+        "fiber": 5.5,
+        "sugar": 8,
+        "sodium": 760,
+        "saturatedFat": 4.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "mR1F1buT_pU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=mR1F1buT_pU",
+          "videoTitle": "Chicken Thareed | ثريد | Ramadan special by cook with areej",
+          "channelName": "Cook With Areej",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "emirati-chicken-biryani",
+      "name": "Emirati Chicken Biryani",
+      "description": "Layered saffron rice and masala chicken reflecting generations of Emirati-South Asian exchange.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "celebration"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 45,
+      "cookTimeMin": 75,
+      "servings": 6,
+      "servingSize": "1 plate (400g)",
+      "homePrepCost": 48,
+      "restaurantPrice": 85,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "layered-rice",
+        "fusion-heritage"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Yogurt Marinade w/ Biryani Masala",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Fried Onions (birista)",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Saffron Milk",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Mint & Coriander",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in spiced yogurt for at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Parboil rice with whole spices until 70% done."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook chicken masala until thick; layer rice, masala, herbs and fried onions twice."
+        },
+        {
+          "position": 4,
+          "instruction": "Seal with saffron milk and ghee; steam on lowest heat 35 minutes (dum)."
+        }
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 39,
+        "carbohydrates": 76,
+        "fat": 23,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 820,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "fKvH4_RPa4g",
+          "youtubeUrl": "https://www.youtube.com/watch?v=fKvH4_RPa4g",
+          "videoTitle": "Chicken Biryani Emirati Style",
+          "channelName": "Romulo's Kitchen & Garden",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-machboos",
+      "name": "Beef Machboos",
+      "description": "Slow-simmered beef gives deeper, darker spice broth to this machboos variation.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 110,
+      "servings": 5,
+      "servingSize": "1 plate (390g)",
+      "homePrepCost": 52,
+      "restaurantPrice": 88,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "one-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Brisket or Shank",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "chunks"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Dried Black Lime",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "Onions & Tomatoes",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "name": "Baharat",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Turmeric & Cinnamon",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef; cook down onions and tomatoes with all spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Cover with water and simmer 80-90 minutes until fork-tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Boil rice in the broth until absorbed."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve beef atop rice with extra broth passed around."
+        }
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": 41,
+        "carbohydrates": 70,
+        "fat": 22,
+        "fiber": 3.5,
+        "sugar": 7,
+        "sodium": 750,
+        "saturatedFat": 7.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "rH_lfoJMW1Q",
+          "youtubeUrl": "https://www.youtube.com/watch?v=rH_lfoJMW1Q",
+          "videoTitle": "Traditional Arabic Beef Machboos",
+          "channelName": "Rexona's Recipe",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 135,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-harees-emirati",
+      "name": "Beef Harees",
+      "description": "The classic wedding-feast version: wheat and slow-cooked beef beaten into silken porridge.",
+      "categories": [
+        "beef",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 240,
+      "servings": 8,
+      "servingSize": "1 cup (280g)",
+      "homePrepCost": 46,
+      "restaurantPrice": 78,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "ramadan",
+        "heritage"
+      ],
+      "ingredients": [
+        {
+          "name": "Cracked Wheat",
+          "quantity": 500,
+          "unit": "g",
+          "note": "soaked"
+        },
+        {
+          "name": "Beef Shank",
+          "quantity": 900,
+          "unit": "g",
+          "note": "bone-in"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 90,
+          "unit": "g"
+        },
+        {
+          "name": "Cinnamon & Cardamom",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt & White Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer beef with spices until falling apart; shred into its broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Add soaked wheat; cook low 3 hours whisking until silky."
+        },
+        {
+          "position": 3,
+          "instruction": "Beat in ghee and season well."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve hot with extra ghee pools on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 28,
+        "carbohydrates": 50,
+        "fat": 11,
+        "fiber": 8,
+        "sugar": 1.5,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "GOFI8Los9Cs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=GOFI8Los9Cs",
+          "videoTitle": "How to Make Beef Harees Arabic Recipe/Hraees Recipe//Meat Recipe",
+          "channelName": "Mohammad Rashid Kitchen 🇦🇪",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 260,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "madrouba-beef",
+      "name": "Madrouba bil Lahma",
+      "description": "'The beaten one' - rice and beef cooked together then whipped into a creamy savory risotto-like porridge.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 90,
+      "servings": 5,
+      "servingSize": "1 bowl (340g)",
+      "homePrepCost": 38,
+      "restaurantPrice": 66,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 71,
+      "tags": [
+        "porridge",
+        "comfort"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Stew Cubes",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Short Grain Rice",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Dried Black Lime & Cinnamon",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "chopped"
+        },
+        {
+          "name": "Turmeric & Baharat",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef with onion and spices; cover with water and simmer 70 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add rice and enough broth; cook until very soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Beat vigorously with a wooden spoon until creamy and uniform."
+        },
+        {
+          "position": 4,
+          "instruction": "Season and serve drizzled with ghee."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 30,
+        "carbohydrates": 62,
+        "fat": 13,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 600,
+        "saturatedFat": 4.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "jzvMGsSvv_M",
+          "youtubeUrl": "https://www.youtube.com/watch?v=jzvMGsSvv_M",
+          "videoTitle": "Madrouba | Chicken Madrouba | How To Make Authentic Madrouba | Arabic Chicken Rice Madrouba",
+          "channelName": "Kitchen Explorer",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 105,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-thareed",
+      "name": "Beef Thareed",
+      "description": "Thin regag bread soaked under slow-simmered beef and vegetable broth - prophetic-era comfort.",
+      "categories": [
+        "beef",
+        "ramadan",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 110,
+      "servings": 5,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 46,
+      "restaurantPrice": 76,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "iftar",
+        "bread-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Stew Cubes",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Regag or Thin Bread",
+          "quantity": 6,
+          "unit": "sheets"
+        },
+        {
+          "name": "Potato, Carrot & Zucchini",
+          "quantity": 500,
+          "unit": "g",
+          "note": "chunked"
+        },
+        {
+          "name": "Tomato Paste & Dried Black Lime",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Baharat & Fresh Coriander",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; add paste, spices, loomi and water; simmer 80 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Add vegetables; cook until tender and brothy."
+        },
+        {
+          "position": 3,
+          "instruction": "Line bowls with bread; ladle stew over to soak."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 36,
+        "carbohydrates": 52,
+        "fat": 20,
+        "fiber": 5.5,
+        "sugar": 8,
+        "sodium": 760,
+        "saturatedFat": 6.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 135,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "vegetable-saloona",
+      "name": "Vegetable Saloona",
+      "description": "Light everyday Emirati vegetable stew scented with loomi and coriander - the daily side that anchors rice.",
+      "categories": [
+        "vegetarian",
+        "lunch",
+        "healthy",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 18,
+      "restaurantPrice": 32,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 70,
+      "tags": [
+        "vegan",
+        "everyday"
+      ],
+      "ingredients": [
+        {
+          "name": "Potato, Carrot & Zucchini",
+          "quantity": 600,
+          "unit": "g",
+          "note": "chunked"
+        },
+        {
+          "name": "Green Beans & Chickpeas",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Dried Black Lime",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Fresh Coriander",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Bezr Spice Mix",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable Stock",
+          "quantity": 700,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry coriander stems briefly; add tomatoes and bezr spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Add vegetables, chickpeas, loomi and stock; simmer 25 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Adjust to a light gravy consistency; season."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with fresh coriander leaves."
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 8,
+        "carbohydrates": 36,
+        "fat": 5,
+        "fiber": 9,
+        "sugar": 11,
+        "sodium": 560,
+        "saturatedFat": 0.7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "dml_n09czqU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dml_n09czqU",
+          "videoTitle": "Chicken Saloona - Arab Chicken Stew - How to Make Salona",
+          "channelName": "How To Cook Great",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chebab",
+      "name": "Chebab",
+      "description": "Golden saffron-cardamom pancakes served with date syrup and cream cheese - Emirati breakfast joy.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "3 pancakes (240g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 30,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "pancakes",
+        "saffron"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Saffron Threads",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": "steeped in warm milk"
+        },
+        {
+          "name": "Cardamom Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Baking Powder & Baking Soda",
+          "quantity": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Date Syrup",
+          "quantity": 120,
+          "unit": "ml",
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk yogurt, eggs, sugar, saffron milk and cardamom."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in flour and leaveners into a thick pourable batter."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook ladlefuls on a buttered griddle until bubbles pop; flip once."
+        },
+        {
+          "position": 4,
+          "instruction": "Stack warm with cream cheese and plenty of date syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 12,
+        "carbohydrates": 66,
+        "fat": 11,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 480,
+        "saturatedFat": 3.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "a_B-PrsIu3Y",
+          "youtubeUrl": "https://www.youtube.com/watch?v=a_B-PrsIu3Y",
+          "videoTitle": "How to Make Authentic Emirati Chebab | Easy Arabic Pancake Recipe with Saffron",
+          "channelName": "Rena's Kitchenary",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "balaleet",
+      "name": "Balaleet",
+      "description": "Sweet saffron vermicelli topped with a soft omelette - the UAE's beloved sweet-savory breakfast.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 plate (230g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 28,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "sweet-noodle",
+        "heritage"
+      ],
+      "ingredients": [
+        {
+          "name": "Thin Vermicelli Noodles",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Cardamom Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Saffron Threads",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "for the omelette top"
+        },
+        {
+          "name": "Rose Water",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toast dry vermicelli in butter until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water to just cover; simmer until soft and liquid is gone."
+        },
+        {
+          "position": 3,
+          "instruction": "Sweeten with sugar, cardamom, saffron and rose water."
+        },
+        {
+          "position": 4,
+          "instruction": "Press into a flat layer; cover with a thin omelette before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 13,
+        "carbohydrates": 56,
+        "fat": 12,
+        "fiber": 1.5,
+        "sugar": 26,
+        "sodium": 260,
+        "saturatedFat": 5.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chella-regag",
+      "name": "Chella (Regag Bread)",
+      "description": "Egg-cheese batter cooked paper-thin on the domed regag griddle - old Dubai street breakfast.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 folded sheet (180g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 22,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 71,
+      "tags": [
+        "street-breakfast"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 300,
+          "unit": "g",
+          "note": "for regag dough"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "very finely chopped"
+        },
+        {
+          "name": "Cheddar or Akkawi Cheese",
+          "quantity": 120,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Cumin & Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 50,
+          "unit": "g",
+          "note": "for the griddle"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead soft elastic dough; rest 30 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk eggs, onion, cheese, cumin and salt into chella batter."
+        },
+        {
+          "position": 3,
+          "instruction": "Stretch a paper-thin sheet of dough onto an inverted hot wok (regag style)."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour chella over, cook until set, fold and slide off; repeat."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 19,
+        "carbohydrates": 48,
+        "fat": 17,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "lugaimat",
+      "name": "Lugaimat",
+      "description": "Crackly golden dumplings drenched in date syrup - the UAE's irresistible iftar siren.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "servingSize": "8 pieces (150g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 32,
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 92,
+      "tags": [
+        "iftar",
+        "crispy"
+      ],
+      "ingredients": [
+        {
+          "name": "Plain Flour",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Yeast",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": "in dough"
+        },
+        {
+          "name": "Warm Water",
+          "quantity": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "Date Syrup",
+          "quantity": 200,
+          "unit": "ml",
+          "note": "warmed, for soaking"
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 700,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat flour, starch, yogurt, yeast and water into a thick batter; rise 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Squeeze portions between thumb and fist; drop into 175°C oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry until deep amber, turning constantly for even spheres."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain 10 seconds, then plunge into warm date syrup; roll in sesame."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 5,
+        "carbohydrates": 56,
+        "fat": 11,
+        "fiber": 1.8,
+        "sugar": 30,
+        "sodium": 85,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "2idghNc6klA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=2idghNc6klA",
+          "videoTitle": "Authentic Emirati Luqaimat Recipe | Sweet, Crunchy Dumplings",
+          "channelName": "Emirati Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "assidat-al-boubar",
+      "name": "Assidat al Boubar",
+      "description": "Silky pumpkin pudding crowned with dates and ghee - a heritage Emirati dessert from the oases.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 5,
+      "servingSize": "1 scoop (170g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 30,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 67,
+      "tags": [
+        "pumpkin",
+        "heritage"
+      ],
+      "ingredients": [
+        {
+          "name": "Pumpkin",
+          "quantity": 800,
+          "unit": "g",
+          "note": "peeled, cubed"
+        },
+        {
+          "name": "Whole Wheat Flour",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Brown Sugar or Date Syrup",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Cardamom & Cinnamon",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegan Butter or Ghee",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Dates & Walnuts",
+          "quantity": 80,
+          "unit": "g",
+          "note": "to top"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer pumpkin until collapsing; mash thoroughly."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir in flour gradually over heat until thick and glossy."
+        },
+        {
+          "position": 3,
+          "instruction": "Sweeten with sugar/syrup and spices."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve warm pooled with melted ghee, dates and walnuts."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 5,
+        "carbohydrates": 55,
+        "fat": 7,
+        "fiber": 5,
+        "sugar": 30,
+        "sodium": 95,
+        "saturatedFat": 2.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-mandi-ae",
+      "name": "Beef Mandi Emirates",
+      "description": "Smoky slow-roasted beef mandi with saffron rice.",
+      "categories": [
+        "beef",
+        "traditional",
+        "grill"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef short ribs",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mandi spice paste",
+          "quantity": 25,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Saffron basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Smoked ghee",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub mandi paste; slow-roast 160C 2.5 hrs."
+        },
+        {
+          "position": 2,
+          "instruction": "Saffron rice steam separately."
+        },
+        {
+          "position": 3,
+          "instruction": "Stack beef on rice; smoked ghee drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 596,
+        "protein": 46,
+        "carbohydrates": 40,
+        "fat": 28,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 680,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kebab-dubai",
+      "name": "Emirati Kebab",
+      "description": "Charcoal beef kebabs with hawajj spice.",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced beef",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hawajj spice blend",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Onion & parsley",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Charcoal grill",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead mince with hawajj spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread on skewers flat."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 4 minutes per side; serve with bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 438,
+        "protein": 36,
+        "carbohydrates": 24,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 660,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "thareed-lahm-ae",
+      "name": "Thareed Lahm Emirates",
+      "description": "Beef and vegetable stew over crispy regag bread.",
+      "categories": [
+        "beef",
+        "traditional",
+        "stew",
+        "ramadan"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef shoulder diced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed vegetables",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Regag bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Turmeric & baharat",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; stew with vegetables in turmeric."
+        },
+        {
+          "position": 2,
+          "instruction": "Tear regag bread in serving bowl."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle broth and beef over bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 462,
+        "protein": 36,
+        "carbohydrates": 30,
+        "fat": 22,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 580,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "harees-beef-ae",
+      "name": "Harees Beef Emirates",
+      "description": "Cracked wheat and beef porridge — Eid specialty.",
+      "categories": [
+        "beef",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cracked wheat",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Beef shank",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee & cinnamon",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak wheat; boil with beef 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat to smooth porridge consistency."
+        },
+        {
+          "position": 3,
+          "instruction": "Ghee pools and cinnamon on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 402,
+        "protein": 34,
+        "carbohydrates": 26,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "madrouba-beef-ae",
+      "name": "Madrouba Emirates",
+      "description": "Beef tomato stew — Emirati one-pot comfort.",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef stew meat",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & onion",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Turmeric & dried lime",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Bread for dipping",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; add tomato and spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 90 minutes till tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with bread for dipping."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbohydrates": 28,
+        "fat": 24,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 600,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "machboos-lahm-ae",
+      "name": "Machboos Lahm Emirates",
+      "description": "Spiced beef rice — the Emirati national dish.",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef cubed",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bezar spice & dried lime",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Onion tomato base",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef with bezar spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer with dried lime 60 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Rice absorbs strained broth; steam."
+        }
+      ],
+      "nutrition": {
+        "calories": 544,
+        "protein": 40,
+        "carbohydrates": 42,
+        "fat": 24,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shorba-lahm-ae",
+      "name": "Shorba Lahm Emirates",
+      "description": "Spiced beef and lentil soup — Ramadan opener.",
+      "categories": [
+        "beef",
+        "soup",
+        "traditional",
+        "ramadan"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef mince",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red lentils",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & tomato",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baharat & mint",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown mince; add lentils and tomato."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 30 minutes till thick."
+        },
+        {
+          "position": 3,
+          "instruction": "Baharat finish; mint on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 386,
+        "protein": 32,
+        "carbohydrates": 24,
+        "fat": 18,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "biryani-lahm-ae",
+      "name": "Biryani Lahm Emirates",
+      "description": "Layered beef biryani — festive Emirati style.",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef masala",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Parboiled basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fried onion & saffron",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Biryani masala",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef masala thick and rich."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer rice over beef; saffron drizzle."
+        },
+        {
+          "position": 3,
+          "instruction": "Seal and dum 25 minutes on low."
+        }
+      ],
+      "nutrition": {
+        "calories": 604,
+        "protein": 44,
+        "carbohydrates": 44,
+        "fat": 28,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 660,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ishtah-lahm-ae",
+      "name": "Ishtah Lahm Emirates",
+      "description": "Beef stew with tahini — Sharjah home cooking.",
+      "categories": [
+        "beef",
+        "stew",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef diced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tahini sauce",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tomato base",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed spice",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; stew with tomato."
+        },
+        {
+          "position": 2,
+          "instruction": "Tahini swirl at the end."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer 5 minutes; serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 454,
+        "protein": 36,
+        "carbohydrates": 28,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahm-rashoosh",
+      "name": "Lahm Rashoosh",
+      "description": "Slow-cooked shredded beef — traditional Emirati.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef brisket",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bezar spice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dried lime",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slow cook beef with bezar and lime 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Shred fine; reserve juices."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve over fluffy rice with juices."
+        }
+      ],
+      "nutrition": {
+        "calories": 546,
+        "protein": 42,
+        "carbohydrates": 36,
+        "fat": 26,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kebab-beef-ae",
+      "name": "Beef Kebab Platter",
+      "description": "Grilled beef kebabs with Emirati salad.",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef mince",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion garlic parsley",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin chili",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Salad accompaniment",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shape into long kebabs."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over charcoal 4 minutes per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with salad and bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 472,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 640,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahm-shawarma-ae",
+      "name": "Lahm Shawarma",
+      "description": "Thin-sliced spiced beef shawarma plate.",
+      "categories": [
+        "beef",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef top round sliced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shawarma spice",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Garlic sauce",
+          "quantity": 25,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Pita bread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef 4 hours in spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill hot thin slices."
+        },
+        {
+          "position": 3,
+          "instruction": "Plate with garlic sauce and bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 478,
+        "protein": 40,
+        "carbohydrates": 30,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hanees-beef",
+      "name": "Hanees Emirates",
+      "description": "Beef and wheat slow-cooked national dish.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef cubed",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole wheat",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee & date syrup",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cardamom",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slow cook beef and wheat 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat until smooth and elastic."
+        },
+        {
+          "position": 3,
+          "instruction": "Ghee and date syrup drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 40,
+        "carbohydrates": 30,
+        "fat": 20,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahm-machboos-ae",
+      "name": "Lahm Machboos Dukkah",
+      "description": "Beef machboos finished with nutty dukkah crust.",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef cubes",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dukkah blend",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ghee & onion",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef in bezar broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice absorbs broth; top with beef."
+        },
+        {
+          "position": 3,
+          "instruction": "Crunchy dukkah crust under grill."
+        }
+      ],
+      "nutrition": {
+        "calories": 570,
+        "protein": 42,
+        "carbohydrates": 42,
+        "fat": 26,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "madhbi-lahm-ae",
+      "name": "Madhbi Beef Emirates",
+      "description": "Thin-grilled marinated beef — Adeni-Emirati.",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef flank flat",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt cumin marinade",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Paprika garlic",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Lemon & salad",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound thin; marinate 6 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill blazing hot 3 min per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with lemon and salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 504,
+        "protein": 44,
+        "carbohydrates": 28,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 700,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "machboos-dajaj-ae",
+      "name": "Machboos Dajaj Emirates",
+      "description": "Spiced chicken and rice — the Emirati signature.",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bezar spice & dried lime",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Tomato onion base",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken with bezar spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer with dried lime 40 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Rice absorbs broth; steam; serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 544,
+        "protein": 40,
+        "carbohydrates": 42,
+        "fat": 24,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 640,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "harees-dajaj-ae",
+      "name": "Harees Dajaj",
+      "description": "Cracked wheat chicken porridge — Ramadan dish.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "ramadan"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cracked wheat",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee & cinnamon",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook wheat and chicken together 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat until smooth porridge."
+        },
+        {
+          "position": 3,
+          "instruction": "Ghee and cinnamon finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 384,
+        "protein": 32,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "thareed-dajaj-ae",
+      "name": "Thareed Dajaj Emirates",
+      "description": "Chicken-vegetable stew on regag bread.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "soup",
+        "ramadan"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Regag bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Turmeric baharat",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken with vegetables in turmeric broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Tear regag bread in bowls."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle soup over bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 30,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-biryani-ae",
+      "name": "Chicken Biryani Emirates",
+      "description": "Layered chicken biryani — celebration essential.",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "celebration"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken masala",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Parboiled basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Saffron fried onion",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Biryani masala",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken masala thick."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer rice; saffron drizzle."
+        },
+        {
+          "position": 3,
+          "instruction": "Seal and dum 25 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 570,
+        "protein": 42,
+        "carbohydrates": 42,
+        "fat": 26,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 650,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dajaj-mandi-ae",
+      "name": "Chicken Mandi Emirates",
+      "description": "Charcoal-smoked mandi chicken on saffron rice.",
+      "categories": [
+        "chicken",
+        "grill",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole chicken half",
+          "quantity": 375,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hawaij spice",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Saffron rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Smoked ghee",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate with hawaij; roast 200C 50 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Saffron rice steam separately."
+        },
+        {
+          "position": 3,
+          "instruction": "Stack chicken on rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 544,
+        "protein": 44,
+        "carbohydrates": 38,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-thareed-ae",
+      "name": "Thareed Dajaj Quick",
+      "description": "Quick chicken thareed — weeknight Emirati meal.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pita bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Turmeric broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken with vegetables in turmeric."
+        },
+        {
+          "position": 2,
+          "instruction": "Tear pita into bowls."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle soup over; serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 32,
+        "carbohydrates": 30,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dajaj-madrouba",
+      "name": "Madrouba Dajaj",
+      "description": "Chicken tomato porridge — Emirati comfort bowl.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & onion",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice broken",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Turmeric & baharat",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken with tomato and spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Add broken rice; cook till porridge."
+        },
+        {
+          "position": 3,
+          "instruction": "Mash slightly; serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 408,
+        "protein": 34,
+        "carbohydrates": 32,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shorba-dajaj-ae",
+      "name": "Shorba Dajaj Emirates",
+      "description": "Spiced chicken soup — Ramadan starter.",
+      "categories": [
+        "chicken",
+        "soup",
+        "traditional",
+        "ramadan"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & celery",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baharat",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Lemon & mint",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer chicken in spiced broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Shred chicken; return to soup."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon and mint finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 344,
+        "protein": 28,
+        "carbohydrates": 22,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dajaj-kebab-ae",
+      "name": "Chicken Kebab Emirates",
+      "description": "Grilled chicken kebabs with Emirati salad.",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt hawajj marinade",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bell pepper & onion",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Thread chicken with vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate 2 hours; grill 3 min per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with bread and salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 402,
+        "protein": 34,
+        "carbohydrates": 26,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shawarma-dajaj-ae",
+      "name": "Chicken Shawarma Emirates",
+      "description": "Thin-sliced shawarma chicken with toum.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs sliced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shawarma spice",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Toum garlic sauce",
+          "quantity": 25,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Pita bread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate and grill or pan-fry."
+        },
+        {
+          "position": 2,
+          "instruction": "Shave thin slices."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with toum, pickles, and bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 436,
+        "protein": 36,
+        "carbohydrates": 28,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dajaj-machboos-ae",
+      "name": "Dajaj Machboos Dukkah",
+      "description": "Chicken machboos finished with crunchy dukkah.",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dukkah",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bezar spice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken in bezar broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice absorbs broth with chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Dukkah crust under grill."
+        }
+      ],
+      "nutrition": {
+        "calories": 518,
+        "protein": 40,
+        "carbohydrates": 40,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tashreeb-dajaj-ae",
+      "name": "Tashreeb Dajaj Emirates",
+      "description": "Bread-soaked chicken broth — Emirati comfort.",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tashreeb bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Turmeric broth",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Fried onion",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook chicken in turmeric broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Tear bread in bowls."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle broth and chicken over."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 30,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dajaj-harees-ae",
+      "name": "Harees Dajaj Elegant",
+      "description": "Smooth chicken-wheat porridge — Eid dish.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cracked wheat",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon & cardamom",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil wheat with chicken 2.5 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat till smooth and elastic."
+        },
+        {
+          "position": 3,
+          "instruction": "Ghee and spice finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 34,
+        "carbohydrates": 30,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-saloona",
+      "name": "Dajaj Saloona",
+      "description": "Chicken vegetable curry — Emirati daily bowl.",
+      "categories": [
+        "chicken",
+        "curry",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed vegetables",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & turmeric",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bezar spice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; add bezar and tomato."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer with vegetables 30 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with rice or bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 444,
+        "protein": 36,
+        "carbohydrates": 30,
+        "fat": 20,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 600,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "regag-bread-ae",
+      "name": "Regag Bread",
+      "description": "Paper-thin tandoor bread — Emirati daily staple.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "street-food",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour water dough",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tandoor hot surface",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        },
+        {
+          "name": "Nigella seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Water brush",
+          "quantity": 5,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Spread dough paper thin on hot surface."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake 2 minutes till crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush water; fold; serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 138,
+        "protein": 8,
+        "carbohydrates": 22,
+        "fat": 2,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chebab-emirati",
+      "name": "Chebab (Emirati)",
+      "description": "Emirati turmeric pancakes — saffron-spotted.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour & rice flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Turmeric & cardamom",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Yogurt & egg",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Date syrup",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix batter with turmeric."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour small rounds on hot pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook till golden; serve with date syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 360,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "balaleet-emirati",
+      "name": "Balaleet (Emirati)",
+      "description": "Sweet vermicelli topped with egg — Emirati breakfast.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vermicelli noodles",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar & cardamom",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg omelette thin",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toast vermicelli golden in ghee."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water sugar cardamom; steam."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with thin egg omelette."
+        }
+      ],
+      "nutrition": {
+        "calories": 192,
+        "protein": 10,
+        "carbohydrates": 20,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 8,
+        "sodium": 280,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chella-regag-ae",
+      "name": "Chella Regag",
+      "description": "Stuffed regag bread with spiced filling.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Regag bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Spiced potato filling",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green chutney",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & chili",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook regag bread thin crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill with spiced potato mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll and serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 166,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "saloona-emirati",
+      "name": "Vegetable Saloona (Emirati)",
+      "description": "Mixed vegetable curry — daily Emirati bowl.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "curry",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mixed vegetables",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & onion base",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Turmeric & baharat",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Ghee or oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion; add tomato and spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer vegetables till tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with rice or bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbohydrates": 16,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ful-uae",
+      "name": "Ful Emirates",
+      "description": "Fava beans with herbs — Emirati breakfast.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cooked fava beans",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green onion & parsley",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon olive oil",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Warm fava beans with cumin."
+        },
+        {
+          "position": 2,
+          "instruction": "Chop herbs on top."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon and olive oil drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 158,
+        "protein": 12,
+        "carbohydrates": 14,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 440,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hummus-ae",
+      "name": "Hummus Emirates",
+      "description": "Classic tahini-chickpea dip — meze essential.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "starter",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cooked chickpeas",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tahini",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & garlic",
+          "quantity": 12,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend chickpeas smooth with tahini."
+        },
+        {
+          "position": 2,
+          "instruction": "Season lemon garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Pool olive oil; paprika dust."
+        }
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 8,
+        "carbohydrates": 14,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fattoush-ae",
+      "name": "Fattoush Emirates",
+      "description": "Sumac-bread salad — fresh Emirati meze.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "salad"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mixed greens",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pita chips",
+          "quantity": 25,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sumac lemon dressing",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Radish & cucumber",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss greens and vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sumac dressing generously."
+        },
+        {
+          "position": 3,
+          "instruction": "Crisp pita chips last minute."
+        }
+      ],
+      "nutrition": {
+        "calories": 118,
+        "protein": 4,
+        "carbohydrates": 12,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mujadara-ae",
+      "name": "Mujadara Emirates",
+      "description": "Lentils and rice with caramelized onion.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lentils",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Caramelized onions",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin olive oil",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook lentils and rice together."
+        },
+        {
+          "position": 2,
+          "instruction": "Deep caramelize onions."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with onion; drizzle oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 198,
+        "protein": 12,
+        "carbohydrates": 24,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sambousa-ae",
+      "name": "Sambousa Emirates",
+      "description": "Fried pastry triangles — Ramadan essential.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "starter",
+        "ramadan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Wrappers",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Spiced potato filling",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin chili",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 125,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fill wrappers triangle fold."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry 170C 3 minutes golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with chutney."
+        }
+      ],
+      "nutrition": {
+        "calories": 182,
+        "protein": 7,
+        "carbohydrates": 16,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 460,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bamya-ae",
+      "name": "Bamya Emirates",
+      "description": "Okra in tomato stew — simple comfort.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "stew"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baby okra",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion garlic",
+          "quantity": 25,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion; add tomato."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer okra 25 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 134,
+        "protein": 6,
+        "carbohydrates": 14,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tabbouleh-ae",
+      "name": "Tabbouleh Emirates",
+      "description": "Parsley herb salad with fine bulgur.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "salad"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Parsley",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fine bulgur",
+          "quantity": 12,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato mint",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon olive oil",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak bulgur; drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss parsley mint tomato."
+        },
+        {
+          "position": 3,
+          "instruction": "Dress generously."
+        }
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": 4,
+        "carbohydrates": 10,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 280,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mushabbak-ae",
+      "name": "Mushabbak Emirates",
+      "description": "Fried batter swirls with date syrup.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour batter",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 175,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Date syrup",
+          "quantity": 50,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tahini",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pipe batter into hot oil spiral."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry crisp 2 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Date syrup or tahini drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 194,
+        "protein": 6,
+        "carbohydrates": 20,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 340,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jarish-uae",
+      "name": "Jareesh Vegan",
+      "description": "Cracked wheat porridge — Emirati comfort.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cracked wheat",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & ghee",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Turmeric",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook wheat in water 45 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir in yogurt."
+        },
+        {
+          "position": 3,
+          "instruction": "Ghee cinnamon finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 190,
+        "protein": 10,
+        "carbohydrates": 24,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mutabbal-ae",
+      "name": "Mutabbal Emirates",
+      "description": "Smoky eggplant-tahini dip.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "starter",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grilled eggplant",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tahini",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & garlic",
+          "quantity": 12,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Char eggplant; scoop flesh."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend smooth with tahini."
+        },
+        {
+          "position": 3,
+          "instruction": "Pool oil on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 172,
+        "protein": 6,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 320,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "luqaimat-ae",
+      "name": "Luqaimat Emirates",
+      "description": "Date-syrup dough balls — Emirati obsession.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "traditional",
+        "ramadan"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Batter",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Date syrup",
+          "quantity": 75,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Cardamom",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 175,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Ferment batter 30 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Drop balls; fry golden 3 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Drench in hot date syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 172,
+        "protein": 7,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 11,
+        "sodium": 280,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kunafa-ae",
+      "name": "Kunafa Emirates",
+      "description": "Shredded pastry cream cake — Ramadan crown.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration",
+        "ramadan"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kunafa dough",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cream cheese",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 38,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup rosewater",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press buttered dough in pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer cheese; cover with dough."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 20 min; syrup shower."
+        }
+      ],
+      "nutrition": {
+        "calories": 292,
+        "protein": 12,
+        "carbohydrates": 16,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 14,
+        "sodium": 120,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "7XiDgUhmMIs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=7XiDgUhmMIs",
+          "videoTitle": "The Best Kunafa (Knafeh) Recipe – Crispy, Cheesy, Perfect!",
+          "channelName": "The Cooking Foodie",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "maamoul-ae",
+      "name": "Maamoul Emirates",
+      "description": "Semolina date cookies — Eid specialty.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Semolina dough",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Date filling",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & rosewater",
+          "quantity": 25,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Powdered sugar",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Form dough; encase date filling."
+        },
+        {
+          "position": 2,
+          "instruction": "Pattern with mold; bake 180C 15 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Sugar snow finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 176,
+        "protein": 6,
+        "carbohydrates": 20,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 7,
+        "sodium": 180,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "basbousa-ae",
+      "name": "Basbousa Emirates",
+      "description": "Semolina syrup cake — Gulf classic.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "baked"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Semolina coconut",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt sugar",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 75,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Almond halves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix semolina yogurt; rest."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour tray; diamond cut; almond top."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 30; hot syrup soak."
+        }
+      ],
+      "nutrition": {
+        "calories": 202,
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 14,
+        "sodium": 160,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "muhallabiya-ae",
+      "name": "Muhallabiya Emirates",
+      "description": "Rosewater milk pudding — Gulf silky classic.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Milk sugar",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rosewater",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Pistachios",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook milk cornstarch stirring."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour thick; chill 3 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Rosewater pistachio top."
+        }
+      ],
+      "nutrition": {
+        "calories": 116,
+        "protein": 6,
+        "carbohydrates": 14,
+        "fat": 4,
+        "fiber": 2,
+        "sugar": 7,
+        "sodium": 100,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "assidat-emirati",
+      "name": "Assidat al Boubar (Emirati)",
+      "description": "Semolina custard pudding — Emirati Eid.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Semolina",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk & sugar",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Ghee & cardamom",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pistachio & cream",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook semolina in milk stirring."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour in mold; chill till set."
+        },
+        {
+          "position": 3,
+          "instruction": "Cream and pistachio top."
+        }
+      ],
+      "nutrition": {
+        "calories": 176,
+        "protein": 8,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 140,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kala-khosh-ae",
+      "name": "Kala Khosh Emirates",
+      "description": "Roasted flour walnut confection.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Roasted flour",
+          "quantity": 75,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Walnuts",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & sugar",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cardamom",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown flour in butter."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sugar cardamom."
+        },
+        {
+          "position": 3,
+          "instruction": "Walnuts; press in tray; slice."
+        }
+      ],
+      "nutrition": {
+        "calories": 284,
+        "protein": 8,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 160,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shuwaida-ae",
+      "name": "Shuwaida Emirates",
+      "description": "Cinnamon doughnuts rolled in sugar.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dough balls",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon sugar",
+          "quantity": 25,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 175,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey dip",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry balls golden 3 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll in cinnamon sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with honey."
+        }
+      ],
+      "nutrition": {
+        "calories": 194,
+        "protein": 6,
+        "carbohydrates": 20,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 9,
+        "sodium": 220,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-kebab-ae",
+      "name": "Beef Kebab Emirates",
+      "description": "Charcoal-grilled spiced beef kebabs.",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef mince",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & parsley",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Skewers",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead mince with spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread on skewers."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 4 min per side."
+        }
+      ],
+      "nutrition": {
+        "calories": 446,
+        "protein": 38,
+        "carbohydrates": 24,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 640,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "machboos-dajaj-deira",
+      "name": "Chicken Machboos Deira",
+      "description": "One-pot Emirati chicken rice Deira-style.",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Basmati rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bezar spice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dried lime",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken with bezar."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer with lime; add rice."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam 20 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 502,
+        "protein": 38,
+        "carbohydrates": 38,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shawarma-dajaj-deira",
+      "name": "Chicken Shawarma Deira",
+      "description": "Street shawarma rolled in thin bread.",
+      "categories": [
+        "chicken",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast strips",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shawarma spice",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Garlic sauce",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Thin bread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grill spiced chicken strips."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll in bread with sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 34,
+        "carbohydrates": 28,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 600,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "saloona-mixed-ae",
+      "name": "Saloona Mixed",
+      "description": "Mixed vegetable curry daily Emirati bowl.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "curry",
+        "comfort-food",
+        "one-pot"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mixed vegetables",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & turmeric",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion garlic",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion; add spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer veg till tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 6,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 400,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

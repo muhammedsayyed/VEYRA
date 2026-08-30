@@ -1,0 +1,82 @@
+{
+  "countryCode": "gr",
+  "videos": [
+    {
+      "recipeSlug": "moussaka",
+      "youtubeVideoId": "W-2qdsVNHQo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=W-2qdsVNHQo",
+      "videoTitle": "Amazing Moussaka Recipe",
+      "channelName": "Preppy Kitchen"
+    },
+    {
+      "recipeSlug": "beef-stifado",
+      "youtubeVideoId": "XM22m3AoUCQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XM22m3AoUCQ",
+      "videoTitle": "Stifado - Beef Stifado Recipe - Greek Beef Stew by Theo Michaels, Masterchef",
+      "channelName": "Theo Michaels"
+    },
+    {
+      "recipeSlug": "pastitsio",
+      "youtubeVideoId": "XW1sN2rMxqw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XW1sN2rMxqw",
+      "videoTitle": "Pastitsio | Greek Pastitsio Recipe",
+      "channelName": "Ken's Greek Table"
+    },
+    {
+      "recipeSlug": "chicken-souvlaki",
+      "youtubeVideoId": "Cg5TZJ2lZPQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Cg5TZJ2lZPQ",
+      "videoTitle": "The Ultimate Chicken Souvlaki Board/Platter",
+      "channelName": "Dimitra's Dishes"
+    },
+    {
+      "recipeSlug": "spanakopita",
+      "youtubeVideoId": "Wyj4kpsjv4o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wyj4kpsjv4o",
+      "videoTitle": "The Best Greek Spanakopita (Updated Video)",
+      "channelName": "Dimitra's Dishes"
+    },
+    {
+      "recipeSlug": "yiouvetsi-beef",
+      "youtubeVideoId": "j1s1ZP51l4M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j1s1ZP51l4M",
+      "videoTitle": "The Secret to the Best Youvetsi: A Greek Grandma's Recipe",
+      "channelName": "Greek Cuisine"
+    },
+    {
+      "recipeSlug": "chicken-gyros",
+      "youtubeVideoId": "mxqAMcoYS3U",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mxqAMcoYS3U",
+      "videoTitle": "Homemade Chicken Gyros | Akis Petretzikis",
+      "channelName": "Akis Petretzikis"
+    },
+    {
+      "recipeSlug": "kotopoulo-lemonato",
+      "youtubeVideoId": "GTxsJIG2OoY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GTxsJIG2OoY",
+      "videoTitle": "Kotopoulo Lemonato (Greek-Style Lemon Chicken)",
+      "channelName": "Giselle Flavour Table"
+    },
+    {
+      "recipeSlug": "horiatiki-salad",
+      "youtubeVideoId": "j7rU-1-s7NM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=j7rU-1-s7NM",
+      "videoTitle": "Greek Salad Recipe | How to Make Greek Salad",
+      "channelName": "The Cooking Foodie"
+    },
+    {
+      "recipeSlug": "fasolada",
+      "youtubeVideoId": "iXHGsZknzKQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iXHGsZknzKQ",
+      "videoTitle": "FASOLADA — GREECE’S NATIONAL DISH (TRADITIONAL GREEK BEAN SOUP) 🇬🇷",
+      "channelName": "Christina Dynamite"
+    },
+    {
+      "recipeSlug": "galaktoboureko",
+      "youtubeVideoId": "tM2cbXWHSLY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tM2cbXWHSLY",
+      "videoTitle": "Galaktoboureko: Greek Custard Pie Perfection!",
+      "channelName": "Dimitra's Dishes"
+    }
+  ]
+}

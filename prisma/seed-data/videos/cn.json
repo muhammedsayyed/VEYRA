@@ -1,0 +1,110 @@
+{
+  "countryCode": "cn",
+  "videos": [
+    {
+      "recipeSlug": "kung-pao-chicken",
+      "youtubeVideoId": "5hwa7GQIanM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5hwa7GQIanM",
+      "videoTitle": "Authentic Kung Pao Chicken Recipe | Flavor Badshah",
+      "channelName": "Woks of Life"
+    },
+    {
+      "recipeSlug": "beef-chow-fun",
+      "youtubeVideoId": "cc3aj1vp8SM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cc3aj1vp8SM",
+      "videoTitle": "Beef Chow Fun (干炒牛河) | Cantonese Beef Ho Fun Recipe",
+      "channelName": "Kitchen Catalog"
+    },
+    {
+      "recipeSlug": "cumin-beef",
+      "youtubeVideoId": "DMk_LVk1JWo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DMk_LVk1JWo",
+      "videoTitle": "Cumin Beef (孜然牛肉) Recipe",
+      "channelName": "Omnivore's Cookbook"
+    },
+    {
+      "recipeSlug": "hong-shao-beef",
+      "youtubeVideoId": "ZXEdHOl_ueU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZXEdHOl_ueU",
+      "videoTitle": "How to Make Perfect Braised Beef (Hong Shao Niu Rou) - Easy Chinese Recipe",
+      "channelName": "Home Cooked Chinese Wonders"
+    },
+    {
+      "recipeSlug": "beef-broccoli",
+      "youtubeVideoId": "NO-jVr3pIn0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NO-jVr3pIn0",
+      "videoTitle": "Easy Beef and Broccoli Recipe by Masterchef • Taste Show",
+      "channelName": "Taste Show"
+    },
+    {
+      "recipeSlug": "vegetarian-mapo-tofu",
+      "youtubeVideoId": "DFSfNF-wkpY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DFSfNF-wkpY",
+      "videoTitle": "Vegetarian Mapo Tofu",
+      "channelName": "Omnivore's Cookbook"
+    },
+    {
+      "recipeSlug": "da-pan-ji",
+      "youtubeVideoId": "8JNT2ceEhro",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8JNT2ceEhro",
+      "videoTitle": "How to Make PERFECT Chinese Big Plate Chicken (Da Pan Ji) - The Secret Restaurant Recipe!",
+      "channelName": "Cooking Fundamentals"
+    },
+    {
+      "recipeSlug": "white-cut-chicken",
+      "youtubeVideoId": "zm1X1LSVxc0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zm1X1LSVxc0",
+      "videoTitle": "White Cut Chicken – Chinese Poached Chicken",
+      "channelName": "ChinaSichuanFood by Elaine"
+    },
+    {
+      "recipeSlug": "tomato-egg-stirfry",
+      "youtubeVideoId": "Eo2doZBmZiY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Eo2doZBmZiY",
+      "videoTitle": "THE BEST Tomato Egg Stir Fry Recipe! (Simple & Quick Comfort Food)",
+      "channelName": "Nael Oz"
+    },
+    {
+      "recipeSlug": "di-san-xian",
+      "youtubeVideoId": "qh8yfW84-AE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qh8yfW84-AE",
+      "videoTitle": "Di San Xian (地三鲜) | Chinese Potato Eggplant Pepper Recipe",
+      "channelName": "Kitchen Catalog"
+    },
+    {
+      "recipeSlug": "egg-tarts-hk",
+      "youtubeVideoId": "U3iwtrqBEhs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=U3iwtrqBEhs",
+      "videoTitle": "Hong Kong Egg Tarts (Dan Tat)",
+      "channelName": "The Woks of Life"
+    },
+    {
+      "recipeSlug": "mango-pudding",
+      "youtubeVideoId": "rH7QvIIgdH4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rH7QvIIgdH4",
+      "videoTitle": "Restaurant-Style Mango Pudding | Easy 2-Layer Mango Dessert Recipe | Mango pudding",
+      "channelName": "Suman's Authentic Recipe"
+    },
+    {
+      "recipeSlug": "sesame-balls",
+      "youtubeVideoId": "Qpzay_yDzFA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Qpzay_yDzFA",
+      "videoTitle": "Sesame Balls (煎堆/芝麻球) with Red Bean Paste Filling",
+      "channelName": "Wei's Red House Kitchen"
+    },
+    {
+      "recipeSlug": "scallion-pancakes",
+      "youtubeVideoId": "bJhAbPEwvS8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bJhAbPEwvS8",
+      "videoTitle": "Scallion Pancakes Recipe from my Chinese Grandma 👵🏼",
+      "channelName": "Jess Wang Pastry"
+    },
+    {
+      "recipeSlug": "tofu-broccoli-stirfry",
+      "youtubeVideoId": "DBeteOIy124",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DBeteOIy124",
+      "videoTitle": "Broccoli and Tofu Stir Fry | Quick, Plant-Based & Full of Flavor #shorts",
+      "channelName": "Seeking Good Eats"
+    }
+  ]
+}

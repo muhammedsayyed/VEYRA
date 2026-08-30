@@ -8,13 +8,22 @@
     "build": "prisma generate && vite build",
     "postinstall": "prisma generate",
     "preview": "vite preview",
-    "format": "oxfmt"
+    "format": "oxfmt",
+    "seed:food": "node scripts/seed-food.mjs",
+    "validate:food": "node scripts/validate-food-data.mjs",
+    "attach:videos": "node scripts/attach-videos.mjs",
+    "validate:videos": "node scripts/validate-food-data.mjs"
+  },
+  "prisma": {
+    "seed": "node scripts/seed-food.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",
     "@prisma/client": "^5.22.0",
     "@zxing/browser": "^0.2.1",
     "@zxing/library": "^0.23.0",
+    "lucide-react": "^1.37.0",
+    "motion": "^13.1.1",
     "pg": "^8.23.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

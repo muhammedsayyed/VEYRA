@@ -1,0 +1,5901 @@
+{
+  "countryCode": "tr",
+  "recipes": [
+    {
+      "slug": "iskender-kebab",
+      "name": "Iskender Kebab",
+      "description": "Bursa's legendary layered kebab: shaved spiced beef over pita with tomato sauce, yogurt and sizzling butter.",
+      "categories": [
+        "beef",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 plate (380g)",
+      "homePrepCost": 180,
+      "restaurantPrice": 350,
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": true,
+      "popularityScore": 96,
+      "tags": [
+        "kebab",
+        "iconic"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Sirloin",
+          "quantity": 600,
+          "unit": "g",
+          "note": "very thinly sliced"
+        },
+        {
+          "name": "Pide Flatbread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "cut into squares"
+        },
+        {
+          "name": "Tomato Passata",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Strained Yogurt",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "quantity": 60,
+          "unit": "g",
+          "note": "melted, for pouring"
+        },
+        {
+          "name": "Pul Biber (Aleppo Pepper)",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Oregano, Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef slices in grated onion, oregano and oil; sear hard in batches."
+        },
+        {
+          "position": 2,
+          "instruction": "Warm pita squares on a tray; spoon warm tomato sauce over."
+        },
+        {
+          "position": 3,
+          "instruction": "Pile beef on top; add dollops of yogurt along one edge."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour foaming butter with pul biber over everything; serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 690,
+        "protein": 44,
+        "carbohydrates": 48,
+        "fat": 36,
+        "fiber": 3,
+        "sugar": 7,
+        "sodium": 980,
+        "saturatedFat": 16
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "zsgPByLa9Bk",
+          "youtubeUrl": "https://www.youtube.com/watch?v=zsgPByLa9Bk",
+          "videoTitle": "Turkish Iskender Kebab! Everything You Need To Make At Home",
+          "channelName": "Turkish Food Travel",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tas-kebabi",
+      "name": "Tas Kebabı",
+      "description": "Old-Ottoman pot kebab: beef cubes braised until silky with onion and tomato, served over pilav.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 100,
+      "servings": 4,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": 160,
+      "restaurantPrice": 280,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "stew",
+        "ottoman"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Stew Cubes",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "optional, diced"
+        },
+        {
+          "name": "Bay Leaf & Black Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef in butter; add onions and cook until sweet and soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir in paste and pepper; cover with water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered 75-90 minutes until spoon-tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Reduce sauce slightly; serve over buttered pilav."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbohydrates": 14,
+        "fat": 29,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 640,
+        "saturatedFat": 12
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "PrDlRyUE_8E",
+          "youtubeUrl": "https://www.youtube.com/watch?v=PrDlRyUE_8E",
+          "videoTitle": "Tas Kebabi - Turkish traditional slow-cooked meat stew",
+          "channelName": "Sumie Kimura",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "izmir-kofte",
+      "name": "İzmir Köfte",
+      "description": "Cylindrical köfte baked in tomato sauce between potato rounds and bay - Aegean home classic.",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "4 köfte with sauce (320g)",
+      "homePrepCost": 140,
+      "restaurantPrice": 240,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "oven-baked"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Onion (grated) & Breadcrumbs",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": "thick rounds"
+        },
+        {
+          "name": "Tomato Passata",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead meat with onion, crumbs, salt and pepper; shape fingers."
+        },
+        {
+          "position": 2,
+          "instruction": "Shallow-fry köfte briefly; lightly brown potato rounds too."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer potatoes and köfte in a dish; pour seasoned passata around."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 190°C about 35 minutes until bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 33,
+        "carbohydrates": 42,
+        "fat": 27,
+        "fiber": 4,
+        "sugar": 8,
+        "sodium": 760,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "PaWbK15EpF4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=PaWbK15EpF4",
+          "videoTitle": "Bu Tarifi Görenler İzmir Köfteyi Bir Daha Dışarıda Yemeyecek!",
+          "channelName": "MUSMUTLU YEMEK TARİFLERİ",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "etli-guvec",
+      "name": "Etli Güveç",
+      "description": "Beef and summer vegetables slow-baked in clay pots until everything melts together.",
+      "categories": [
+        "beef",
+        "traditional",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 90,
+      "servings": 4,
+      "servingSize": "1 pot (360g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 260,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 72,
+      "tags": [
+        "clay-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 600,
+          "unit": "g",
+          "note": "cubes"
+        },
+        {
+          "name": "Zucchini, Eggplant & Potato",
+          "quantity": 600,
+          "unit": "g",
+          "note": "chunks"
+        },
+        {
+          "name": "Green Peppers & Tomatoes",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic Cloves",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Oregano & Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef; place in güveç pots with oil and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Add vegetables, tomatoes, herbs and a splash of water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and bake at 170°C for 80 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 minutes before serving straight from the pot."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 34,
+        "carbohydrates": 28,
+        "fat": 24,
+        "fiber": 6,
+        "sugar": 9,
+        "sodium": 610,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "H3KPQse1foE",
+          "youtubeUrl": "https://www.youtube.com/watch?v=H3KPQse1foE",
+          "videoTitle": "Traditional Turkish Stew (Etli Türlü / Güveç) With Vegan Option",
+          "channelName": "Turkish Food Travel",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 115,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "sis-tavuk",
+      "name": "Şiş Tavuk",
+      "description": "Yogurt-and-tomato-paste marinated chicken skewers - the smoky king of Turkish grills.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "4 skewers (260g)",
+      "homePrepCost": 120,
+      "restaurantPrice": 220,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "grill",
+        "skewer"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts or Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": "cubes"
+        },
+        {
+          "name": "Plain Yogurt",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive Oil & Lemon Juice",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Paprika, Oregano, Salt",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Skewers",
+          "quantity": 12,
+          "unit": "pcs",
+          "note": "soaked"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken cubes at least 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread onto skewers without crowding."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill hot, turning, 10-12 minutes until charred at edges."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve over lavaş with grilled peppers and rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 46,
+        "carbohydrates": 9,
+        "fat": 21,
+        "fiber": 1.2,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 4.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "51e34tEBKnA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=51e34tEBKnA",
+          "videoTitle": "Chicken Shish - Sis Tavuk  #shish #shishtawook #sistavuk #shishkabobs #shishkebab",
+          "channelName": "Tiffinandtea",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "hunkar-begendi",
+      "name": "Hünkar Beğendi",
+      "description": "'The Sultan delighted': smoky eggplant-bechamel purée under braised chicken stew.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 35,
+      "cookTimeMin": 60,
+      "servings": 4,
+      "servingSize": "1 plate (340g)",
+      "homePrepCost": 130,
+      "restaurantPrice": 250,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "ottoman",
+        "palace"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 700,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Eggplants",
+          "quantity": 3,
+          "unit": "large pcs",
+          "note": "charred and peeled"
+        },
+        {
+          "name": "Milk & Flour & Butter",
+          "quantity": 450,
+          "unit": "ml",
+          "note": "for béchamel"
+        },
+        {
+          "name": "Kashar or Parmesan",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated into purée"
+        },
+        {
+          "name": "Onion & Tomato Paste",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "keeps purée green"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Char eggplants whole; peel and mash with lemon."
+        },
+        {
+          "position": 2,
+          "instruction": "Make a thick béchamel; beat in cheese then eggplant."
+        },
+        {
+          "position": 3,
+          "instruction": "Stew chicken with onion and paste until tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Spoon purée onto plates; crown with stew and its sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 34,
+        "fiber": 6,
+        "sugar": 10,
+        "sodium": 720,
+        "saturatedFat": 13
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tavuk-doner",
+      "name": "Tavuk Döner",
+      "description": "Marinated chicken stacked and roasted, shaved thin into wraps with pickles and garlic sauce.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 wrap (280g)",
+      "homePrepCost": 110,
+      "restaurantPrice": 150,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "wrap",
+        "spit-roast"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Yogurt & Tomato Paste Marinade",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "grated, juice only"
+        },
+        {
+          "name": "Oregano, Pul Biber, Salt",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Durum Wraps",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Garlic Yogurt Sauce",
+          "quantity": 200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate thighs overnight; stack tightly into a loaf and skewer."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast at 190°C 35-40 minutes, shaving crisp edges as they form."
+        },
+        {
+          "position": 3,
+          "instruction": "Toast wraps; spread garlic yogurt."
+        },
+        {
+          "position": 4,
+          "instruction": "Fill generously with döner shavings; roll tight and grill seam down."
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 43,
+        "carbohydrates": 52,
+        "fat": 19,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 1050,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "3m3C7bQNnc4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=3m3C7bQNnc4",
+          "videoTitle": "How to Make Turkish Chicken Doner Kebab at Home",
+          "channelName": "Unicorns in the Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tavuk-guvec",
+      "name": "Tavuk Güveç",
+      "description": "Chicken, mushrooms, peppers and tomatoes baked together in clay - weeknight Anatolia.",
+      "categories": [
+        "chicken",
+        "easy-recipes",
+        "lunch"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 pot (340g)",
+      "homePrepCost": 100,
+      "restaurantPrice": 190,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 73,
+      "tags": [
+        "clay-pot",
+        "one-pan"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 600,
+          "unit": "g",
+          "note": "chunks"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": 250,
+          "unit": "g",
+          "note": "halved"
+        },
+        {
+          "name": "Green Peppers & Tomatoes",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "wedges"
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive Oil & Oregano",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss everything raw into güveç dishes with paste, oil, herbs, salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Add a finger of water; cover with foil."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake at 185°C for 45 minutes; uncover 10 to color."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with bulgur pilavi."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 37,
+        "carbohydrates": 18,
+        "fat": 18,
+        "fiber": 4.5,
+        "sugar": 9,
+        "sodium": 580,
+        "saturatedFat": 3.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "imam-bayildi",
+      "name": "İmam Bayıldı",
+      "description": "'The priest fainted': eggplant collapsed in olive oil with tomato, onion and garlic - served room temp.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 half eggplant (220g)",
+      "homePrepCost": 70,
+      "restaurantPrice": 130,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 85,
+      "tags": [
+        "olive-oil-dish",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "slit, hollowed"
+        },
+        {
+          "name": "Onions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "long slow-cooked slices"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": "slivered"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Parsley & Sugar Pinch",
+          "quantity": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry eggplants in oil until softened; drain cut-side up in a dish."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook onions slowly in oil until melting; add garlic, tomatoes, sugar, salt."
+        },
+        {
+          "position": 3,
+          "instruction": "Stuff eggplants with the mixture; add water to dish."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake 165°C 40 minutes; cool to room temperature before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 4,
+        "carbohydrates": 22,
+        "fat": 24,
+        "fiber": 8,
+        "sugar": 13,
+        "sodium": 380,
+        "saturatedFat": 3.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "9yN5Bf8IwMg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=9yN5Bf8IwMg",
+          "videoTitle": "LEGENDARY Recipes: Turkish Aubergines That Made Imams Faint",
+          "channelName": "Middle Eats",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "mercimek-corbasi",
+      "name": "Mercimek Çorbası",
+      "description": "Silky red lentil soup finished with minted chili butter - Turkey's daily first spoonful.",
+      "categories": [
+        "vegetarian",
+        "budget-friendly",
+        "starter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 bowl (300g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 90,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "soup",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Red Lentils",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Onion & Carrot",
+          "quantity": 250,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable Stock",
+          "quantity": 1400,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried Mint & Pul Biber",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": "or olive oil for vegan"
+        },
+        {
+          "name": "Lemon Wedges",
+          "quantity": 4,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soften onion and carrot; stir in tomato paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Add lentils and stock; simmer 25 minutes until collapsing."
+        },
+        {
+          "position": 3,
+          "instruction": "Blend very smooth; loosen to velvet consistency."
+        },
+        {
+          "position": 4,
+          "instruction": "Crown each bowl with mint-chili butter; serve with lemon."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 14,
+        "carbohydrates": 41,
+        "fat": 6,
+        "fiber": 11,
+        "sugar": 6,
+        "sodium": 650,
+        "saturatedFat": 2.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Y9URTXhquZQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Y9URTXhquZQ",
+          "videoTitle": "How to Make Turkish Lentil Soup (Mercimek Corbasi) – Easy Vegan Red Lentil Soup",
+          "channelName": "Healthy Living Enthusiast",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "menemen",
+      "name": "Menemen",
+      "description": "Eggs slow-scrambled through peppers and tomatoes - the Turkish breakfast non-negotiable.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "servingSize": "1 pan share (280g)",
+      "homePrepCost": 50,
+      "restaurantPrice": 95,
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "breakfast-icon",
+        "one-pan"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": 6,
+          "unit": "pcs"
+        },
+        {
+          "name": "Green Ramiro Peppers",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "rings"
+        },
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Butter or Olive Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Pul Biber & Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Feta (optional)",
+          "quantity": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook peppers in fat until slumped; add tomatoes and reduce to jammy."
+        },
+        {
+          "position": 2,
+          "instruction": "Season well; lower heat."
+        },
+        {
+          "position": 3,
+          "instruction": "Beat eggs lightly and fold through gently - keep it saucy."
+        },
+        {
+          "position": 4,
+          "instruction": "Optional feta crumbled in; eat straight from the pan with bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 19,
+        "carbohydrates": 13,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 9,
+        "sodium": 520,
+        "saturatedFat": 6.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "yaprak-sarma",
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "description": "Rice-and-currant-stuffed vine leaves cooked gently in olive oil - cold mezze perfection.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 50,
+      "cookTimeMin": 55,
+      "servings": 6,
+      "servingSize": "10 rolls (210g)",
+      "homePrepCost": 90,
+      "restaurantPrice": 150,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "olive-oil-dish",
+        "handmade"
+      ],
+      "ingredients": [
+        {
+          "name": "Vine Leaves",
+          "quantity": 400,
+          "unit": "g",
+          "note": "jarred, rinsed"
+        },
+        {
+          "name": "Short Grain Rice",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "minced"
+        },
+        {
+          "name": "Currants & Pine Nuts",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Dill & Mint",
+          "quantity": 20,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook onions in oil till soft; add rice, nuts, currants, herbs, salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll teaspoonfuls tightly in leaves."
+        },
+        {
+          "position": 3,
+          "instruction": "Pack in pot; cover with lemon-water and a weight."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer low ~45 minutes; cool fully before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 6,
+        "carbohydrates": 48,
+        "fat": 13,
+        "fiber": 4.5,
+        "sugar": 5,
+        "sodium": 480,
+        "saturatedFat": 1.8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 105,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "baklava",
+      "name": "Turkish Baklava",
+      "description": "Forty gossamer phyllo layers, clarified butter, walnut filling and cool sugar syrup - pastry as heritage.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 60,
+      "cookTimeMin": 45,
+      "servings": 12,
+      "servingSize": "2 pieces (90g)",
+      "homePrepCost": 160,
+      "restaurantPrice": 280,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 95,
+      "tags": [
+        "iconic",
+        "syrup"
+      ],
+      "ingredients": [
+        {
+          "name": "Phyllo Sheets",
+          "quantity": 500,
+          "unit": "g",
+          "note": "thin, thawed"
+        },
+        {
+          "name": "Walnuts",
+          "quantity": 300,
+          "unit": "g",
+          "note": "coarsely ground"
+        },
+        {
+          "name": "Clarified Butter",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 400,
+          "unit": "g",
+          "note": "with lemon + water for syrup"
+        },
+        {
+          "name": "Water",
+          "quantity": 300,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil syrup ingredients 10 minutes; cool completely."
+        },
+        {
+          "position": 2,
+          "instruction": "Butter and layer half the phyllo, spreading walnuts midway."
+        },
+        {
+          "position": 3,
+          "instruction": "Cut diamond shapes to the bottom before baking."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake 170°C ~45 min gold; pour COLD syrup over HOT baklava; rest overnight."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 6,
+        "carbohydrates": 44,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 26,
+        "sodium": 210,
+        "saturatedFat": 12
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ewjl_ZJ8onk",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ewjl_ZJ8onk",
+          "videoTitle": "Baklava Recipe | How to Make Baklava",
+          "channelName": "The Cooking Foodie",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 105,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kunefe",
+      "name": "Künefe",
+      "description": "Shredded kadayif wrapped around stretching cheese, soaked in syrup while screaming hot.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 wedge (160g)",
+      "homePrepCost": 120,
+      "restaurantPrice": 220,
+      "isPopular": false,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "cheese-dessert",
+        "hot-syrup"
+      ],
+      "ingredients": [
+        {
+          "name": "Kadayif Shredded Pastry",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Hatay Cheese or Mozzarella",
+          "quantity": 300,
+          "unit": "g",
+          "note": "unsalted, shredded"
+        },
+        {
+          "name": "Clarified Butter",
+          "quantity": 180,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "name": "Sugar Syrup",
+          "quantity": 300,
+          "unit": "ml",
+          "note": "warm"
+        },
+        {
+          "name": "Crushed Pistachios",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Work butter through kadayif; press half into a buttered round pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Spread cheese layer; cap with remaining kadayif."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook stovetop 12-15 minutes per side, pressing, until deep gold."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour warm syrup over immediately; pistachio shower; serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 14,
+        "carbohydrates": 58,
+        "fat": 31,
+        "fiber": 1.5,
+        "sugar": 36,
+        "sodium": 480,
+        "saturatedFat": 17
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "EwhQZo-RtMc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EwhQZo-RtMc",
+          "videoTitle": "The Perfect Kunafa Recipe - Turkish KUNEFE / Regional Food Series Southeastern Anatolia Hatay",
+          "channelName": "Turkish Food Travel",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "adana-kebab",
+      "name": "Adana Kebab",
+      "description": "Hand-minced lamb-beef kebab on flat skewer — fire icon.",
+      "categories": [
+        "beef",
+        "grill",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced beef-lamb mix",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red pepper paste & cumin",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Flat metal skewer",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Charcoal grill",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead mince with pepper paste sticky."
+        },
+        {
+          "position": 2,
+          "instruction": "Mold onto wide skewer flat."
+        },
+        {
+          "position": 3,
+          "instruction": "Charcoal grill 4 min per side; serve with lavash."
+        }
+      ],
+      "nutrition": {
+        "calories": 506,
+        "protein": 40,
+        "carbohydrates": 28,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahmacun",
+      "name": "Lahmacun",
+      "description": "Paper-thin spiced beef flatbread — Turkish pizza.",
+      "categories": [
+        "beef",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef mince",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato pepper onion mix",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & paprika",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Thin lavash dough",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Spread mince-paper thin on dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake 250C 8 minutes blistering."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll with parsley and lemon."
+        }
+      ],
+      "nutrition": {
+        "calories": 462,
+        "protein": 38,
+        "carbohydrates": 28,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "iskender-kebab-bursa",
+      "name": "Iskender Kebab Bursa",
+      "description": "Sliced döner over bread with yogurt and tomato.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Thin-sliced beef döner",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pide bread cubes",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & tomato sauce",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Melted butter",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grill beef slices hot."
+        },
+        {
+          "position": 2,
+          "instruction": "Stack on bread; ladle tomato sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Yogurt side; melted butter shower."
+        }
+      ],
+      "nutrition": {
+        "calories": 566,
+        "protein": 44,
+        "carbohydrates": 30,
+        "fat": 30,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tas-kebabi-tr",
+      "name": "Tas Kebabi",
+      "description": "Slow-braised beef in earthenware pot.",
+      "categories": [
+        "beef",
+        "stew",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck cubes",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & tomato",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & cumin",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chestnuts optional",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef in butter hard."
+        },
+        {
+          "position": 2,
+          "instruction": "Add onion tomato; braise 90 min covered."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve sizzling from clay pot."
+        }
+      ],
+      "nutrition": {
+        "calories": 512,
+        "protein": 42,
+        "carbohydrates": 32,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 600,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "izmir-kofte-school",
+      "name": "Izmir Köfte School",
+      "description": "Baked meatballs in tomato sauce — Aegean home.",
+      "categories": [
+        "beef",
+        "traditional",
+        "baked",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef mince",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potato & pepper slices",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & parsley",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shape kofte ovals."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange with vegetables; tomato sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 472,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 24,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "etli-guvec-tr",
+      "name": "Etli Güvec",
+      "description": "Slow beef-c vegetable stew in clay pot.",
+      "categories": [
+        "beef",
+        "stew",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef stew meat",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggplant pepper tomato",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & paprika",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; layer vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Tomato paste broth; cover pot."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 1 hour."
+        }
+      ],
+      "nutrition": {
+        "calories": 478,
+        "protein": 40,
+        "carbohydrates": 30,
+        "fat": 22,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 580,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ciger-kebab",
+      "name": "Ciğer Kebab",
+      "description": "Thin-grilled liver kebab — Diyarbakır specialty.",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lamb liver thin-sliced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & sumac",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Onion & parsley",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flatbread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score liver thin; season cumin."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill blazing hot 2 min per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve on bread with onion-sumac."
+        }
+      ],
+      "nutrition": {
+        "calories": 444,
+        "protein": 42,
+        "carbohydrates": 24,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 540,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "uzu-kebab",
+      "name": "Uzu Kebab",
+      "description": "Shaved doner beef plate — Istanbul street king.",
+      "categories": [
+        "beef",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef doner shavings",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice pilaf",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Grilled tomato & pepper",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & yogurt",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shave doner thin from spit."
+        },
+        {
+          "position": 2,
+          "instruction": "Plate over rice pilaf."
+        },
+        {
+          "position": 3,
+          "instruction": "Grilled veg side; butter drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 536,
+        "protein": 42,
+        "carbohydrates": 38,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kuzu-incik",
+      "name": "Kuzu Incik",
+      "description": "Slow-roasted lamb shank — Ottoman feast.",
+      "categories": [
+        "beef",
+        "traditional",
+        "grill",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lamb shank",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red wine & tomato",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Herb butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Root vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear shank; braise in wine-tomato 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast till fork-tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Herb butter glaze; vegetables side."
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 48,
+        "carbohydrates": 34,
+        "fat": 28,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tandir-kebab",
+      "name": "Tandir Kebab",
+      "description": "Slow oven-roasted beef on bone — Anatolian style.",
+      "categories": [
+        "beef",
+        "traditional",
+        "baked",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef ribs on bone",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & yogurt marinade",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin paprika",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Butter finish",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate overnight in yogurt-spice."
+        },
+        {
+          "position": 2,
+          "instruction": "Slow roast 160C 3 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Butter finish; rest 10 min."
+        }
+      ],
+      "nutrition": {
+        "calories": 562,
+        "protein": 46,
+        "carbohydrates": 36,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 660,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kokorec",
+      "name": "Kokorec",
+      "description": "Grilled spiced lamb intestines — street delicacy.",
+      "categories": [
+        "beef",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lamb intestines cleaned",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & oregano",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Tomato & pepper",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bread roll",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and stack on spit."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill rotating over coals."
+        },
+        {
+          "position": 3,
+          "instruction": "Chop into bread with veg."
+        }
+      ],
+      "nutrition": {
+        "calories": 446,
+        "protein": 38,
+        "carbohydrates": 24,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hunkar-begendi-tr",
+      "name": "Hunkar Begendi",
+      "description": "Sultan's delight — beef over smoky eggplant cream.",
+      "categories": [
+        "beef",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef cubes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Smoky eggplant purée",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & cream",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato onion base",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef in tomato sauce tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast eggplant; mash with cream butter."
+        },
+        {
+          "position": 3,
+          "instruction": "Beef over eggplant cream bed."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 44,
+        "carbohydrates": 28,
+        "fat": 28,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kavurma",
+      "name": "Kavurma",
+      "description": "Preserved spiced beef — winter staple.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef cubed",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tail fat or butter",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & red pepper",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Preserve in jar",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef in own fat 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Season generously with spices."
+        },
+        {
+          "position": 3,
+          "instruction": "Pack in jars; seal with fat layer."
+        }
+      ],
+      "nutrition": {
+        "calories": 598,
+        "protein": 48,
+        "carbohydrates": 34,
+        "fat": 30,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tantuni",
+      "name": "Tantuni",
+      "description": "Spiced beef wrap — Mersin street star.",
+      "categories": [
+        "beef",
+        "street-food",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef diced small",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin paprika sumac",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Tomato & parsley",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lavash bread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil beef tender then fry crisp."
+        },
+        {
+          "position": 2,
+          "instruction": "Season with spice blend."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap in lavash with tomato parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 452,
+        "protein": 38,
+        "carbohydrates": 30,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 600,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sis-tavuk-tr",
+      "name": "Sis Tavuk",
+      "description": "Skewered yogurt-marinated chicken — grill classic.",
+      "categories": [
+        "chicken",
+        "grill",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt lemon marinade",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red pepper & cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Skewers",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 4 hours minimum."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread on metal skewers."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 3 min per side; serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 412,
+        "protein": 34,
+        "carbohydrates": 24,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-doner-bayil",
+      "name": "Tavuk Döner Bayil",
+      "description": "Rotisserie chicken shaved thin — everyday favorite.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh stacked",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Döner spice paste",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt marinade",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pide bread & salad",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Layer marinated thighs on spit."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast and shave thin slices."
+        },
+        {
+          "position": 3,
+          "instruction": "Plate with bread salad and sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 436,
+        "protein": 36,
+        "carbohydrates": 28,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-guvec-tr",
+      "name": "Tavuk Güvec",
+      "description": "Chicken casserole with vegetables — home comfort.",
+      "categories": [
+        "chicken",
+        "stew",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pepper tomato onion",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & paprika",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cheese top optional",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; add vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Butter paprika sauce; cover."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 35 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 454,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 22,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ciger-tavuk",
+      "name": "Tavuk Ciger",
+      "description": "Pan-fried chicken liver — Ankara meze.",
+      "categories": [
+        "chicken",
+        "starter",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken livers clean",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour coating",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & lemon",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dredge livers in seasoned flour."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-fry in butter 3 min per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon squeeze; parsley on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 394,
+        "protein": 38,
+        "carbohydrates": 20,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-sis-tr",
+      "name": "Tavuk Şiş Bowl",
+      "description": "Chicken skewer bowl with rice and vegetables.",
+      "categories": [
+        "chicken",
+        "grill",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast cubes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice pilaf",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Grilled vegetables",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sumac onion",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Skewer and grill chicken 3 min per side."
+        },
+        {
+          "position": 2,
+          "instruction": "Plate over rice pilaf."
+        },
+        {
+          "position": 3,
+          "instruction": "Grilled veg and sumac onion side."
+        }
+      ],
+      "nutrition": {
+        "calories": 476,
+        "protein": 36,
+        "carbohydrates": 38,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 600,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mugla-tavuk",
+      "name": "Muğla Tavuğu",
+      "description": "Oven-roasted chicken with yogurt and herbs.",
+      "categories": [
+        "chicken",
+        "baked",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole chicken pieces",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt herb marinade",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & garlic",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in yogurt-herb paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast 190C 45 minutes basting."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest; carve; lemon squeeze."
+        }
+      ],
+      "nutrition": {
+        "calories": 504,
+        "protein": 42,
+        "carbohydrates": 30,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-kebab-tr",
+      "name": "Tavuk Kebab",
+      "description": "Grilled chicken kebabs with peppers.",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Skewer",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Thread chicken with peppers."
+        },
+        {
+          "position": 2,
+          "instruction": "Season cumin paprika."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 3 minutes per side."
+        }
+      ],
+      "nutrition": {
+        "calories": 386,
+        "protein": 34,
+        "carbohydrates": 22,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-doner-wrap",
+      "name": "Tavuk Döner Wrap",
+      "description": "Thin-sliced döner chicken in lavash.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Döner chicken slices",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lavash bread",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic yogurt sauce",
+          "quantity": 30,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Pickled cabbage",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shave döner thin from spit."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll in lavash with sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 36,
+        "carbohydrates": 26,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 600,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-manti",
+      "name": "Tavuk Mantı",
+      "description": "Tiny chicken dumplings with yogurt — Kayseri style.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dumpling dough",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Minced chicken filling",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic yogurt",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter paprika drizzle",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll tiny dumplings; fill chicken mince."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil till floating."
+        },
+        {
+          "position": 3,
+          "instruction": "Garlic yogurt; paprika butter."
+        }
+      ],
+      "nutrition": {
+        "calories": 384,
+        "protein": 32,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "krevacik-tavuk",
+      "name": "Kervan Tavuk",
+      "description": "Ankara-style chicken kebab on wide skewer.",
+      "categories": [
+        "chicken",
+        "grill",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Spice marinade",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & lemon",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wide metal skewer",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 6 hours; thread on wide skewer."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill slowly over charcoal."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with rice and grilled tomato."
+        }
+      ],
+      "nutrition": {
+        "calories": 454,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-gozleme",
+      "name": "Tavuk Gözleme",
+      "description": "Chicken-stuffed folded flatbread.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flatbread dough",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded chicken filling",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Spinach & cheese",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter brush",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll dough thin; spread filling."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold and seal; cook on griddle."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush butter; cut into pieces."
+        }
+      ],
+      "nutrition": {
+        "calories": 418,
+        "protein": 34,
+        "carbohydrates": 30,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-corba",
+      "name": "Tavuk Çorbası",
+      "description": "Clear chicken soup — cold remedy classic.",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & egg yolk",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mint & butter",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken; shred fine."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook rice in broth; add chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Egg-lemon thickener; mint butter top."
+        }
+      ],
+      "nutrition": {
+        "calories": 344,
+        "protein": 28,
+        "carbohydrates": 22,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tantuni-tavuk",
+      "name": "Tantuni Tavuk",
+      "description": "Spiced chicken wrap — Mersin style.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "street-food",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken diced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin sumac",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Tomato parsley",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lavash",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil then fry chicken crisp."
+        },
+        {
+          "position": 2,
+          "instruction": "Season with spice blend."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap in lavash with tomato."
+        }
+      ],
+      "nutrition": {
+        "calories": 402,
+        "protein": 34,
+        "carbohydrates": 26,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "imam-bayildi-old",
+      "name": "İmam Bayıldı Old",
+      "description": "Olive oil-braised eggplant — no meat king.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional",
+        "starter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole eggplants",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion tomato garlic",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil generous",
+          "quantity": 40,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slit eggplants; fry or bake."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill with onion-tomato mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake in olive oil 25 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 8,
+        "carbohydrates": 12,
+        "fat": 16,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 280,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mercimek-kofte",
+      "name": "Mercimek Köfte",
+      "description": "Lentil-rice meatless kofta — meze star.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Red lentils cooked",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fine bulgur",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato paste & cumin",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Parsley & lemon",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook lentils; mix with bulgur and paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape oval kofta by hand."
+        },
+        {
+          "position": 3,
+          "instruction": "Parsley plate; lemon side."
+        }
+      ],
+      "nutrition": {
+        "calories": 148,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 4,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gozleme-tr",
+      "name": "Gözleme",
+      "description": "Griddle-stuffed flatbread — Anatolian staple.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "street-food",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Yufka dough",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Spinach cheese filling",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter brush",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Griddle hot",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll dough thin; spread filling."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold and seal; griddle both sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush butter; cut into pieces."
+        }
+      ],
+      "nutrition": {
+        "calories": 184,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "wAwztkPxdiU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=wAwztkPxdiU",
+          "videoTitle": "GÖZLEME: Favorite TURKISH Street Food 😍 4 Delicious & Easy Fillings! Perfect for Breakfast or Lunch",
+          "channelName": "Refika's Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "patlican-salatasi",
+      "name": "Patlıcan Salatası",
+      "description": "Smoky eggplant salad — meze essential.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "salad",
+        "meze",
+        "starter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic yogurt or tahini",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pomegranate seeds",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil & parsley",
+          "quantity": 15,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Char eggplant over flame; peel."
+        },
+        {
+          "position": 2,
+          "instruction": "Chop and dress with garlic yogurt."
+        },
+        {
+          "position": 3,
+          "instruction": "Pomegranate and parsley top."
+        }
+      ],
+      "nutrition": {
+        "calories": 164,
+        "protein": 6,
+        "carbohydrates": 8,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 280,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "zeytinyagli-pazi",
+      "name": "Zeytinyağlı Pazi",
+      "description": "Swiss chard in olive oil — Aegean meze.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional",
+        "meze",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Swiss chard leaves",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice & pine nuts",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & olive oil",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion & currants",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch chard leaves."
+        },
+        {
+          "position": 2,
+          "instruction": "Stuff with rice-pine nut mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook in lemon olive oil bath."
+        }
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 8,
+        "carbohydrates": 14,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pide-veg",
+      "name": "Pide Veg",
+      "description": "Turkish flatbread with cheese and egg.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pide dough",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cheese & egg",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato & pepper",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter brush",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shape boat dough; fill with cheese."
+        },
+        {
+          "position": 2,
+          "instruction": "Crack egg in center."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 230C 12 min; butter brush."
+        }
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 12,
+        "carbohydrates": 18,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "enginar",
+      "name": "Enginar",
+      "description": "Artichoke braised in olive oil and lemon.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Artichoke hearts",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon & dill",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Carrot & pea",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Prep artichokes in lemon water."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise with carrot and pea."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve cold with olive oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 162,
+        "protein": 6,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 7,
+        "sugar": 3,
+        "sodium": 280,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bakla",
+      "name": "Bakla",
+      "description": "Fava bean stew with dill and yogurt.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dried fava beans",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dill & green onion",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & garlic",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 10,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak beans overnight; boil tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook with dill and onion."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with garlic yogurt."
+        }
+      ],
+      "nutrition": {
+        "calories": 174,
+        "protein": 12,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 6,
+        "sugar": 3,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "cig-kofte-veg",
+      "name": "Çiğ Köfte",
+      "description": "Spiced bulgur walnut kofta — vegan raw.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Fine bulgur soaked",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Walnuts & tomato paste",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & isot pepper",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Lemon & parsley",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead bulgur with paste 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add walnuts and spices; knead more."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape ovals; serve on lettuce."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 360,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sigara-boregi-tr",
+      "name": "Sigara Böreği",
+      "description": "Crispy cheese-filled phyllo cigars.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "traditional",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Phyllo pastry sheets",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta cheese filling",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg wash",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 125,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut phyllo triangles; fill with feta."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll cigar shape; egg seal."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry 170C 3 minutes golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 212,
+        "protein": 10,
+        "carbohydrates": 16,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "IqsstceVDwE",
+          "youtubeUrl": "https://www.youtube.com/watch?v=IqsstceVDwE",
+          "videoTitle": "Crispy Turkish Sigara Borek Recipe 🧀✨ Easy Snack You’ll Love!",
+          "channelName": "Unicorns in the Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mucver",
+      "name": "Mücver",
+      "description": "Zucchini fritters — summer meze.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "starter",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grated zucchini",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg & flour",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dill & feta cheese",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil for frying",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Squeeze zucchini; mix with egg flour."
+        },
+        {
+          "position": 2,
+          "instruction": "Form patties; pan-fry golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Dill feta in batter; serve cool."
+        }
+      ],
+      "nutrition": {
+        "calories": 170,
+        "protein": 8,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tulumba",
+      "name": "Tulumba",
+      "description": "Deep-fried ridged dough soaked in syrup.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour egg batter",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon in syrup",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pipe ridged dough into hot oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry till golden crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Drench in cold syrup immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 236,
+        "protein": 8,
+        "carbohydrates": 24,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 20,
+        "sodium": 80,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kazandibi",
+      "name": "Kazandibi",
+      "description": "Caramelized milk pudding — burnt bottom delight.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Milk & sugar",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Rice flour & starch",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Caramel sugar layer",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize sugar in pan base."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook milk custard thick."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour over caramel; chill; slice."
+        }
+      ],
+      "nutrition": {
+        "calories": 158,
+        "protein": 8,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 12,
+        "sodium": 100,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sutlac-tr",
+      "name": "Sütlaç",
+      "description": "Oven-browned rice pudding — Turkish classic.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rice & milk",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar & vanilla",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg yolk optional",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook rice in milk very slowly."
+        },
+        {
+          "position": 2,
+          "instruction": "Sweeten; temper with egg yolk."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake top brown in oven; chill."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 10,
+        "sodium": 100,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "asure-tr",
+      "name": "Aşure",
+      "description": "Noah's pudding — 100+ ingredients winter feast.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration",
+        "winter"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Wheat & dried fruits",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Beans & chickpeas",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Walnuts & sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon & rosewater",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook wheat and legumes till soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add dried fruits and sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer thick; serve in bowls."
+        }
+      ],
+      "nutrition": {
+        "calories": 196,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 4,
+        "fiber": 6,
+        "sugar": 14,
+        "sodium": 80,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "revani-tr",
+      "name": "Revani",
+      "description": "Semolina syrup cake — Ottoman palace sweet.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "baked"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Semolina & flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar & eggs",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & butter",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup lemon",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix batter; pour in tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake 180C 25 minutes golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Hot syrup soak; rest 2 hours."
+        }
+      ],
+      "nutrition": {
+        "calories": 234,
+        "protein": 8,
+        "carbohydrates": 28,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 16,
+        "sodium": 140,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lokma",
+      "name": "Lokma",
+      "description": "Tiny fried dough balls in syrup — Istanbul street.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Fermented dough",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon zest",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Drop small balls into hot oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry golden 2 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Dip in warm syrup; serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 8,
+        "carbohydrates": 22,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 18,
+        "sodium": 80,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "adana-kebab-tr",
+      "name": "Adana Kebab Classic",
+      "description": "Hand-minced lamb kebab on flat skewer.",
+      "categories": [
+        "beef",
+        "grill",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced beef-lamb",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red pepper paste",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Cumin & sumac",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Skewer",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead mince sticky with paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Mold on wide skewer."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 4 min per side."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 40,
+        "carbohydrates": 26,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 660,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kuzu-incik-anatolia",
+      "name": "Kuzu İncik Classic",
+      "description": "Slow-roasted lamb shank with root vegetables.",
+      "categories": [
+        "beef",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lamb shank",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red wine braising",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Herb butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Root veg",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear; braise in wine 3 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast till fork tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Herb butter glaze."
+        }
+      ],
+      "nutrition": {
+        "calories": 546,
+        "protein": 46,
+        "carbohydrates": 32,
+        "fat": 26,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kervan-tavuk-anatolian",
+      "name": "Kervan Tavuk Anatolian",
+      "description": "Wide-skewer Ankara chicken kebab.",
+      "categories": [
+        "chicken",
+        "grill",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Spice marinade",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & lemon",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wide skewer",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 6 hours; thread wide skewer."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill slowly charcoal."
+        },
+        {
+          "position": 3,
+          "instruction": "Rice and tomato side."
+        }
+      ],
+      "nutrition": {
+        "calories": 454,
+        "protein": 38,
+        "carbohydrates": 26,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gozleme-anatolian-herb",
+      "name": "Gözleme Herb",
+      "description": "Griddle-stuffed flatbread — Anatolian.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "street-food",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Yufka dough",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Spinach cheese filling",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter brush",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Griddle",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll thin; fill; fold and seal."
+        },
+        {
+          "position": 2,
+          "instruction": "Griddle both sides golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Butter brush; cut pieces."
+        }
+      ],
+      "nutrition": {
+        "calories": 184,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sigara-boregi-mediterranean",
+      "name": "Sigara Böreği Mediterranean",
+      "description": "Crispy cheese phyllo cigars.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "traditional",
+        "meze"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Phyllo sheets",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Feta filling",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg wash",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 125,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut phyllo triangles; fill feta."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll cigar; egg seal."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry 170C 3 min golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 212,
+        "protein": 10,
+        "carbohydrates": 16,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sutlac-ottoman",
+      "name": "Sütlaç Ottoman",
+      "description": "Oven-browned rice pudding.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rice & milk",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar & vanilla",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Oven",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook rice in milk slowly."
+        },
+        {
+          "position": 2,
+          "instruction": "Sweeten; pour in bowls."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake top brown; chill."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 10,
+        "sodium": 100,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "asure-noah-pudding",
+      "name": "Aşure Pudding",
+      "description": "Noah's pudding — winter feast dessert.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration",
+        "winter"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Wheat & dried fruits",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Beans & chickpeas",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Walnuts & sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rosewater",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook wheat and legumes soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add fruits and sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer thick; serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 196,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 4,
+        "fiber": 6,
+        "sugar": 14,
+        "sodium": 80,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mucver-zucchini-fritter",
+      "name": "Mücver Fritter",
+      "description": "Zucchini fritters — summer meze.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "starter",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grated zucchini",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg & flour",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dill & feta",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Squeeze zucchini dry; mix."
+        },
+        {
+          "position": 2,
+          "instruction": "Form patties; pan-fry golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Dill feta in batter."
+        }
+      ],
+      "nutrition": {
+        "calories": 170,
+        "protein": 8,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tavuk-sulu-kofte",
+      "name": "Tavuk Sulu Köfte",
+      "description": "Chicken meatballs in lemon broth.",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 55,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced chicken",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon egg thickener",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Form tiny meatballs from chicken mince."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook in chicken broth 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Egg-lemon thickener; serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 28,
+        "carbohydrates": 14,
+        "fat": 6,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "tavuk-karniyarik",
+      "name": "Tavuk Karnıyarık",
+      "description": "Eggplant stuffed with spiced chicken mince.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 58,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Minced chicken",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry eggplants slit open."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill with spiced chicken mince."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake in tomato sauce 180C 25 min."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 24,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "tere-yagli-pazi",
+      "name": "Tere Yağlı Pazi",
+      "description": "Swiss chard with olive oil — Aegean meze.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional",
+        "meze",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (180g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Swiss chard",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon & garlic",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash and chop chard."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute in olive oil with garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon finish; serve room temp."
+        }
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": 4,
+        "carbohydrates": 8,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "kabak-cicegi-dolma",
+      "name": "Kabak Çiçeği Dolma",
+      "description": "Stuffed zucchini flowers — Bodrum summer dish.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "starter",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 plate (200g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 55,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Zucchini flowers",
+          "quantity": 12,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rice & herb filling",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil & lemon",
+          "quantity": 20,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean zucchini flowers gently."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill with herbed rice mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam 15 min; serve with lemon oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": 5,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 280,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    }
+  ]
+}

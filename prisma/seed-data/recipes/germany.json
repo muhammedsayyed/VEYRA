@@ -1,0 +1,7424 @@
+{
+  "countryCode": "de",
+  "recipes": [
+    {
+      "slug": "sauerbraten",
+      "name": "Sauerbraten",
+      "description": "German pot roast marinated for days in vinegar-wine spices, served with sweet-sour gravy.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "HARD",
+      "prepTimeMin": 45,
+      "cookTimeMin": 210,
+      "servings": 6,
+      "servingSize": "1 slice with gravy (320g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 23,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 91,
+      "tags": [
+        "marinated",
+        "sunday"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Rump Roast",
+          "quantity": 1500,
+          "unit": "g"
+        },
+        {
+          "name": "Red Wine Vinegar & Red Wine Marinade",
+          "quantity": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "Onions, Carrots & Celery",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Juniper Berries, Bay & Cloves",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Gingersnap Crumbs or Roux",
+          "quantity": 60,
+          "unit": "g",
+          "note": "thickener"
+        },
+        {
+          "name": "Raisins (optional)",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef refrigerated 3-5 days, turning daily."
+        },
+        {
+          "position": 2,
+          "instruction": "Pat dry, brown; strain marinade over with vegetables."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise covered ~3 hours until tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Strain liquid; thicken with gingersnaps/roux into sweet-sour gravy."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 44,
+        "carbohydrates": 12,
+        "fat": 31,
+        "fiber": 1.8,
+        "sugar": 6,
+        "sodium": 780,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "6BMagxuKiT8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=6BMagxuKiT8",
+          "videoTitle": "Sauerbraten Rhenish - Authentic German Sauerbraten Recipe",
+          "channelName": "German Recipes by All Tastes German",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 255,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "rouladen",
+      "name": "Rouladen",
+      "description": "Beef rolls stuffed with mustard, bacon-free pickles and onions, braised in red-wine gravy.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 35,
+      "cookTimeMin": 105,
+      "servings": 4,
+      "servingSize": "2 rolls with gravy (340g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 22,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "stuffed",
+        "family"
+      ],
+      "ingredients": [
+        {
+          "name": "Thin Beef Top Round Cutlets",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": "~150g each"
+        },
+        {
+          "name": "Whole Grain Mustard",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Dill Pickles & Onion",
+          "quantity": 250,
+          "unit": "g",
+          "note": "spears/slices"
+        },
+        {
+          "name": "Beef Stock & Red Wine",
+          "quantity": 700,
+          "unit": "ml"
+        },
+        {
+          "name": "Kitchen Twine",
+          "quantity": 8,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Spread mustard; lay pickle + onion; roll tight and tie."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown rolls on all sides; add stock and wine."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise covered 90 minutes; reduce sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 46,
+        "carbohydrates": 9,
+        "fat": 30,
+        "fiber": 1.5,
+        "sugar": 4,
+        "sodium": 920,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Hgm6UmpbRa0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Hgm6UmpbRa0",
+          "videoTitle": "Beef Rouladen - Delicious Beef Rolls from Germany",
+          "channelName": "Recipe30",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "deutscher-rindergulasch",
+      "name": "Deutscher Rindergulasch",
+      "description": "Paprika-rich beef goulash stewed till spoonable - German pub staple with Spätzle.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 120,
+      "servings": 5,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": 13,
+      "restaurantPrice": 17,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "paprika-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Goulash Cubes",
+          "quantity": 1000,
+          "unit": "g"
+        },
+        {
+          "name": "Sweet & Hot Paprika",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Onions",
+          "quantity": 600,
+          "unit": "g",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Tomato Paste & Caraway",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 700,
+          "unit": "ml"
+        },
+        {
+          "name": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef well; remove; cook onions deep gold."
+        },
+        {
+          "position": 2,
+          "instruction": "Off heat stir paprikas + paste; back with meat and stock."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered ~2 hours until saucy-tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 39,
+        "carbohydrates": 11,
+        "fat": 26,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 700,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "5YUQa8GR5Q8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5YUQa8GR5Q8",
+          "videoTitle": "German Beef Goulash (Rindergulasch) with My Spicy Twist | Served with Spätzle",
+          "channelName": "The Rock Chilli Queen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 145,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "frikadellen",
+      "name": "Frikadellen",
+      "description": "Pan-fried seasoned beef patties - German comfort across every generation.",
+      "categories": [
+        "beef",
+        "street-food",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "2 patties (260g)",
+      "homePrepCost": 7,
+      "restaurantPrice": 12,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "pan-fried"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Soaked Bread Roll or Breadcrumbs",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Onion & Garlic",
+          "quantity": 150,
+          "unit": "g",
+          "note": "very finely diced"
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Mustard, Marjoram, Salt, Pepper",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter for Frying",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead everything gently; form thick oval patties."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry in butter medium-high 5-6 min per side."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbohydrates": 14,
+        "fat": 29,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 720,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "5cRyT5t2nW8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5cRyT5t2nW8",
+          "videoTitle": "Frikadellen – Authentic German Meatballs | Juicy & Easy to Make!",
+          "channelName": "Lees Cooking",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "gulasch",
+      "name": "Rinds-Gulasch",
+      "description": "Rich Hungarian-influenced beef stew with paprika, caraway, and a velvety onion gravy.",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck, cubed",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yellow onions, diced",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sweet Hungarian paprika",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "beef broth",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lard or oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onions in lard until golden, stir in paprika and caraway."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown beef in batches, return to pot with garlic and tomato paste."
+        },
+        {
+          "position": 3,
+          "instruction": "Add broth, cover, and simmer gently for 2 hours until fork-tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Adjust seasoning and serve with bread dumplings or spaetzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 474,
+        "protein": 42,
+        "carbohydrates": 18,
+        "fat": 26,
+        "fiber": 3.2,
+        "sugar": 6,
+        "sodium": 820,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "TbBQCEr8tAc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=TbBQCEr8tAc",
+          "videoTitle": "RINDERGULASCH (German Goulash)",
+          "channelName": "Food from afar",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "schmorbraten",
+      "name": "Schmorbraten",
+      "description": "Slow-braised beef pot roast in a dark beer and root-vegetable gravy.",
+      "categories": [
+        "beef",
+        "braise",
+        "comfort-food",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef bottom round",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dark German beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "carrots, chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery root, chunks",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, quartered",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "juniper berries",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and sear beef on all sides until deeply browned."
+        },
+        {
+          "position": 2,
+          "instruction": "Remove, sauté vegetables and tomato paste in the same pot."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with beer, return beef, add bay leaf and juniper."
+        },
+        {
+          "position": 4,
+          "instruction": "Cover and braise at 160 °C for 2½ hours; slice and serve with gravy."
+        }
+      ],
+      "nutrition": {
+        "calories": 422,
+        "protein": 44,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 760,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "SlAPha3rsJY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=SlAPha3rsJY",
+          "videoTitle": "German Cuisine: Schmorbraten mit saurer Sahnensauce (Pot Roast & gravy)",
+          "channelName": "Cookbook Journey",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-rouladen",
+      "name": "Rinderrouladen",
+      "description": "Thin beef rolls stuffed with mustard, onions, and pickles, braised in red-wine gravy.",
+      "categories": [
+        "beef",
+        "braise",
+        "traditional",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef top round, sliced thin",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dijon mustard",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bacon strips",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dill pickles, spears",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "red wine",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "beef broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "flour for dusting",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound beef slices thin, spread mustard, layer bacon, onion, and pickle."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll tightly and secure with kitchen twine."
+        },
+        {
+          "position": 3,
+          "instruction": "Dredge in flour, sear until browned on all sides."
+        },
+        {
+          "position": 4,
+          "instruction": "Add wine and broth, braise covered for 90 minutes until tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 40,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 890,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "d25b4BfA1Z8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=d25b4BfA1Z8",
+          "videoTitle": "How to make Traditional German Beef Rouladen｜Rinderrouladen｜ Rouladen｜best German Rouladen Recipe",
+          "channelName": "Dan's cuisine channel",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "zuerrer-geschnetzeltes",
+      "name": "Zürcher Geschnetzeltes",
+      "description": "Tender veal strips in a creamy mushroom and white-wine sauce.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "veal, sliced into strips",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "button mushrooms, sliced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "white wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fresh parsley, chopped",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg noodles, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion in butter until translucent, add veal strips and brown."
+        },
+        {
+          "position": 2,
+          "instruction": "Deglaze with white wine, add mushrooms, and cook until softened."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in cream, simmer until sauce thickens slightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with parsley and serve over buttered egg noodles."
+        }
+      ],
+      "nutrition": {
+        "calories": 414,
+        "protein": 38,
+        "carbohydrates": 16,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kalbshaxe",
+      "name": "Kalbshaxe",
+      "description": "Crispy-skin roasted veal shank braised with root vegetables and dark beer.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner",
+        "celebration",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "veal shank",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, large chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery root, chunks",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "marjoram",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "potatoes, boiled",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score the skin of the veal shank in a crosshatch pattern."
+        },
+        {
+          "position": 2,
+          "instruction": "Season generously and sear skin-side down until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables, garlic, bay leaves, and beer to the roasting pan."
+        },
+        {
+          "position": 4,
+          "instruction": "Roast at 180 °C for 2½ hours, basting occasionally; serve with potatoes."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 46,
+        "carbohydrates": 20,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 680,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "schweinshaxe",
+      "name": "Schweinshaxe",
+      "description": "Bavarian crispy-skin pork knuckle slow-roasted with caraway and served with sauerkraut.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner",
+        "celebration",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork knuckle",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, crushed",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sauerkraut, drained",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, halved",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "boiled potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score pork skin, rub with salt, caraway, and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Place in roasting pan with onion, bay leaf, and beer."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 160 °C for 2 hours, then blast at 220 °C for 20 minutes for crisp skin."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with sauerkraut and boiled potatoes."
+        }
+      ],
+      "nutrition": {
+        "calories": 468,
+        "protein": 40,
+        "carbohydrates": 14,
+        "fat": 28,
+        "fiber": 3.5,
+        "sugar": 4,
+        "sodium": 920,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "braten",
+      "name": "Schweinebraten",
+      "description": "Classic German pork roast with a crispy rind, dark beer gravy, and root vegetables.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork shoulder with rind",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "carrots, chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, quartered",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "flour for gravy",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "boiled potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score rind in a diamond pattern, rub with salt and caraway."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear rind-side down until golden, then flip and add vegetables."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in beer, add bay leaves, and roast at 180 °C for 2 hours."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 15 minutes, thicken pan juices with flour for gravy, and serve with potatoes."
+        }
+      ],
+      "nutrition": {
+        "calories": 466,
+        "protein": 42,
+        "carbohydrates": 16,
+        "fat": 26,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 860,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bradwurst",
+      "name": "Bratwurst",
+      "description": "Grilled German pork sausage with a crisp snap, served with tangy mustard and potato salad.",
+      "categories": [
+        "beef",
+        "street-food",
+        "traditional",
+        "dinner",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork bratwurst",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potato salad, German-style",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "German mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pretzel roll",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "white cabbage, shredded",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion, diced for salad",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "broth for simmering",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer bratwursts gently in broth until just cooked through."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill or pan-fry over medium-high heat until casings are golden and crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Prepare potato salad with warm broth, onion, and vinegar dressing."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve sausages in a pretzel roll with mustard and potato salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 416,
+        "protein": 28,
+        "carbohydrates": 22,
+        "fat": 24,
+        "fiber": 2.5,
+        "sugar": 3,
+        "sodium": 1040,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "leberkaese",
+      "name": "Leberkäse",
+      "description": "Sliced Bavarian meatloaf with a golden crust, served warm on a roll with sweet mustard.",
+      "categories": [
+        "beef",
+        "traditional",
+        "snack",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ground pork",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bread rolls",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sweet mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pickled gherkins",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, minced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend ground meats with onion, egg, and breadcrumbs until very smooth."
+        },
+        {
+          "position": 2,
+          "instruction": "Press into a loaf tin, smooth top, and roast at 200 °C for 50 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush with oil and broil until the top develops a golden-brown crust."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice thickly, serve warm on a roll with sweet mustard and pickles."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 30,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 980,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fleischkaese",
+      "name": "Fleischkäse",
+      "description": "Savory German meatloaf glazed with ketchup, sliced and served with potato salad.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "dinner",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ground pork",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bread roll, soaked",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ketchup glaze",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potato salad",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak bread roll in milk, squeeze dry, and combine with ground meats."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix in eggs, onion, and mustard; season generously."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape into a loaf, brush with ketchup glaze."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180 °C for 55 minutes; rest 10 minutes before slicing."
+        }
+      ],
+      "nutrition": {
+        "calories": 390,
+        "protein": 34,
+        "carbohydrates": 14,
+        "fat": 22,
+        "fiber": 1.5,
+        "sugar": 6,
+        "sodium": 820,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "wetzlarer",
+      "name": "Wetzlarer Rindfleisch",
+      "description": "Marinated German beef roast slow-cooked with juniper, bay, and dark beer.",
+      "categories": [
+        "beef",
+        "braise",
+        "traditional",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef rump roast",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "juniper berries, crushed",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, halved",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots, chunks",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "black pepper, whole",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "mustard for basting",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub beef with mustard, juniper, pepper, and bay."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear on all sides in a hot Dutch oven until deeply browned."
+        },
+        {
+          "position": 3,
+          "instruction": "Add onion, carrots, and beer; cover and braise at 160 °C for 2½ hours."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice against the grain and spoon pan juices over the top."
+        }
+      ],
+      "nutrition": {
+        "calories": 396,
+        "protein": 44,
+        "carbohydrates": 10,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 740,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "schichtsalat",
+      "name": "Schichtsalat",
+      "description": "Layered German salad with potatoes, eggs, ham, pickles, and a creamy dressing.",
+      "categories": [
+        "beef",
+        "salad",
+        "traditional",
+        "budget-friendly",
+        "home-style",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "potatoes, boiled and sliced",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "hard-boiled eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cooked ham, diced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dill pickles, sliced",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "frozen peas, thawed",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mayonnaise",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sour cream",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "spring onion, sliced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Arrange sliced potatoes in even layers in a deep dish."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer ham, pickles, peas, and sliced eggs over the potatoes."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix mayonnaise and sour cream, spread evenly over the top."
+        },
+        {
+          "position": 4,
+          "instruction": "Chill for at least 2 hours; garnish with spring onion before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 22,
+        "carbohydrates": 30,
+        "fat": 22,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 1100,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hackbraten",
+      "name": "Hackbraten",
+      "description": "Classic German meatloaf with a tangy ketchup glaze, served with creamy potato salad.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "dinner",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bread roll, soaked in milk",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ketchup",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potatoes, for salad",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pickles, diced for salad",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak bread roll in milk, squeeze dry, and mix with ground beef, eggs, onion, and mustard."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into a loaf, place in a roasting pan, and brush with ketchup."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake at 180 °C for 50 minutes until cooked through."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 minutes, slice, and serve with warm potato salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 36,
+        "carbohydrates": 20,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 7,
+        "sodium": 860,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-stroganoff",
+      "name": "Rinderstroganoff",
+      "description": "Tender beef strips in a creamy paprika and sour-cream sauce over egg noodles.",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin, strips",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mushrooms, sliced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sour cream",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sweet paprika",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "beef broth",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg noodles, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef strips quickly in batches over high heat; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and mushrooms in butter until softened."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in paprika, add broth, and simmer 5 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Return beef, stir in sour cream, and serve over buttered egg noodles."
+        }
+      ],
+      "nutrition": {
+        "calories": 428,
+        "protein": 38,
+        "carbohydrates": 24,
+        "fat": 20,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 680,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "barbecue-ribs",
+      "name": "Schweinerippchen",
+      "description": "Smoky glazed pork ribs slow-cooked until fall-off-the-bone tender.",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner",
+        "comfort-food",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork spare ribs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "BBQ glaze",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "apple cider vinegar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "brown sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "coleslaw, for serving",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub ribs with paprika, garlic powder, onion powder, and brown sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Wrap in foil and slow-cook at 150 °C for 3 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Unwrap, brush generously with BBQ glaze and vinegar."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill or broil for 10 minutes until caramelized; serve with coleslaw."
+        }
+      ],
+      "nutrition": {
+        "calories": 468,
+        "protein": 36,
+        "carbohydrates": 18,
+        "fat": 28,
+        "fiber": 1,
+        "sugar": 14,
+        "sodium": 920,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "zwiebelrostbraten",
+      "name": "Zwiebelrostbraten",
+      "description": "German roast beef topped with deeply caramelized onions in a rich brown gravy.",
+      "categories": [
+        "beef",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin roast",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onions, sliced into rings",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour for dredging",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and dredge beef roast in flour, sear on all sides in hot butter."
+        },
+        {
+          "position": 2,
+          "instruction": "Remove beef, slowly caramelize onion rings in the same pan with caraway."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with beer and broth, return beef, cover and braise at 160 °C for 1½ hours."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice beef, spoon caramelized onions and gravy over the top, garnish with parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 422,
+        "protein": 42,
+        "carbohydrates": 14,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchenschnitzel",
+      "name": "Hähnchenschnitzel",
+      "description": "Chicken schnitzel pounded thin, breaded, fried to a rippling golden crust.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 schnitzel (240g)",
+      "homePrepCost": 6.5,
+      "restaurantPrice": 13,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "breaded",
+        "crispy"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": 700,
+          "unit": "g",
+          "note": "halved, pounded 5mm"
+        },
+        {
+          "name": "Flour / Egg / Breadcrumbs",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Clarified Butter or Oil",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon Wedges",
+          "quantity": 4,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season; breading line flour-egg-crumb, pressing crumbs on."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry generous oil ~3 min per side until golden, swirling pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Drain on rack; lemon over immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 42,
+        "carbohydrates": 34,
+        "fat": 23,
+        "fiber": 2,
+        "sugar": 2.5,
+        "sodium": 650,
+        "saturatedFat": 4.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "huehnerfrikassee",
+      "name": "Hühnerfrikassee",
+      "description": "Gentle white-fricassee of chicken, asparagus or peas in lemony cream sauce over rice.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": 9,
+      "restaurantPrice": 15,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 75,
+      "tags": [
+        "creamy",
+        "retro-comfort"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts & Thighs",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "White Asparagus or Peas",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Butter, Flour & Milk (Velouté)",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon Juice & White Wine",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Capers (optional)",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken gently; keep broth; tear into pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Make velouté with butter-flour + poaching broth; season lemony."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold chicken and vegetables through; serve over rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 41,
+        "carbohydrates": 22,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 640,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "paprikahaehnchen",
+      "name": "Paprikahähnchen",
+      "description": "Hungarian-inherited braised chicken in lush red paprika sauce - GDR-era canteen hero.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 portion with sauce (320g)",
+      "homePrepCost": 6,
+      "restaurantPrice": 12,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 72,
+      "tags": [
+        "paprika-braise"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Sweet Paprika (good quality)",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Red Peppers & Tomato Passata",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": 150,
+          "unit": "g",
+          "note": "to finish"
+        },
+        {
+          "name": "Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; soften onions/peppers."
+        },
+        {
+          "position": 2,
+          "instruction": "Off-heat bloom paprika; add passata + splash stock."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and simmer 40 min; swirl sour cream in off boil."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 37,
+        "carbohydrates": 16,
+        "fat": 33,
+        "fiber": 4,
+        "sugar": 10,
+        "sodium": 700,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "brauthaehnchen",
+      "name": "Knuspriges Brathähnchen",
+      "description": "The Wiesn-style crackling roast chicken - salted crisp skin, juicy breast.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 70,
+      "servings": 4,
+      "servingSize": "1 half (300g)",
+      "homePrepCost": 8,
+      "restaurantPrice": 14,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "crispy-skin",
+        "beer-fest"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "split flat"
+        },
+        {
+          "name": "Salt & Pepper Brine Rub",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Butter or Oil",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Paprika Pinch",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dry-brine flattened chicken 1 hour uncovered fridge."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast at 200°C skin-up 60-70 minutes until deeply crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest 10 minutes; cut halves."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 40,
+        "carbohydrates": 0.5,
+        "fat": 29,
+        "fiber": 0,
+        "sugar": 0.3,
+        "sodium": 760,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "haehnchenbrust",
+      "name": "Haehnchenbrustfilet",
+      "description": "Pan-seared chicken breast seasoned with garlic and fresh herbs.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "healthy",
+        "easy-recipes",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fresh thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound chicken breasts to even thickness, season with salt, pepper, garlic, and thyme."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat oil in a skillet, sear chicken 5 minutes per side until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Add butter and lemon juice, baste chicken for 1 minute."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 3 minutes, slice, and garnish with parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 342,
+        "protein": 42,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 540,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchenschenkel",
+      "name": "Haehnchenschenkel",
+      "description": "Roasted chicken thighs with crispy skin, garlic, and fresh rosemary.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "easy-recipes",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs, bone-in",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, halved",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fresh rosemary sprigs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lemon, zested",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "potatoes, cubed",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss chicken thighs with oil, salt, pepper, garlic, and lemon zest."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange on a tray with potato cubes and rosemary."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 200 °C for 35 minutes until skin is crispy and golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle with honey and serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 34,
+        "carbohydrates": 18,
+        "fat": 22,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kraeuterhaehnchen",
+      "name": "Kraeuterhaehnchen",
+      "description": "Herb-crusted roasted chicken with thyme, sage, and buttery pan juices.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fresh thyme",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fresh sage, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "butter, softened",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots, chunks",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, quartered",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix softened butter with thyme, sage, garlic, and lemon zest."
+        },
+        {
+          "position": 2,
+          "instruction": "Rub herb butter under and over the chicken skin."
+        },
+        {
+          "position": 3,
+          "instruction": "Place carrots and onion in roasting pan, set chicken on top."
+        },
+        {
+          "position": 4,
+          "instruction": "Roast at 180 °C for 1 hour 15 minutes, basting every 20 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 38,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "backhendl",
+      "name": "Backhendl",
+      "description": "Traditional Austrian-style crispy buttermilk-fried chicken pieces.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "traditional",
+        "comfort-food",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces, bone-in",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "buttermilk",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sweet paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lemon wedges",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken pieces in buttermilk for at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix flour with paprika and garlic powder; beat the egg separately."
+        },
+        {
+          "position": 3,
+          "instruction": "Dredge chicken in flour, dip in egg, then coat in breadcrumbs."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry at 170 °C for 12 minutes until golden and cooked through; serve with lemon."
+        }
+      ],
+      "nutrition": {
+        "calories": 416,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 24,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 620,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haendl",
+      "name": "Haendl",
+      "description": "Simple German roast chicken with caraway, salt, and crispy golden skin.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "coarse salt",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "butter, softened",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, halved",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "potatoes, roasted",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub chicken inside and out with butter, salt, pepper, and caraway."
+        },
+        {
+          "position": 2,
+          "instruction": "Place onion halves inside the cavity."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 190 °C for 1 hour 10 minutes, basting with pan drippings."
+        },
+        {
+          "position": 4,
+          "instruction": "Let rest 10 minutes, carve, and serve with roasted potatoes and parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 38,
+        "carbohydrates": 12,
+        "fat": 20,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 560,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pfeffersteak-haehnchen",
+      "name": "Pfeffersteak vom Haehnchen",
+      "description": "Cracked-pepper chicken cutlet pan-fried golden with herb butter.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast, pounded thin",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cracked black pepper",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour for dusting",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg, beaten",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lemon wedge",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound chicken breasts to 5 mm thickness, season with salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Dust with flour, dip in beaten egg, then press cracked pepper onto both sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry in butter over medium-high heat for 3 minutes per side."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with lemon juice and parsley; serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 40,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 0.5,
+        "sugar": 0.5,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gegrilltes-haehnchen",
+      "name": "Gegrilltes Haehnchen",
+      "description": "Lemon-and-herb grilled chicken thighs with a smoky char.",
+      "categories": [
+        "chicken",
+        "grill",
+        "dinner",
+        "summer",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs, boneless",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "oregano, dried",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bell pepper, sliced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flat-leaf parsley",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken thighs in lemon juice, oil, garlic, oregano, and paprika for 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Preheat grill to medium-high heat."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill chicken 5 minutes per side until charred and cooked through."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 3 minutes, slice, and serve with grilled bell peppers and parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 336,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 16,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchencurry",
+      "name": "Haehnchencurry",
+      "description": "German-style chicken curry with coconut milk, sweet pepper, and curry paste.",
+      "categories": [
+        "chicken",
+        "curry",
+        "dinner",
+        "spicy",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast, diced",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "curry paste",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "bell pepper, diced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "jasmine rice, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "spring onion, sliced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion and garlic, stir in curry paste until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chicken and brown on all sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in coconut milk, add bell pepper, and simmer 15 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve over jasmine rice, garnished with spring onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 394,
+        "protein": 36,
+        "carbohydrates": 22,
+        "fat": 18,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 580,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchennudelsuppe",
+      "name": "Haehnchennudelsuppe",
+      "description": "Hearty German chicken noodle soup with egg noodles, carrots, and root vegetables.",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food",
+        "home-style",
+        "family",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg noodles",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, diced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery stalks, diced",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "parsnip, diced",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chicken broth",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "fresh dill",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion, carrots, celery, and parsnip until softened."
+        },
+        {
+          "position": 2,
+          "instruction": "Add broth and chicken breast, bring to a boil, then simmer 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Remove chicken, shred, and return to pot with egg noodles."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook noodles until tender, stir in shredded chicken and dill."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 30,
+        "carbohydrates": 28,
+        "fat": 10,
+        "fiber": 3.5,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "schmorhahn",
+      "name": "Schmorhahn",
+      "description": "Dark-beer braised chicken with root vegetables and juniper berries.",
+      "categories": [
+        "chicken",
+        "braise",
+        "dinner",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole chicken, quartered",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dark beer",
+          "quantity": 330,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "carrots, chunks",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery root, chunks",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "juniper berries",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, quartered",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken quarters with salt, pepper, and mustard."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear skin-side down in a Dutch oven until deeply browned."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables, beer, juniper, and bay; cover tightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise at 170 °C for 1 hour until falling off the bone."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 640,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchen-kartoffeln",
+      "name": "Haehnchen mit Kartoffeln",
+      "description": "One-pan roasted chicken thighs with baby potatoes, rosemary, and lemon.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "one-pot",
+        "easy-recipes",
+        "family",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs, bone-in",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "baby potatoes, halved",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rosemary sprigs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lemon, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cherry tomatoes",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flaky salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss potatoes with oil, salt, and rosemary; spread on a baking tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Nestle chicken thighs among potatoes, season with salt and pepper."
+        },
+        {
+          "position": 3,
+          "instruction": "Add lemon slices and garlic cloves to the tray."
+        },
+        {
+          "position": 4,
+          "instruction": "Roast at 200 °C for 40 minutes until chicken is golden and potatoes are crisp."
+        }
+      ],
+      "nutrition": {
+        "calories": 386,
+        "protein": 34,
+        "carbohydrates": 22,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "blumenkohl-haehnchen",
+      "name": "Blumenkohl-Haehnchen",
+      "description": "Creamy cauliflower and chicken gratin with melted cheese and nutmeg.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "family",
+        "gluten-free"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast, diced",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cauliflower florets",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "gruyere cheese, grated",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "nutmeg, freshly grated",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch cauliflower florets for 3 minutes; drain well."
+        },
+        {
+          "position": 2,
+          "instruction": "Season and sear diced chicken in butter until just cooked."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine chicken and cauliflower in a gratin dish, pour cream over."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with cheese and breadcrumbs, bake at 200 °C for 20 minutes until golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 36,
+        "carbohydrates": 14,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haehnchen-frikassee",
+      "name": "Huehnerfrikassee",
+      "description": "Creamy German chicken fricassee with pearl onions, carrots, and white-wine sauce.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast, diced",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pearl onions",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, sliced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "white wine",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg noodles, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear diced chicken in butter until golden; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté pearl onions and carrots, stir in flour to make a roux."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with white wine, add cream, and simmer until thickened."
+        },
+        {
+          "position": 4,
+          "instruction": "Return chicken, cook 5 minutes, and serve over buttered egg noodles."
+        }
+      ],
+      "nutrition": {
+        "calories": 396,
+        "protein": 36,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rahmhaehnchen",
+      "name": "Rahmhaehnchen",
+      "description": "German creamy paprika chicken with peppers and a rich sour-cream finish.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "spicy",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs, bone-in",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bell peppers, sliced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sour cream",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sweet paprika",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chicken broth",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "egg noodles, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear chicken thighs until golden; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and peppers, stir in paprika and tomato paste."
+        },
+        {
+          "position": 3,
+          "instruction": "Add broth, return chicken, cover and simmer 25 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in sour cream, serve over egg noodles."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 600,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hahnchen-brust-de",
+      "name": "Hahnchenbrust Senf",
+      "description": "Pan-seared chicken breast with mustard cream",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes",
+        "healthy",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cream",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and sear chicken breast."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Add mustard and cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer chicken in sauce until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 318,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kaesespaetzle",
+      "name": "Käsespätzle",
+      "description": "Swabian egg noodles layered with mountain cheese and fried onions - Germany's mac & cheese.",
+      "categories": [
+        "vegetarian",
+        "comfort-food",
+        "budget-friendly",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 5,
+      "restaurantPrice": 11,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "cheese",
+        "alpine"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour, Eggs, Salt, Nutmeg",
+          "quantity": 500,
+          "unit": "g",
+          "note": "soft spätzle batter"
+        },
+        {
+          "name": "Sparkling Water",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Allgäu Mountain Cheese",
+          "quantity": 250,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Fried Onions",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Chives",
+          "quantity": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat sticky batter; rest 15 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Scrape through spätzle maker into salted boiling water; scoop when floating."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer noodles-cheese-onions in a dish; quick bake/melt."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with crispy onions and chives."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 27,
+        "carbohydrates": 62,
+        "fat": 28,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 850,
+        "saturatedFat": 16
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "kartoffelpuffer",
+      "name": "Kartoffelpuffer",
+      "description": "Crisp-edged potato pancakes with applesauce - market-square winter food.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "4 pancakes (280g)",
+      "homePrepCost": 3.5,
+      "restaurantPrice": 8,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "fried",
+        "apple-sauce"
+      ],
+      "ingredients": [
+        {
+          "name": "Starchy Potatoes",
+          "quantity": 900,
+          "unit": "g",
+          "note": "coarsely grated, squeezed dry"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Eggs & Flour",
+          "quantity": 130,
+          "unit": "g"
+        },
+        {
+          "name": "Salt & Nutmeg",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Oil for Frying",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Applesauce",
+          "quantity": 250,
+          "unit": "g",
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix potatoes, onion, eggs, flour, seasoning fast before weeping."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry thin rounds in hot fat until lacy-crisp both sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve hot with cold applesauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 9,
+        "carbohydrates": 48,
+        "fat": 21,
+        "fiber": 5,
+        "sugar": 9,
+        "sodium": 560,
+        "saturatedFat": 3.2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "obs5MhNA4Rs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=obs5MhNA4Rs",
+          "videoTitle": "German Potato Pancakes | Kartoffelpuffer | Reibekuchen Homemade",
+          "channelName": "Ninik Becker",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "linseneintopf-vegetarisch",
+      "name": "Vegetarian Linseneintopf",
+      "description": "Hearty lentil stew with root vegetables and smoked paprika - no sausage needed.",
+      "categories": [
+        "vegetarian",
+        "budget-friendly",
+        "healthy",
+        "winter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 5,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 4,
+      "restaurantPrice": 8,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 73,
+      "tags": [
+        "vegan",
+        "stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Green Lentils",
+          "quantity": 400,
+          "unit": "g",
+          "note": "rinsed"
+        },
+        {
+          "name": "Potatoes, Carrots & Celery Root",
+          "quantity": 700,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Smoked Paprika & Majoram",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable Stock & Vinegar Splash",
+          "quantity": 1600,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sweat onions; bloom paprika briefly."
+        },
+        {
+          "position": 2,
+          "instruction": "Add lentils, roots, stock; simmer 40 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Balance with vinegar; mash some lentils to thicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 19,
+        "carbohydrates": 54,
+        "fat": 5,
+        "fiber": 18,
+        "sugar": 9,
+        "sodium": 680,
+        "saturatedFat": 0.7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "schupfnudeln-kraut",
+      "name": "Schupfnudeln mit Kraut",
+      "description": "Potato dumpling fingers rolled by hand, fried crisp with buttery braised cabbage.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 50,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 pan share (330g)",
+      "homePrepCost": 4.5,
+      "restaurantPrice": 10,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "handmade-noodles"
+      ],
+      "ingredients": [
+        {
+          "name": "Floury Potatoes",
+          "quantity": 900,
+          "unit": "g",
+          "note": "boiled, riced, cooled"
+        },
+        {
+          "name": "Flour & Egg Yolks",
+          "quantity": 220,
+          "unit": "g"
+        },
+        {
+          "name": "White Cabbage",
+          "quantity": 500,
+          "unit": "g",
+          "note": "shredded"
+        },
+        {
+          "name": "Butter & Caraway",
+          "quantity": 70,
+          "unit": "g"
+        },
+        {
+          "name": "Nutmeg & Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead potato dough; roll ropes; cut and taper into fingers."
+        },
+        {
+          "position": 2,
+          "instruction": "Brief-poach, then fry in butter until golden crusts form."
+        },
+        {
+          "position": 3,
+          "instruction": "Meanwhile braise cabbage with caraway; toss together."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 13,
+        "carbohydrates": 68,
+        "fat": 17,
+        "fiber": 8,
+        "sugar": 8,
+        "sodium": 540,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "kartoffelsuppe",
+      "name": "Kartoffelsuppe",
+      "description": "Creamy Bavarian potato soup with leeks, carrots, and crispy croutons.",
+      "categories": [
+        "seafood",
+        "soup",
+        "comfort-food",
+        "home-style",
+        "budget-friendly",
+        "family"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "potatoes, peeled and diced",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "leek, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots, diced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bread for croutons",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fresh chives, snipped",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté leek and carrots in butter until softened."
+        },
+        {
+          "position": 2,
+          "instruction": "Add potatoes and broth, bring to a boil, then simmer 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Blend half the soup for a creamy texture, return to pot, and stir in cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Toast bread cubes in butter for croutons; serve soup topped with croutons and chives."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 22,
+        "carbohydrates": 36,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "spaetzle",
+      "name": "Spaetzle",
+      "description": "Hand-scraped Swabian egg noodles tossed in brown butter with crispy onions.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "comfort-food",
+        "regional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "nutmeg, grated",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "butter for browning",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, sliced thin",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk flour, eggs, milk, salt, and nutmeg into a thick, sticky batter."
+        },
+        {
+          "position": 2,
+          "instruction": "Press batter through a spaetzle maker or colander into boiling salted water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until noodles float, then drain and rinse briefly."
+        },
+        {
+          "position": 4,
+          "instruction": "Brown butter with sliced onions until crisp, toss spaetzle in the brown butter, and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 22,
+        "carbohydrates": 40,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 480,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "spaetzle-kaese",
+      "name": "Kaesespaetzle",
+      "description": "Baked Swabian spaetzle layered with melted gruyere and topped with crispy onions.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "comfort-food",
+        "regional",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "spaetzle, cooked",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gruyere cheese, grated",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, sliced thin",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "nutmeg",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "chives, snipped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown sliced onions in butter until deeply caramelized; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Make a light roux with butter and flour, whisk in milk, season with nutmeg."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer spaetzle and cheese in a baking dish, pour sauce between layers."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with remaining cheese and crispy onions, bake at 200 °C for 15 minutes until bubbly."
+        }
+      ],
+      "nutrition": {
+        "calories": 394,
+        "protein": 22,
+        "carbohydrates": 36,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rotkohl",
+      "name": "Rotkohl",
+      "description": "Sweet-and-sour braised red cabbage with apples, cloves, and red-wine vinegar.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "winter",
+        "home-style",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "red cabbage, shredded",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "apple, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "red wine vinegar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cloves, whole",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion in butter until softened, add shredded cabbage and apple."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir in vinegar, sugar, cloves, and bay leaf."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and braise over low heat for 45 minutes, stirring occasionally."
+        },
+        {
+          "position": 4,
+          "instruction": "Season to taste and serve warm as a side."
+        }
+      ],
+      "nutrition": {
+        "calories": 266,
+        "protein": 20,
+        "carbohydrates": 24,
+        "fat": 10,
+        "fiber": 5,
+        "sugar": 14,
+        "sodium": 380,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sauerkraut",
+      "name": "Sauerkraut",
+      "description": "Traditional German fermented cabbage slowly simmered with juniper and caraway.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "winter",
+        "vegan-option",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "sauerkraut, drained",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "apple, grated",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "juniper berries",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "white wine",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion in butter until translucent."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sauerkraut, grated apple, caraway, juniper, and bay leaf."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in wine, cover, and simmer gently for 30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with a pinch of sugar if needed; serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 234,
+        "protein": 20,
+        "carbohydrates": 16,
+        "fat": 10,
+        "fiber": 6,
+        "sugar": 7,
+        "sodium": 880,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "0_N8NWKb3HU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=0_N8NWKb3HU",
+          "videoTitle": "Deftiges Sauerkraut zubereiten und kochen nach Oma's Rezept",
+          "channelName": "JANNIK kocht - leckere Rezepte!",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "linseneintopf-veg",
+      "name": "Linseneintopf",
+      "description": "Hearty German red lentil stew with smoked paprika, carrots, and crusty bread.",
+      "categories": [
+        "vegetarian",
+        "stew",
+        "budget-friendly",
+        "comfort-food",
+        "home-style",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "red lentils",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, diced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fresh parsley, chopped",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion and garlic until softened, stir in paprika and tomato paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Add lentils, carrots, and broth; bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce heat, cover, and simmer for 25 minutes until lentils are tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Season well, ladle into bowls, and top with fresh parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 22,
+        "carbohydrates": 38,
+        "fat": 10,
+        "fiber": 10,
+        "sugar": 5,
+        "sodium": 620,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "erbseneintopf",
+      "name": "Erbseneintopf",
+      "description": "Thick German split-pea soup with vegetables, potatoes, and fresh marjoram.",
+      "categories": [
+        "vegetarian",
+        "soup",
+        "comfort-food",
+        "budget-friendly",
+        "home-style",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yellow split peas",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potatoes, diced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, diced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery stalk, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "marjoram, dried",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse split peas and soak for 30 minutes if time allows."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion, carrot, and celery until softened."
+        },
+        {
+          "position": 3,
+          "instruction": "Add peas, potatoes, broth, bay leaf, and marjoram; bring to a boil."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer covered for 40 minutes until thick and creamy; season to taste."
+        }
+      ],
+      "nutrition": {
+        "calories": 304,
+        "protein": 20,
+        "carbohydrates": 38,
+        "fat": 8,
+        "fiber": 10,
+        "sugar": 5,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kohlrabi-gratin",
+      "name": "Kohlrabigratin",
+      "description": "Creamy kohlrabi gratin with nutmeg, gruyere, and crispy breadcrumb topping.",
+      "categories": [
+        "seafood",
+        "side",
+        "dinner",
+        "comfort-food",
+        "gluten-free"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "kohlrabi, peeled and sliced",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "gruyere cheese, grated",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "nutmeg, freshly grated",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil kohlrabi slices in salted water for 8 minutes until just tender; drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat cream with garlic and nutmeg; pour over kohlrabi in a gratin dish."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with grated cheese and buttered breadcrumbs."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 200 °C for 20 minutes until golden and bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 20,
+        "carbohydrates": 18,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "wirsingauflauf",
+      "name": "Wirsingauflauf",
+      "description": "Braised Savoy cabbage rolls filled with rice, herbs, and a creamy cheese sauce.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Savoy cabbage leaves",
+          "quantity": 12,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "risotto rice, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "gruyere cheese, grated",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fresh dill",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "nutmeg",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch cabbage leaves for 2 minutes; pat dry and trim thick ribs."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion in butter, mix with cooked rice and dill."
+        },
+        {
+          "position": 3,
+          "instruction": "Place filling on each leaf, roll tightly, and arrange seam-side down in a baking dish."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour cream over rolls, top with cheese, bake at 190 °C for 25 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 324,
+        "protein": 20,
+        "carbohydrates": 34,
+        "fat": 12,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "apfelsalat",
+      "name": "Apfelsalat",
+      "description": "Crisp German apple-and-walnut salad with a tangy honey-vinaigrette dressing.",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "side",
+        "healthy",
+        "summer",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "tart apples, sliced",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "walnuts, roughly chopped",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "celery stalks, sliced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "raisins",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "apple cider vinegar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sunflower oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lettuce leaves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice apples thinly and toss with lemon juice to prevent browning."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk honey, vinegar, and oil into a vinaigrette."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine apples, celery, walnuts, and raisins in a bowl."
+        },
+        {
+          "position": 4,
+          "instruction": "Dress just before serving over a bed of crisp lettuce leaves."
+        }
+      ],
+      "nutrition": {
+        "calories": 300,
+        "protein": 20,
+        "carbohydrates": 28,
+        "fat": 12,
+        "fiber": 5,
+        "sugar": 22,
+        "sodium": 120,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gemueseauflauf",
+      "name": "Gemueseauflauf",
+      "description": "Baked vegetable gratin with zucchini, tomatoes, peppers, and melted mozzarella.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "comfort-food",
+        "healthy",
+        "gluten-free",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "zucchini, sliced",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tomatoes, sliced",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bell peppers, sliced",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mozzarella, sliced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic cloves, minced",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fresh basil",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "parmesan, grated",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Preheat oven to 200 °C and lightly oil a baking dish."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer vegetables in alternating rows with garlic and olive oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with mozzarella and parmesan."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake for 30 minutes until vegetables are tender and cheese is golden; garnish with basil."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 22,
+        "carbohydrates": 18,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 10,
+        "sodium": 480,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kohlrouladen",
+      "name": "Kohlrouladen",
+      "description": "Cabbage leaves stuffed with rice, herbs, and mushrooms in a creamy tomato sauce.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "family",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cabbage leaves, blanched",
+          "quantity": 12,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "risotto rice, cooked",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mushrooms, diced",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "fresh dill",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "parmesan, grated",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch cabbage leaves for 2 minutes, pat dry, trim thick ribs."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and mushrooms, mix with cooked rice and dill."
+        },
+        {
+          "position": 3,
+          "instruction": "Place filling on each leaf, roll tightly, and arrange seam-side down in a baking dish."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour tomato sauce and cream over rolls, top with parmesan, bake at 180 °C for 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 306,
+        "protein": 20,
+        "carbohydrates": 34,
+        "fat": 10,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "maultaschen",
+      "name": "Maultaschen",
+      "description": "Swabian filled pasta pockets stuffed with spinach, bread, and onion.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "regional",
+        "traditional",
+        "comfort-food",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pasta dough",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "spinach, chopped",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bread rolls, cubed",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion, finely diced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "nutmeg, grated",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "butter for browning",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef or vegetable broth",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion, mix with spinach, bread, eggs, and nutmeg for the filling."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll pasta dough thin, place filling mounds, fold, and seal edges."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook maultaschen in simmering broth for 10 minutes until they float."
+        },
+        {
+          "position": 4,
+          "instruction": "Remove, slice into strips, and pan-fry in butter until lightly golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 348,
+        "protein": 22,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "zwiebelkuchen",
+      "name": "Zwiebelkuchen",
+      "description": "Savoury German onion tart with smoky bacon, cream, and caraway on a yeasted base.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "traditional",
+        "regional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeasted dough",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onions, sliced",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "smoked bacon, diced",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sour cream",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "fresh thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "nutmeg",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll out dough and line a greased tart pan; pre-bake blind for 10 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onions and bacon until onions are soft and translucent."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk sour cream, eggs, caraway, thyme, and nutmeg together."
+        },
+        {
+          "position": 4,
+          "instruction": "Spread onion mixture over base, pour custard on top, bake at 200 °C for 25 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 378,
+        "protein": 22,
+        "carbohydrates": 32,
+        "fat": 18,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kassler",
+      "name": "Kassler",
+      "description": "Smoked and cured pork chop served with sauerkraut and mustard sauce.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "smoked pork chop",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sauerkraut, drained",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mustard cream sauce",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "caraway seeds",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "onion, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "apple, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bay leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "boiled potatoes",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse sauerkraut and simmer with onion, apple, bay, and caraway for 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-fry smoked pork chop until heated through and lightly seared."
+        },
+        {
+          "position": 3,
+          "instruction": "Prepare mustard cream sauce from pan drippings."
+        },
+        {
+          "position": 4,
+          "instruction": "Plate with sauerkraut, pork chop, mustard sauce, and boiled potatoes."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 38,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 4.5,
+        "sugar": 5,
+        "sodium": 1060,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "schwarzwaelder-kirschtorte",
+      "name": "Schwarzwälder Kirschtorte",
+      "description": "Black Forest gateau: chocolate sponge, kirsch cherries, whipped cream, chocolate curls.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 90,
+      "cookTimeMin": 40,
+      "servings": 12,
+      "servingSize": "1 slice (140g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 8.5,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 93,
+      "tags": [
+        "layer-cake",
+        "kirsch"
+      ],
+      "ingredients": [
+        {
+          "name": "Chocolate Sponge Layers",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "Morello Cherries in Syrup",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Kirsch",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Heavy Cream + Sugar Stabilized",
+          "quantity": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Dark Chocolate Curls",
+          "quantity": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bake chocolate sponges; cool; split as needed."
+        },
+        {
+          "position": 2,
+          "instruction": "Drain cherries; soak layers with kirsch syrup."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill with cream and cherries between layers; coat sides in cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Press chocolate curls around; crown with cream rosettes + cherries."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 5,
+        "carbohydrates": 40,
+        "fat": 27,
+        "fiber": 2,
+        "sugar": 30,
+        "sodium": 95,
+        "saturatedFat": 15
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "apfelstrudel",
+      "name": "Apfelstrudel",
+      "description": "Paper-thin stretched dough around rum-raisin apples, baked until shatteringly crisp.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 60,
+      "cookTimeMin": 40,
+      "servings": 8,
+      "servingSize": "1 slice (140g)",
+      "homePrepCost": 5.5,
+      "restaurantPrice": 7.5,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "apple",
+        "stretched-dough"
+      ],
+      "ingredients": [
+        {
+          "name": "Strudel Dough or Filo",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Tart Apples",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "thin slices"
+        },
+        {
+          "name": "Raisins (rum-soaked) & Breadcrumbs",
+          "quantity": 180,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar, Cinnamon & Lemon Zest",
+          "quantity": 130,
+          "unit": "g"
+        },
+        {
+          "name": "Melted Butter",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stretch dough over a cloth to transparency; butter it."
+        },
+        {
+          "position": 2,
+          "instruction": "Toast breadcrumbs in butter; mix with apples, sugar, raisins, cinnamon."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll tightly using the cloth; seam down."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake 190°C 35-40 min; dust with powdered sugar; serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 5,
+        "carbohydrates": 52,
+        "fat": 13,
+        "fiber": 4,
+        "sugar": 28,
+        "sodium": 210,
+        "saturatedFat": 6.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "uzc2xfnk6wo",
+          "youtubeUrl": "https://www.youtube.com/watch?v=uzc2xfnk6wo",
+          "videoTitle": "The Secret Behind How Original Viennese Apple Strudel Is Made | Food Secrets Ep. 10",
+          "channelName": "DW Food",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "birnen-spekulatius",
+      "name": "Birnen Spekulatius",
+      "description": "Poached pears in spiced red-wine syrup served with crushed speculoos biscuits.",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "winter",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ripe pears, peeled",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "red wine",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cinnamon stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cloves, whole",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lemon peel strips",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "speculoos biscuits",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vanilla ice cream",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Combine red wine, sugar, cinnamon, cloves, and lemon peel in a saucepan."
+        },
+        {
+          "position": 2,
+          "instruction": "Add pears and poach gently for 25 minutes until tender but intact."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce poaching liquid to a thick syrup over medium heat."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve pears warm with reduced syrup, crushed speculoos, and a scoop of vanilla ice cream."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 20,
+        "carbohydrates": 42,
+        "fat": 14,
+        "fiber": 6,
+        "sugar": 28,
+        "sodium": 280,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kaiserschmarrn-veg",
+      "name": "Kaiserschmarrn",
+      "description": "Fluffy torn Austrian pancake dusted with powdered sugar and served with plum compote.",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "celebration",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "powdered sugar for dusting",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Zwetschgenkompott (plum compote)",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk eggs with sugar and vanilla until fluffy, fold in flour and milk."
+        },
+        {
+          "position": 2,
+          "instruction": "Melt butter in a large pan, pour in batter, and cook over medium-low heat."
+        },
+        {
+          "position": 3,
+          "instruction": "When set, tear into rough pieces with two forks and brown lightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Dust with powdered sugar and serve immediately with warm plum compote."
+        }
+      ],
+      "nutrition": {
+        "calories": 342,
+        "protein": 20,
+        "carbohydrates": 34,
+        "fat": 14,
+        "fiber": 1.5,
+        "sugar": 14,
+        "sodium": 380,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "streuselkuchen",
+      "name": "Streuselkuchen",
+      "description": "Classic German crumb cake with a buttery streusel topping on a soft yeast base.",
+      "categories": [
+        "desserts",
+        "baked",
+        "traditional",
+        "home-style",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeast dough",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter, cold, cubed",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vanilla sugar",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pearl sugar for topping",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Prepare yeast dough and let rise until doubled."
+        },
+        {
+          "position": 2,
+          "instruction": "Rub cold butter, flour, sugar, and cinnamon into coarse streusel crumbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Roll out dough, press into a greased sheet pan, and let rest 15 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Spread streusel evenly over top, sprinkle with pearl sugar, bake at 190 °C for 22 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 20,
+        "carbohydrates": 42,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 16,
+        "sodium": 280,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "berliner",
+      "name": "Berliner",
+      "description": "Traditional German jelly doughnut dusted with powdered sugar and filled with raspberry jam.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration",
+        "street-food",
+        "family"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeasted dough",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "raspberry jam for filling",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "powdered sugar for dusting",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil for frying",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "flour for dusting",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemon zest",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vanilla sugar",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rum, optional",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Prepare yeast dough with lemon zest, let rise until doubled."
+        },
+        {
+          "position": 2,
+          "instruction": "Divide into 12 pieces, shape into smooth balls, let rest 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry at 170 °C for 3 minutes per side until golden brown."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain, fill with jam using a piping bag, and dust generously with powdered sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 332,
+        "protein": 20,
+        "carbohydrates": 36,
+        "fat": 12,
+        "fiber": 1.5,
+        "sugar": 14,
+        "sodium": 240,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pralinen",
+      "name": "Schokoladenpralinen",
+      "description": "Handmade German chocolate pralines with a smooth ganache center and cocoa dusting.",
+      "categories": [
+        "desserts",
+        "celebration",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "dark chocolate, 70%",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cocoa powder for dusting",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "hazelnuts, toasted",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rum",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "espresso, cooled",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat cream and pour over chopped chocolate, stir until smooth."
+        },
+        {
+          "position": 2,
+          "instruction": "Add butter, rum, vanilla, and espresso; stir until glossy."
+        },
+        {
+          "position": 3,
+          "instruction": "Chill ganache for 2 hours, then roll into small balls."
+        },
+        {
+          "position": 4,
+          "instruction": "Roll in cocoa powder or dip in tempered chocolate; let set at room temperature."
+        }
+      ],
+      "nutrition": {
+        "calories": 314,
+        "protein": 20,
+        "carbohydrates": 18,
+        "fat": 18,
+        "fiber": 2.5,
+        "sugar": 10,
+        "sodium": 60,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dresdner-stollen",
+      "name": "Dresdner Stollen",
+      "description": "Iconic German Christmas bread packed with dried fruit, marzipan, and powdered sugar.",
+      "categories": [
+        "desserts",
+        "baked",
+        "traditional",
+        "celebration",
+        "winter",
+        "sharing"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeasted stollen dough",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "raisins",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "candied orange peel",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "candied lemon peel",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "almonds, blanched",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "marzipan log",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter, melted",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "powdered sugar for dusting",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead dried fruits and almonds into the stollen dough; let rise 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll dough into an oval, place marzipan log off-centre, fold dough over."
+        },
+        {
+          "position": 3,
+          "instruction": "Let rest 30 minutes, then bake at 175 °C for 50 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Brush generously with melted butter and dust heavily with powdered sugar while warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 382,
+        "protein": 20,
+        "carbohydrates": 44,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 20,
+        "sodium": 220,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bienenstich",
+      "name": "Bienenstich",
+      "description": "Layered German bee-sting cake with a caramelized almond topping and vanilla cream filling.",
+      "categories": [
+        "desserts",
+        "baked",
+        "traditional",
+        "celebration",
+        "home-style"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeasted cake dough",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sliced almonds",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter for caramel",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vanilla custard",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "heavy cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Prepare yeast dough, divide into two layers, let rise."
+        },
+        {
+          "position": 2,
+          "instruction": "Make almond caramel with honey, butter, sugar, and almonds; spread over top layer."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake both layers at 190 °C for 18 minutes until almond topping is golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Fill bottom layer with whipped vanilla custard cream, place almond layer on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 20,
+        "carbohydrates": 44,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 260,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "butterkuchen",
+      "name": "Butterkuchen",
+      "description": "Traditional German sheet cake with dimples of melted butter and crunchy pearl sugar.",
+      "categories": [
+        "desserts",
+        "baked",
+        "traditional",
+        "home-style",
+        "budget-friendly",
+        "sharing"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "yeast dough",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter, softened",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vanilla sugar",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pearl sugar",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flaked almonds",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lemon zest",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Prepare yeast dough with lemon zest, let rise until doubled."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll out dough into a greased sheet pan, let rest 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Press deep dimples all over with fingertips, fill each with a dot of butter."
+        },
+        {
+          "position": 4,
+          "instruction": "Sprinkle with sugar, vanilla sugar, pearl sugar, and almonds; bake at 200 °C for 18 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 384,
+        "protein": 20,
+        "carbohydrates": 40,
+        "fat": 16,
+        "fiber": 1.5,
+        "sugar": 14,
+        "sodium": 260,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hahnchen-paprika",
+      "name": "Hahnchen Paprika",
+      "description": "Chicken breast in creamy paprika sauce",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "easy-recipes"
+      ],
+      "dietType": "HIGH_PROTEIN",
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "paprika",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "cream",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken and sear.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion and garlic.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Add paprika and cream.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer chicken in sauce.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "proteinType": "CHICKEN",
+      "totalTimeMin": 32,
+      "nutrition": {
+        "protein": 36,
+        "carbs": 8,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 5,
+        "calories": 320,
+        "carbohydrates": 8
+      },
+      "videos": [],
+      "images": null,
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "linseneintopf-de",
+      "name": "Linseneintopf Spezial",
+      "description": "Hearty German lentil stew with vegetables",
+      "categories": [
+        "vegetarian",
+        "stew",
+        "winter",
+        "comfort-food",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 serving (300g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 300,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 50,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "carrots",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "potatoes",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "vinegar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion and garlic.",
+          "durationMin": 7,
+          "technique": "prep"
+        },
+        {
+          "position": 2,
+          "instruction": "Add lentils, carrots, and potatoes with water.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until lentils are soft.",
+          "durationMin": 7,
+          "technique": "cook"
+        },
+        {
+          "position": 4,
+          "instruction": "Season with vinegar, salt, and pepper.",
+          "durationMin": 7,
+          "technique": "cook"
+        }
+      ],
+      "totalTimeMin": 40,
+      "nutrition": {
+        "protein": 16,
+        "carbs": 32,
+        "fat": 2,
+        "fiber": 10,
+        "sugar": 4,
+        "sodium": 380,
+        "saturatedFat": 0,
+        "calories": 210,
+        "carbohydrates": 32
+      },
+      "videos": [],
+      "images": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    }
+  ]
+}

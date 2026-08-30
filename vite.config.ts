@@ -1,7 +1,8 @@
 import { defineConfig, loadEnv, type HtmlTagDescriptor, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
-import path from 'node:path'
+import path, { join } from 'node:path'
+import { existsSync } from 'node:fs'
 
 import siteConfiguration from './.figma/make/site.json'
 
@@ -395,7 +396,20 @@ function veyraApiDevServerPlugin(): Plugin {
 
         req.on('end', async () => {
           try {
-            const modulePath = `.${path}.ts`;
+            // Resolve the URL to a serverless module. Static files map 1:1;
+            // dynamic Vercel segments (e.g. /api/recipes/<id> -> [id].ts)
+            // fall back to their bracket-file implementation.
+            let modulePath = `.${path}.ts`;
+            if (!existsSync(join(server.config.root, modulePath))) {
+              const segments = path.split('/')
+              if (segments.length > 2) {
+                segments[segments.length - 1] = '[id]'
+                const dynamicPath = `${segments.join('/')}.ts`
+                if (existsSync(join(server.config.root, dynamicPath))) {
+                  modulePath = dynamicPath
+                }
+              }
+            }
             const { default: handler } = await server.ssrLoadModule(modulePath);
             const fullUrl = `http://${req.headers.host || 'localhost'}${req.url}`;
             const webReq = new Request(fullUrl, {

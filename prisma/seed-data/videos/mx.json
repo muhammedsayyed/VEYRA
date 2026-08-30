@@ -1,0 +1,124 @@
+{
+  "countryCode": "mx",
+  "videos": [
+    {
+      "recipeSlug": "carne-asada",
+      "youtubeVideoId": "EnIQ2TbuMDc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EnIQ2TbuMDc",
+      "videoTitle": "How Mexico Makes the Perfect Carne Asada Tacos",
+      "channelName": "Mexico in My Kitchen"
+    },
+    {
+      "recipeSlug": "chicken-tinga",
+      "youtubeVideoId": "8QxVx7YbGLM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8QxVx7YbGLM",
+      "videoTitle": "BEST-EVER Chicken Tinga Tacos",
+      "channelName": "Pinch of Yum"
+    },
+    {
+      "recipeSlug": "beef-birria",
+      "youtubeVideoId": "GrHKQdRHNt8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GrHKQdRHNt8",
+      "videoTitle": "The Ultimate BIRRIA de Res Recipe Guide: Tacos, Consome, Quesabirria & Ramen | Arnie's Cafe & Grill",
+      "channelName": "ArnieTex"
+    },
+    {
+      "recipeSlug": "pollo-asado",
+      "youtubeVideoId": "oWuAJB6cl5g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oWuAJB6cl5g",
+      "videoTitle": "Two Recipes for POLLO ASADO: Traditional Mexican Grilled Chicken & Texas Style Sweet Heat BBQ Sauce",
+      "channelName": "ArnieTex"
+    },
+    {
+      "recipeSlug": "enchiladas-suizas",
+      "youtubeVideoId": "76bJglYQhqw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=76bJglYQhqw",
+      "videoTitle": "Rick Bayless Enchiladas Suizas (Creamy Chicken Enchiladas with Melted Cheese)",
+      "channelName": "Rick Bayless"
+    },
+    {
+      "recipeSlug": "chilaquiles-con-pollo",
+      "youtubeVideoId": "C6Rm_MiJ77I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C6Rm_MiJ77I",
+      "videoTitle": "How to Make Cast Iron Chicken Chilaquiles | Julia At Home (S3 E6)",
+      "channelName": "America's Test Kitchen"
+    },
+    {
+      "recipeSlug": "tacos-de-rajas",
+      "youtubeVideoId": "RxXN6bKJo0Y",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RxXN6bKJo0Y",
+      "videoTitle": "Como Hacer Tacos de Rajas con Queso",
+      "channelName": "Karla Rios"
+    },
+    {
+      "recipeSlug": "arroz-con-pollo-mx",
+      "youtubeVideoId": "bGCaXKfpass",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bGCaXKfpass",
+      "videoTitle": "Delicious Arroz Con Pollo - Mexican Chicken And Rice Recipe!",
+      "channelName": "Rose Oatley"
+    },
+    {
+      "recipeSlug": "nopalitos",
+      "youtubeVideoId": "Zi7eVGPl9-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Zi7eVGPl9-Q",
+      "videoTitle": "Receta Nopalitos Placeros con SECRETO  para quitar la baba del nopal|| EL SECRETO PARA COCER NOPALES",
+      "channelName": "Cris en la Cocina"
+    },
+    {
+      "recipeSlug": "guacamole-fresco",
+      "youtubeVideoId": "tHVzFLtvbGQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tHVzFLtvbGQ",
+      "videoTitle": "How to Make Fresh Homemade Guacamole - Easy Guacamole Recipe",
+      "channelName": "Inspired Taste"
+    },
+    {
+      "recipeSlug": "tres-leches",
+      "youtubeVideoId": "Vwam4uLn-_o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Vwam4uLn-_o",
+      "videoTitle": "Rick Bayless Classic Tres Leches Cake",
+      "channelName": "Rick Bayless"
+    },
+    {
+      "recipeSlug": "flan-napolitano",
+      "youtubeVideoId": "xhjAlB8ikQ8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xhjAlB8ikQ8",
+      "videoTitle": "FLAN NAPOLITANO | Vicky Receta Facil",
+      "channelName": "VICKY RECETA FACIL"
+    },
+    {
+      "recipeSlug": "chongos-zamoranos",
+      "youtubeVideoId": "Y8Hb_GPB2Wc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Y8Hb_GPB2Wc",
+      "videoTitle": "COMO HACER LOS CHONGOS ZAMORANOS",
+      "channelName": "MI COCINA792"
+    },
+    {
+      "recipeSlug": "cajeta",
+      "youtubeVideoId": "v1Xq-DiC8XI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v1Xq-DiC8XI",
+      "videoTitle": "Easy Homemade Cajeta Recipe with Goat's Milk | Authentic Mexican Caramel Sauce Tutori",
+      "channelName": "The Young Homestead Wife"
+    },
+    {
+      "recipeSlug": "frijoles-refritos",
+      "youtubeVideoId": "TL_nobs8JRk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TL_nobs8JRk",
+      "videoTitle": "Frijoles Refritos | Better Beans Than That One Restaurant You're Thinking Of",
+      "channelName": "Jonathan Zaragoza"
+    },
+    {
+      "recipeSlug": "sopa-de-tortilla",
+      "youtubeVideoId": "cONoMzizids",
+      "youtubeUrl": "https://www.youtube.com/watch?v=cONoMzizids",
+      "videoTitle": "Sopa de Tortilla - Recipe",
+      "channelName": "La Tortilleria"
+    },
+    {
+      "recipeSlug": "elote-elote",
+      "youtubeVideoId": "Hm-VwN-uxy0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hm-VwN-uxy0",
+      "videoTitle": "Elote Recipe - How to Make Authentic Mexican Street Corn at Home!",
+      "channelName": "Yellow Chili's"
+    }
+  ]
+}

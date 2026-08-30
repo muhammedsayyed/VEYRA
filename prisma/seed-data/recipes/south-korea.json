@@ -1,0 +1,6818 @@
+{
+  "countryCode": "kr",
+  "recipes": [
+    {
+      "slug": "galbijjim",
+      "name": "Galbijjim (Braised Short Ribs)",
+      "description": "Soy-braised fall-off rib with radish and jujube.",
+      "categories": [
+        "beef",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 150,
+      "servings": 5,
+      "servingSize": "2 ribs + veg (350g)",
+      "homePrepCost": 32000,
+      "restaurantPrice": 42000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "feast-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef short ribs",
+          "quantity": 1500,
+          "unit": "g"
+        },
+        {
+          "name": "Korean pear soy braising liquid",
+          "quantity": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "Radish, carrots, jujubes, chestnuts",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & Ginger & Sesame",
+          "quantity": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch ribs; rinse."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise in sauce 90 min; add veg 40."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce lacquer; sesame crown."
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 44,
+        "carbohydrates": 24,
+        "fat": 41,
+        "fiber": 3,
+        "sugar": 18,
+        "sodium": 1250,
+        "saturatedFat": 16
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 180,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "yukgaejang",
+      "name": "Yukgaejang",
+      "description": "Fiery shredded-beef and fernbrake soup, scarlet with gochugaru oil.",
+      "categories": [
+        "beef",
+        "soup",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 120,
+      "servings": 5,
+      "servingSize": "1 bowl (400g)",
+      "homePrepCost": 16000,
+      "restaurantPrice": 12000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "restorative-soup"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef brisket shreds",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Gochugaru oil & Soup soy",
+          "quantity": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Bean sprouts & Fernbrake (gosari)",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & Scallion lots",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer brisket 60 min; shred; keep broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry gochugaru in beef fat; broth back."
+        },
+        {
+          "position": 3,
+          "instruction": "Vegetables 20 min; scallion blizzard."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 33,
+        "carbohydrates": 14,
+        "fat": 21,
+        "fiber": 4.5,
+        "sugar": 5,
+        "sodium": 1180,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "FxSmBbXSDl0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=FxSmBbXSDl0",
+          "videoTitle": "Spicy beef and vegetable soup (Yukgaejang: 육개장)",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 145,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bulgogi-jeongol",
+      "name": "Bulgogi Jeongol",
+      "description": "Hotpot of marinated beef, mushrooms, noodles in rich broth.",
+      "categories": [
+        "beef",
+        "hotpot",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 30,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 pot share (380g)",
+      "homePrepCost": 26000,
+      "restaurantPrice": 34000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "communal"
+      ],
+      "ingredients": [
+        {
+          "name": "Bulgogi beef",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Mushrooms, onions, vegetables arranged",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Glass noodles",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Beef broth seasoned",
+          "quantity": 1000,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Arrange beautifully in jeongol pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Broth over; simmer tableside 15 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Noodles last; slurp together."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 35,
+        "carbohydrates": 28,
+        "fat": 26,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 1320,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "LILBwJrR2HQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=LILBwJrR2HQ",
+          "videoTitle": "Bulgogi jeongol",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "galbi",
+      "name": "Galbi",
+      "description": "Marinated beef short ribs grilled over charcoal",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner",
+        "celebration",
+        "traditional",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef short ribs",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "brown sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "pear",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score ribs in a crosshatch pattern."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate in soy sauce, sugar, pear puree, garlic, and sesame oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Refrigerate overnight."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill over charcoal until caramelized and charred."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 10,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "0t4OeejZMk4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=0t4OeejZMk4",
+          "videoTitle": "The Only LA Kalbi Recipe You'll Ever Need | Esther Choi's Secret to Perfect Korean BBQ Short Ribs",
+          "channelName": "Food Network",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "samgyeopsal",
+      "name": "Samgyeopsal",
+      "description": "Thick pork belly slices grilled and wrapped in lettuce",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner",
+        "party-food",
+        "sharing",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork belly",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lettuce leaves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "ssamjang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat a grill pan until smoking."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook pork belly slices until golden and crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap a piece in lettuce with garlic, ssamjang, and kimchi."
+        },
+        {
+          "position": 4,
+          "instruction": "Eat in one bite."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 24,
+        "carbohydrates": 3,
+        "fat": 28,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 420,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "23tRGHUX3qM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=23tRGHUX3qM",
+          "videoTitle": "Grilled Pork Belly (Samgyeopsal-gui: 삼겹살구이)",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jjajangmyeon",
+      "name": "Jjajangmyeon",
+      "description": "Black bean sauce noodles a Korean-Chinese classic",
+      "categories": [
+        "beef",
+        "noodles",
+        "dinner",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork belly",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "black bean paste",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cabbage",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry diced pork belly until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Add black bean paste and fry until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Add diced vegetables and stir-fry."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve over boiled noodles with julienned cucumber."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 28,
+        "carbohydrates": 52,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 720,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jjigae",
+      "name": "Kimchi Jjigae",
+      "description": "Bubbling kimchi stew with pork and tofu",
+      "categories": [
+        "beef",
+        "stew",
+        "dinner",
+        "comfort-food",
+        "spicy",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "kimchi",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork belly",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry pork belly with aged kimchi."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water and bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add tofu cubes and gochugaru."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer 15 minutes until flavors meld."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 22,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 640,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "seolleongtang",
+      "name": "Seolleongtang",
+      "description": "Milky ox bone soup with sliced beef and noodles",
+      "categories": [
+        "beef",
+        "soup",
+        "dinner",
+        "comfort-food",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ox bones",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef brisket",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil ox bones for 8 hours until broth is milky white."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook beef brisket in the broth until tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice beef thinly."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve broth with noodles, sliced beef, and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 336,
+        "protein": 36,
+        "carbohydrates": 30,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "9X-A8AkaqG0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=9X-A8AkaqG0",
+          "videoTitle": "Seolleongtang | The Most COMFORTING Korean Ox Bone Soup",
+          "channelName": "makitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bossam",
+      "name": "Bossam",
+      "description": "Boiled pork belly wraps served with condiments",
+      "categories": [
+        "beef",
+        "dinner",
+        "sharing",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork belly",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "napa cabbage",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ssamjang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil pork belly with ginger, garlic, and soy sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook until tender, about 1 hour."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice into thin pieces."
+        },
+        {
+          "position": 4,
+          "instruction": "Wrap in napa cabbage with ssamjang, garlic, and kimchi."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 30,
+        "carbohydrates": 4,
+        "fat": 24,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 540,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tteok-galbi",
+      "name": "Tteok Galbi",
+      "description": "Ground beef short rib patties grilled with glaze",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner",
+        "celebration",
+        "traditional",
+        "party-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "pear",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grind beef with onion and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix with soy sauce, sugar, sesame oil, and pear puree."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape into oval patties."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill over medium heat, brushing with glaze."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 32,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "naengmyeon",
+      "name": "Naengmyeon",
+      "description": "Icy buckwheat noodles in tangy cold broth",
+      "categories": [
+        "beef",
+        "noodles",
+        "dinner",
+        "summer",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "buckwheat noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef brisket",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Asian pear",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "boiled egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vinegar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mustard",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "beef broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook buckwheat noodles, rinse in ice water."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice boiled beef brisket thinly."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour icy beef broth over noodles."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with beef, cucumber, pear, egg, vinegar, and mustard."
+        }
+      ],
+      "nutrition": {
+        "calories": 318,
+        "protein": 26,
+        "carbohydrates": 40,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "donggeurang-ttaeng",
+      "name": "Donggeurang Ttaeng",
+      "description": "Korean egg-stuffed meatballs in broth",
+      "categories": [
+        "beef",
+        "soup",
+        "dinner",
+        "home-style",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground pork",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ground chicken",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix ground meats with crumbled tofu, egg, and seasonings."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into round balls."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry until golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer in anchovy broth with vegetables."
+        }
+      ],
+      "nutrition": {
+        "calories": 262,
+        "protein": 28,
+        "carbohydrates": 6,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kimchi-bokkeumbap",
+      "name": "Kimchi Fried Rice",
+      "description": "Tangy kimchi fried rice with pork and egg",
+      "categories": [
+        "beef",
+        "rice-dish",
+        "dinner",
+        "comfort-food",
+        "street-food",
+        "easy-recipes",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork belly",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry diced pork belly until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chopped kimchi and gochujang."
+        },
+        {
+          "position": 3,
+          "instruction": "Add cold rice and stir-fry until coated."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with fried egg and sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 16,
+        "carbohydrates": 42,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "galbitang",
+      "name": "Galbitang",
+      "description": "Clear beef short rib soup with tender meat and radish",
+      "categories": [
+        "beef",
+        "soup",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef short rib",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "korean radish",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch beef ribs and rinse clean."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer ribs with radish onion and garlic for one hour."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with salt and sesame oil garnish with green onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 38,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 680,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kongnamul-jjigae",
+      "name": "Kongnamul Jjigae",
+      "description": "Hearty soybean sprout stew with pork and chili",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "soybean sprout",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork belly",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "doenjang",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry pork belly with garlic until browned."
+        },
+        {
+          "position": 2,
+          "instruction": "Add soybean sprouts and water bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with gochugaru and doenjang serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 25,
+        "carbohydrates": 16,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 3,
+        "sodium": 780,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "miyeok-guk",
+      "name": "Miyeokguk",
+      "description": "Traditional Korean seaweed soup with beef",
+      "categories": [
+        "beef",
+        "soup",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wakame seaweed",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef sirloin",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak dried wakame seaweed and drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef with garlic and sesame oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add water and seaweed simmer twenty minutes season with soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 236,
+        "protein": 22,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 6,
+        "sugar": 1,
+        "sodium": 680,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kimchi-veg",
+      "name": "Kimchi Veg",
+      "description": "Vegan aged kimchi made without fish sauce",
+      "categories": [
+        "beef",
+        "side",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "napa cabbage",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Salt cabbage and let wilt for two hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix gochugaru garlic ginger and sugar into a paste."
+        },
+        {
+          "position": 3,
+          "instruction": "Massage paste into cabbage with green onion pack in jar and ferment."
+        }
+      ],
+      "nutrition": {
+        "calories": 64,
+        "protein": 4,
+        "carbohydrates": 12,
+        "fat": 0,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 520,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "doenjang-jjigae-veg",
+      "name": "Doenjang Jjigae Veg",
+      "description": "Vegan fermented soybean paste stew with vegetables",
+      "categories": [
+        "beef",
+        "stew",
+        "vegan",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "doenjang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mushroom",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion and mushroom with doenjang paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water and bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add zucchini and tofu simmer ten minutes and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 217,
+        "protein": 18,
+        "carbohydrates": 16,
+        "fat": 9,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 860,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kongnamul-beans",
+      "name": "Kongnamul Beans",
+      "description": "Seasoned soybean sprout and bean side dish",
+      "categories": [
+        "beef",
+        "side",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "soybean sprout",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soybean",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch soybean sprouts and soybeans until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Drain well and toss with sesame oil and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with salt and green onion serve as banchan."
+        }
+      ],
+      "nutrition": {
+        "calories": 192,
+        "protein": 16,
+        "carbohydrates": 14,
+        "fat": 8,
+        "fiber": 5,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyeran-sujeol",
+      "name": "Gyeran Sujeol",
+      "description": "Seasoned shredded egg strips for rice bowls",
+      "categories": [
+        "beef",
+        "breakfast",
+        "side"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs with salt and green onion."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook thin omelette in a non-stick pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Shred into strips and serve over warm rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 196,
+        "protein": 18,
+        "carbohydrates": 4,
+        "fat": 12,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 320,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "korean-fried-chicken",
+      "name": "Korean Fried Chicken (Yangnyeom)",
+      "description": "Double-fried crackle glazed in sweet-spicy gochujang sauce.",
+      "categories": [
+        "chicken",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 30,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "8 pieces (320g)",
+      "homePrepCost": 19000,
+      "restaurantPrice": 24000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 93,
+      "tags": [
+        "double-fried"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken wings/drumettes",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Potato starch dredge",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Yangnyeom sauce (gochujang-ketchup-honey-garlic)",
+          "quantity": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 1500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry 160°C 8 min; rest."
+        },
+        {
+          "position": 2,
+          "instruction": "Refry 185°C 3 min extra-crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Warm sauce tumble-glaze."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 34,
+        "carbohydrates": 42,
+        "fat": 36,
+        "fiber": 1.5,
+        "sugar": 22,
+        "sodium": 1280,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "DtCHNVHLMi8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DtCHNVHLMi8",
+          "videoTitle": "The BEST Korean Fried Chicken Recipe EVER! Crispy Chicken",
+          "channelName": "Korean Cooking",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "dakgalbi",
+      "name": "Dakgalbi",
+      "description": "Gochujang chicken stir-fried with cabbage, tteok and cheese option.",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 plate (360g)",
+      "homePrepCost": 17000,
+      "restaurantPrice": 14000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "chuncheon-style"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thigh bite-size",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Gochujang marinade",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Cabbage, sweet potato, rice cakes",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Mozzarella optional melt",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Big pan stir-fry veg first then chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Cheese ring melt finish; rice cakes chewy."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 39,
+        "carbohydrates": 46,
+        "fat": 23,
+        "fiber": 5,
+        "sugar": 16,
+        "sodium": 1350,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "sVq9l0VsXLw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=sVq9l0VsXLw",
+          "videoTitle": "Dakgalbi",
+          "channelName": "Seonkyoung Longest",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "samgyetang",
+      "name": "Samgyetang",
+      "description": "Whole young chicken stuffed with rice, ginseng and jujube - summer health soup.",
+      "categories": [
+        "chicken",
+        "soup",
+        "healthy",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 90,
+      "servings": 2,
+      "servingSize": "1 whole mini chicken (550g)",
+      "homePrepCost": 21000,
+      "restaurantPrice": 18000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 85,
+      "tags": [
+        "boknal-restorative"
+      ],
+      "ingredients": [
+        {
+          "name": "Young cornish chickens",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Glutinous rice soaked",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Fresh ginseng roots & Jujubes & Garlic",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Salt-dip at table",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stuff cavities rice-ginseng-jujube; tie legs."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil gently 70-90 min till spoon-tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Pepper-salt dip alongside; broth sips."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 52,
+        "carbohydrates": 42,
+        "fat": 25,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 780,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "JUmFtHqwrnk",
+          "youtubeUrl": "https://www.youtube.com/watch?v=JUmFtHqwrnk",
+          "videoTitle": "Ginseng Chicken Soup (Samgyetang:삼계탕)",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "dakdoritang",
+      "name": "Dakdoritang",
+      "description": "Spicy braised chicken with potatoes in glossy gochujang stew.",
+      "categories": [
+        "chicken",
+        "stew",
+        "spicy",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 bowl (370g)",
+      "homePrepCost": 15000,
+      "restaurantPrice": 13000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "home-stew"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces bone-in",
+          "quantity": 1300,
+          "unit": "g"
+        },
+        {
+          "name": "Potato & carrot chunks",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Gochujang-gochugaru sauce",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Onion & scallion & garlic",
+          "quantity": 250,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; aromatics soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauce + water; braise covered 35 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce glaze; scallion finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 37,
+        "carbohydrates": 38,
+        "fat": 24,
+        "fiber": 5,
+        "sugar": 14,
+        "sodium": 1420,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chimaek",
+      "name": "Korean Fried Chicken",
+      "description": "Double-fried crispy chicken with spicy or soy glaze",
+      "categories": [
+        "chicken",
+        "street-food",
+        "snack",
+        "dinner",
+        "party-food",
+        "spicy",
+        "sharing"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken drumsticks",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cornstarch",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in garlic, soy, and ginger."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in flour-cornstarch mix."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry at 160C for 8 minutes, rest, then fry at 190C."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with gochujang glaze or serve with pickled radish."
+        }
+      ],
+      "nutrition": {
+        "calories": 388,
+        "protein": 34,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dakjjim",
+      "name": "Dakjjim",
+      "description": "Braised chicken with vegetables in soy-garlic sauce",
+      "categories": [
+        "chicken",
+        "braise",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mushrooms",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Add soy sauce, sugar, garlic, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes, carrots, and mushrooms."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise for 30 minutes until sauce reduces."
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 32,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "buldak",
+      "name": "Buldak",
+      "description": "Fire chicken in extreme gochujang and gochugaru sauce",
+      "categories": [
+        "chicken",
+        "spicy",
+        "dinner",
+        "party-food",
+        "street-food",
+        "stir-fry"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut chicken into bite-sized pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix gochujang, gochugaru, soy sauce, sugar, and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir-fry chicken with sauce until cooked."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle sesame oil, serve with rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 364,
+        "protein": 36,
+        "carbohydrates": 28,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 8,
+        "sodium": 720,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "andong-jjimdak",
+      "name": "Andong Jjimdak",
+      "description": "Soy-braised chicken with glass noodles and vegetables",
+      "categories": [
+        "chicken",
+        "braise",
+        "dinner",
+        "traditional",
+        "comfort-food",
+        "sharing"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "glass noodles",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dried chili",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken in soy sauce and sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water, garlic, and dried chili."
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes, carrots, and braise for 20 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Add soaked glass noodles and cook until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 346,
+        "protein": 34,
+        "carbohydrates": 30,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 640,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-gangjeong",
+      "name": "Chicken Gangjeong",
+      "description": "Sweet and crispy bite-sized chicken pieces",
+      "categories": [
+        "chicken",
+        "snack",
+        "party-food",
+        "street-food",
+        "sharing",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cornstarch",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut chicken into bite-sized pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in flour-cornstarch and deep-fry until crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix soy sauce, honey, and garlic for glaze."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss fried chicken in glaze with crushed peanuts."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 36,
+        "carbohydrates": 22,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 8,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dakbal",
+      "name": "Dakbal",
+      "description": "Spicy chicken feet in gochujang glaze",
+      "categories": [
+        "chicken",
+        "snack",
+        "street-food",
+        "spicy",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken feet",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil chicken feet until very tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix gochujang, soy sauce, sugar, and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss feet in sauce."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill or broil briefly until slightly charred."
+        }
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 28,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dak-bokkeum-tang",
+      "name": "Dakbokkeumtang",
+      "description": "Spicy braised chicken with potatoes and carrots",
+      "categories": [
+        "stew",
+        "chicken",
+        "spicy",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potato",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut chicken and vegetables into bite-size pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise chicken with gochujang and soy sauce broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes and carrots cook until tender and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 348,
+        "protein": 32,
+        "carbohydrates": 28,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 920,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-dang",
+      "name": "Tori-dang",
+      "description": "Sweet and spicy glazed chicken with crispy coating",
+      "categories": [
+        "chicken",
+        "spicy",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "corn syrup",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seed",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in soy and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-fry chicken until golden and crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss in gochujang corn syrup glaze and top with sesame."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 30,
+        "carbohydrates": 32,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 10,
+        "sodium": 860,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dak-kkochi",
+      "name": "Dakkkochi",
+      "description": "Grilled spicy chicken skewers with scallion",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken with gochujang and soy sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread chicken and green onion onto skewers."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium heat basting with remaining marinade."
+        }
+      ],
+      "nutrition": {
+        "calories": 266,
+        "protein": 34,
+        "carbohydrates": 10,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chogye-jjim",
+      "name": "Chogyejjim",
+      "description": "Braised whole chicken with garlic and vegetables",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "stew"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 3,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch whole chicken and rinse clean."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise chicken in soy sauce with garlic and ginger for one hour."
+        },
+        {
+          "position": 3,
+          "instruction": "Garnish with sliced egg and green onion serve hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 36,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 850,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chu-eom-tang",
+      "name": "Chueotang",
+      "description": "Spicy loach soup with perilla powder and vegetables",
+      "categories": [
+        "chicken",
+        "soup",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "loach",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "perilla powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Clean and blanch loach set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Make broth with perilla powder garlic and gochugaru."
+        },
+        {
+          "position": 3,
+          "instruction": "Add loach zucchini and tofu simmer twenty minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 241,
+        "protein": 26,
+        "carbohydrates": 14,
+        "fat": 9,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 820,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "soondubu-jjim",
+      "name": "Soondubu Jjim",
+      "description": "Spicy soft tofu casserole steamed with mixed seafood",
+      "categories": [
+        "chicken",
+        "stew",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "soft tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shrimp",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mussel",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Place soft tofu in a hot stone pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add seafood and gochugaru broth on top."
+        },
+        {
+          "position": 3,
+          "instruction": "Bring to a boil and serve with green onion and sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 244,
+        "protein": 24,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 750,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "doenjang-jjigae",
+      "name": "Doenjang Jjigae",
+      "description": "Fermented soybean paste stew with tofu and vegetables",
+      "categories": [
+        "chicken",
+        "stew",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "doenjang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potato",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute onion and potato with doenjang paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water and bring to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add zucchini and tofu simmer ten minutes and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 20,
+        "carbohydrates": 18,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 890,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "budae-jjigae",
+      "name": "Budae Jjigae",
+      "description": "Hearty army stew with mixed meats ramen and melted cheese in spicy broth",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "stew",
+        "spicy",
+        "one-pot"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "instant ramen",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "processed cheese",
+          "quantity": 1,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "spam",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook spam and kimchi in a pot with broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Add gochujang tofu and ramen noodles."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with cheese and green onion serve boiling hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 408,
+        "protein": 28,
+        "carbohydrates": 38,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 1020,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kkakdugi",
+      "name": "Kkakdugi",
+      "description": "Cubed radish kimchi spicy and crunchy",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional",
+        "healthy",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Korean radish",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut radish into small cubes."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix gochugaru with fish sauce, sugar, garlic, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss radish cubes in seasoning."
+        },
+        {
+          "position": 4,
+          "instruction": "Pack into a jar and ferment 2 days at room temp."
+        }
+      ],
+      "nutrition": {
+        "calories": 48,
+        "protein": 2,
+        "carbohydrates": 10,
+        "fat": 0,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 380,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hobak-jorim",
+      "name": "Hobak Jorim",
+      "description": "Braised zucchini in soy sauce",
+      "categories": [
+        "chicken",
+        "side",
+        "home-style",
+        "traditional",
+        "easy-recipes",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "zucchini",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut zucchini into half-moons."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise in soy sauce, sugar, garlic, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until tender but not mushy."
+        },
+        {
+          "position": 4,
+          "instruction": "Garnish with green onion and sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 62,
+        "protein": 3,
+        "carbohydrates": 8,
+        "fat": 2,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bulgogi",
+      "name": "Bulgogi",
+      "description": "Pear-marinated grilled beef ribbons - Korea's signature.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "grill"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 18000,
+      "restaurantPrice": 22000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 95,
+      "tags": [
+        "marinated-beef"
+      ],
+      "ingredients": [
+        {
+          "name": "Ribeye thin slices",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Pear-soy-garlic-sugar marinade",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Onion & Scallion & Sesame",
+          "quantity": 250,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 3+ hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Griddle ripping hot till caramelized."
+        },
+        {
+          "position": 3,
+          "instruction": "Scallions + sesame; wrap in lettuce."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbohydrates": 16,
+        "fat": 29,
+        "fiber": 1.5,
+        "sugar": 12,
+        "sodium": 1150,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 37,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chicken-bibimbap",
+      "name": "Chicken Bibimbap",
+      "description": "Warm rice bowl topped with seasoned chicken, vegetables and gochujang.",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 45,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "servingSize": "1 stone bowl (430g)",
+      "homePrepCost": 11000,
+      "restaurantPrice": 13000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "mixed-rice"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Short grain rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "name": "Seasoned namul: spinach, bean sprout, mushroom, carrot, zucchini",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Gochujang + sesame oil",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Crispy rice bottom (hot stone)",
+          "quantity": 1,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season each vegetable separately (namul method)."
+        },
+        {
+          "position": 2,
+          "instruction": "Fan over hot rice in sections."
+        },
+        {
+          "position": 3,
+          "instruction": "Gochujang + sesame; mix violently before eating."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 13,
+        "carbohydrates": 82,
+        "fat": 11,
+        "fiber": 9,
+        "sugar": 10,
+        "sodium": 890,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "14PacV6Uynw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=14PacV6Uynw",
+          "videoTitle": "Restaurant-Style Bibimbap! Simple & Delicious at Home!",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "japchae",
+      "name": "Japchae",
+      "description": "Sweet-potato glass noodles stir-fried with vegetables and sesame.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "party-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (250g)",
+      "homePrepCost": 12000,
+      "restaurantPrice": 11000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "glass-noodles"
+      ],
+      "ingredients": [
+        {
+          "name": "Dangmyeon glass noodles",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Spinach, carrot, onion, shiitake",
+          "quantity": 450,
+          "unit": "g",
+          "note": "cooked separately"
+        },
+        {
+          "name": "Soy-sesame-sugar seasoning",
+          "quantity": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil noodles chewy; scissors-shorten."
+        },
+        {
+          "position": 2,
+          "instruction": "Season noodles in wok with sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold vegetables; sesame finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 6,
+        "carbohydrates": 58,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 720,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ROcWkX057ls",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ROcWkX057ls",
+          "videoTitle": "FAILPROOF Authentic JAPCHAE Recipe + DELICIOUS Japchae Dumplings 🥟 초간단 잡채 + 🥟잡채만두 [チャプチェ]",
+          "channelName": "Modern Pepper",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tteokbokki",
+      "name": "Tteokbokki",
+      "description": "Chewy rice cakes in sweet-hot gochujang gravy - street royalty.",
+      "categories": [
+        "seafood",
+        "street-food",
+        "snack",
+        "spicy"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 3,
+      "servingSize": "1 paper tray (300g)",
+      "homePrepCost": 8000,
+      "restaurantPrice": 7000,
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 92,
+      "tags": [
+        "pojangmacha"
+      ],
+      "ingredients": [
+        {
+          "name": "Cylinder tteok rice cakes",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "name": "Anchovy-free kelp stock (vegetarian)",
+          "quantity": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Gochujang + sugar + gochugaru",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Fishcake-free: add cabbage & scallion only",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dissolve paste in stock; boil."
+        },
+        {
+          "position": 2,
+          "instruction": "Tteok in; simmer 12-15 min to saucy."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce clingy; sesame."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 6,
+        "carbohydrates": 72,
+        "fat": 2,
+        "fiber": 2.5,
+        "sugar": 18,
+        "sodium": 1150,
+        "saturatedFat": 0.4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "kimchijeon",
+      "name": "Kimchijeon (Kimchi Pancake)",
+      "description": "Crisp-edged kimchi pancakes with soy-vinegar dip.",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "servingSize": "1 pancake (230g)",
+      "homePrepCost": 7000,
+      "restaurantPrice": 9000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "rainy-day-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Well-fermented kimchi chopped",
+          "quantity": 300,
+          "unit": "g",
+          "note": "vegan kimchi (no fish sauce)"
+        },
+        {
+          "name": "Pancake batter (flour + rice flour + kimchi brine)",
+          "quantity": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "Scallions & oil for frying",
+          "quantity": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix batter loose; kimchi through."
+        },
+        {
+          "position": 2,
+          "instruction": "Oil-shallow fry medium-high till lacy edges crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Flip once; dip soy-vinegar."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 7,
+        "carbohydrates": 48,
+        "fat": 10,
+        "fiber": 3.5,
+        "sugar": 4,
+        "sodium": 1050,
+        "saturatedFat": 1.3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "C1BcHwAwhg4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=C1BcHwAwhg4",
+          "videoTitle": "How to make crispy kimchi pancake (Kimchijeon 김치전)",
+          "channelName": "Korean Bapsang",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kalguksu",
+      "name": "Kalguksu",
+      "description": "Knife-cut noodle soup with seafood and vegetables",
+      "categories": [
+        "seafood",
+        "noodles",
+        "soup",
+        "comfort-food",
+        "home-style",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "potato",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "clams",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "anchovy broth",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Make dough from flour, egg, and salt; roll and cut into strips."
+        },
+        {
+          "position": 2,
+          "instruction": "Bring anchovy broth to a boil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables and clams."
+        },
+        {
+          "position": 4,
+          "instruction": "Add noodles and cook until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 284,
+        "protein": 22,
+        "carbohydrates": 40,
+        "fat": 4,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sundubu-jjigae",
+      "name": "Sundubu Jjigae",
+      "description": "Soft tofu stew with seafood and gochugaru",
+      "categories": [
+        "seafood",
+        "stew",
+        "spicy",
+        "dinner",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "soft tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "clams",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat sesame oil and fry garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Add gochugaru and stir."
+        },
+        {
+          "position": 3,
+          "instruction": "Add broth, clams, and soft tofu."
+        },
+        {
+          "position": 4,
+          "instruction": "Bring to a boil, crack egg on top, serve bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 228,
+        "protein": 24,
+        "carbohydrates": 6,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haemul-pajeon",
+      "name": "Haemul Pajeon",
+      "description": "Seafood scallion pancake crispy on the outside",
+      "categories": [
+        "seafood",
+        "snack",
+        "dinner",
+        "traditional",
+        "sharing"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shrimp",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "squid",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix flour and water into a thin batter."
+        },
+        {
+          "position": 2,
+          "instruction": "Lay scallions and seafood on a hot oiled pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour batter over and cook until crispy."
+        },
+        {
+          "position": 4,
+          "instruction": "Flip and cook the other side. Serve with soy dip."
+        }
+      ],
+      "nutrition": {
+        "calories": 298,
+        "protein": 20,
+        "carbohydrates": 32,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jokbal",
+      "name": "Jokbal",
+      "description": "Braised pig's feet served sliced with lettuce wraps",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "sharing",
+        "traditional",
+        "street-food",
+        "party-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pig feet",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "brown sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "star anise",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lettuce leaves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ssamjang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch pig feet and clean."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise in soy sauce, sugar, garlic, ginger, and star anise for 2 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Remove and slice."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with lettuce, ssamjang, and garlic."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 30,
+        "carbohydrates": 6,
+        "fat": 24,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyeran-jjim",
+      "name": "Gyeran Jjim",
+      "description": "Steamed egg custard fluffy and savory",
+      "categories": [
+        "seafood",
+        "side",
+        "dinner",
+        "home-style",
+        "comfort-food",
+        "easy-recipes",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "anchovy broth",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs with anchovy broth and salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour into a heated earthenware pot."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook over low heat, stirring gently."
+        },
+        {
+          "position": 4,
+          "instruction": "Cover and steam until fluffy and set."
+        }
+      ],
+      "nutrition": {
+        "calories": 162,
+        "protein": 16,
+        "carbohydrates": 2,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 380,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yachae-bokkeum",
+      "name": "Yachae Bokkeum",
+      "description": "Stir-fried mixed vegetables in sesame",
+      "categories": [
+        "vegetarian",
+        "stir-fry",
+        "side",
+        "dinner",
+        "healthy",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bean sprouts",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Julienne all vegetables."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat sesame oil and sauté garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables and stir-fry until crisp-tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with soy sauce and sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 100,
+        "protein": 4,
+        "carbohydrates": 12,
+        "fat": 4,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "hvFU1z_VI2Q",
+          "youtubeUrl": "https://www.youtube.com/watch?v=hvFU1z_VI2Q",
+          "videoTitle": "Yachae bokkeum a Korean-style stirfry mixed vegetables",
+          "channelName": "THE RESTAURANTS FOOD",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kongnamul-muchim",
+      "name": "Kongnamul Muchim",
+      "description": "Seasoned bean sprout side dish",
+      "categories": [
+        "vegetarian",
+        "side",
+        "healthy",
+        "traditional",
+        "budget-friendly",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "bean sprouts",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch bean sprouts for 2 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Drain and cool."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with sesame oil, soy sauce, garlic, and green onion."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 83,
+        "protein": 8,
+        "carbohydrates": 6,
+        "fat": 3,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 280,
+        "saturatedFat": 0
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "UY7HdCR9B80",
+          "youtubeUrl": "https://www.youtube.com/watch?v=UY7HdCR9B80",
+          "videoTitle": "Easy Korean Seasoned Soybean Sprouts (Kongnamul Muchim) | Healthy Korean Side Dish Recipe 🇰🇷",
+          "channelName": "Tysoon's Korean Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sigeumchi-namul",
+      "name": "Sigeumchi Namul",
+      "description": "Seasoned spinach side dish",
+      "categories": [
+        "vegetarian",
+        "side",
+        "healthy",
+        "traditional",
+        "easy-recipes",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch spinach for 30 seconds."
+        },
+        {
+          "position": 2,
+          "instruction": "Squeeze out excess water."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with sesame oil, soy sauce, garlic, and green onion."
+        },
+        {
+          "position": 4,
+          "instruction": "Garnish with sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 72,
+        "protein": 5,
+        "carbohydrates": 4,
+        "fat": 4,
+        "fiber": 3,
+        "sugar": 1,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "PvIgS2-rFHc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=PvIgS2-rFHc",
+          "videoTitle": "How to: Sigeumchi Namul | Korean Spinach Side Dish!",
+          "channelName": "Future Neighbor",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bibim-guksu",
+      "name": "Bibim Guksu",
+      "description": "Spicy cold noodles with vegetables",
+      "categories": [
+        "vegetarian",
+        "noodles",
+        "summer",
+        "dinner",
+        "spicy",
+        "easy-recipes",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "somyeon noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tomato",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook noodles, rinse in cold water."
+        },
+        {
+          "position": 2,
+          "instruction": "Julienne cucumber and tomato."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix gochujang, vinegar, sugar, and sesame oil."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss noodles with sauce and vegetables."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 8,
+        "carbohydrates": 48,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gamja-jorim",
+      "name": "Gamja Jorim",
+      "description": "Soy-braised baby potatoes",
+      "categories": [
+        "vegetarian",
+        "side",
+        "home-style",
+        "traditional",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "baby potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil baby potatoes until just tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry with soy sauce, sugar, and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until sauce glazes the potatoes."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with sesame oil and sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 154,
+        "protein": 4,
+        "carbohydrates": 30,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gim-bap",
+      "name": "Gim Bap",
+      "description": "Seaweed rice rolls with vegetables and egg",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "lunch",
+        "traditional",
+        "easy-recipes",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "nori sheets",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "spinach",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "pickled radish",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season rice with sesame oil and salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Blanch spinach, julienne carrot, cook egg strips."
+        },
+        {
+          "position": 3,
+          "instruction": "Lay nori, spread rice, arrange fillings."
+        },
+        {
+          "position": 4,
+          "instruction": "Roll tightly and slice into rounds."
+        }
+      ],
+      "nutrition": {
+        "calories": 288,
+        "protein": 10,
+        "carbohydrates": 44,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "haemul-ttukbaegi",
+      "name": "Haemul Ttukbaegi",
+      "description": "Bubbling seafood stew in stone pot",
+      "categories": [
+        "seafood",
+        "stew",
+        "dinner",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "clams",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "anchovy broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat anchovy broth with gochugaru."
+        },
+        {
+          "position": 2,
+          "instruction": "Add clams and cook until they open."
+        },
+        {
+          "position": 3,
+          "instruction": "Add shrimp and tofu."
+        },
+        {
+          "position": 4,
+          "instruction": "Crack egg on top and serve bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 226,
+        "protein": 26,
+        "carbohydrates": 8,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "japchae-veg",
+      "name": "Vegetable Japchae",
+      "description": "Glass noodles stir-fried with colorful vegetables",
+      "categories": [
+        "vegetarian",
+        "noodles",
+        "dinner",
+        "traditional",
+        "sharing",
+        "stir-fry"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "glass noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "spinach",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mushrooms",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak glass noodles in warm water."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry each vegetable separately."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine with noodles, soy sauce, and sesame oil."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss everything together and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 262,
+        "protein": 8,
+        "carbohydrates": 44,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kimchi-jeon",
+      "name": "Kimchi Jeon",
+      "description": "Crispy kimchi pancake",
+      "categories": [
+        "vegetarian",
+        "snack",
+        "dinner",
+        "traditional",
+        "easy-recipes",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "kimchi",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rice flour",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dipping sauce",
+          "quantity": 30,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix chopped kimchi with flour and water."
+        },
+        {
+          "position": 2,
+          "instruction": "Add green onion slices."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry in oil until crispy on both sides."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with soy-vinegar dipping sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 216,
+        "protein": 6,
+        "carbohydrates": 30,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dubu-kimchi",
+      "name": "Dubu Kimchi",
+      "description": "Pan-fried tofu with spicy kimchi",
+      "categories": [
+        "vegetarian",
+        "side",
+        "dinner",
+        "spicy",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "firm tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochugaru",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pan-fry tofu slices until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry kimchi with garlic and gochugaru."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve kimchi over tofu."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle with sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 222,
+        "protein": 18,
+        "carbohydrates": 6,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 460,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "patbingsu",
+      "name": "Patbingsu",
+      "description": "Shaved ice mountain with red beans, condensed milk and mochi.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "summer"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "servings": 2,
+      "servingSize": "1 mountain (350g)",
+      "homePrepCost": 9000,
+      "restaurantPrice": 12000,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 89,
+      "tags": [
+        "shaved-ice"
+      ],
+      "ingredients": [
+        {
+          "name": "Frozen milk block (shaved)",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Sweetened red beans (pat)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Condensed milk drizzle",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Mini mochi & fruit",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shave frozen-milk into snow."
+        },
+        {
+          "position": 2,
+          "instruction": "Beans + fruit + mochi landscape."
+        },
+        {
+          "position": 3,
+          "instruction": "Condensed monsoon; eat fast."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 10,
+        "carbohydrates": 74,
+        "fat": 5,
+        "fiber": 7,
+        "sugar": 48,
+        "sodium": 120,
+        "saturatedFat": 2.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "S6ZWg9-Y_tI",
+          "youtubeUrl": "https://www.youtube.com/watch?v=S6ZWg9-Y_tI",
+          "videoTitle": "Patbingsu (Shaved ice with sweet red beans and fruit)",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "cookTimeMin": 25,
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "hotteok",
+      "name": "Hotteok",
+      "description": "Griddled cinnamon-brown-sugar stuffed pancakes.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "street-food",
+        "winter"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 15,
+      "servings": 8,
+      "servingSize": "2 pancakes (160g)",
+      "homePrepCost": 6000,
+      "restaurantPrice": 4000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "sweet-filled"
+      ],
+      "ingredients": [
+        {
+          "name": "Sweet yeast dough",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Brown sugar-cinnamon-nut filling",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Neutral oil for griddling",
+          "quantity": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rise dough 1h; portion balls."
+        },
+        {
+          "position": 2,
+          "instruction": "Flatten cup; filling in; seal; flatten again."
+        },
+        {
+          "position": 3,
+          "instruction": "Griddle oiled both sides till mahogany; caution lava."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 5,
+        "carbohydrates": 52,
+        "fat": 7,
+        "fiber": 2,
+        "sugar": 22,
+        "sodium": 180,
+        "saturatedFat": 0.9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "R_MPEq53QFs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=R_MPEq53QFs",
+          "videoTitle": "Sweet pancakes (Hotteok: 호떡)",
+          "channelName": "Maangchi",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bingsu",
+      "name": "Bingsu",
+      "description": "Shaved ice dessert with sweet toppings",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "snack",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "milk ice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sweet red beans",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mochi",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "condensed milk",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "strawberries",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Freeze milk into a solid block."
+        },
+        {
+          "position": 2,
+          "instruction": "Shave into fluffy ice."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with sweet red beans, mochi, and fruit."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle with condensed milk."
+        }
+      ],
+      "nutrition": {
+        "calories": 186,
+        "protein": 4,
+        "carbohydrates": 38,
+        "fat": 2,
+        "fiber": 2,
+        "sugar": 28,
+        "sodium": 80,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "lo6ajGEEOjU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=lo6ajGEEOjU",
+          "videoTitle": "Authentic Bingsu Recipe (빙수) 🍧 | Easy Korean Shaved Ice Dessert 🇰🇷",
+          "channelName": "The Traveling Spoon",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hangwa",
+      "name": "Hangwa",
+      "description": "Traditional Korean rice cookie and confection",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "celebration",
+        "traditional",
+        "snack",
+        "winter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pine nuts",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice flour with honey and form dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into small pieces."
+        },
+        {
+          "position": 3,
+          "instruction": "Coat with sesame seeds or pine nuts."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry or bake until crispy."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 4,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 10,
+        "sodium": 240,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yugwa",
+      "name": "Yugwa",
+      "description": "Puffed rice snack coated in flower honey and nut powder",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "celebration",
+        "traditional",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "puffed rice",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "peanut powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "rice syrup",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix puffed rice with rice syrup."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into small bars."
+        },
+        {
+          "position": 3,
+          "instruction": "Coat in honey and roll in peanut powder."
+        },
+        {
+          "position": 4,
+          "instruction": "Let cool and harden."
+        }
+      ],
+      "nutrition": {
+        "calories": 198,
+        "protein": 4,
+        "carbohydrates": 32,
+        "fat": 6,
+        "fiber": 1,
+        "sugar": 12,
+        "sodium": 200,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "songpyeon",
+      "name": "Songpyeon",
+      "description": "Half-moon rice cakes filled with sesame and honey",
+      "categories": [
+        "desserts",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "sweet rice flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame seed",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pine needle",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice flour with hot water and knead into dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill dough with sesame honey mixture and shape into half moons."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam over pine needles for twenty minutes until glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 4,
+        "carbohydrates": 58,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 12,
+        "sodium": 10,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yakgwa",
+      "name": "Yakgwa",
+      "description": "Honey-glazed deep-fried rice cookies",
+      "categories": [
+        "desserts",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ginger juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pine nut",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix flour with honey sesame oil and ginger juice."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape dough into small flower-shaped pieces."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep fry until golden and soak in honey syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 5,
+        "carbohydrates": 42,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 20,
+        "sodium": 15,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sujeonggwa",
+      "name": "Sujeonggwa",
+      "description": "Korean cinnamon punch with dried persimmon",
+      "categories": [
+        "desserts",
+        "traditional",
+        "summer"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cinnamon stick",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dried persimmon",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pine nut",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil cinnamon and ginger in water for thirty minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Strain and add sugar to taste let cool."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve chilled with dried persimmon and pine nuts."
+        }
+      ],
+      "nutrition": {
+        "calories": 148,
+        "protein": 1,
+        "carbohydrates": 36,
+        "fat": 0,
+        "fiber": 2,
+        "sugar": 28,
+        "sodium": 10,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "dasik",
+      "name": "Dasik",
+      "description": "Traditional pressed tea confection with patterns",
+      "categories": [
+        "desserts",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "sweet rice flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "black sesame",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pine nut",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice flour with honey and sugar into a stiff dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Press into traditional wooden molds to form shapes."
+        },
+        {
+          "position": 3,
+          "instruction": "Arrange on plate and serve with tea."
+        }
+      ],
+      "nutrition": {
+        "calories": 228,
+        "protein": 5,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 14,
+        "sodium": 8,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jeonggwa",
+      "name": "Jeonggwa",
+      "description": "Sweet candied ginger and fruit preserve",
+      "categories": [
+        "desserts",
+        "traditional",
+        "winter"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ginger",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel and slice ginger into thin strips."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil ginger in sugar water until translucent."
+        },
+        {
+          "position": 3,
+          "instruction": "Add honey cool and store in syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 192,
+        "protein": 2,
+        "carbohydrates": 46,
+        "fat": 0,
+        "fiber": 1,
+        "sugar": 36,
+        "sodium": 5,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

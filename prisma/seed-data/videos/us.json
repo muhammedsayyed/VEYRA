@@ -1,0 +1,124 @@
+{
+  "countryCode": "us",
+  "videos": [
+    {
+      "recipeSlug": "bbq-beef-brisket-texas",
+      "youtubeVideoId": "rHSSlHJ_hkg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rHSSlHJ_hkg",
+      "videoTitle": "Perfecting Texas Style Brisket - a complete guide",
+      "channelName": "Meat Church BBQ"
+    },
+    {
+      "recipeSlug": "southern-fried-chicken",
+      "youtubeVideoId": "KfKm7Win1TU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KfKm7Win1TU",
+      "videoTitle": "Southern Fried Chicken! | Quick & Easy Recipe",
+      "channelName": "Soul Food Kitchen"
+    },
+    {
+      "recipeSlug": "classic-meatloaf",
+      "youtubeVideoId": "WvAUPbiaWsA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WvAUPbiaWsA",
+      "videoTitle": "Classic Homemade Meatloaf | Easy Comfort Food Dinner",
+      "channelName": "Sweet Country Cooking In Michigan"
+    },
+    {
+      "recipeSlug": "pot-roast-us",
+      "youtubeVideoId": "vNOWzSUyp40",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vNOWzSUyp40",
+      "videoTitle": "1,000+ 5-Star Reviews | Ina Garten's Company Pot Roast | Barefoot Contessa | Food Network",
+      "channelName": "Food Network"
+    },
+    {
+      "recipeSlug": "smash-burger",
+      "youtubeVideoId": "GEQbOz8AsxY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GEQbOz8AsxY",
+      "videoTitle": "Smash Burger Perfection - The BEST Burger Recipe EVER!",
+      "channelName": "Dimitra's Dishes"
+    },
+    {
+      "recipeSlug": "cheeseburger",
+      "youtubeVideoId": "UnWZILNUqAI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UnWZILNUqAI",
+      "videoTitle": "How to make Ultimate Cheeseburger!",
+      "channelName": "Donal Skehan"
+    },
+    {
+      "recipeSlug": "chili-con-carne",
+      "youtubeVideoId": "uRivpjMATK0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uRivpjMATK0",
+      "videoTitle": "This Chili con Carne Will Blow Your Mind",
+      "channelName": "Chili Pepper Madness"
+    },
+    {
+      "recipeSlug": "buffalo-wings",
+      "youtubeVideoId": "b3lEHd4ahg4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=b3lEHd4ahg4",
+      "videoTitle": "How To Make Crispy Buffalo Chicken Wings",
+      "channelName": "Nick's Kitchen"
+    },
+    {
+      "recipeSlug": "nashville-hot-chicken",
+      "youtubeVideoId": "n4-6QK0OwUA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=n4-6QK0OwUA",
+      "videoTitle": "How to really make Nashville hot chicken!",
+      "channelName": "Binging with Babish"
+    },
+    {
+      "recipeSlug": "broccoli-cheddar",
+      "youtubeVideoId": "5uSBF_s7Pl4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5uSBF_s7Pl4",
+      "videoTitle": "30 Minute Broccoli Cheddar Soup (Better than Panera!)",
+      "channelName": "Gimme Delicious"
+    },
+    {
+      "recipeSlug": "caprese-salad",
+      "youtubeVideoId": "gOcfUgd4ekA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=gOcfUgd4ekA",
+      "videoTitle": "Easy Caprese Salad Recipe with Balsamic Glaze",
+      "channelName": "Natashas Kitchen"
+    },
+    {
+      "recipeSlug": "chocolate-chip-cookies",
+      "youtubeVideoId": "FvN2oZQ1OJQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FvN2oZQ1OJQ",
+      "videoTitle": "Chewy Chocolate Chip Cookies Recipe",
+      "channelName": "Preppy Kitchen"
+    },
+    {
+      "recipeSlug": "new-york-cheesecake",
+      "youtubeVideoId": "ayTT_t1MQS8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ayTT_t1MQS8",
+      "videoTitle": "Classic New York Cheesecake (Extra Creamy)",
+      "channelName": "Nick's Kitchen"
+    },
+    {
+      "recipeSlug": "key-lime-pie",
+      "youtubeVideoId": "3J8H71_NobE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3J8H71_NobE",
+      "videoTitle": "The Best Key Lime Pie Recipe",
+      "channelName": "Sugar Spun Run"
+    },
+    {
+      "recipeSlug": "grilled-cheese",
+      "youtubeVideoId": "5iRnHiX6oTw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5iRnHiX6oTw",
+      "videoTitle": "Ultimate Grilled Cheese Sandwich",
+      "channelName": "Natashas Kitchen"
+    },
+    {
+      "recipeSlug": "tomato-mozzarella",
+      "youtubeVideoId": "uORciE0lbN0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uORciE0lbN0",
+      "videoTitle": "How To Make Tomatoes and Mozzarella - Easy Recipe Tutorial",
+      "channelName": "Lykey cooks"
+    },
+    {
+      "recipeSlug": "roasted-vegetable",
+      "youtubeVideoId": "opMsfLXZn74",
+      "youtubeUrl": "https://www.youtube.com/watch?v=opMsfLXZn74",
+      "videoTitle": "ROASTED VEGETABLES | easy oven roasted recipe",
+      "channelName": "Clean & Delicious"
+    }
+  ]
+}

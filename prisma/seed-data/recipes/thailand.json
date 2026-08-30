@@ -1,0 +1,6981 @@
+{
+  "countryCode": "th",
+  "recipes": [
+    {
+      "slug": "massaman-beef",
+      "name": "Massaman Beef Curry",
+      "description": "Slow Persian-influenced southern curry: beef, potato, peanut, cinnamon warmth.",
+      "categories": [
+        "beef",
+        "traditional",
+        "curry"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 120,
+      "servings": 5,
+      "servingSize": "1 bowl (360g)",
+      "homePrepCost": 260,
+      "restaurantPrice": 220,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 94,
+      "tags": [
+        "mild-curry"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef chuck cubes",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Massaman paste",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Potatoes & fried peanuts & cinnamon",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Palm sugar, tamarind, fish-free soy (veg note n/a beef)",
+          "quantity": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Crack coconut cream; fry paste till split-fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Beef sear; milk + season; braise 90 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Potato + peanut 30 min; balance sweet-sour-salty."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 36,
+        "carbohydrates": 28,
+        "fat": 42,
+        "fiber": 5,
+        "sugar": 14,
+        "sodium": 950,
+        "saturatedFat": 22
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Z5v8F_zhwF8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Z5v8F_zhwF8",
+          "videoTitle": "Beef Massaman Curry Recipe มัสมั่นเนื้อ - Hot Thai Kitchen!",
+          "channelName": "Pailin's Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "panang-beef",
+      "name": "Panang Neua",
+      "description": "Thicker, sweeter peanut-kaffir red curry with seared beef.",
+      "categories": [
+        "beef",
+        "curry"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 70,
+      "servings": 4,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 240,
+      "restaurantPrice": 190,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "peanut-curry"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef sirloin slices",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Panang paste",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Coconut milk + crushed peanuts",
+          "quantity": 450,
+          "unit": "ml"
+        },
+        {
+          "name": "Kaffir lime slivers & palm sugar",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry paste in cream till oil splits."
+        },
+        {
+          "position": 2,
+          "instruction": "Beef in; cook through; rest of milk + peanuts."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce thick; lime-sliver crown."
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 43,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 890,
+        "saturatedFat": 21
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "27ryBFN7_go",
+          "youtubeUrl": "https://www.youtube.com/watch?v=27ryBFN7_go",
+          "videoTitle": "Panang Curry Beef Recipe พะแนงเนื้อ - Thai Recipes - Hot Thai Kitchen",
+          "channelName": "Pailin's Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pad-see-ew-beef",
+      "name": "Pad See Ew with Beef",
+      "description": "Charred wide noodles, Chinese broccoli, soy-dark glaze.",
+      "categories": [
+        "beef",
+        "street-food",
+        "noodles"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "servingSize": "1 plate (380g)",
+      "homePrepCost": 90,
+      "restaurantPrice": 120,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "wok-charred"
+      ],
+      "ingredients": [
+        {
+          "name": "Wide rice noodles fresh",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Beef slices",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Chinese broccoli (kana)",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "See ew sauce (soy dark/light, oyster-free mushroom stir)",
+          "quantity": 70,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef; noodles char flat 1 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Kana stems then leaves."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauce splash; toss charry."
+        }
+      ],
+      "nutrition": {
+        "calories": 610,
+        "protein": 26,
+        "carbohydrates": 78,
+        "fat": 21,
+        "fiber": 4.5,
+        "sugar": 7,
+        "sodium": 1250,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "9ngtvvXZ6Y8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=9ngtvvXZ6Y8",
+          "videoTitle": "Pad See Ew Beef | At The Best Thai Food in Delft | With Michell's Keuken | Jan Tom Yam",
+          "channelName": "Jan Tom Yam",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 32,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "thai-beef-salad",
+      "name": "Thai Beef Salad (Neua Nam Tok)",
+      "description": "'Waterfall' grilled-beef salad with lime-chili-toasted rice.",
+      "categories": [
+        "beef",
+        "salad",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "servingSize": "1 plate (250g)",
+      "homePrepCost": 180,
+      "restaurantPrice": 180,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "nam-tok"
+      ],
+      "ingredients": [
+        {
+          "name": "Grilled beef steak sliced thin",
+          "quantity": 450,
+          "unit": "g"
+        },
+        {
+          "name": "Nam tok dressing: fish-free soy-lime-roasted chili-rice powder",
+          "quantity": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Mint & shallot & culantro heaps",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grill medium-rare; rest; slice against grain."
+        },
+        {
+          "position": 2,
+          "instruction": "Dress warm meat with herbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Rice-powder dusting last second."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 38,
+        "carbohydrates": 9,
+        "fat": 16,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 980,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "gNiKBg19ZIM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=gNiKBg19ZIM",
+          "videoTitle": "The REAL Steak Salad - Thai \"Waterfall\" Salad เนื้อย่างน้ำตก",
+          "channelName": "Pailin's Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 37,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pad-kra-pao",
+      "name": "Pad Kra Pao",
+      "description": "Stir-fried holy basil with minced pork and fried egg",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "dinner",
+        "street-food",
+        "spicy",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "minced pork",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "holy basil",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat oil and fry garlic and chili until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add minced pork and stir-fry until cooked."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with oyster sauce and fish sauce."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss in holy basil, serve with rice and fried egg."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 28,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "xG_jL8luhF0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=xG_jL8luhF0",
+          "videoTitle": "The \"Original\" Thai Basil Stir Fry (Pad Kra Pao)",
+          "channelName": "Pailin's Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "khao-soi-moo",
+      "name": "Khao Soi Moo",
+      "description": "Northern Thai coconut curry noodles with crispy pork",
+      "categories": [
+        "beef",
+        "noodles",
+        "curry",
+        "dinner",
+        "spicy",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "egg noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "crispy pork",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pickled mustard greens",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shallots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil noodles and set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook curry paste with coconut milk."
+        },
+        {
+          "position": 3,
+          "instruction": "Add crispy pork and simmer."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve over noodles with shallots, lime, and pickled greens."
+        }
+      ],
+      "nutrition": {
+        "calories": 392,
+        "protein": 26,
+        "carbohydrates": 36,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "IvxE4Dr6gBI",
+          "youtubeUrl": "https://www.youtube.com/watch?v=IvxE4Dr6gBI",
+          "videoTitle": "Make Khao Soi Moo at Home with this DIY Thai Noodle Kit! | ClickTheCity",
+          "channelName": "ClickTheCity",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "som-tum-moo",
+      "name": "Som Tum Moo",
+      "description": "Green papaya salad with crispy pork",
+      "categories": [
+        "beef",
+        "salad",
+        "spicy",
+        "street-food",
+        "summer",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "green papaya",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "crispy pork",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cherry tomatoes",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "long beans",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shred green papaya."
+        },
+        {
+          "position": 2,
+          "instruction": "Pound garlic, chili, long beans in a mortar."
+        },
+        {
+          "position": 3,
+          "instruction": "Add papaya, tomatoes, and pound lightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Dress with fish sauce, lime juice, and palm sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 18,
+        "carbohydrates": 20,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-ped-moo",
+      "name": "Pad Ped Moo",
+      "description": "Spicy red curry stir-fry with pork and bamboo shoots",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork belly",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bamboo shoots",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Thai basil",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry red curry paste until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add pork and cook until browned."
+        },
+        {
+          "position": 3,
+          "instruction": "Add bamboo shoots, coconut milk, and kaffir lime."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer and finish with Thai basil and fish sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 342,
+        "protein": 28,
+        "carbohydrates": 8,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 560,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "larb-moo",
+      "name": "Larb Moo",
+      "description": "Spicy minced pork salad with herbs and toasted rice",
+      "categories": [
+        "beef",
+        "salad",
+        "spicy",
+        "dinner",
+        "traditional",
+        "healthy",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "minced pork",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shallots",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mint leaves",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "toasted rice powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chili flakes",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook minced pork with a little water."
+        },
+        {
+          "position": 2,
+          "instruction": "Cool slightly, add shallots, herbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with lime juice, fish sauce, chili flakes."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with toasted rice powder."
+        }
+      ],
+      "nutrition": {
+        "calories": 226,
+        "protein": 30,
+        "carbohydrates": 4,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "GCnBOet0ti8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=GCnBOet0ti8",
+          "videoTitle": "How to Make Larb Moo (Thai Spicy Pork Salad) - Street Food Style at Home",
+          "channelName": "Thai Taste Studio",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "moo-yang",
+      "name": "Moo Yang",
+      "description": "Grilled marinated pork skewers",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food",
+        "snack",
+        "party-food",
+        "traditional",
+        "summer"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork shoulder",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coriander roots",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "skewers",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate sliced pork in coriander root, garlic, pepper, oyster sauce, and sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread onto skewers."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium coals, basting with marinade."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with jaew dipping sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 36,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "HjSaIwOIQ1M",
+          "youtubeUrl": "https://www.youtube.com/watch?v=HjSaIwOIQ1M",
+          "videoTitle": "🔥 Juicy Thai Grilled Pork Neck | Authentic Moo Yang Recipe #food #thaidish #kitchentoplate",
+          "channelName": "Rise in Free Life",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "moo-daeng",
+      "name": "Moo Daeng",
+      "description": "Red BBQ pork served over rice",
+      "categories": [
+        "beef",
+        "street-food",
+        "rice-dish",
+        "dinner",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork loin",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red food coloring",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "coriander roots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate pork with red coloring, coriander root, garlic, and oyster sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill or roast until charred and cooked."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice thinly."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve over jasmine rice with cucumber and sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 370,
+        "protein": 32,
+        "carbohydrates": 38,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tom-saap-moo",
+      "name": "Tom Saap Moo",
+      "description": "Spicy and sour Isaan pork rib soup",
+      "categories": [
+        "beef",
+        "soup",
+        "spicy",
+        "dinner",
+        "regional",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork ribs",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "galangal",
+          "quantity": 3,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil pork ribs with lemongrass, galangal, and kaffir lime."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chili and season with fish sauce and lime juice."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until ribs are tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Garnish with cilantro and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 262,
+        "protein": 30,
+        "carbohydrates": 4,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "naem-khao",
+      "name": "Naem Khao",
+      "description": "Crispy rice ball salad with sour sausage",
+      "categories": [
+        "beef",
+        "salad",
+        "street-food",
+        "spicy",
+        "traditional",
+        "sharing",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "cooked rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sour sausage",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shallots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut flakes",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Form rice into balls, coat with coconut and curry paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Deep-fry until golden and crispy."
+        },
+        {
+          "position": 3,
+          "instruction": "Crumble into a bowl with sliced sausage, peanuts, and shallots."
+        },
+        {
+          "position": 4,
+          "instruction": "Dress with lime juice and fish sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 284,
+        "protein": 14,
+        "carbohydrates": 30,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sai-oua",
+      "name": "Sai Oua",
+      "description": "Northern Thai herb sausage with lemongrass and kaffir lime",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food",
+        "spicy",
+        "regional",
+        "traditional",
+        "party-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "pork mince",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "galangal",
+          "quantity": 2,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "coriander roots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "casings",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend lemongrass, galangal, kaffir lime, chili, and coriander root."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix spice paste with pork mince."
+        },
+        {
+          "position": 3,
+          "instruction": "Stuff into casings and tie into links."
+        },
+        {
+          "position": 4,
+          "instruction": "Grill over charcoal until cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 22,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 560,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gaeng-jow-haeng",
+      "name": "Gaeng Jow Haeng",
+      "description": "Northern Thai dried pork curry",
+      "categories": [
+        "beef",
+        "curry",
+        "dinner",
+        "regional",
+        "traditional",
+        "spicy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "dried pork",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "shallots",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tomatoes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rehydrate dried pork."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry curry paste in coconut cream."
+        },
+        {
+          "position": 3,
+          "instruction": "Add pork, shallots, and tomatoes."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer with remaining coconut milk until thick."
+        }
+      ],
+      "nutrition": {
+        "calories": 306,
+        "protein": 28,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-ped-nuea",
+      "name": "Pad Ped Nuea",
+      "description": "Spicy stir-fried beef with Thai basil and green beans",
+      "categories": [
+        "beef",
+        "curry",
+        "stir-fry",
+        "spicy",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green bean",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "thai basil",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Flash-fry garlic and chilies in hot wok."
+        },
+        {
+          "position": 2,
+          "instruction": "Add beef and green beans stir-fry on high heat."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with oyster sauce and fish sauce finish with Thai basil."
+        }
+      ],
+      "nutrition": {
+        "calories": 328,
+        "protein": 32,
+        "carbohydrates": 14,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 880,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "larb-nuea",
+      "name": "Larb Nuea",
+      "description": "Spicy Isan beef salad with fresh herbs and lime",
+      "categories": [
+        "beef",
+        "salad",
+        "spicy",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mint leaf",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shallot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "rice powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook minced beef in a hot pan until just done."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix with lime juice fish sauce and sliced chilies."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with fresh herbs shallot and toasted rice powder."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 28,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 720,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "neua-nam-tok",
+      "name": "Neua Nam Tok",
+      "description": "Grilled beef salad with lime dressing and mint",
+      "categories": [
+        "beef",
+        "salad",
+        "spicy",
+        "grill",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mint leaf",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shallot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "rice powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grill beef steak over high heat until medium rare."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice beef thinly against the grain."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with lime juice fish sauce chilies herbs and rice powder."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 30,
+        "carbohydrates": 6,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 680,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-see-ew-moo",
+      "name": "Pad See Ew Moo",
+      "description": "Stir-fried wide rice noodles with pork and egg",
+      "categories": [
+        "beef",
+        "noodles",
+        "stir-fry",
+        "dinner",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wide rice noodle",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork sirloin",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chinese broccoli",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "light soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry noodles on high heat until slightly charred."
+        },
+        {
+          "position": 2,
+          "instruction": "Add pork and egg push noodles aside to cook egg."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with Chinese broccoli and sauces until well combined."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 26,
+        "carbohydrates": 42,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 920,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-mee-korat",
+      "name": "Pad Mee Korat",
+      "description": "Spicy Isaan-style stir-fried thin noodles",
+      "categories": [
+        "beef",
+        "noodles",
+        "stir-fry",
+        "spicy",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "thin rice noodle",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "pork sirloin",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bean sprout",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry pork with chilies until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add noodles and toss with tamarind and fish sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with bean sprout and green onion serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 354,
+        "protein": 22,
+        "carbohydrates": 44,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 860,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-krapow-gai",
+      "name": "Pad Krapow Gai",
+      "description": "Holy-basil chicken with chilies over rice and crisp-edged egg.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "stir-fry"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": 70,
+      "restaurantPrice": 80,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 92,
+      "tags": [
+        "basil-fire"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken mince",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & bird's eye chilies smashed",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Holy basil leaves handful",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Soy-oyster(free)-sugar splash",
+          "quantity": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "Jasmine rice & fried egg",
+          "quantity": 2,
+          "unit": "sets"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Chili-garlic oil blast."
+        },
+        {
+          "position": 2,
+          "instruction": "Chicken brown hard; sauces; basil wilt off heat."
+        },
+        {
+          "position": 3,
+          "instruction": "Crisp-lace egg on rice; pour over."
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 39,
+        "carbohydrates": 58,
+        "fat": 27,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 1350,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "green-curry-chicken",
+      "name": "Green Curry Chicken",
+      "description": "Coconut-green curry with Thai eggplant and basil.",
+      "categories": [
+        "chicken",
+        "curry",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": 130,
+      "restaurantPrice": 160,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 93,
+      "tags": [
+        "coconut-curry"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thigh slices",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Fresh green curry paste",
+          "quantity": 70,
+          "unit": "g"
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Thai eggplants & bamboo & basil",
+          "quantity": 300,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Split cream; fry paste fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Chicken seal; milk; simmer 12 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Vegetables 6 min; basil off heat."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 33,
+        "carbohydrates": 13,
+        "fat": 38,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 1050,
+        "saturatedFat": 20
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "khao-man-gai",
+      "name": "Khao Man Gai",
+      "description": "Chicken-oil rice with poached chicken and ginger-soy dip.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 plate (400g)",
+      "homePrepCost": 95,
+      "restaurantPrice": 90,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 85,
+      "tags": [
+        "one-plate-meal"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole chicken halves",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Jasmine rice cooked in chicken-fat stock",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Khao man gai dipping sauce (ginger-chili-soy-vinegar)",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Cucumber & cilantro",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken gently; ice shock; keep broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice cooked with fat-rendered broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice chicken; sauce-heavy plate."
+        }
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 44,
+        "carbohydrates": 72,
+        "fat": 23,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 1150,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tom-kha-gai",
+      "name": "Tom Kha Gai",
+      "description": "Galangal-coconut chicken soup, sour-silky balance.",
+      "categories": [
+        "chicken",
+        "soup",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 110,
+      "restaurantPrice": 150,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "galangal-soup"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast slices",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Galangal, lemongrass, kaffir leaf, chilies",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Straw mushrooms & lime juice finish",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer aromatics in thin milk 5 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Chicken + mushrooms tender 8 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Thick milk off-boil; lime last to keep green."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 29,
+        "carbohydrates": 11,
+        "fat": 31,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 850,
+        "saturatedFat": 19
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "gai-yang",
+      "name": "Gai Yang",
+      "description": "Isaan-style grilled chicken marinated in garlic and coriander",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food",
+        "dinner",
+        "traditional",
+        "summer",
+        "sharing"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "coriander roots",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in garlic, coriander root, pepper, fish sauce, sugar, and lime."
+        },
+        {
+          "position": 2,
+          "instruction": "Rest for at least 2 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over charcoal, turning frequently."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with som tum and sticky rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 36,
+        "carbohydrates": 2,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-pad-prik-gaeng",
+      "name": "Gai Pad Prik Gaeng",
+      "description": "Stir-fried chicken with red curry paste and bamboo",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bamboo shoots",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Thai basil",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry curry paste in oil until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sliced chicken and cook until white."
+        },
+        {
+          "position": 3,
+          "instruction": "Add bamboo shoots and kaffir lime."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with Thai basil and fish sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 34,
+        "carbohydrates": 6,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-lemongrass",
+      "name": "Gai Lemongrass",
+      "description": "Lemongrass marinated grilled chicken",
+      "categories": [
+        "chicken",
+        "grill",
+        "dinner",
+        "healthy",
+        "summer",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "turmeric",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mince lemongrass and garlic into a paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate chicken with lemongrass, fish sauce, sugar, turmeric, and lime."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium heat until golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with steamed rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-tod",
+      "name": "Gai Tod",
+      "description": "Thai-style fried chicken with crispy batter",
+      "categories": [
+        "chicken",
+        "street-food",
+        "snack",
+        "dinner",
+        "traditional",
+        "party-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rice flour",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "coriander roots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in garlic, coriander, pepper, and fish sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in flour-rice flour mix."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry at 170C until golden and crispy."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain and serve with sweet chili sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 560,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-pad-king",
+      "name": "Gai Pad King",
+      "description": "Stir-fried chicken with ginger and vegetables",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "dinner",
+        "healthy",
+        "traditional",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mushrooms",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice chicken and marinate briefly in soy sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry ginger until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Add chicken and cook until nearly done."
+        },
+        {
+          "position": 4,
+          "instruction": "Add vegetables and oyster sauce, stir-fry until done."
+        }
+      ],
+      "nutrition": {
+        "calories": 268,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-massaman",
+      "name": "Gai Massaman",
+      "description": "Southern Thai Massaman curry with chicken and potatoes",
+      "categories": [
+        "chicken",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "massaman curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry curry paste in coconut cream until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chicken and brown lightly."
+        },
+        {
+          "position": 3,
+          "instruction": "Add coconut milk, potatoes, onion, and peanuts."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer until tender, season with tamarind and palm sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 30,
+        "carbohydrates": 20,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-mee-kuay",
+      "name": "Pad Mee Kuay",
+      "description": "Stir-fried flat rice noodles with chicken and egg",
+      "categories": [
+        "chicken",
+        "noodles",
+        "stir-fry",
+        "dinner",
+        "street-food",
+        "traditional",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flat rice noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bean sprouts",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak noodles in warm water."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry garlic and chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Add noodles, soy sauce, and oyster sauce."
+        },
+        {
+          "position": 4,
+          "instruction": "Push aside, scramble egg, mix together with bean sprouts."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 24,
+        "carbohydrates": 38,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-jaw",
+      "name": "Gai Jaw",
+      "description": "Deep-fried chicken wings with five-spice",
+      "categories": [
+        "chicken",
+        "snack",
+        "street-food",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken wings",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "five-spice powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate wings in five-spice, garlic, and fish sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat lightly in flour."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry until golden and crispy."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with sweet chili sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 34,
+        "carbohydrates": 6,
+        "fat": 22,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tom-yum-gai-th",
+      "name": "Tom Yum Gai",
+      "description": "Spicy and sour chicken soup with lemongrass",
+      "categories": [
+        "chicken",
+        "soup",
+        "spicy",
+        "dinner",
+        "traditional",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "galangal",
+          "quantity": 3,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mushrooms",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil chicken broth with lemongrass, galangal, and kaffir lime."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chicken and mushrooms."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until chicken is done."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with lime juice and fish sauce, add chili."
+        }
+      ],
+      "nutrition": {
+        "calories": 226,
+        "protein": 28,
+        "carbohydrates": 6,
+        "fat": 10,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gaeng-dang",
+      "name": "Gaeng Dang",
+      "description": "Thai red curry with chicken and bamboo shoots",
+      "categories": [
+        "chicken",
+        "curry",
+        "spicy",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "red curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bamboo shoot",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "thai basil",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute red curry paste in coconut cream until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add coconut milk chicken and bamboo shoots."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until cooked through finish with basil and fish sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 366,
+        "protein": 30,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 780,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-tod-himalayan",
+      "name": "Gai Tod Himalayan",
+      "description": "Crispy fried chicken marinated with Himalayan spices",
+      "categories": [
+        "chicken",
+        "street-food",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "turmeric",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "rice flour",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken with garlic ginger cumin and turmeric."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in rice flour and rest for thirty minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep fry until golden and crispy drain and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 346,
+        "protein": 32,
+        "carbohydrates": 14,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 680,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-thai-kai",
+      "name": "Pad Thai Kai",
+      "description": "Classic Thai stir-fried rice noodles with chicken",
+      "categories": [
+        "chicken",
+        "noodles",
+        "stir-fry",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "thin rice noodle",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "bean sprout",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "peanut",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak noodles and stir-fry chicken until cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Add noodles tamarind sauce and toss with egg."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with bean sprout crushed peanuts and lime wedge."
+        }
+      ],
+      "nutrition": {
+        "calories": 404,
+        "protein": 28,
+        "carbohydrates": 46,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 820,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-see-ew-kai",
+      "name": "Pad See Ew Kai",
+      "description": "Stir-fried wide noodles with chicken and egg",
+      "categories": [
+        "chicken",
+        "noodles",
+        "stir-fry",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wide rice noodle",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken breast",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "chinese broccoli",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "light soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry noodles on high heat until slightly charred."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chicken and egg push noodles aside to cook egg."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with Chinese broccoli and sauces until well combined."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 28,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 900,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kuay-tiew-kai",
+      "name": "Kuay Tiew Kai",
+      "description": "Clear chicken noodle soup with fresh herbs",
+      "categories": [
+        "chicken",
+        "soup",
+        "noodles",
+        "comfort-food",
+        "lunch"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "thin rice noodle",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chicken broth",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "bean sprout",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook noodles and blanch in hot broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice chicken breast and arrange over noodles."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle hot broth over garnish with herbs and garlic oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 26,
+        "carbohydrates": 38,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gai-yang-bangkok",
+      "name": "Gai Yang Bangkok",
+      "description": "Bangkok-style lemongrass grilled chicken",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "cilantro root",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "white pepper",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken with lemongrass garlic and cilantro root."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over medium heat turning occasionally."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with sweet chili sauce and fresh lime wedge."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 580,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-tua-fak",
+      "name": "Pad Tua Fak",
+      "description": "Stir-fried gourd with fermented soybean paste",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "vegan",
+        "side",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "tua fak",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "fermented soybean",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice tua fak into thin half-moons."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry garlic and fermented soybean until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Add tua fak and stir-fry until just tender season and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 90,
+        "protein": 6,
+        "carbohydrates": 12,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-thai-vegetarian",
+      "name": "Pad Thai (Vegetarian)",
+      "description": "Tamarind noodles with tofu and peanuts - no shrimp needed.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "noodles"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "servingSize": "1 plate (360g)",
+      "homePrepCost": 65,
+      "restaurantPrice": 100,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 91,
+      "tags": [
+        "national-noodle"
+      ],
+      "ingredients": [
+        {
+          "name": "Flat rice noodles soaked",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Firm tofu cubes",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Bean sprouts & chives & garlic chives",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Pad thai sauce (tamarind-palm-soy)",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Peanuts & lime & chili flakes",
+          "quantity": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Tofu golden; push aside; sauce bloom."
+        },
+        {
+          "position": 2,
+          "instruction": "Noodles toss till supple; splash water if needed."
+        },
+        {
+          "position": 3,
+          "instruction": "Sprouts/chives raw-crunch; peanut-lime finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 19,
+        "carbohydrates": 74,
+        "fat": 22,
+        "fiber": 5,
+        "sugar": 18,
+        "sodium": 1150,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "som-tam-vegetarian",
+      "name": "Som Tam (Vegetarian)",
+      "description": "Green papaya pound salad - skip dried shrimp for veg version.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "salad",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "servings": 2,
+      "servingSize": "1 mortar share (240g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 70,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "pound-salad"
+      ],
+      "ingredients": [
+        {
+          "name": "Shredded green papaya",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & bird chilies pounded",
+          "quantity": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Palm sugar-lime-soy dressing (no pla ra)",
+          "quantity": 90,
+          "unit": "ml"
+        },
+        {
+          "name": "Tomato & long beans & roasted peanuts",
+          "quantity": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound garlic-chili coarse."
+        },
+        {
+          "position": 2,
+          "instruction": "Beans-tomato bruise lightly."
+        },
+        {
+          "position": 3,
+          "instruction": "Papaya in; dress while pounding-turning."
+        }
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 5,
+        "carbohydrates": 28,
+        "fat": 10,
+        "fiber": 6,
+        "sugar": 17,
+        "sodium": 980,
+        "saturatedFat": 1.5
+      },
+      "videos": [],
+      "cookTimeMin": 25,
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "tom-yum-hed",
+      "name": "Tom Yum Hed (Mushroom)",
+      "description": "Hot-sour clear soup loaded with mushrooms, no shrimp required.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "soup",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 bowl (300g)",
+      "homePrepCost": 55,
+      "restaurantPrice": 110,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "hot-sour"
+      ],
+      "ingredients": [
+        {
+          "name": "Mixed mushrooms torn",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Lemongrass, galangal, kaffir, chilies",
+          "quantity": 70,
+          "unit": "g"
+        },
+        {
+          "name": "Vegan tom yum paste or soy-based",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lime juice & cilantro finish",
+          "quantity": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Aromatics simmer in water/stock 5 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Mushrooms 6 min; paste dissolve."
+        },
+        {
+          "position": 3,
+          "instruction": "Off heat lime; taste hot-sour-salty trinity."
+        }
+      ],
+      "nutrition": {
+        "calories": 140,
+        "protein": 5,
+        "carbohydrates": 14,
+        "fat": 7,
+        "fiber": 4,
+        "sugar": 7,
+        "sodium": 1050,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "lCmAvdvRC3U",
+          "youtubeUrl": "https://www.youtube.com/watch?v=lCmAvdvRC3U",
+          "videoTitle": "Authentic Tom Yum Soup Recipe | Thai Recipes by Mark Wiens (มาร์ค วีนส์)",
+          "channelName": "Mark Wiens",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pineapple-fried-rice-vegetarian",
+      "name": "Pineapple Fried Rice (Vegetarian)",
+      "description": "Curry-yellow fried rice with pineapple, cashews, raisins.",
+      "categories": [
+        "vegetarian",
+        "rice-dish",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "servingSize": "1 serving (330g)",
+      "homePrepCost": 75,
+      "restaurantPrice": 130,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "served-in-pineapple"
+      ],
+      "ingredients": [
+        {
+          "name": "Day-old jasmine rice",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Pineapple chunks ripe",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Cashews & raisins & scallion",
+          "quantity": 130,
+          "unit": "g"
+        },
+        {
+          "name": "Yellow curry powder + soy",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Curry powder bloom in oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice fry separate grains."
+        },
+        {
+          "position": 3,
+          "instruction": "Pineapple-cashew-raisin tumble; serve hollowed pineapple optional."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 10,
+        "carbohydrates": 72,
+        "fat": 17,
+        "fiber": 5,
+        "sugar": 18,
+        "sodium": 890,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 32,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pad-thai-jay",
+      "name": "Pad Thai Jay",
+      "description": "Vegetarian pad thai with tofu and peanuts",
+      "categories": [
+        "seafood",
+        "noodles",
+        "stir-fry",
+        "dinner",
+        "street-food",
+        "traditional",
+        "vegan-option"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flat rice noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "firm tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bean sprouts",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dried chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak noodles in warm water."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry tofu until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Add noodles, tamarind sauce, sugar, and fish sauce."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with bean sprouts, peanuts, and lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 14,
+        "carbohydrates": 44,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 580,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "som-tum-jay-th",
+      "name": "Som Tum Jay",
+      "description": "Vegetarian green papaya salad",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "summer",
+        "healthy",
+        "traditional",
+        "spicy",
+        "easy-recipes",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "green papaya",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cherry tomatoes",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "long beans",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shred green papaya."
+        },
+        {
+          "position": 2,
+          "instruction": "Pound garlic, chili, and long beans."
+        },
+        {
+          "position": 3,
+          "instruction": "Add papaya, tomatoes, peanuts, and pound lightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with lime juice, soy sauce, and palm sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 166,
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "gCH69CkXiXU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=gCH69CkXiXU",
+          "videoTitle": "How to make Green Papaya Salad (Som tum) Authentic Thai Isaan Style - ส้มตำอีสาน What the food",
+          "channelName": "What The Food",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gaeng-keow-wan-jay",
+      "name": "Gaeng Keow Wan Jay",
+      "description": "Vegetarian green curry with tofu and vegetables",
+      "categories": [
+        "vegetarian",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "firm tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "bamboo shoots",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Thai eggplant",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Thai basil",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry green curry paste in coconut cream."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tofu and cook until edges crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Add coconut milk, bamboo shoots, and eggplant."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer and finish with Thai basil and kaffir lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 266,
+        "protein": 16,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-pak-bung",
+      "name": "Pad Pak Bung",
+      "description": "Stir-fried morning glory with garlic and chili",
+      "categories": [
+        "seafood",
+        "stir-fry",
+        "side",
+        "dinner",
+        "healthy",
+        "easy-recipes",
+        "home-style",
+        "vegan-option"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "morning glory",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 5,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat oil in a very hot wok."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry garlic and chili for 10 seconds."
+        },
+        {
+          "position": 3,
+          "instruction": "Add morning glory and stir-fry vigorously."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with oyster sauce and soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 75,
+        "protein": 6,
+        "carbohydrates": 6,
+        "fat": 3,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tod-mun-pla",
+      "name": "Tod Mun Pla",
+      "description": "Thai fish cakes with kaffir lime and lemongrass",
+      "categories": [
+        "seafood",
+        "starter",
+        "street-food",
+        "traditional",
+        "snack",
+        "party-food"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "fish paste",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "long beans",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix fish paste with curry paste, minced lemongrass, and kaffir lime."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in diced long beans."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape into small patties."
+        },
+        {
+          "position": 4,
+          "instruction": "Pan-fry until golden on both sides."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 28,
+        "carbohydrates": 8,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pla-pao",
+      "name": "Pla Pao",
+      "description": "Salt-crusted grilled whole fish with lemongrass",
+      "categories": [
+        "seafood",
+        "grill",
+        "dinner",
+        "traditional",
+        "healthy",
+        "summer",
+        "sharing"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "whole sea bass",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemongrass",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stuff fish cavity with lemongrass, kaffir lime, and ginger."
+        },
+        {
+          "position": 2,
+          "instruction": "Pack salt all over the fish."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over charcoal until salt crust hardens."
+        },
+        {
+          "position": 4,
+          "instruction": "Crack open salt, serve fish with lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 258,
+        "protein": 40,
+        "carbohydrates": 2,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "laab-pla",
+      "name": "Laab Pla",
+      "description": "Spicy fish salad with herbs and toasted rice",
+      "categories": [
+        "seafood",
+        "salad",
+        "spicy",
+        "dinner",
+        "regional",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "white fish",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shallots",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "mint leaves",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cilantro",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "toasted rice powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chili flakes",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach or grill fish, then flake."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix with shallots and herbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with lime juice, fish sauce, and chili flakes."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss with toasted rice powder."
+        }
+      ],
+      "nutrition": {
+        "calories": 208,
+        "protein": 30,
+        "carbohydrates": 4,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pla-ning",
+      "name": "Pla Ning",
+      "description": "Sun-dried grilled fish glazed with tamarind",
+      "categories": [
+        "seafood",
+        "grill",
+        "street-food",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "fish fillets",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score fish and grill until nearly done."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix tamarind, sugar, fish sauce, garlic, and chili."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush glaze on fish and grill until caramelized."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with steamed rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 238,
+        "protein": 34,
+        "carbohydrates": 12,
+        "fat": 6,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 520,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-tua-fak-yao",
+      "name": "Pad Tua Fak Yao",
+      "description": "Stir-fried long beans with egg and chili",
+      "categories": [
+        "seafood",
+        "stir-fry",
+        "side",
+        "dinner",
+        "easy-recipes",
+        "home-style",
+        "vegan-option"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "long beans",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut long beans into 2-inch lengths."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry garlic and chili in hot oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Add long beans and cook until slightly charred."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with oyster sauce and soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 92,
+        "protein": 6,
+        "carbohydrates": 8,
+        "fat": 4,
+        "fiber": 4,
+        "sugar": 2,
+        "sodium": 380,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kaeng-matsaman",
+      "name": "Kaeng Matsaman",
+      "description": "Massaman curry with vegetables and peanuts",
+      "categories": [
+        "vegetarian",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "comfort-food",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "sweet potato",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chickpeas",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "massaman curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry curry paste in coconut cream."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sweet potato, chickpeas, and coconut milk."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until potato is tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with tamarind and palm sugar, add peanuts."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 10,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 480,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "som-tum-poo",
+      "name": "Som Tum Poo",
+      "description": "Spicy papaya salad with salted crab",
+      "categories": [
+        "seafood",
+        "salad",
+        "spicy",
+        "street-food",
+        "traditional",
+        "summer"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "green papaya",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "salted crab",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cherry tomatoes",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "long beans",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "chili",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shred green papaya."
+        },
+        {
+          "position": 2,
+          "instruction": "Pound garlic, chili, long beans."
+        },
+        {
+          "position": 3,
+          "instruction": "Add papaya, tomatoes, salted crab."
+        },
+        {
+          "position": 4,
+          "instruction": "Season with lime juice, fish sauce, and palm sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 166,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 10,
+        "sodium": 620,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "panang-tofu",
+      "name": "Panang Tofu",
+      "description": "Rich Panang curry with tofu and kaffir lime",
+      "categories": [
+        "vegetarian",
+        "curry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "firm tofu",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "panang curry paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Thai basil",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry curry paste in thick coconut cream."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tofu and cook until edges crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Add remaining coconut milk and simmer."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with kaffir lime, basil, peanuts, and lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 292,
+        "protein": 18,
+        "carbohydrates": 10,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kai-jeow",
+      "name": "Kai Jeow",
+      "description": "Fluffy Thai-style omelette with fish sauce",
+      "categories": [
+        "seafood",
+        "breakfast",
+        "street-food",
+        "easy-recipes"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "fish sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "white pepper",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs with fish sauce and white pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat oil in a wok until very hot."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour eggs and fry until puffy and golden drain and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 18,
+        "carbohydrates": 2,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 420,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tod-mun-jay",
+      "name": "Tod Mun Jay",
+      "description": "Vegetarian Thai fish cakes made with tofu",
+      "categories": [
+        "snack",
+        "vegan",
+        "street-food",
+        "starter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red curry paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "kaffir lime leaf",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green bean",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rice flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lime",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mash tofu and mix with curry paste and rice flour."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in sliced green beans and kaffir lime leaf."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape into patties and pan-fry until golden on both sides."
+        }
+      ],
+      "nutrition": {
+        "calories": 218,
+        "protein": 14,
+        "carbohydrates": 18,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kaeng-leung-jay",
+      "name": "Kaeng Leung Jay",
+      "description": "Thai vegetarian sour yellow curry",
+      "categories": [
+        "curry",
+        "vegan",
+        "spicy",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "zucchini",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bamboo shoot",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yellow curry paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "tamarind paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "thai chili",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute yellow curry paste in a small amount of coconut milk."
+        },
+        {
+          "position": 2,
+          "instruction": "Add remaining coconut milk tofu and vegetables."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until tender season with tamarind and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 228,
+        "protein": 16,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pad-pak-ruam",
+      "name": "Pad Pak Ruam",
+      "description": "Stir-fried mixed vegetables in oyster-style sauce",
+      "categories": [
+        "seafood",
+        "stir-fry",
+        "side",
+        "healthy"
+      ],
+      "proteinType": "SEAFOOD",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "broccoli",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "baby corn",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mushroom",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "oyster mushroom",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat wok with oil and fry garlic until fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Add hard vegetables first then softer ones."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with soy sauce and sugar stir-fry until just tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 132,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 4,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mango-sticky-rice",
+      "name": "Mango Sticky Rice",
+      "description": "Warm coconut sticky rice with ripe mango and salty coconut cream.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (230g)",
+      "homePrepCost": 85,
+      "restaurantPrice": 120,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 96,
+      "tags": [
+        "national-dessert"
+      ],
+      "ingredients": [
+        {
+          "name": "Thai glutinous rice soaked",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Coconut milk + sugar + salt",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Ripe nam dok mai mangoes",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Salty coconut cream topping",
+          "quantity": 100,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Steam rice covered 25-30 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold sweet coconut milk into hot rice; rest 20 min covered."
+        },
+        {
+          "position": 3,
+          "instruction": "Fan slices alongside; salted cream drizzle."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 5,
+        "carbohydrates": 74,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 42,
+        "sodium": 160,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "M7_WdFhI7Hk",
+          "youtubeUrl": "https://www.youtube.com/watch?v=M7_WdFhI7Hk",
+          "videoTitle": "How To Make Thai Mango Sticky Rice - ThaiChef food",
+          "channelName": "ThaiChef Food",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "khanom-krok",
+      "name": "Khanom Krok",
+      "description": "Coconut-rice batter pancakes crispy outside custardy inside.",
+      "categories": [
+        "desserts",
+        "street-food",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "servingSize": "6 halves (170g)",
+      "homePrepCost": 50,
+      "restaurantPrice": 80,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "two-batter"
+      ],
+      "ingredients": [
+        {
+          "name": "Rice flour-coconut batter (crisp base)",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Coconut cream batter (soft top)",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Yeast pinch & sugar",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Khanom krok pan",
+          "quantity": 1,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Oil wells; base batter half-fill."
+        },
+        {
+          "position": 2,
+          "instruction": "Cream layer when edges set."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover till tops set; scoop half-moons; cool slightly."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 3,
+        "carbohydrates": 32,
+        "fat": 13,
+        "fiber": 1.2,
+        "sugar": 12,
+        "sodium": 90,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "khanom-buang",
+      "name": "Khanom Buang",
+      "description": "Crispy Thai crepes with sweet and savory filling",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "street-food",
+        "snack",
+        "traditional",
+        "party-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "rice flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tapioca flour",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mung bean",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut cream",
+          "quantity": 50,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dried shrimp",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice flour, tapioca, and water into a thin batter."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook thin crepes on a hot pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with sweet coconut cream and mung bean."
+        },
+        {
+          "position": 4,
+          "instruction": "Fold and serve crispy."
+        }
+      ],
+      "nutrition": {
+        "calories": 156,
+        "protein": 6,
+        "carbohydrates": 24,
+        "fat": 4,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sangkhaya",
+      "name": "Sangkhaya",
+      "description": "Thai coconut custard steamed in pumpkin",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "traditional",
+        "vegan-option",
+        "celebration"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "pumpkin",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "tapioca flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pandan leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Scoop out pumpkin, leaving a shell."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix coconut milk, sugar, and tapioca."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour custard into pumpkin shell."
+        },
+        {
+          "position": 4,
+          "instruction": "Steam for 30 minutes until set."
+        }
+      ],
+      "nutrition": {
+        "calories": 244,
+        "protein": 4,
+        "carbohydrates": 30,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 18,
+        "sodium": 120,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "luk-chup",
+      "name": "Luk Chup",
+      "description": "Mini fruit-shaped mung bean desserts in shiny glaze",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "traditional",
+        "party-food",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "mung bean",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 50,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "agar",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "food coloring",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook mashed mung bean with sugar and coconut milk."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into small fruit shapes."
+        },
+        {
+          "position": 3,
+          "instruction": "Dip in colored agar glaze."
+        },
+        {
+          "position": 4,
+          "instruction": "Let set and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 164,
+        "protein": 4,
+        "carbohydrates": 28,
+        "fat": 4,
+        "fiber": 2,
+        "sugar": 16,
+        "sodium": 100,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "khao-lam",
+      "name": "Khao Lam",
+      "description": "Sticky rice with coconut milk in bamboo tubes",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "street-food",
+        "traditional",
+        "snack",
+        "winter"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "glutinous rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "black beans",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "bamboo tubes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak rice and black beans overnight."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix with coconut milk and sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill bamboo tubes and seal."
+        },
+        {
+          "position": 4,
+          "instruction": "Roast over charcoal until cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 246,
+        "protein": 6,
+        "carbohydrates": 42,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 10,
+        "sodium": 180,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "khanom-thong-mok",
+      "name": "Khanom Thong Mok",
+      "description": "Thai steamed coconut custard in banana leaf",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegan-option"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "rice flour",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pandan leaf",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tapioca starch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix coconut milk rice flour and sugar until smooth."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour into banana leaf cups."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam for twenty minutes until set and serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 234,
+        "protein": 4,
+        "carbohydrates": 32,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 14,
+        "sodium": 30,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "malaeng-mut",
+      "name": "Malaeng Mut",
+      "description": "Sweet tofu pudding with coconut syrup and toppings",
+      "categories": [
+        "desserts",
+        "street-food",
+        "summer"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "silken tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "pandan leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tapioca pearl",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook tapioca pearls until translucent and drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Warm coconut milk with pandan leaf and palm sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve tofu with tapioca pearls and coconut syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 276,
+        "protein": 8,
+        "carbohydrates": 34,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 18,
+        "sodium": 40,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pa-thong-ko",
+      "name": "Pa Thong Ko",
+      "description": "Thai-style crispy fried dough sticks for dipping",
+      "categories": [
+        "desserts",
+        "street-food",
+        "breakfast"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wheat flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "yeast",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame seed",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "soy milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "condensed milk",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix flour yeast sugar and soy milk into a soft dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Rest dough for one hour then shape into strips."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep fry until puffy and golden serve with condensed milk."
+        }
+      ],
+      "nutrition": {
+        "calories": 306,
+        "protein": 7,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 6,
+        "sodium": 280,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "khanom-maw-kaeng",
+      "name": "Khanom Maw Kaeng",
+      "description": "Thai coconut custard tart with egg and palm sugar",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "palm sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "wheat flour",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vanilla",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Melt palm sugar with coconut milk and cool slightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk in eggs flour butter and vanilla."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into tart shells and bake until set and golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 8,
+        "carbohydrates": 36,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 22,
+        "sodium": 120,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}
