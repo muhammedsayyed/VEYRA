@@ -2,7 +2,13 @@ node_modules/
 dist/
 build/
 .cache/
-.env*
+.env
+.env.local
+.env.development
+.env.production
+frontend/.env
+frontend/.env.local
+!frontend/.env.example
 .vite/
 vite.config.*.timestamp-*
 *.tsbuildinfo
@@ -11,6 +17,17 @@ logs/
 *.log
 .claude-replay.*
 .tmp-*
+
+# Backend - local / deployment artifacts (keep source)
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/node_modules/
+backend/dist/
+backend/build/
+backend/logs/
+backend/*.log
+backend/.tmp-*
 
 # Platform-managed agentplat state, not project source. In the
 # client-initiated single-repo workspace layout (make's `Path: "."` spec) the

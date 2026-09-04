@@ -1,6 +1,10 @@
-import { VeyraApiRouter } from '../backend/apiRouter';
+import { VeyraApiRouter } from '../../src/services/backend/apiRouter';
 
-export default async function handleAuthLogin(req: Request) {
+export const config = {
+  runtime: 'edge',
+};
+
+export default async function handler(req: Request) {
   if (req.method !== 'POST') {
     return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 });
   }

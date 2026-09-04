@@ -1,6 +1,10 @@
-import { IServerAIProvider } from '../ai/serverAIProvider';
-import { LocalOllamaProvider } from '../ai/ollamaProvider';
-import { CloudAIProvider } from '../ai/cloudAIProvider';
+import { IServerAIProvider } from '../../src/services/ai/serverAIProvider';
+import { LocalOllamaProvider } from '../../src/services/ai/ollamaProvider';
+import { CloudAIProvider } from '../../src/services/ai/cloudAIProvider';
+
+export const config = {
+  runtime: 'edge',
+};
 
 const CORS_HEADERS = {
   'Content-Type': 'application/json',
@@ -19,6 +23,8 @@ export function selectServerAIProvider(): IServerAIProvider {
     process.env.NODE_ENV === 'production'
   );
 
+  // In production / Vercel deployment, ALWAYS use CloudAIProvider.
+  // LocalOllamaProvider is strictly forbidden in Vercel serverless environments.
   if (isVercel || providerType === 'cloud' || providerType !== 'ollama') {
     return new CloudAIProvider();
   }
@@ -26,7 +32,7 @@ export function selectServerAIProvider(): IServerAIProvider {
   return new LocalOllamaProvider();
 }
 
-export default async function handleAiChat(req: Request) {
+export default async function handler(req: Request) {
   if (req.method === 'OPTIONS') {
     return new Response(null, { status: 204, headers: CORS_HEADERS });
   }
@@ -54,14 +60,17 @@ export default async function handleAiChat(req: Request) {
       headers: CORS_HEADERS,
     });
   } catch (error: any) {
-    console.error('Server AI Handler Error:', error);
+    console.error('API /api/ai/chat error:', error);
+    const errorMessage = error?.message || 'Failed to process AI request';
+
     return new Response(
       JSON.stringify({
+        content: `I'm having trouble connecting to my AI core. Error: ${errorMessage}`,
+        error: errorMessage,
         isUnavailable: true,
-        error: 'Failed to process AI chat request on server.',
-        details: error?.message || String(error),
       }),
       { status: 500, headers: CORS_HEADERS }
     );
   }
 }
+

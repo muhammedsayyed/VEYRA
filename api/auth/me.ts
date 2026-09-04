@@ -1,6 +1,10 @@
-import { VeyraApiRouter, authenticateRequest } from '../backend/apiRouter';
+import { VeyraApiRouter, authenticateRequest } from '../../src/services/backend/apiRouter';
 
-export default async function handleAuthMe(req: Request) {
+export const config = {
+  runtime: 'edge',
+};
+
+export default async function handler(req: Request) {
   try {
     const headers: Record<string, string> = {};
     req.headers.forEach((value, key) => {
