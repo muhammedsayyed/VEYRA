@@ -5,7 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
+    "dev:frontend": "vite --host 0.0.0.0",
+    "dev:backend": "npm --prefix backend run dev",
     "build": "prisma generate && vite build",
+    "build:frontend": "vite build",
+    "build:backend": "npm --prefix backend run build",
     "postinstall": "prisma generate",
     "preview": "vite preview",
     "format": "oxfmt",

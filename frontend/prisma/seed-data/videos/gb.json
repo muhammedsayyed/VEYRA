@@ -1,0 +1,82 @@
+{
+  "countryCode": "gb",
+  "videos": [
+    {
+      "recipeSlug": "beef-wellington",
+      "youtubeVideoId": "eiyOkjE3l_I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eiyOkjE3l_I",
+      "videoTitle": "Chef's Guide to Perfect Beef Wellington",
+      "channelName": "Fallow"
+    },
+    {
+      "recipeSlug": "cottage-pie",
+      "youtubeVideoId": "JslwCzHnA_8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JslwCzHnA_8",
+      "videoTitle": "Cottage Pie",
+      "channelName": "RecipeTin Eats"
+    },
+    {
+      "recipeSlug": "roast-beef-yorkshire",
+      "youtubeVideoId": "mYCV6rwqHkI",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mYCV6rwqHkI",
+      "videoTitle": "Roast Beef & Yorkshire Pudding Recipe",
+      "channelName": "Brian Lagerstrom"
+    },
+    {
+      "recipeSlug": "beef-stew",
+      "youtubeVideoId": "S1B5nr5r3tk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=S1B5nr5r3tk",
+      "videoTitle": "Classic Beef Stew Recipe For Dinner - Natasha's Kitchen",
+      "channelName": "Natashas Kitchen"
+    },
+    {
+      "recipeSlug": "cornish-pasty",
+      "youtubeVideoId": "AJfxgrJDtfE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AJfxgrJDtfE",
+      "videoTitle": "How to make a \"PROPER\" Cornish Pasty  (REAL Recipe)",
+      "channelName": "The West Country Kitchen"
+    },
+    {
+      "recipeSlug": "beef-stew-dumplings",
+      "youtubeVideoId": "9LQFUpHWu-Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9LQFUpHWu-Q",
+      "videoTitle": "Ultimate Beef Stew Dumplings Tutorial",
+      "channelName": "Ralph Knows Food"
+    },
+    {
+      "recipeSlug": "beef-ale-pie",
+      "youtubeVideoId": "mcv9swgPV7o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mcv9swgPV7o",
+      "videoTitle": "Cooking the classic Steak and Ale Pie | Paul Hollywood’s Pies & Puds",
+      "channelName": "Paul Hollywood"
+    },
+    {
+      "recipeSlug": "steak-kidney-pie",
+      "youtubeVideoId": "siMY0ucFkk0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=siMY0ucFkk0",
+      "videoTitle": "English Steak & Kidney Pie",
+      "channelName": "Mr. Paul's Pantry"
+    },
+    {
+      "recipeSlug": "sticky-toffee-pudding",
+      "youtubeVideoId": "lZpGUWygrlg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lZpGUWygrlg",
+      "videoTitle": "How to Make Individual Sticky Toffee Pudding Cakes",
+      "channelName": "America's Test Kitchen"
+    },
+    {
+      "recipeSlug": "eton-mess",
+      "youtubeVideoId": "5cjRi8mSKAQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5cjRi8mSKAQ",
+      "videoTitle": "Amazing Eton Mess Recipe",
+      "channelName": "Preppy Kitchen"
+    },
+    {
+      "recipeSlug": "welsh-rarebit",
+      "youtubeVideoId": "tgDakYCQnvs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tgDakYCQnvs",
+      "videoTitle": "Perfect Welsh Rarebit & Chilli Jam | Jamie Oliver",
+      "channelName": "Jamie Oliver"
+    }
+  ]
+}

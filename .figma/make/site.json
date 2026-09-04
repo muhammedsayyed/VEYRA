@@ -1,10 +1,18 @@
 {
-  "description": "Streamlines task initiation by providing a simple interface to start and manage projects efficiently, ideal for professionals seeking quick setup.",
+  "title": "Veyra — AI Wellness Intelligence",
+  "description": "Veyra — AI • Wellness • You. Intelligent nutrition, movement, and habits — gently personal, never clinical.",
+  "language": "en",
   "robots": {
-    "index": false
+    "index": true
+  },
+  "icons": {
+    "icon": "/assets/brand/veyra-logo.png"
+  },
+  "openGraph": {
+    "image": "/assets/brand/veyra-logo.png"
   },
   "accessibility": {
-    "addBypassLinks": false,
+    "addBypassLinks": true,
     "ignoreReducedMotion": false
   }
 }

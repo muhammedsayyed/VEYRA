@@ -1,0 +1,6413 @@
+{
+  "countryCode": "br",
+  "recipes": [
+    {
+      "slug": "feijoada-completa",
+      "name": "Feijoada Completa",
+      "description": "Brazil's black-bean monument: beef-forward stew with rice, farofa and orange.",
+      "categories": [
+        "beef",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 40,
+      "cookTimeMin": 240,
+      "servings": 10,
+      "servingSize": "1 bowl + sides (450g)",
+      "homePrepCost": 90,
+      "restaurantPrice": 120,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 96,
+      "tags": [
+        "national-dish"
+      ],
+      "ingredients": [
+        {
+          "name": "Black Beans",
+          "quantity": 800,
+          "unit": "g",
+          "note": "soaked"
+        },
+        {
+          "name": "Beef (carne-seca style salted + fresh chuck)",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Halal Smoked Beef Sausage",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Onion & Garlic",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Bay Leaves",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sides: Rice, Farofa, Orange Slices, Couve",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak/desalt beef overnight; parboil."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer beans with meats 3h; mash some beans thick."
+        },
+        {
+          "position": 3,
+          "instruction": "Onion-garlic oil sizzle folded in; serve full spread."
+        }
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 45,
+        "carbohydrates": 58,
+        "fat": 28,
+        "fiber": 16,
+        "sugar": 7,
+        "sodium": 980,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ntdm7Eno_-w",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ntdm7Eno_-w",
+          "videoTitle": "FEIJOADA COMPLETA | Receita de Feijoada Tradicional Fácil e Prática",
+          "channelName": "Alexandre Kattore | Receitas",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 280,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bife-a-role",
+      "name": "Bife à Rolê",
+      "description": "Brazilian beef rolls stuffed with carrot-bacon-free greens, braised tomato-style.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 35,
+      "cookTimeMin": 90,
+      "servings": 6,
+      "servingSize": "2 rolls + sauce (330g)",
+      "homePrepCost": 70,
+      "restaurantPrice": 110,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "stuffed"
+      ],
+      "ingredients": [
+        {
+          "name": "Thin Beef Cutlets",
+          "quantity": 12,
+          "unit": "pcs"
+        },
+        {
+          "name": "Carrot Sticks & Halal Smoke Strips & Onion Slivers",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato Sauce + Stock",
+          "quantity": 800,
+          "unit": "ml"
+        },
+        {
+          "name": "String for tying",
+          "quantity": 12,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season, fill, roll tight, tie."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown all over."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise in tomato-stock 75 min till tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 39,
+        "carbohydrates": 12,
+        "fat": 27,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 720,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "4V66XpY2tbA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=4V66XpY2tbA",
+          "videoTitle": "Bife à Rolê - Receita Tradicional",
+          "channelName": "Ogros Culinária",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 125,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "escondidinho-carne-seca",
+      "name": "Escondidinho de Carne Seca",
+      "description": "'Hidden' shredded sunned beef under creamy cassava purée crust.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 90,
+      "servings": 6,
+      "servingSize": "1 dish (320g)",
+      "homePrepCost": 75,
+      "restaurantPrice": 105,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "cassava-bake"
+      ],
+      "ingredients": [
+        {
+          "name": "Carne Seca (salted dried beef)",
+          "quantity": 600,
+          "unit": "g",
+          "note": "desalted, cooked, shredded"
+        },
+        {
+          "name": "Cassava (mandioca)",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "boiled, mashed with cream"
+        },
+        {
+          "name": "Onion & Tomato & Cream",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Queijo Minas top",
+          "quantity": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Refogar onion-tomato; add beef shreds."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer beef / purée in dish."
+        },
+        {
+          "position": 3,
+          "instruction": "Cheese top; bake 200°C 25 min golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 34,
+        "carbohydrates": 46,
+        "fat": 25,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 890,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "oIDZYX8kPfg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=oIDZYX8kPfg",
+          "videoTitle": "Aprenda a fazer o melhor Escondidinho de Carne Seca!",
+          "channelName": "RoboChefBrasil",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "strogonoff-de-frango-brasileiro",
+      "name": "Strogonoff de Frango",
+      "description": "Brazil's creamy ketchup-mushroom chicken stroganoff with shoestring potatoes.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 plate with rice+potato sticks (420g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 80,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "creamy"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Breast strips",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Champignon Mushrooms",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato Sauce + Ketchup + Mustard",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Table Cream",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Batata Palha & White Rice",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear chicken; mushrooms in."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauces in; simmer 10 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Cream off-boil; serve rice + palha."
+        }
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": 42,
+        "carbohydrates": 48,
+        "fat": 32,
+        "fiber": 3,
+        "sugar": 9,
+        "sodium": 920,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "YKTzprOfBRA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=YKTzprOfBRA",
+          "videoTitle": "Brazilian Chicken Stroganoff Recipe | Estrogonofe de Frango",
+          "channelName": "Life is a Blitz",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bistec-na-manteiga",
+      "name": "Bife na Manteiga",
+      "description": "Pan-seared butter-basted steak with garlic and parsley.",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 steak (150g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 75,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef sirloin steak",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Unsalted butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pat steaks dry and season generously with salt and pepper on both sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat a cast-iron skillet over high heat, sear steaks in butter with crushed garlic for 3 minutes per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Baste continuously with foaming butter, scatter parsley, rest 5 minutes before slicing."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 38,
+        "carbohydrates": 2,
+        "fat": 22,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 420,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 22
+    },
+    {
+      "slug": "carne-seca-com-mandioca",
+      "name": "Carne Seca com Mandioca",
+      "description": "Dried salted beef simmered until tender alongside boiled cassava root.",
+      "categories": [
+        "beef",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 150,
+      "servings": 6,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": 55,
+      "restaurantPrice": 80,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 85,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Carne seca (dried salted beef)",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cassava root",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Desalinate carne seca by soaking in cold water for 12 hours, changing water twice."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer beef with onion, garlic, and bay leaves in fresh water until fork-tender, about 2 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Peel and boil cassava separately until soft; serve sliced beef over cassava with cooking broth."
+        }
+      ],
+      "nutrition": {
+        "calories": 348,
+        "protein": 42,
+        "carbohydrates": 18,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 1,
+        "sodium": 890,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "FxPkWAcUlhM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=FxPkWAcUlhM",
+          "videoTitle": "CARNE SECA COM MANDIOCA DO CHEF TAICO",
+          "channelName": "ChefTaico",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 170
+    },
+    {
+      "slug": "picadinho-de-carne",
+      "name": "Picadinho de Carne",
+      "description": "Hearty ground beef stew with potatoes, carrots, and green olives.",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 35,
+      "servings": 5,
+      "servingSize": "1 bowl (320g)",
+      "homePrepCost": 35,
+      "restaurantPrice": 55,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green olives",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown ground beef in a pot with diced onion and minced garlic until no longer pink."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced potatoes, sliced carrots, tomato sauce, and 1 cup of water; simmer covered 25 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in green olives, adjust seasoning, and serve over steamed white rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 396,
+        "protein": 35,
+        "carbohydrates": 28,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 680,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "rEFqv3aNafw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=rEFqv3aNafw",
+          "videoTitle": "PICADINHO DE CARNE, MUITO FÁCIL E PRÁTICO! TODAS AS DICAS PRA FICAR PERFEITO!",
+          "channelName": "Ana Zambrin",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "strogonoff-de-carne",
+      "name": "Estrogonofe de Carne",
+      "description": "Brazilian beef stroganoff in a creamy mushroom and tomato sauce.",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 50,
+      "restaurantPrice": 70,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef tenderloin strips",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Potato sticks",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef strips in hot oil until browned on all sides; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onion, garlic, and sliced mushrooms until golden, then add tomato sauce and simmer 5 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return beef, pour in heavy cream, heat through without boiling, and garnish with potato sticks."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 36,
+        "carbohydrates": 14,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "HSTHL4Qh2-M",
+          "youtubeUrl": "https://www.youtube.com/watch?v=HSTHL4Qh2-M",
+          "videoTitle": "ESTROGONOFE | BEEF STROGANOFF | Brazilian Kitchen",
+          "channelName": "Brazilian Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "fraldinha-grelhada",
+      "name": "Fraldinha Grelhada",
+      "description": "Thin-cut marinated flank steak char-grilled over open flame.",
+      "categories": [
+        "beef",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "2 slices (200g)",
+      "homePrepCost": 40,
+      "restaurantPrice": 65,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Fraldinha (flank steak)",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fresh oregano",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score the meat in a crosshatch pattern and marinate with crushed garlic, olive oil, lime, and oregano for 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over very high heat for 3 minutes per side until charred outside and medium-rare inside."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest 5 minutes, slice against the grain, and serve with vinagrete and white rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 40,
+        "carbohydrates": 2,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 390,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "r37x68en5cw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=r37x68en5cw",
+          "videoTitle": "FRALDINHA NA GRELHA | CHURRASCO DO FELIPE",
+          "channelName": "Churrasco do Felipe",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "carne-de-panela",
+      "name": "Carne de Panela",
+      "description": "Classic Brazilian pot roast with root vegetables braised in its own juices.",
+      "categories": [
+        "beef",
+        "braise",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 160,
+      "servings": 6,
+      "servingSize": "1 plate (380g)",
+      "homePrepCost": 60,
+      "restaurantPrice": 90,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck roast",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season the whole chuck roast with salt, pepper, and crushed garlic; let stand 30 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear meat in a heavy pot on all sides until deeply browned, then add onions and bay leaves."
+        },
+        {
+          "position": 3,
+          "instruction": "Add water, cover tightly, and simmer on low heat for 2 hours; add vegetables in the last 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 45,
+        "carbohydrates": 22,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 180
+    },
+    {
+      "slug": "bife-a-cavalo",
+      "name": "Bife a Cavalo",
+      "description": "Brazilian skillet steak crowned with a runny egg and farofa.",
+      "categories": [
+        "beef",
+        "dinner",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 25,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "1 steak + egg (200g)",
+      "homePrepCost": 38,
+      "restaurantPrice": 60,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef sirloin steak",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Manioc flour",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound steaks thin, season with garlic, salt, and pepper, and let absorb flavors for 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-sear steaks in butter over high heat for 2 minutes per side; set aside on warm plates."
+        },
+        {
+          "position": 3,
+          "instruction": "In the same pan, scramble eggs to a soft curd with manioc flour; spoon over steaks."
+        }
+      ],
+      "nutrition": {
+        "calories": 416,
+        "protein": 42,
+        "carbohydrates": 8,
+        "fat": 24,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 440,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "alcatra-com-cenoura",
+      "name": "Alcatra com Cenoura",
+      "description": "Slow-simmered beef chuck roast with carrots and aromatic spices.",
+      "categories": [
+        "beef",
+        "braise",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 170,
+      "servings": 6,
+      "servingSize": "1 portion (340g)",
+      "homePrepCost": 52,
+      "restaurantPrice": 78,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck roast",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Black peppercorns",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Tie the chuck roast with kitchen twine and season all over with salt, pepper, and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown on all sides in a heavy Dutch oven, then add sliced onions, bay leaves, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and simmer on low for 2.5 hours, adding sliced carrots in the last 45 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 368,
+        "protein": 44,
+        "carbohydrates": 12,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 510,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 190
+    },
+    {
+      "slug": "carne-seca-com-couve",
+      "name": "Carne Seca com Couve",
+      "description": "Dried salted beef shredded and tossed with garlicky collard greens.",
+      "categories": [
+        "beef",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 120,
+      "servings": 4,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 42,
+      "restaurantPrice": 65,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Carne seca (dried salted beef)",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Collard greens (couve)",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Desalinate carne seca overnight in cold water, then boil until tender and shred by hand."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice collard greens into thin ribbons and set aside."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté minced garlic and onion in olive oil, add shredded beef and pepper flakes, toss in collard greens until wilted."
+        }
+      ],
+      "nutrition": {
+        "calories": 346,
+        "protein": 40,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 920,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 140
+    },
+    {
+      "slug": "bife-rocambole",
+      "name": "Bife Rocambole",
+      "description": "Butterflied beef roulade stuffed with hard-boiled eggs and herbs.",
+      "categories": [
+        "beef",
+        "dinner",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 55,
+      "servings": 5,
+      "servingSize": "2 slices (200g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 70,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef flank or top round",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hard-boiled eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Toothpicks",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Butterfly the beef and pound to an even thickness, then season with salt, pepper, and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer sliced hard-boiled eggs, diced carrots, onion, and parsley; roll tightly and secure with toothpicks."
+        },
+        {
+          "position": 3,
+          "instruction": "Sear all sides in a hot pot, add a splash of water, cover, and simmer 45 minutes until cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 38,
+        "carbohydrates": 6,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 85
+    },
+    {
+      "slug": "acem-com-molho",
+      "name": "Acém com Molho",
+      "description": "Chuck beef simmered in a rich brown onion gravy until fork-tender.",
+      "categories": [
+        "beef",
+        "stew",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 130,
+      "servings": 5,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 32,
+      "restaurantPrice": 50,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck (acém)",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut beef into large chunks and brown well in a heavy pot on all sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sliced onions and minced garlic; cook until softened, then stir in tomato paste."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in water, add bay leaves, cover, and simmer gently for 2 hours until meat shreds easily."
+        }
+      ],
+      "nutrition": {
+        "calories": 326,
+        "protein": 42,
+        "carbohydrates": 8,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 145
+    },
+    {
+      "slug": "carne-moida-com-batata",
+      "name": "Carne Moída com Batata",
+      "description": "Ground beef cooked with cubed potatoes in a savory tomato base.",
+      "categories": [
+        "beef",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 28,
+      "restaurantPrice": 45,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 75,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown ground beef in olive oil with diced onion and minced garlic, breaking into small pieces."
+        },
+        {
+          "position": 2,
+          "instruction": "Add cubed potatoes and tomato sauce with half a cup of water; simmer covered for 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with salt and pepper, garnish with chopped parsley, and serve over rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 366,
+        "protein": 34,
+        "carbohydrates": 26,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "costela-com-mandioca",
+      "name": "Costela com Mandioca",
+      "description": "Beef short ribs grilled and served alongside boiled cassava.",
+      "categories": [
+        "beef",
+        "grill",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "ribs + cassava (380g)",
+      "homePrepCost": 55,
+      "restaurantPrice": 85,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef short ribs",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cassava root",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate ribs with crushed garlic, lime juice, olive oil, and salt for at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill ribs over medium-high heat, turning every 5 minutes, for about 25 minutes total until charred."
+        },
+        {
+          "position": 3,
+          "instruction": "Peel and boil cassava until tender; serve ribs on a wooden board with cassava on the side."
+        }
+      ],
+      "nutrition": {
+        "calories": 456,
+        "protein": 46,
+        "carbohydrates": 14,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "peito-de-boi-com-legumes",
+      "name": "Peito de Boi com Legumes",
+      "description": "Beef brisket slow-simmered with mixed seasonal vegetables.",
+      "categories": [
+        "beef",
+        "braise",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 160,
+      "servings": 5,
+      "servingSize": "1 plate (340g)",
+      "homePrepCost": 48,
+      "restaurantPrice": 72,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef brisket",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Zucchini",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 350,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season brisket with salt, pepper, and garlic; sear on all sides in a heavy pot until browned."
+        },
+        {
+          "position": 2,
+          "instruction": "Add onion, bay leaves, and water; cover and simmer on low for 2 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Add diced carrots and potatoes for 30 minutes, then zucchini for the final 10 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 332,
+        "protein": 40,
+        "carbohydrates": 16,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 530,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 180
+    },
+    {
+      "slug": "lombo-de-boi-grelhado",
+      "name": "Lombo de Boi Grelhado",
+      "description": "Grilled beef tenderloin medallions with chimichurri and roasted peppers.",
+      "categories": [
+        "beef",
+        "grill",
+        "healthy"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "2 medallions (175g)",
+      "homePrepCost": 58,
+      "restaurantPrice": 95,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef tenderloin",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red bell pepper",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Red wine vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut tenderloin into thick medallions, season with salt and pepper, and bring to room temperature."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over high heat for 3 minutes per side; rest on a warm plate for 5 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Make chimichurri by blending parsley, garlic, olive oil, and vinegar; grill peppers and serve alongside."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 44,
+        "carbohydrates": 4,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 350,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 27
+    },
+    {
+      "slug": "creme-de-abobora",
+      "name": "Creme de Abóbora",
+      "description": "Velvety pumpkin cream soup with nutmeg and a swirl of cream.",
+      "categories": [
+        "beef",
+        "soup",
+        "winter"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 bowl (250g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 22,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pumpkin",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Vegetable broth",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté diced onion and garlic in butter until soft; add cubed pumpkin and cook 3 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour in vegetable broth, bring to a simmer, and cook covered for 20 minutes until pumpkin is very soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Blend until silky smooth, return to heat, stir in cream and nutmeg, adjust seasoning."
+        }
+      ],
+      "nutrition": {
+        "calories": 164,
+        "protein": 5,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 380,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "galinhada",
+      "name": "Galinhada",
+      "description": "Saffron-yellow chicken-and-rice one pot from Goiás.",
+      "categories": [
+        "chicken",
+        "one-pot",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 6,
+      "servingSize": "1 plate (380g)",
+      "homePrepCost": 55,
+      "restaurantPrice": 85,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "rice-pot"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Rice",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Colorau (annatto), Onion, Garlic",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Peas & Scallions",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown seasoned chicken with colorau."
+        },
+        {
+          "position": 2,
+          "instruction": "Add rice + hot water; simmer covered 20 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest; peas + scallion finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 37,
+        "carbohydrates": 62,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 680,
+        "saturatedFat": 4.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "frango-a-passarinho",
+      "name": "Frango à Passarinho",
+      "description": "Little-bird fried chicken bites with garlic and lime.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "snack"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 5,
+      "servingSize": "8 pieces (280g)",
+      "homePrepCost": 50,
+      "restaurantPrice": 95,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "fried",
+        "boteco"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Wings/Drumettes",
+          "quantity": 1600,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & Lime Marinade",
+          "quantity": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "Flour dusting",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 1000,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 1h; dry well."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry 165°C ~14 min golden-cooked."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss garlic-lime-parsley butter."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 35,
+        "fiber": 0.6,
+        "sugar": 1,
+        "sodium": 850,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "canja-de-galinha",
+      "name": "Canja de Galinha",
+      "description": "Chicken-rice healing soup, Brazilian penicillin.",
+      "categories": [
+        "chicken",
+        "healthy",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 6,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 40,
+      "restaurantPrice": 65,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "healing-soup"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces w/ bone",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Rice",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Carrot, Celery, Onion",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Parsley & Scallion & Mint",
+          "quantity": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken 40 min; skim."
+        },
+        {
+          "position": 2,
+          "instruction": "Shred; add veg + rice; 20 min more."
+        },
+        {
+          "position": 3,
+          "instruction": "Herb shower; serve with lime."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 28,
+        "carbohydrates": 36,
+        "fat": 8,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "frango-com-quiabo",
+      "name": "Frango com Quiabo",
+      "description": "Chicken thighs stewed with sliced okra in a savory tomato broth.",
+      "categories": [
+        "chicken",
+        "stew",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 28,
+      "restaurantPrice": 48,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Okra (quiabo)",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken thighs with salt, pepper, and garlic; brown on all sides in a deep pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced onion, sliced okra, and tomato sauce with a cup of water; add bay leaves."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and simmer on medium-low for 35 minutes until chicken is tender and okra is soft."
+        }
+      ],
+      "nutrition": {
+        "calories": 312,
+        "protein": 32,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "frango-com-palmito",
+      "name": "Frango com Palmito",
+      "description": "Sliced chicken breast with hearts of palm in a light cream sauce.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 35,
+      "restaurantPrice": 58,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hearts of palm",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice chicken breast into strips and season with salt, pepper, and minced garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook chicken in a skillet until golden; add diced onion and cook until translucent."
+        },
+        {
+          "position": 3,
+          "instruction": "Add sliced hearts of palm and cream, simmer 5 minutes, and finish with chopped parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 36,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 420,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "frango-cozido-com-legumes",
+      "name": "Frango Cozido com Legumes",
+      "description": "Whole chicken pieces stewed with root vegetables in a light herb broth.",
+      "categories": [
+        "chicken",
+        "stew",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 5,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": 30,
+      "restaurantPrice": 50,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken drumsticks and thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken pieces with salt, pepper, and garlic; brown lightly in a pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced onion, sliced carrots, cubed potatoes, bay leaves, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered for 40 minutes until chicken and vegetables are tender; garnish with parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 324,
+        "protein": 34,
+        "carbohydrates": 20,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 490,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "peito-de-frango-grelhado",
+      "name": "Peito de Frango Grelhado",
+      "description": "Marinated grilled chicken breast with lime and fresh herbs.",
+      "categories": [
+        "chicken",
+        "grill",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "servingSize": "1 breast (150g)",
+      "homePrepCost": 25,
+      "restaurantPrice": 45,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 85,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fresh oregano",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken breasts with lime juice, crushed garlic, olive oil, oregano, and salt for 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Preheat grill or grill pan to high; cook chicken 5 minutes per side until internal temp reaches 75°C."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest 3 minutes, slice on the bias, and serve with a simple green salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 258,
+        "protein": 40,
+        "carbohydrates": 2,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 0,
+        "sodium": 380,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 27
+    },
+    {
+      "slug": "frango-molho-pardo",
+      "name": "Frango ao Molho Pardo",
+      "description": "Chicken pieces braised in a deep caramelized onion brown sauce.",
+      "categories": [
+        "chicken",
+        "stew",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 5,
+      "servingSize": "1 portion (280g)",
+      "homePrepCost": 30,
+      "restaurantPrice": 52,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces (bone-in)",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with salt, pepper, and garlic; brown deeply in a heavy pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add thinly sliced onions and cook until deeply caramelized, about 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken, add soy sauce, bay leaves, and water; cover and simmer 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 312,
+        "protein": 36,
+        "carbohydrates": 6,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75
+    },
+    {
+      "slug": "frango-com-creme-de-leite",
+      "name": "Frango com Creme de Leite",
+      "description": "Creamy Brazilian chicken in a rich milk cream and tomato sauce.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 30,
+      "restaurantPrice": 52,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice chicken into strips, season, and sear in a hot pan until golden; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté diced onion and garlic until translucent; add tomato sauce and cook 3 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken, pour in cream, stir gently until heated through, and finish with parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 348,
+        "protein": 34,
+        "carbohydrates": 8,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "frango-com-milho",
+      "name": "Frango com Milho",
+      "description": "Chicken thighs simmered with sweet corn kernels in a savory broth.",
+      "categories": [
+        "chicken",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 22,
+      "restaurantPrice": 40,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet corn kernels",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken thighs in a pot with salt and pepper until golden on both sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced onion, minced garlic, and tomato sauce; cook 3 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in water and corn kernels; simmer covered for 30 minutes until chicken is cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 300,
+        "protein": 30,
+        "carbohydrates": 18,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 460,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "frango-com-abobrinha",
+      "name": "Frango com Abobrinha",
+      "description": "Chicken breast sautéed with zucchini and garlic in olive oil.",
+      "categories": [
+        "chicken",
+        "healthy",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 22,
+      "restaurantPrice": 42,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Zucchini",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dice chicken breast and season with salt, pepper, and minced garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook in olive oil over medium-high heat until golden, then add sliced zucchini."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté together for 6 minutes until zucchini is just tender; finish with lemon juice and parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 272,
+        "protein": 35,
+        "carbohydrates": 6,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 360,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "frango-com-cenoura",
+      "name": "Frango com Cenoura",
+      "description": "Chicken drumsticks braised with carrots and onion.",
+      "categories": [
+        "chicken",
+        "home-style",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "2 drumsticks + carrots (300g)",
+      "homePrepCost": 24,
+      "restaurantPrice": 42,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken drumsticks",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season drumsticks with salt, pepper, garlic, and a drizzle of olive oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown in a pot, then add sliced carrots, diced onion, bay leaves, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and simmer for 35 minutes until chicken is cooked through and carrots are soft."
+        }
+      ],
+      "nutrition": {
+        "calories": 258,
+        "protein": 32,
+        "carbohydrates": 10,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 470,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "frango-com-chuchu",
+      "name": "Frango com Chuchu",
+      "description": "Chicken pieces braised with chayote squash in a light broth.",
+      "categories": [
+        "chicken",
+        "healthy",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 20,
+      "restaurantPrice": 38,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chayote squash (chuchu)",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown seasoned chicken pieces in a pot until golden on all sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced onion, garlic, tomato sauce, and cubed chayote with water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and simmer for 30 minutes until chayote is tender and chicken is cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 28,
+        "carbohydrates": 10,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 440,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50
+    },
+    {
+      "slug": "frango-com-leite-de-coco",
+      "name": "Frango com Leite de Coco",
+      "description": "Chicken simmered in fragrant coconut milk with lime and cilantro.",
+      "categories": [
+        "chicken",
+        "regional",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 32,
+      "restaurantPrice": 55,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken drumsticks and thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Red pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with garlic, ginger, salt, and pepper; brown in a hot pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour in coconut milk and add sliced red pepper; bring to a gentle simmer."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook covered for 35 minutes; finish with lime juice and fresh cilantro before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 34,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 390,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "frango-com-batata",
+      "name": "Frango com Batata",
+      "description": "Chicken pieces roasted with cubed potatoes and onions.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 55,
+      "servings": 5,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 28,
+      "restaurantPrice": 48,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Paprika",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with salt, pepper, paprika, and crushed garlic; let rest 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss cubed potatoes and onion wedges in olive oil; spread in a roasting pan with chicken pieces."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and cook over moderate heat for 50 minutes, turning once halfway through."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 34,
+        "carbohydrates": 22,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 460,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70
+    },
+    {
+      "slug": "frango-com-ervilha",
+      "name": "Frango com Ervilha",
+      "description": "Diced chicken breast sautéed with green peas and carrots.",
+      "categories": [
+        "chicken",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (250g)",
+      "homePrepCost": 22,
+      "restaurantPrice": 38,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green peas",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dice chicken and season with salt, pepper, and garlic; sear in a hot pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced carrots and cook 3 minutes, then add peas and tomato sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer together for 10 minutes until chicken is cooked through and vegetables are tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 34,
+        "carbohydrates": 14,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "frango-com-brocolis",
+      "name": "Frango com Brócolis",
+      "description": "Sliced chicken breast with broccoli florets in garlic sauce.",
+      "categories": [
+        "chicken",
+        "healthy",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 24,
+      "restaurantPrice": 44,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Broccoli",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice chicken breast into strips and season with salt, pepper, and minced garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook in olive oil until golden, then add blanched broccoli florets."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss together for 3 minutes, finish with lemon juice, and serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 266,
+        "protein": 36,
+        "carbohydrates": 8,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 370,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "frango-com-mandioca",
+      "name": "Frango com Mandioca",
+      "description": "Chicken thighs simmered with chunks of cassava in a savory broth.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": 25,
+      "restaurantPrice": 45,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cassava root",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 350,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown seasoned chicken thighs in a pot until golden on all sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Add diced onion, garlic, bay leaves, peeled cassava chunks, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered for 40 minutes until cassava is soft and chicken is cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 332,
+        "protein": 32,
+        "carbohydrates": 24,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 1,
+        "sodium": 480,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "frango-com-abobora",
+      "name": "Frango com Abóbora",
+      "description": "Chicken pieces stewed in a sweet pumpkin sauce with herbs.",
+      "categories": [
+        "chicken",
+        "regional",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 24,
+      "restaurantPrice": 42,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pumpkin",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken with salt, pepper, cumin, and garlic; brown in a heavy pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add cubed pumpkin, diced onion, and water; bring to a simmer."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and cook for 35 minutes until pumpkin is soft and chicken is tender; mash some pumpkin into the sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 266,
+        "protein": 30,
+        "carbohydrates": 14,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 430,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 60
+    },
+    {
+      "slug": "pure-de-mandioca",
+      "name": "Purê de Mandioca",
+      "description": "Velvety mashed cassava enriched with butter and fresh herbs.",
+      "categories": [
+        "chicken",
+        "side",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 scoop (150g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 20,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cassava root",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel cassava, remove the fibrous core, and cut into chunks."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil in salted water until very tender, about 25 minutes; drain well."
+        },
+        {
+          "position": 3,
+          "instruction": "Mash with butter and warm milk until smooth; fold in minced garlic and chopped parsley."
+        }
+      ],
+      "nutrition": {
+        "calories": 224,
+        "protein": 4,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 300,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "picanha-churrasco",
+      "name": "Picanha na Brasa",
+      "description": "Fat-capped rump skewered, rock-salted, carved pink off the churrasco.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "grill"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 30,
+      "servings": 6,
+      "servingSize": "3 slices (260g)",
+      "homePrepCost": 130,
+      "restaurantPrice": 160,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 93,
+      "tags": [
+        "churrasco"
+      ],
+      "ingredients": [
+        {
+          "name": "Picanha (rump cap)",
+          "quantity": 1500,
+          "unit": "g",
+          "note": "scored fat"
+        },
+        {
+          "name": "Coarse Salt",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Skewers",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Farofa & Vinagrete",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Salt heavily just before fire."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill fat-side first; slice outer layer 'pastel', return rest."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve thin with vinagrete + farofa."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 42,
+        "carbohydrates": 6,
+        "fat": 35,
+        "fiber": 1.5,
+        "sugar": 2.5,
+        "sodium": 1150,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pao-de-queijo",
+      "name": "Pão de Queijo",
+      "description": "Gluten-free tapioca cheese puffs, chewy-hot from oven.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "snack",
+        "gluten-free"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 8,
+      "servingSize": "4 puffs (120g)",
+      "homePrepCost": 25,
+      "restaurantPrice": 45,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 94,
+      "tags": [
+        "tapioca",
+        "cheese"
+      ],
+      "ingredients": [
+        {
+          "name": "Polvilho Azedo (sour tapioca starch)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Whole Milk + Oil + Salt",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "name": "Minas or Mozzarella Cheese grated",
+          "quantity": 250,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Scald starch with hot milk-oil; cool slightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Beat in eggs + cheese to sticky dough."
+        },
+        {
+          "position": 3,
+          "instruction": "Ball; bake 200°C ~22 min puffed hollow."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 9,
+        "carbohydrates": 36,
+        "fat": 13,
+        "fiber": 0.5,
+        "sugar": 1.5,
+        "sodium": 420,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "OrjTrJIpLIM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=OrjTrJIpLIM",
+          "videoTitle": "PÃO DE QUEIJO MINEIRO DE VERDADE❗😍 CROCANTE POR FORA, MOLINHO POR DENTRO E NÃO MURCHA!",
+          "channelName": "Delícias da Cíntia",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "moqueca-de-palmito",
+      "name": "Moqueca de Palmito",
+      "description": "Hearts-of-palm coconut-dende stew - vegetarian moqueca pride.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 5,
+      "servingSize": "1 clay bowl (320g)",
+      "homePrepCost": 60,
+      "restaurantPrice": 95,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "coconut",
+        "bahia"
+      ],
+      "ingredients": [
+        {
+          "name": "Palmito (hearts of palm)",
+          "quantity": 700,
+          "unit": "g",
+          "note": "thick slices"
+        },
+        {
+          "name": "Coconut Milk",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Dendê Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Peppers-Tomato-Onion-Coriander base",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Lime",
+          "quantity": 2,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Layer marinated veg + palmito in clay pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Coconut milk; simmer covered 25 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Dendê swirl + coriander + lime at end."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 6,
+        "carbohydrates": 24,
+        "fat": 28,
+        "fiber": 7,
+        "sugar": 11,
+        "sodium": 620,
+        "saturatedFat": 17
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "quibebe",
+      "name": "Quibebe",
+      "description": "Silky spiced pumpkin stew, Bahian comfort side-star.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "side",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 35,
+      "servings": 5,
+      "servingSize": "1 bowl (240g)",
+      "homePrepCost": 22,
+      "restaurantPrice": 40,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 70,
+      "tags": [
+        "pumpkin"
+      ],
+      "ingredients": [
+        {
+          "name": "Pumpkin/Abara Squash",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Onion & Garlic",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Olive or Dendê Oil",
+          "quantity": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "Chile & Coriander",
+          "quantity": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sweat aromatics; pumpkin + splash water."
+        },
+        {
+          "position": 2,
+          "instruction": "Cover-stew 25 min; mash partially creamy."
+        },
+        {
+          "position": 3,
+          "instruction": "Oil swirl + herbs."
+        }
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 3,
+        "carbohydrates": 22,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 11,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "cuscuz-paulista-vegetariano",
+      "name": "Cuscuz Paulista (Vegetarian)",
+      "description": "Molded cornmeal terrine studded with vegetables, eggs and peas.",
+      "categories": [
+        "vegetarian",
+        "party-food",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 40,
+      "servings": 8,
+      "servingSize": "1 slice (200g)",
+      "homePrepCost": 35,
+      "restaurantPrice": 60,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 73,
+      "tags": [
+        "molded"
+      ],
+      "ingredients": [
+        {
+          "name": "Cornmeal (flocão)",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Vegetable Stock + Tomato Passata",
+          "quantity": 1100,
+          "unit": "ml"
+        },
+        {
+          "name": "Peas, Carrot, Palm hearts, Boiled Eggs, Olives",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Ring mold",
+          "quantity": 1,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Decor-line oiled mold with egg/veg."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook cornmeal into thick porridge with stock/passata + fillings."
+        },
+        {
+          "position": 3,
+          "instruction": "Pack mold; chill 3h; unmold."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 10,
+        "carbohydrates": 40,
+        "fat": 8,
+        "fiber": 5,
+        "sugar": 7,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "lagarto-recheado",
+      "name": "Lagarto Recheado",
+      "description": "Stuffed eye of round roast with carrots, olives, and herbs.",
+      "categories": [
+        "vegetarian",
+        "celebration",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HALAL",
+      "difficulty": "HARD",
+      "prepTimeMin": 30,
+      "cookTimeMin": 100,
+      "servings": 8,
+      "servingSize": "2 slices (200g)",
+      "homePrepCost": 65,
+      "restaurantPrice": 100,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 77,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eye of round (lagarto)",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green olives",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hard-boiled eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Toothpicks",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Butterfly the roast lengthwise and pound flat; season with garlic, salt, and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Spread diced carrots, sliced olives, and chopped egg across the meat; roll and tie securely."
+        },
+        {
+          "position": 3,
+          "instruction": "Sear in a hot pot, add bay leaves and a cup of water, cover, and roast at moderate heat for 90 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 42,
+        "carbohydrates": 4,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 460,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 130
+    },
+    {
+      "slug": "arroz-com-feijao",
+      "name": "Arroz com Feijão",
+      "description": "The cornerstone of the Brazilian table: fluffy white rice with creamy black beans.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 100,
+      "servings": 4,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 22,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 95,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "White rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Black beans",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse rice and sauté with minced garlic and olive oil until grains are coated; add water and cook covered 18 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Soak beans overnight, then simmer with bay leaves, onion, and garlic until creamy, about 1.5 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Fluff rice, ladle beans alongside, and drizzle with olive oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 268,
+        "protein": 16,
+        "carbohydrates": 42,
+        "fat": 4,
+        "fiber": 10,
+        "sugar": 2,
+        "sodium": 380,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 110
+    },
+    {
+      "slug": "vinagrete-brasileiro",
+      "name": "Vinagrete Brasileiro",
+      "description": "Bright diced tomato, onion, and pepper vinaigrette served alongside grilled meats.",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 6,
+      "servingSize": "1/2 cup (120g)",
+      "homePrepCost": 8,
+      "restaurantPrice": 15,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ripe tomatoes",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "White onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Green bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "White vinegar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dice tomatoes, onion, and bell pepper into uniform small cubes."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss together in a bowl with white vinegar, olive oil, and chopped parsley."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with salt and let marinate at least 15 minutes before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 94,
+        "protein": 2,
+        "carbohydrates": 8,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 180,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 15
+    },
+    {
+      "slug": "salada-brasileira",
+      "name": "Salada Brasileira",
+      "description": "Fresh mixed green salad with hearts of palm and cherry tomatoes.",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "servingSize": "1 plate (150g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 25,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mixed lettuce",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hearts of palm",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cherry tomatoes",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red onion",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lime juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash and dry lettuce, tear into bite-sized pieces, and arrange on a platter."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice hearts of palm into rounds, halve cherry tomatoes, and thin-slice red onion."
+        },
+        {
+          "position": 3,
+          "instruction": "Scatter over lettuce, drizzle with olive oil and lime juice, season with salt and pepper."
+        }
+      ],
+      "nutrition": {
+        "calories": 112,
+        "protein": 4,
+        "carbohydrates": 6,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 220,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 10
+    },
+    {
+      "slug": "couve-com-alho",
+      "name": "Couve com Alho",
+      "description": "Thinly sliced collard greens sautéed with garlic and olive oil.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 4,
+      "servingSize": "1/2 cup (80g)",
+      "homePrepCost": 6,
+      "restaurantPrice": 15,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Collard greens (couve)",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Remove tough stems from collard greens, stack leaves, and slice into very thin ribbons."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat olive oil in a wide pan and cook minced garlic until fragrant but not browned."
+        },
+        {
+          "position": 3,
+          "instruction": "Add collard green ribbons and toss over high heat for 2 minutes until bright green and just wilted."
+        }
+      ],
+      "nutrition": {
+        "calories": 112,
+        "protein": 4,
+        "carbohydrates": 6,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 0,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 20
+    },
+    {
+      "slug": "mandioca-cozida",
+      "name": "Mandioca Cozida",
+      "description": "Boiled cassava root served with garlic butter and fresh herbs.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "200g",
+      "homePrepCost": 8,
+      "restaurantPrice": 18,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cassava root",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel cassava, remove the fibrous core, and cut into large chunks."
+        },
+        {
+          "position": 2,
+          "instruction": "Boil in salted water for 20-25 minutes until completely tender when pierced with a fork."
+        },
+        {
+          "position": 3,
+          "instruction": "Drain, toss with minced garlic, olive oil, and chopped parsley while still hot."
+        }
+      ],
+      "nutrition": {
+        "calories": 162,
+        "protein": 4,
+        "carbohydrates": 32,
+        "fat": 2,
+        "fiber": 2,
+        "sugar": 0,
+        "sodium": 280,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "cuscuz-de-milho",
+      "name": "Cuscuz de Milho",
+      "description": "Steamed Brazilian corn cake with a moist, slightly sweet crumb.",
+      "categories": [
+        "vegetarian",
+        "regional",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 8,
+      "servingSize": "1 slice (100g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 20,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cornmeal",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet corn kernels",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend corn kernels with coconut milk until smooth; mix with cornmeal, sugar, and salt."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour batter into a greased ring mold or deep pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover tightly and steam over simmering water for 45 minutes until set and firm to the touch."
+        }
+      ],
+      "nutrition": {
+        "calories": 272,
+        "protein": 8,
+        "carbohydrates": 42,
+        "fat": 8,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 350,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "pamonha-de-milho",
+      "name": "Pamonha de Milho",
+      "description": "Sweet fresh corn tamale wrapped and steamed in corn husks.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 45,
+      "servings": 8,
+      "servingSize": "1 pamonha (120g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 25,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Fresh corn on the cob",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Corn husks",
+          "quantity": 16,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Grate corn kernels and blend with coconut milk, sugar, butter, and salt into a thick batter."
+        },
+        {
+          "position": 2,
+          "instruction": "Soak corn husks in warm water until pliable; spoon batter into each pair of overlapping husks."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold husks into packets, tie securely, and simmer in water for 40 minutes until firm."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 6,
+        "fiber": 3,
+        "sugar": 10,
+        "sodium": 290,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75
+    },
+    {
+      "slug": "canjica-com-leite-de-coco",
+      "name": "Canjica com Leite de Coco",
+      "description": "White hominy kernels slow-simmered in sweet coconut milk with cinnamon.",
+      "categories": [
+        "vegetarian",
+        "comfort-food",
+        "celebration"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 120,
+      "servings": 6,
+      "servingSize": "1 bowl (200g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 30,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "White hominy (canjica)",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Shredded coconut",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak hominy overnight in cold water, then drain and rinse thoroughly."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer hominy in water with cinnamon sticks for 1.5 hours until kernels are very soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Add coconut milk and sugar, cook 20 more minutes until thick and creamy, stir in shredded coconut."
+        }
+      ],
+      "nutrition": {
+        "calories": 282,
+        "protein": 8,
+        "carbohydrates": 40,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 12,
+        "sodium": 180,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 135
+    },
+    {
+      "slug": "angu-com-molho",
+      "name": "Angu com Molho",
+      "description": "Smooth cornmeal mush served with a simple tomato-onion sauce.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "1 plate (200g)",
+      "homePrepCost": 8,
+      "restaurantPrice": 18,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cornmeal",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 750,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring salted water to a boil, slowly whisk in cornmeal, and stir constantly until thickened, about 8 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour into a greased dish and let set for 10 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Make sauce by sautéing onion and garlic, adding diced tomatoes, and cooking until saucy; serve over angu."
+        }
+      ],
+      "nutrition": {
+        "calories": 212,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 4,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 320,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30
+    },
+    {
+      "slug": "arroz-tropeiro",
+      "name": "Arroz Tropeiro",
+      "description": "Farmer-style rice cooked with beans, collard greens, and garlic.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 5,
+      "servingSize": "1 plate (250g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 25,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "White rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carioca beans",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Collard greens",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beans until tender with bay leaf and garlic; reserve some cooking liquid."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté diced onion and minced garlic in olive oil; add rice and toast for 2 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Add beans, thinly sliced collard greens, and bean broth; cover and cook until rice is fluffy."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 14,
+        "carbohydrates": 40,
+        "fat": 6,
+        "fiber": 8,
+        "sugar": 1,
+        "sodium": 420,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "creme-de-milho",
+      "name": "Creme de Milho",
+      "description": "Rich and creamy sweet corn soup finished with butter and cream.",
+      "categories": [
+        "vegetarian",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 bowl (220g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 22,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet corn kernels",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté diced onion and garlic in butter until translucent; add corn kernels and cook 3 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add water and simmer for 15 minutes; blend until completely smooth."
+        },
+        {
+          "position": 3,
+          "instruction": "Return to heat, stir in cream, adjust seasoning, and serve hot with a drizzle of olive oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 8,
+        "carbohydrates": 30,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 280,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "abobora-com-canela",
+      "name": "Abóbora com Canela",
+      "description": "Pumpkin wedges gently simmered with cinnamon and a touch of sugar.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "2 wedges (150g)",
+      "homePrepCost": 8,
+      "restaurantPrice": 18,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pumpkin",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel pumpkin, remove seeds, and cut into thick wedges."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange in a single layer in a wide pan with butter, sugar, cinnamon, and a splash of water."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and cook on low heat for 20 minutes, turning once, until tender and caramelized."
+        }
+      ],
+      "nutrition": {
+        "calories": 119,
+        "protein": 3,
+        "carbohydrates": 20,
+        "fat": 3,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 120,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "feijao-tropeiro",
+      "name": "Feijão Tropeiro",
+      "description": "Hearty beans with manioc flour, collard greens, garlic, and olives.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 5,
+      "servingSize": "1 plate (240g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 22,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Carioca beans",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Manioc flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Collard greens",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Green olives",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beans until tender but not mushy; drain and reserve the cooking liquid."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté garlic in olive oil, add sliced collard greens and cook until wilted."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss hot beans with the garlicky greens, fold in manioc flour and olives until evenly combined."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 14,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 8,
+        "sugar": 1,
+        "sodium": 460,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75
+    },
+    {
+      "slug": "tapioca-de-coco",
+      "name": "Tapioca de Coco",
+      "description": "Crispy tapioca crepe filled with sweet shredded coconut.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "1 tapioca (80g)",
+      "homePrepCost": 8,
+      "restaurantPrice": 15,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Tapioca flour (hydrated)",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded coconut",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Coconut oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sift tapioca flour to remove lumps and ensure a fine, even powder."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat a non-stick pan over medium heat, sprinkle flour in an even circle, and cook until edges lift."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill with sweetened shredded coconut, fold in half, and cook until lightly golden on each side."
+        }
+      ],
+      "nutrition": {
+        "calories": 214,
+        "protein": 4,
+        "carbohydrates": 36,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 120,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 20
+    },
+    {
+      "slug": "brigadeiro",
+      "name": "Brigadeiro",
+      "description": "Fudgy chocolate-condensed milk truffles rolled in sprinkles.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "party-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 20,
+      "servingSize": "3 truffles (60g)",
+      "homePrepCost": 18,
+      "restaurantPrice": 35,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 97,
+      "tags": [
+        "birthday-classic"
+      ],
+      "ingredients": [
+        {
+          "name": "Condensed Milk",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Cocoa Powder",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Chocolate Sprinkles",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir all over medium till pan-revealing (~10 min)."
+        },
+        {
+          "position": 2,
+          "instruction": "Chill till handleable."
+        },
+        {
+          "position": 3,
+          "instruction": "Buttered hands roll balls in sprinkles."
+        }
+      ],
+      "nutrition": {
+        "calories": 130,
+        "protein": 2.5,
+        "carbohydrates": 21,
+        "fat": 4,
+        "fiber": 0.6,
+        "sugar": 19,
+        "sodium": 35,
+        "saturatedFat": 2.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ieIUPsHty2Q",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ieIUPsHty2Q",
+          "videoTitle": "DOCINHOS PERFEITOS DE BRIGADEIRO",
+          "channelName": "Kelly Chocolates",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pudim-de-leite",
+      "name": "Pudim de Leite Condensado",
+      "description": "Wobbling condensed-milk flan with deep amber caramel.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 75,
+      "servings": 10,
+      "servingSize": "1 slice (110g)",
+      "homePrepCost": 20,
+      "restaurantPrice": 38,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "flan"
+      ],
+      "ingredients": [
+        {
+          "name": "Condensed Milk",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Milk",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sugar Caramel",
+          "quantity": 180,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramel the mold."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend custard smooth (no foam); strain."
+        },
+        {
+          "position": 3,
+          "instruction": "Water bath 170°C ~65 min; chill; invert."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 7,
+        "carbohydrates": 38,
+        "fat": 6,
+        "fiber": 0,
+        "sugar": 37,
+        "sodium": 130,
+        "saturatedFat": 3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "LsGYcPDMSJY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=LsGYcPDMSJY",
+          "videoTitle": "Como fazer PUDIM DE LEITE CONDENSADO TRADICIONAL",
+          "channelName": "MM Receitas",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "quindim",
+      "name": "Quindim",
+      "description": "Glossy golden coconut and egg yolk custard with a caramelized bottom.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 50,
+      "servings": 8,
+      "servingSize": "1 quindim (60g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 8,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egg yolks",
+          "quantity": 10,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded coconut",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk egg yolks with sugar until pale and thick; stir in coconut milk, melted butter, and vanilla."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in shredded coconut and pour into greased individual molds."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake in a water bath until set with a glossy top and caramelized base, about 45 minutes; chill 4 hours."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 8,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 22,
+        "sodium": 60,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 70
+    },
+    {
+      "slug": "cocada-branca",
+      "name": "Cocada Branca",
+      "description": "Chewy white coconut candy made with condensed milk and sugar.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 12,
+      "servingSize": "1 piece (40g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 3,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Shredded coconut",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Condensed milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dissolve sugar in water over medium heat, stirring until it forms a light syrup."
+        },
+        {
+          "position": 2,
+          "instruction": "Add shredded coconut and condensed milk; stir continuously until mixture pulls away from the pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into a greased tray, score into squares while warm, and let cool completely before removing."
+        }
+      ],
+      "nutrition": {
+        "calories": 252,
+        "protein": 4,
+        "carbohydrates": 32,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 90,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 35
+    },
+    {
+      "slug": "ambrosia-de-leite",
+      "name": "Ambrosia de Leite",
+      "description": "Silky condensed milk custard dusted with cinnamon.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 6,
+      "servingSize": "1 ramekin (80g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 6,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweetened condensed milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk condensed milk with egg yolks and vanilla until smooth."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook in a non-stick pan over low heat, stirring constantly, until thick and pulling away from the sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into individual ramekins, refrigerate for 3 hours, and dust with cinnamon before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 236,
+        "protein": 7,
+        "carbohydrates": 34,
+        "fat": 8,
+        "fiber": 0,
+        "sugar": 30,
+        "sodium": 110,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "mousse-de-maracuja",
+      "name": "Mousse de Maracujá",
+      "description": "Tangy passion fruit mousse lightened with whipped cream.",
+      "categories": [
+        "desserts",
+        "summer",
+        "easy-recipes"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 6,
+      "servingSize": "1 glass (120g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 12,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Passion fruit juice",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sweetened condensed milk",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Gelatin sheets",
+          "quantity": 3,
+          "unit": "sheets",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bloom gelatin in cold water, then dissolve in warm passion fruit juice."
+        },
+        {
+          "position": 2,
+          "instruction": "Whip heavy cream to soft peaks; fold in condensed milk and passion fruit mixture gently."
+        },
+        {
+          "position": 3,
+          "instruction": "Divide into glasses, refrigerate for at least 4 hours until firmly set."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 6,
+        "carbohydrates": 30,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 24,
+        "sodium": 80,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 15
+    },
+    {
+      "slug": "arroz-doce-brasileiro",
+      "name": "Arroz Doce Brasileiro",
+      "description": "Creamy Brazilian rice pudding with cinnamon and condensed milk.",
+      "categories": [
+        "desserts",
+        "comfort-food",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 55,
+      "servings": 6,
+      "servingSize": "1 bowl (180g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 8,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "White rice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole milk",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sweetened condensed milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Lemon zest",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse rice and simmer in milk with cinnamon sticks and lemon zest over very low heat for 40 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir in condensed milk and sugar; continue stirring gently for 10 minutes until thick and creamy."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve warm or chilled, dusted generously with ground cinnamon."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 6,
+        "fiber": 0,
+        "sugar": 22,
+        "sodium": 120,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 65
+    },
+    {
+      "slug": "canjica-doce",
+      "name": "Canjica Doce",
+      "description": "Sweet hominy pudding slow-cooked in cinnamon-spiked coconut milk.",
+      "categories": [
+        "desserts",
+        "winter",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 90,
+      "servings": 6,
+      "servingSize": "1 bowl (180g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 10,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "White hominy (canjica)",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sweetened condensed milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Shredded coconut",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak hominy overnight; drain and simmer in water with cinnamon sticks until kernels are very soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add coconut milk, condensed milk, and sugar; cook over low heat for 30 minutes, stirring often."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in shredded coconut, ladle into bowls, and serve warm with a dusting of cinnamon."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 8,
+        "carbohydrates": 42,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 20,
+        "sodium": 140,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 105
+    },
+    {
+      "slug": "manjar-de-coco",
+      "name": "Manjar de Coco",
+      "description": "Coconut milk pudding unmolded and drizzled with caramelized molasses.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "family"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 8,
+      "servingSize": "1 slice (100g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 8,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coconut milk",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Molasses (mel de rapadura)",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Coconut flakes",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dissolve cornstarch in coconut milk with sugar and a pinch of salt; whisk until smooth."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook over medium heat, stirring constantly, until very thick and pulling from the pan sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into a bundt mold, chill 4 hours until firm; unmold and serve with warm molasses drizzled over."
+        }
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 4,
+        "carbohydrates": 36,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 20,
+        "sodium": 100,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "bolo-de-cenoura",
+      "name": "Bolo de Cenoura",
+      "description": "Moist Brazilian carrot cake topped with a glossy chocolate glaze.",
+      "categories": [
+        "desserts",
+        "family",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 10,
+      "servingSize": "1 slice (100g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 5,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 91,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Carrots",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Baking powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Chocolate for glaze",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend carrots, eggs, sugar, and oil until completely smooth; fold in flour and baking powder."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour into a greased bundt pan and bake at 180°C for 35 minutes until a skewer comes out clean."
+        },
+        {
+          "position": 3,
+          "instruction": "Melt chocolate with cream for the glaze; pour over cooled cake and let set before slicing."
+        }
+      ],
+      "nutrition": {
+        "calories": 336,
+        "protein": 6,
+        "carbohydrates": 42,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 24,
+        "sodium": 180,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55
+    }
+  ]
+}

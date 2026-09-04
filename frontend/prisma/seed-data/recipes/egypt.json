@@ -1,0 +1,5829 @@
+{
+  "countryCode": "eg",
+  "recipes": [
+    {
+      "slug": "beef-kofta",
+      "name": "Egyptian Beef Kofta",
+      "description": "Juicy spiced minced-beef kebabs grilled over charcoal, a cornerstone of Egyptian grilling.",
+      "categories": [
+        "beef",
+        "traditional",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "4 skewers (250g)",
+      "homePrepCost": 180,
+      "restaurantPrice": 320,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "grill",
+        "kebab"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 700,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "finely grated"
+        },
+        {
+          "name": "Fresh Parsley",
+          "quantity": 20,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Ground Cumin",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Ground Coriander",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt & Black Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Skewers",
+          "quantity": 8,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead beef with grated onion, parsley and spices until sticky."
+        },
+        {
+          "position": 2,
+          "instruction": "Shape around skewers into long finger-sized kebabs."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over hot coals 10-12 minutes, turning often."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest briefly; serve with tahini salad and warm baladi bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 36,
+        "carbohydrates": 5,
+        "fat": 28,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 720,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "npNMlKnaNV8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=npNMlKnaNV8",
+          "videoTitle": "Egyptian Grilled Ground Beef/Lamb \"Kofta\"",
+          "channelName": "The Egyptian Cook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "hawawshi",
+      "name": "Hawawshi",
+      "description": "Baladi bread stuffed with spiced minced beef and roasted until crisp - Cairo's favorite street sandwich.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 stuffed loaf (300g)",
+      "homePrepCost": 140,
+      "restaurantPrice": 260,
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "baked",
+        "sandwich"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Baladi Bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "round loaves"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Green Bell Pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "diced"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "diced, juice squeezed out"
+        },
+        {
+          "name": "Hot Chili Pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "minced (optional)"
+        },
+        {
+          "name": "Ground Allspice",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix beef with onion, pepper, tomato and spices."
+        },
+        {
+          "position": 2,
+          "instruction": "Split bread loaves partially open and stuff evenly with the meat mixture."
+        },
+        {
+          "position": 3,
+          "instruction": "Spread butter on the outside; wrap in foil."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 200°C for 20 minutes, then unwrap and crisp 5 more minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 30,
+        "carbohydrates": 46,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 780,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "q1G05c6tJXg",
+          "youtubeUrl": "https://www.youtube.com/watch?v=q1G05c6tJXg",
+          "videoTitle": "Authentic Egyptian Hawawshi Recipe | Crispy, Juicy & Better Than Street Food",
+          "channelName": "Taste of Egypt",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "egyptian-beef-fattah",
+      "name": "Egyptian Beef Fattah",
+      "description": "Festive layers of crispy bread, garlic-tomato sauce and tender slow-cooked beef over vinegar-kissed rice.",
+      "categories": [
+        "beef",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 90,
+      "servings": 6,
+      "servingSize": "1 plate (350g)",
+      "homePrepCost": 260,
+      "restaurantPrice": 420,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "celebration",
+        "eid"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shank",
+          "quantity": 800,
+          "unit": "g",
+          "note": "cut into large chunks"
+        },
+        {
+          "name": "Baladi Bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": "toasted and broken"
+        },
+        {
+          "name": "Egyptian Rice",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato Passata",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 8,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "White Vinegar",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer beef in salted water with onion until fork-tender, about 75 minutes; reserve stock."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook rice in the beef stock until fluffy."
+        },
+        {
+          "position": 3,
+          "instruction": "Crush garlic into simmering passata for the red sauce; separately fry garlic in ghee with vinegar for the sharp sauce."
+        },
+        {
+          "position": 4,
+          "instruction": "Layer bread, rice and beef; drown in both sauces and serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 610,
+        "protein": 38,
+        "carbohydrates": 58,
+        "fat": 24,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 850,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "pwsi9RNX8y8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=pwsi9RNX8y8",
+          "videoTitle": "How to make egyptian fattah recipe",
+          "channelName": "cooking channel",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 115,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "okra-stew-with-beef",
+      "name": "Okra Stew with Beef (Bamyia bil Lahma)",
+      "description": "Tender baby okra simmered in rich tomato sauce with succulent beef chunks, served over rice.",
+      "categories": [
+        "beef",
+        "traditional",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 4,
+      "servingSize": "1 bowl (350g)",
+      "homePrepCost": 160,
+      "restaurantPrice": 280,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 70,
+      "tags": [
+        "stew",
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Baby Okra",
+          "quantity": 500,
+          "unit": "g",
+          "note": "fresh or frozen"
+        },
+        {
+          "name": "Beef Chuck",
+          "quantity": 500,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Tomato Passata",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "chopped"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 5,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Ground Coriander",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Ghee or Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef cubes with onion in ghee; cover with water and simmer 45 minutes until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Fry garlic with coriander until fragrant; stir into tomato passata."
+        },
+        {
+          "position": 3,
+          "instruction": "Add okra and sauce to the beef; simmer gently 15 minutes without stirring much."
+        },
+        {
+          "position": 4,
+          "instruction": "Season and serve with Egyptian rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 33,
+        "carbohydrates": 18,
+        "fat": 24,
+        "fiber": 6,
+        "sugar": 7,
+        "sodium": 640,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "iNxKl7etBK8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=iNxKl7etBK8",
+          "videoTitle": "A Taste of Home Cooking!\"  Okra Stew with Beef Recipe | Soulful & Delicious!\"",
+          "channelName": "Wanis Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-shawarma",
+      "name": "Egyptian Beef Shawarma",
+      "description": "Vinegar-marinated shaved beef wraps with tahini.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef sirloin thin slices",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "White vinegar marinade",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Baladi bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Tahini sauce",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate slices 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry hot till browned edges."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap with tahini and pickles; toast."
+        }
+      ],
+      "nutrition": {
+        "calories": 438,
+        "protein": 34,
+        "carbohydrates": 26,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 760,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "JAWKlh_xUQs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=JAWKlh_xUQs",
+          "videoTitle": "HOW TO MAKE THE JUICIEST  BEEF SHAWARMA.",
+          "channelName": "Chidie’s goodies",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kebda-eskandarani",
+      "name": "Alexandrian Beef Liver",
+      "description": "Spicy quick-fried liver with peppers, Alexandrian style.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef liver strips",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green peppers & chili",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic & cumin & lemon",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Flash-fry liver very hot 3 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Add peppers-garlic; toss 2 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon squeeze; serve in baladi bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 32,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 690,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "TpeecZdOthw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=TpeecZdOthw",
+          "videoTitle": "Kebda Eskandarani /liver Alexandrian recipe",
+          "channelName": "HayatZ mixvlog",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sambousek-bel-lahma",
+      "name": "Meat Sambousek",
+      "description": "Crisp fried pastry triangles filled spiced minced beef.",
+      "categories": [
+        "beef",
+        "snack",
+        "ramadan"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Samosa pastry sheets",
+          "quantity": 16,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Onion & pine nuts",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook beef with onion; cool."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill and fold triangles."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry golden; drain."
+        }
+      ],
+      "nutrition": {
+        "calories": 483,
+        "protein": 30,
+        "carbohydrates": 30,
+        "fat": 27,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "macarona-bechamel",
+      "name": "Macarona Bechamel",
+      "description": "Layered pasta-beef bake under golden cream bechamel.",
+      "categories": [
+        "beef",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Penne pasta",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ground beef",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Bechamel + eggs",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil pasta; cook beef in tomato sauce."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer pasta-meat-pasta; pour bechamel."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 190C 40 min till bronzed."
+        }
+      ],
+      "nutrition": {
+        "calories": 706,
+        "protein": 32,
+        "carbohydrates": 68,
+        "fat": 34,
+        "fiber": 3,
+        "sugar": 10,
+        "sodium": 780,
+        "saturatedFat": 15
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "daoud-basha",
+      "name": "Daoud Basha",
+      "description": "Meatball-pine-nut stew in sweet-tangy tomato sauce over rice.",
+      "categories": [
+        "beef",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground beef & lamb-free mix",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pine nuts",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato passata",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Egyptian rice to serve",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll small meatballs around pine nuts."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown; simmer in passata 25 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve over buttered rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 576,
+        "protein": 29,
+        "carbohydrates": 52,
+        "fat": 28,
+        "fiber": 4,
+        "sugar": 9,
+        "sodium": 680,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahma-bil-basal",
+      "name": "Lahma Bil Basal",
+      "description": "Sweet slow-cooked beef smothered in golden onions.",
+      "categories": [
+        "beef",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck cubes",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions sliced thick",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ghee",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Caramelize onions long and slow."
+        },
+        {
+          "position": 3,
+          "instruction": "Return beef; cover-stew 75 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 494,
+        "protein": 36,
+        "carbohydrates": 20,
+        "fat": 30,
+        "fiber": 4,
+        "sugar": 8,
+        "sodium": 620,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mahshi-kromb",
+      "name": "Stuffed Cabbage Rolls",
+      "description": "Cabbage leaves rolled around herbed rice and minced beef.",
+      "categories": [
+        "beef",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cabbage leaves",
+          "quantity": 1,
+          "unit": "kg",
+          "note": null
+        },
+        {
+          "name": "Minced beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egyptian rice",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato-cumin broth",
+          "quantity": 700,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch leaves; mix rice-beef-herbs."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll tight; pack pot snugly."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered in broth 60 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 442,
+        "protein": 22,
+        "carbohydrates": 48,
+        "fat": 18,
+        "fiber": 5,
+        "sugar": 7,
+        "sodium": 560,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "musaqaa-bel-lahma",
+      "name": "Egyptian Musaqaa",
+      "description": "Fried eggplant baked in spiced tomato-mince sauce.",
+      "categories": [
+        "beef",
+        "lunch"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplants sliced",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Minced beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry eggplant golden; drain."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown mince into sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer-bake 180C 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 458,
+        "protein": 20,
+        "carbohydrates": 36,
+        "fat": 26,
+        "fiber": 7,
+        "sugar": 11,
+        "sodium": 640,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mombar",
+      "name": "Mombar (Stuffed Beef Sausage)",
+      "description": "Beef intestine casing stuffed with rice-herb filling, simmered then fried.",
+      "categories": [
+        "beef",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef casings cleaned",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rice & herb filling",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Stock for simmering",
+          "quantity": 1200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Oil for finishing",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stuff casings loosely with filling."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 45 minutes; cool."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice and crisp in oil before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 484,
+        "protein": 18,
+        "carbohydrates": 58,
+        "fat": 20,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 640,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kawareh",
+      "name": "Kawareh Broth",
+      "description": "Gelatin-rich beef trotter broth served with rice or bread.",
+      "categories": [
+        "beef",
+        "soup"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef trotters",
+          "quantity": 1500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & garlic & bay",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole spices",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Egyptian rice side",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch trotters; rinse well."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 4 hours till gelatinous."
+        },
+        {
+          "position": 3,
+          "instruction": "Season; serve broth over rice."
+        }
+      ],
+      "nutrition": {
+        "calories": 389,
+        "protein": 28,
+        "carbohydrates": 22,
+        "fat": 21,
+        "fiber": 0.5,
+        "sugar": 2,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-kebab-eskandarani",
+      "name": "Kebab Eskandarani",
+      "description": "Chopped-meat skewers seared with onions and peppers.",
+      "categories": [
+        "beef",
+        "grill"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chopped beef sirloin",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & green pepper chunks",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Allspice & salt",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Skewers",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chopped meat; mold on skewers."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill hot turning often."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest; serve with tahini dip."
+        }
+      ],
+      "nutrition": {
+        "calories": 441,
+        "protein": 37,
+        "carbohydrates": 8,
+        "fat": 29,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 700,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lahma-muassaqa-pot",
+      "name": "Lahma bi'l-Furn",
+      "description": "Oven-braised beef with potatoes in rich tomato tray.",
+      "categories": [
+        "beef",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef shoulder slices",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes sliced",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato puree",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onions rings",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef slices."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer with potato and onion in tray."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour puree; bake 170C 75 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 534,
+        "protein": 33,
+        "carbohydrates": 42,
+        "fat": 26,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 680,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-liver-sandwich-masr",
+      "name": "Street Liver Sandwich Plate",
+      "description": "Open plate of kebda with pickles and chili — late-night Cairo.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef liver diced",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pickled chilies & lemon",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baladi bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Oil & cumin",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dry-fry liver hot 4 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Season cumin-salt sharply."
+        },
+        {
+          "position": 3,
+          "instruction": "Pile onto bread with pickles."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 30,
+        "carbohydrates": 14,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 820,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-tajin-masri",
+      "name": "Beef Tajen Pot",
+      "description": "Clay-pot beef baked with onion-tomato until spoon tender.",
+      "categories": [
+        "beef",
+        "clay-pot"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck cubes",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions grated",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomatoes grated",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix everything raw in tajen pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake covered 160C 100 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Uncover 15 minutes to thicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 30,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 590,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rez-bil-lahma",
+      "name": "Rez bil Lahma Maamool",
+      "description": "Casserole rice baked over beef chunks in its broth.",
+      "categories": [
+        "beef",
+        "oven-rice"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egyptian rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Beef chunks on bone",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee & allspice",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Beef stock",
+          "quantity": 900,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef; half-cover; stew 60 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold rice into broth in baking dish."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 30 min till rice drinks stock."
+        }
+      ],
+      "nutrition": {
+        "calories": 632,
+        "protein": 32,
+        "carbohydrates": 72,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 700,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-pasta-white-sauce",
+      "name": "Creamy Chicken Pasta Bake",
+      "description": "Bechamel pasta with shredded chicken and mozzarella.",
+      "categories": [
+        "beef",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pasta",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded chicken",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bechamel",
+          "quantity": 700,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix pasta-chicken-half bechamel."
+        },
+        {
+          "position": 2,
+          "instruction": "Top rest + cheese."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 190C 30 minutes bubbly."
+        }
+      ],
+      "nutrition": {
+        "calories": 690,
+        "protein": 39,
+        "carbohydrates": 66,
+        "fat": 30,
+        "fiber": 3,
+        "sugar": 9,
+        "sodium": 760,
+        "saturatedFat": 13
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-shawarma",
+      "name": "Egyptian Chicken Shawarma",
+      "description": "Vinegar-marinated chicken shaved from the spit, wrapped in baladi bread with tahini and pickles.",
+      "categories": [
+        "chicken",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 wrap (280g)",
+      "homePrepCost": 150,
+      "restaurantPrice": 240,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "wrap",
+        "grill"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 700,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "White Vinegar",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Plain Yogurt",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 5,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Ground Cardamom",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Baladi Bread",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Tahini Sauce",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Pickled Cucumbers",
+          "quantity": 100,
+          "unit": "g",
+          "note": "sliced"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken slices in vinegar, yogurt, garlic and cardamom at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry over high heat until browned edges form, about 12 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Warm bread; spread with tahini, add chicken and pickles."
+        },
+        {
+          "position": 4,
+          "instruction": "Roll tightly and toast seam-side down in a dry pan."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 42,
+        "carbohydrates": 44,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 920,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "3xYy2UHwWgs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=3xYy2UHwWgs",
+          "videoTitle": "Chicken Shawarma",
+          "channelName": "The Crazzy Cook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "firakh-mahshi",
+      "name": "Stuffed Chicken (Firakh Mahshi)",
+      "description": "Whole chicken stuffed with herbed rice and roasted until golden - the Egyptian Sunday centerpiece.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 70,
+      "servings": 4,
+      "servingSize": "1/4 chicken with rice (380g)",
+      "homePrepCost": 220,
+      "restaurantPrice": 380,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "roast",
+        "family-meal"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "about 1.4kg"
+        },
+        {
+          "name": "Egyptian Rice",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "finely diced"
+        },
+        {
+          "name": "Chicken Liver & Gizzards",
+          "quantity": 150,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Fresh Dill & Cilantro",
+          "quantity": 30,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Salt & Black Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté liver and onion in ghee; stir in rice, herbs, salt and pepper with a splash of water."
+        },
+        {
+          "position": 2,
+          "instruction": "Stuff the chicken loosely and seal; rub skin with ghee and pepper."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 190°C about 60-70 minutes, basting twice, until deeply golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 minutes; carve and serve with the baked stuffing."
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 45,
+        "carbohydrates": 52,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 720,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "i4e-Pf7C12w",
+          "youtubeUrl": "https://www.youtube.com/watch?v=i4e-Pf7C12w",
+          "videoTitle": "You've Been Served: Jaj mahshi (stuffed chicken)",
+          "channelName": "Jehan Alfarra",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "molokhia-with-chicken",
+      "name": "Molokhia with Chicken",
+      "description": "Silky jute-leaf soup perfumed with garlic and coriander, poured over rice alongside tender poached chicken.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "lunch"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "servingSize": "1 bowl with rice (400g)",
+      "homePrepCost": 130,
+      "restaurantPrice": 240,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "soup",
+        "comfort-food"
+      ],
+      "ingredients": [
+        {
+          "name": "Frozen Molokhia Leaves",
+          "quantity": 400,
+          "unit": "g",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Chicken Breasts or Thighs",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Chicken Stock",
+          "quantity": 900,
+          "unit": "ml",
+          "note": "from poaching the chicken"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 8,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Ground Coriander",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Ghee",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Egyptian Rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken in salted water 30 minutes; shred and reserve the stock."
+        },
+        {
+          "position": 2,
+          "instruction": "Sizzle garlic and coriander in ghee until golden (taqliya)."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk molokhia into hot (not boiling) stock with half the taqliya; heat gently 5 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve broth over rice with shredded chicken and remaining taqliya on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 40,
+        "carbohydrates": 54,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 3,
+        "sodium": 780,
+        "saturatedFat": 3.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "WQB5TdC7FaQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=WQB5TdC7FaQ",
+          "videoTitle": "Chicken Molokhia Recipe | Famous Egyptian Arabic Dish | Molokhiya with Chicken & Rice",
+          "channelName": "Abdul Aziz Dubai Vlogs",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "firakh-meshwiya",
+      "name": "Firakh Meshwiya (Grilled Lemon Chicken)",
+      "description": "Charcoal-grilled chicken quarters marinated in lemon, garlic and Egyptian spices.",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 quarter (280g)",
+      "homePrepCost": 160,
+      "restaurantPrice": 260,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 75,
+      "tags": [
+        "charcoal-grill"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Leg Quarters",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Lemon Juice & Zest",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 5,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Ground Cumin & Coriander",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate quarters at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over medium coals ~15 minutes per side until juices run clear."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest briefly; serve with extra lemon and tahini salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 40,
+        "carbohydrates": 6,
+        "fat": 26,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 720,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "firakh-mashwiya-furn",
+      "name": "Oven-Roasted Chicken Tray",
+      "description": "Weeknight tray of chicken, potato and onion roasted in spices.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken quarters",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Potatoes sliced",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red onion wedges",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Seven-spice & oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toss everything with spices in tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast 200C 45 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Broil 5 minutes to crisp skin."
+        }
+      ],
+      "nutrition": {
+        "calories": 606,
+        "protein": 38,
+        "carbohydrates": 46,
+        "fat": 30,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shish-tawook-masry",
+      "name": "Egyptian Shish Tawook",
+      "description": "Yogurt-lemon chicken skewers with garlic dip.",
+      "categories": [
+        "chicken",
+        "grill"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast cubes",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt-lemon-garlic marinade",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Skewers",
+          "quantity": 12,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic whip dip",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate 3 hours minimum."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill 12 minutes turning."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with garlic whip and fries."
+        }
+      ],
+      "nutrition": {
+        "calories": 497,
+        "protein": 44,
+        "carbohydrates": 24,
+        "fat": 25,
+        "fiber": 1.5,
+        "sugar": 4,
+        "sodium": 890,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "molokhia-bil-frakh-broth",
+      "name": "Molokhia Royale",
+      "description": "Extra-green molokhia blended velvety with rabbit-style chicken broth.",
+      "categories": [
+        "chicken",
+        "soup"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Molokhia leaves double",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole chicken for broth",
+          "quantity": 1300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Taqliya garlic-coriander doubled",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice to serve",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken; reserve gold broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend molokhia into hot broth gently."
+        },
+        {
+          "position": 3,
+          "instruction": "Double taqliya crowns each bowl."
+        }
+      ],
+      "nutrition": {
+        "calories": 465,
+        "protein": 36,
+        "carbohydrates": 42,
+        "fat": 17,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 820,
+        "saturatedFat": 3.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "frakh-mahshi-turkey-style",
+      "name": "Herbed Turkey-Style Stuffed Chicken",
+      "description": "Leaner stuffed bird with dill-heavy rice.",
+      "categories": [
+        "chicken",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rice & mixed herbs stuffing",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter & seven spice",
+          "quantity": 70,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stuff loosely; seal cavity."
+        },
+        {
+          "position": 2,
+          "instruction": "Rub spiced butter all over."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast 190C 70 minutes basting."
+        }
+      ],
+      "nutrition": {
+        "calories": 628,
+        "protein": 44,
+        "carbohydrates": 50,
+        "fat": 28,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 700,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "buffalo-style-cairo-wings",
+      "name": "Cairo Hot Wings",
+      "description": "Franks-style wings with Egyptian heat twist.",
+      "categories": [
+        "chicken",
+        "snack",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken wings",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hot sauce butter glaze",
+          "quantity": 180,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Blue-style dip",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bake wings high till crackly."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss in warm glaze."
+        },
+        {
+          "position": 3,
+          "instruction": "Dip cold; suffer happily."
+        }
+      ],
+      "nutrition": {
+        "calories": 532,
+        "protein": 32,
+        "carbohydrates": 20,
+        "fat": 36,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 1180,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-liver-sandwich",
+      "name": "Chicken Liver Sandwich",
+      "description": "Tender liver bites with arugula in baladi bread.",
+      "categories": [
+        "chicken",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken livers cleaned",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic & lemon & chili",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baladi bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute garlic; liver 5 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Deglaze lemon; season hard."
+        },
+        {
+          "position": 3,
+          "instruction": "Stuff bread with arugula."
+        }
+      ],
+      "nutrition": {
+        "calories": 363,
+        "protein": 30,
+        "carbohydrates": 18,
+        "fat": 19,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 640,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "roz-moammar-chicken",
+      "name": "Roz Moammar with Chicken",
+      "description": "Oven-baked creamy rice alongside roast chicken pieces.",
+      "categories": [
+        "chicken",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egyptian rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Full cream milk + cream",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Chicken pieces roasted",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil rice slightly; milk-soak."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake covered with ghee 40 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve crowned with roast chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 703,
+        "protein": 31,
+        "carbohydrates": 84,
+        "fat": 27,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 620,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-shorba-ads",
+      "name": "Chicken Lentil Soup",
+      "description": "Golden lentil soup enriched with shredded chicken.",
+      "categories": [
+        "chicken",
+        "soup",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Red lentils",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cumin & lemon",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Stock",
+          "quantity": 1400,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer lentils soft; blend."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold chicken through hot soup."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon-cumin lift at end."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 29,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 760,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-hawawshi",
+      "name": "Chicken Hawawshi",
+      "description": "Baladi bread stuffed with spiced minced chicken.",
+      "categories": [
+        "chicken",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced chicken",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baladi bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Pepper-onion-tomato mix",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter brush",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix filling; stuff loaves."
+        },
+        {
+          "position": 2,
+          "instruction": "Brush; foil-wrap."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 200C 22 minutes; crisp open."
+        }
+      ],
+      "nutrition": {
+        "calories": 506,
+        "protein": 33,
+        "carbohydrates": 44,
+        "fat": 22,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-kabab-skewers",
+      "name": "Joojeh-Style Yogurt Skewers",
+      "description": "Saffron-yogurt chicken skewers, Persian-cousin grill.",
+      "categories": [
+        "chicken",
+        "grill"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh cubes",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Saffron yogurt marinade",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Skewers",
+          "quantity": 10,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate overnight ideally."
+        },
+        {
+          "position": 2,
+          "instruction": "Char-grill 12 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Butter-brush hot off fire."
+        }
+      ],
+      "nutrition": {
+        "calories": 438,
+        "protein": 41,
+        "carbohydrates": 10,
+        "fat": 26,
+        "fiber": 1.5,
+        "sugar": 4,
+        "sodium": 760,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-liver-rice",
+      "name": "Rice with Chicken Livers",
+      "description": "Pan liver-rice one-pot with garam warmth.",
+      "categories": [
+        "chicken",
+        "one-pot"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egyptian rice",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chicken livers",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion & seven spice",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry livers 4 minutes; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Toast rice in same fat; add water."
+        },
+        {
+          "position": 3,
+          "instruction": "Nest livers; steam 18 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 539,
+        "protein": 27,
+        "carbohydrates": 74,
+        "fat": 15,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-kofta",
+      "name": "Chicken Kofta",
+      "description": "Juicy herbed minced-chicken skewers, lighter grill cousin.",
+      "categories": [
+        "chicken",
+        "grill"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Minced chicken",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Parsley & onion grated",
+          "quantity": 180,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Allspice & paprika",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Knead meat sticky with herbs."
+        },
+        {
+          "position": 2,
+          "instruction": "Skewer long fingers."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill 12 minutes turning thrice."
+        }
+      ],
+      "nutrition": {
+        "calories": 409,
+        "protein": 38,
+        "carbohydrates": 8,
+        "fat": 25,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pane-pane",
+      "name": "Pane Pane Cutlets",
+      "description": "Egyptian diner breaded cutlets, lemon mandatory.",
+      "categories": [
+        "chicken",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast thin cutlets",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour-egg-crumb line",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon wedges",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound thin; season; bread firmly."
+        },
+        {
+          "position": 2,
+          "instruction": "Shallow fry 3 min per side gold."
+        },
+        {
+          "position": 3,
+          "instruction": "Salt instantly; lemon shower."
+        }
+      ],
+      "nutrition": {
+        "calories": 528,
+        "protein": 42,
+        "carbohydrates": 36,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mahshi-vermicelli-chicken",
+      "name": "Vermicelli-Stuffed Chicken",
+      "description": "Toasted-vermicelli rice stuffing inside whole bird.",
+      "categories": [
+        "chicken",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vermicelli-rice stuffing",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee & spice",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toast vermicelli into rice base."
+        },
+        {
+          "position": 2,
+          "instruction": "Stuff and seal bird tightly."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast 190C 75 minutes restful."
+        }
+      ],
+      "nutrition": {
+        "calories": 658,
+        "protein": 45,
+        "carbohydrates": 52,
+        "fat": 30,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 700,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shorbet-kousa-dajaj",
+      "name": "Zucchini Chicken Soup",
+      "description": "Clean zucchini-chicken soup, sick-day royalty.",
+      "categories": [
+        "chicken",
+        "soup",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Zucchini diced",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shredded poached chicken",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": 1300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic & coriander taliya",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer zucchini tender in broth."
+        },
+        {
+          "position": 2,
+          "instruction": "Add chicken; heat through."
+        },
+        {
+          "position": 3,
+          "instruction": "Taliya swirl; lemon optional."
+        }
+      ],
+      "nutrition": {
+        "calories": 291,
+        "protein": 28,
+        "carbohydrates": 20,
+        "fat": 11,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "salatet-bettingan",
+      "name": "Eggplant Vinegar Salad",
+      "description": "Smoky-fried eggplant tossed sharp with garlic.",
+      "categories": [
+        "chicken",
+        "starter"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplants cubed",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "White vinegar & garlic",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Parsley & chili flakes",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry eggplant dark gold."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss hot with vinegar-garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Marinate 30 minutes serve room."
+        }
+      ],
+      "nutrition": {
+        "calories": 238,
+        "protein": 4,
+        "carbohydrates": 24,
+        "fat": 14,
+        "fiber": 6,
+        "sugar": 8,
+        "sodium": 320,
+        "saturatedFat": 1.7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "egyptian-koshari",
+      "name": "Egyptian Koshari",
+      "description": "Egypt's beloved national dish: spiced rice and lentils topped with pasta, chickpeas, tangy tomato sauce and crispy fried onions.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "servingSize": "1 bowl (400g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 98,
+      "tags": [
+        "national-dish",
+        "vegan-option"
+      ],
+      "ingredients": [
+        {
+          "name": "Long Grain Rice",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Brown Lentils",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Macaroni",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Chickpeas (cooked)",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Onions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "thinly sliced for frying"
+        },
+        {
+          "name": "Tomato Passata",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 6,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "White Vinegar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ground Cumin",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable Oil",
+          "quantity": 300,
+          "unit": "ml",
+          "note": "for frying onions"
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak the sliced onions in salt, then deep-fry until golden and crisp. Drain on paper towels."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer lentils in salted water until just tender, about 15 minutes; drain."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook rice with a little oil and the lentils' cooking water until fluffy."
+        },
+        {
+          "position": 4,
+          "instruction": "Boil macaroni until al dente; drain."
+        },
+        {
+          "position": 5,
+          "instruction": "For the sauce, sauté garlic, add passata, vinegar, cumin and a pinch of chili; simmer 10 minutes."
+        },
+        {
+          "position": 6,
+          "instruction": "Assemble: layer rice-lentil mix, macaroni, chickpeas, spoon over sauce and crown with crispy onions."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 22,
+        "carbohydrates": 88,
+        "fat": 10,
+        "fiber": 12,
+        "sugar": 8,
+        "sodium": 620,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "sfs8KikF96I",
+          "youtubeUrl": "https://www.youtube.com/watch?v=sfs8KikF96I",
+          "videoTitle": "Egyptian Koshari Recipe | Authentic Egyptian Street Food",
+          "channelName": "Middle Eats",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55
+    },
+    {
+      "slug": "ful-medames",
+      "name": "Ful Medames",
+      "description": "Slow-simmered fava beans mashed with olive oil, lemon, cumin and garlic - Egypt's ancient breakfast staple.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "budget-friendly",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 bowl (250g)",
+      "homePrepCost": 35,
+      "restaurantPrice": 60,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "vegan",
+        "street-breakfast"
+      ],
+      "ingredients": [
+        {
+          "name": "Dried Fava Beans",
+          "quantity": 400,
+          "unit": "g",
+          "note": "soaked overnight"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ground Cumin",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "diced (optional)"
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer soaked fava beans 45-60 minutes until very soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Mash coarsely with some of their cooking liquid."
+        },
+        {
+          "position": 3,
+          "instruction": "Stir in olive oil, lemon, garlic, cumin and salt."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with tomato, olive oil drizzle and eat with warm bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 19,
+        "carbohydrates": 46,
+        "fat": 10,
+        "fiber": 14,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "lXFmvK8cz0g",
+          "youtubeUrl": "https://www.youtube.com/watch?v=lXFmvK8cz0g",
+          "videoTitle": "Ful Medames Recipe (Egyptian Fava Beans)",
+          "channelName": "Unicorns in the Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "taameya",
+      "name": "Ta'ameya (Egyptian Falafel)",
+      "description": "Crisp fritters of ground fava beans and herbs - Egypt's greener, fluffier answer to falafel.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "6 fritters (200g)",
+      "homePrepCost": 50,
+      "restaurantPrice": 80,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "fried",
+        "vegan"
+      ],
+      "ingredients": [
+        {
+          "name": "Split Fava Beans",
+          "quantity": 400,
+          "unit": "g",
+          "note": "soaked overnight"
+        },
+        {
+          "name": "Fresh Cilantro",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Fresh Parsley",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "quartered"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "name": "Ground Coriander & Cumin",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 40,
+          "unit": "g",
+          "note": "for coating"
+        },
+        {
+          "name": "Vegetable Oil",
+          "quantity": 500,
+          "unit": "ml",
+          "note": "for deep frying"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend drained beans with herbs, onion, garlic and spices to a coarse paste."
+        },
+        {
+          "position": 2,
+          "instruction": "Rest the mix 30 minutes; shape into flattened discs."
+        },
+        {
+          "position": 3,
+          "instruction": "Coat with sesame seeds."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry at 175°C until deep golden, about 4 minutes; drain well."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 17,
+        "carbohydrates": 40,
+        "fat": 21,
+        "fiber": 10,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "UKIw033lgCc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=UKIw033lgCc",
+          "videoTitle": "How to make Falafel ? [Best Egyptian Falafel recipe ] Ta'amiya / The Best recipe with fava beans",
+          "channelName": "نهى إسماعيل Noha Ismail",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "mahshi-warak-enab",
+      "name": "Mahshi Warak Enab",
+      "description": "Vine leaves rolled around herbed rice, simmered lemon-tangy until melt-in-the-mouth tender.",
+      "categories": [
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "HARD",
+      "prepTimeMin": 45,
+      "cookTimeMin": 60,
+      "servings": 6,
+      "servingSize": "10 rolls (220g)",
+      "homePrepCost": 90,
+      "restaurantPrice": 170,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 72,
+      "tags": [
+        "handmade",
+        "mezze"
+      ],
+      "ingredients": [
+        {
+          "name": "Vine Leaves",
+          "quantity": 400,
+          "unit": "g",
+          "note": "jarred or fresh, blanched"
+        },
+        {
+          "name": "Egyptian Rice",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "grated"
+        },
+        {
+          "name": "Fresh Dill, Parsley & Cilantro",
+          "quantity": 50,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable Stock",
+          "quantity": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix rice with herbs, tomato, oil, salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Place a spoonful on each leaf vein-side up and roll tightly."
+        },
+        {
+          "position": 3,
+          "instruction": "Pack rolls snugly in a pot lined with spare leaves."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour stock with lemon over; weigh down with a plate; simmer covered 50 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 7,
+        "carbohydrates": 52,
+        "fat": 12,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 105,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kufta-bel-siniya",
+      "name": "Kufta bel Siniya",
+      "description": "Oven tray of grilled-style kofta baked in tomato sauce.",
+      "categories": [
+        "vegetarian",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kofta mix shaped flat",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Potato rounds",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee dots",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press kofta into oiled tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Cover with sauce and potato."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 190C 35 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 561,
+        "protein": 31,
+        "carbohydrates": 44,
+        "fat": 29,
+        "fiber": 5,
+        "sugar": 9,
+        "sodium": 720,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bamia-zati",
+      "name": "Vegan Bamia",
+      "description": "Okra stew deepened with mushrooms instead of meat.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "stew"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baby okra",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato passata",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Mushroom chunks",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coriander-garlic taliya",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry okra dry-ish first."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer in sauce 20 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Taliya swirl at end."
+        }
+      ],
+      "nutrition": {
+        "calories": 265,
+        "protein": 7,
+        "carbohydrates": 30,
+        "fat": 13,
+        "fiber": 7,
+        "sugar": 11,
+        "sodium": 540,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "batates-mahshia",
+      "name": "Spicy Potato Harissa",
+      "description": "Cairo street-cart braised potatoes in red harissa sauce.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Potatoes cubed",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Harissa-style red sauce",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry potatoes light gold."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer in sauce 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Eat with bread, obviously."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 5,
+        "carbohydrates": 48,
+        "fat": 16,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 620,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bettingan-mahshi",
+      "name": "Stuffed Eggplant",
+      "description": "Small eggplants filled herbed rice, tomato-poached.",
+      "categories": [
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baby eggplants",
+          "quantity": 10,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Herb rice filling",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato broth",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Core eggplants; fill two-thirds."
+        },
+        {
+          "position": 2,
+          "instruction": "Pack pot; tomato broth over."
+        },
+        {
+          "position": 3,
+          "instruction": "Weigh down; simmer 40 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 313,
+        "protein": 6,
+        "carbohydrates": 52,
+        "fat": 9,
+        "fiber": 4.5,
+        "sugar": 9,
+        "sodium": 420,
+        "saturatedFat": 1.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "koshari-ro2a",
+      "name": "Lenten Koshari Deluxe",
+      "description": "Extra-crisp topped koshari with garlic vinegar punch.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Koshari base components",
+          "quantity": 1,
+          "unit": "set",
+          "note": null
+        },
+        {
+          "name": "Crispy onion double",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Daoud-style extra sauce",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Build classic layers taller."
+        },
+        {
+          "position": 2,
+          "instruction": "Double sauce, double crunch."
+        },
+        {
+          "position": 3,
+          "instruction": "Lemon-vinegar shock on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 606,
+        "protein": 24,
+        "carbohydrates": 96,
+        "fat": 14,
+        "fiber": 12,
+        "sugar": 10,
+        "sodium": 880,
+        "saturatedFat": 2.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "salatet-masqea-veg",
+      "name": "Eggplant Musaqaa Vegan",
+      "description": "The bake minus meat, plus chickpeas.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "baked"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplant slices",
+          "quantity": 900,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chickpeas",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roast eggplant slices oiled."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauce-chickpea layers x2."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 35 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 323,
+        "protein": 9,
+        "carbohydrates": 38,
+        "fat": 15,
+        "fiber": 9,
+        "sugar": 14,
+        "sodium": 580,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "torshi-mish",
+      "name": "Pickled Cheese Plate",
+      "description": "Mish-aged cheese with torshi pickles and bread.",
+      "categories": [
+        "vegetarian",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mish cheese",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed torshi pickles",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baladi bread",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Olives",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Arrange everything rustically."
+        },
+        {
+          "position": 2,
+          "instruction": "Eat standing like a farmer."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 17,
+        "carbohydrates": 26,
+        "fat": 20,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 1450,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bettingan-mahshi-eggs",
+      "name": "Eggplant with Egg",
+      "description": "Fried eggplant smothered in set tomatoes and eggs.",
+      "categories": [
+        "vegetarian",
+        "breakfast",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggplant rounds",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Tomatoes grated",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry eggplant golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour tomato; simmer 10 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Eggs cracked in; lid till set."
+        }
+      ],
+      "nutrition": {
+        "calories": 336,
+        "protein": 13,
+        "carbohydrates": 26,
+        "fat": 20,
+        "fiber": 5,
+        "sugar": 9,
+        "sodium": 520,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "keskawan-mahshi",
+      "name": "Stuffed Keskawan Cheese",
+      "description": "Halloumi-style cheese stuffed with mint rice, lightly fried.",
+      "categories": [
+        "vegetarian",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Thick halloum slabs",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Small herb-rice portion",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour dust",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pocket slit; tiny rice fill."
+        },
+        {
+          "position": 2,
+          "instruction": "Dust flour barely."
+        },
+        {
+          "position": 3,
+          "instruction": "Quick sear both faces."
+        }
+      ],
+      "nutrition": {
+        "calories": 442,
+        "protein": 20,
+        "carbohydrates": 32,
+        "fat": 26,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 1150,
+        "saturatedFat": 13
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mahshi-kousa-vegan",
+      "name": "Stuffed Zucchini Vegan",
+      "description": "Zucchini boats of vegan herbed rice in lemon broth.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grey zucchini",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Vegan rice-herb filling",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon vegetable broth",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Core zucchini carefully."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill 3/4 with rice mix."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer lemony 35 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbohydrates": 46,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 7,
+        "sodium": 380,
+        "saturatedFat": 1.2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shakshouka-masry",
+      "name": "Egyptian Shakshuka",
+      "description": "Pepper-tomato base with tucked eggs and feta.",
+      "categories": [
+        "vegetarian",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bell peppers & onion",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Feta crumble",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soften peppers-onion slow."
+        },
+        {
+          "position": 2,
+          "instruction": "Tomatoes jammy 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Egg wells; lid; feta snow."
+        }
+      ],
+      "nutrition": {
+        "calories": 289,
+        "protein": 14,
+        "carbohydrates": 20,
+        "fat": 17,
+        "fiber": 5,
+        "sugar": 10,
+        "sodium": 640,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "bessara",
+      "name": "Bessara",
+      "description": "Whipped fava-green soup with cumin oil - ancient staple.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "breakfast"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Split fava & lentils",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green onion & dill & leek",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ground cumin & dried mint",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Olive oil finish",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer legumes till collapsing."
+        },
+        {
+          "position": 2,
+          "instruction": "Blend green-smooth with herbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Oil-cumin pools on top."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 16,
+        "carbohydrates": 42,
+        "fat": 6,
+        "fiber": 13,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 0.9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "salata-baladi",
+      "name": "Salata Baladi",
+      "description": "The daily tomato-cucumber-onion chop.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "salad"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cucumber & red onion",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon-oil dressing",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Chop rustic chunks."
+        },
+        {
+          "position": 2,
+          "instruction": "Dress lemony; salt well."
+        }
+      ],
+      "nutrition": {
+        "calories": 114,
+        "protein": 3,
+        "carbohydrates": 12,
+        "fat": 6,
+        "fiber": 4,
+        "sugar": 7,
+        "sodium": 240,
+        "saturatedFat": 0.9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "dAYEd-yJnBc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=dAYEd-yJnBc",
+          "videoTitle": "Egyptian Cucumber and Tomato Salad (Salata Baladi)",
+          "channelName": "Food Dolls",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mahshi-fillfil-vegan",
+      "name": "Stuffed Peppers Vegan",
+      "description": "Peppers packed lemon-herb rice, pot-steamed.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bell peppers",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Vegan herbed rice",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato-lemon broth",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Core peppers; fill loosely."
+        },
+        {
+          "position": 2,
+          "instruction": "Stand packed in pot."
+        },
+        {
+          "position": 3,
+          "instruction": "Broth simmer covered 40 min."
+        }
+      ],
+      "nutrition": {
+        "calories": 275,
+        "protein": 5,
+        "carbohydrates": 48,
+        "fat": 7,
+        "fiber": 3.5,
+        "sugar": 9,
+        "sodium": 360,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "molokhia-nabawi-vegan",
+      "name": "Nabawi Molokhia Vegan",
+      "description": "Molokhia in rich vegetable broth, full taliya.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "soup"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Molokhia leaves",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Robust vegetable broth",
+          "quantity": 1200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Double garlic-coriander taliya",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brohot simmering not boiling."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk leaves smooth 5 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Taliya split between pot and bowls."
+        }
+      ],
+      "nutrition": {
+        "calories": 219,
+        "protein": 8,
+        "carbohydrates": 22,
+        "fat": 11,
+        "fiber": 6,
+        "sugar": 5,
+        "sodium": 760,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "roz-bel-shareya",
+      "name": "Roz bil Sh3eereya",
+      "description": "Golden vermicelli rice - the universal Egyptian side.",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egyptian rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vermicelli toasted amber",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ghee or oil",
+          "quantity": 50,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry vermicelli deep gold first."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice in; water; boil then steam."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest fluff 10 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 337,
+        "protein": 6,
+        "carbohydrates": 58,
+        "fat": 9,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 310,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "om-ali",
+      "name": "Om Ali",
+      "description": "Warm Egyptian bread pudding baked with pistachios, raisins and cream - the country's favorite dessert.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 6,
+      "servingSize": "1 cup (180g)",
+      "homePrepCost": 60,
+      "restaurantPrice": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 70,
+      "tags": [
+        "dessert",
+        "warm"
+      ],
+      "ingredients": [
+        {
+          "name": "Puff Pastry Sheets",
+          "quantity": 300,
+          "unit": "g",
+          "note": "baked and broken"
+        },
+        {
+          "name": "Whole Milk",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Raisins",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Pistachios",
+          "quantity": 50,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Vanilla Extract",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bake pastry sheets until golden, then break into pieces into a buttered baking dish."
+        },
+        {
+          "position": 2,
+          "instruction": "Scatter raisins and half the pistachios over the pastry."
+        },
+        {
+          "position": 3,
+          "instruction": "Heat milk with sugar and vanilla until dissolved; pour evenly over the pastry."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with cream and remaining pistachios; bake at 190°C for 25 minutes until golden."
+        },
+        {
+          "position": 5,
+          "instruction": "Serve warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 385,
+        "protein": 7,
+        "carbohydrates": 42,
+        "fat": 21,
+        "fiber": 1.5,
+        "sugar": 26,
+        "sodium": 150,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "rcGvlOfjuvE",
+          "youtubeUrl": "https://www.youtube.com/watch?v=rcGvlOfjuvE",
+          "videoTitle": "“How to Make Authentic Om Ali in 10 Minutes | Easy Egyptian Dessert",
+          "channelName": "Majid ism",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40
+    },
+    {
+      "slug": "basbousa",
+      "name": "Basbousa",
+      "description": "Semolina cake soaked in fragrant sugar syrup, studded with almonds - Egypt's easiest showstopper dessert.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 35,
+      "servings": 8,
+      "servingSize": "1 square (90g)",
+      "homePrepCost": 70,
+      "restaurantPrice": 110,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "syrup",
+        "semolina"
+      ],
+      "ingredients": [
+        {
+          "name": "Coarse Semolina",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Ghee (melted)",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Baking Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Whole Almonds",
+          "quantity": 16,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sugar Syrup",
+          "quantity": 300,
+          "unit": "ml",
+          "note": "from 200g sugar + 150ml water + lemon"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix semolina, sugar, yogurt, ghee and baking powder; rest 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Press into a greased tray; score diamonds and top each with an almond."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake at 180°C for 30-35 minutes until golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour cool syrup over the hot cake; rest before cutting along the scores."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 6,
+        "carbohydrates": 58,
+        "fat": 12,
+        "fiber": 1.5,
+        "sugar": 36,
+        "sodium": 120,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ZeeuCI28BA4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ZeeuCI28BA4",
+          "videoTitle": "Basbousa  | Easy Middle Eastern Semolina Cake Recipe | How to Make Basbousa With Coconut",
+          "channelName": "Cooking With Noor",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "basbousa-coconut",
+      "name": "Coconut Basbousa",
+      "description": "Semolina-coconut syrup cake, toastier cousin.",
+      "categories": [
+        "desserts",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": null,
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Semolina & coconut mix",
+          "quantity": 450,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Yogurt & sugar",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Coconut flakes top",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix-rest-pour tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Score diamonds; almond centers."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 180C 30; syrup hot cake."
+        }
+      ],
+      "nutrition": {
+        "calories": 371,
+        "protein": 5,
+        "carbohydrates": 54,
+        "fat": 15,
+        "fiber": 2,
+        "sugar": 30,
+        "sodium": 140,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "goulash-qishta",
+      "name": "Goulash bil Qishta",
+      "description": "Shattering pastry layers over cold thick cream, syrup-lacquered.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Goulash pastry sheets",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Qishta cream",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Ghee brush",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Butter-layer half the sheets; bake gold."
+        },
+        {
+          "position": 2,
+          "instruction": "Cool; spread cold qishta; cap remaining sheets."
+        },
+        {
+          "position": 3,
+          "instruction": "Re-bake brief; hot syrup pour; chill set."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 16,
+        "sodium": 120,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kahk-eid",
+      "name": "Eid Kahk",
+      "description": "Powder-snow Eid cookies hiding date or nut cores.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kahk dough (ghee-flour)",
+          "quantity": 700,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Date or agameya filling",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Powdered sugar blizzard",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Encase filling; pattern stamps."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake pale 170C 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Sugar-bomb while warm."
+        }
+      ],
+      "nutrition": {
+        "calories": 287,
+        "protein": 4,
+        "carbohydrates": 34,
+        "fat": 15,
+        "fiber": 1.5,
+        "sugar": 14,
+        "sodium": 60,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "zalabya",
+      "name": "Lokmet El Qady",
+      "description": "Syrian-court doughnuts soaked honey, Egyptian fair staple.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Yogurt-leavened batter",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Honey syrup warmed",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Frying oil",
+          "quantity": 700,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rest batter till bubbly."
+        },
+        {
+          "position": 2,
+          "instruction": "Drop rings fry amber."
+        },
+        {
+          "position": 3,
+          "instruction": "Honey dunk; drain seconds."
+        }
+      ],
+      "nutrition": {
+        "calories": 329,
+        "protein": 5,
+        "carbohydrates": 48,
+        "fat": 13,
+        "fiber": 1.8,
+        "sugar": 28,
+        "sodium": 95,
+        "saturatedFat": 2.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mahalabia",
+      "name": "Mahalabia Custard",
+      "description": "Rose-scented milk pudding with pistachio dust.",
+      "categories": [
+        "desserts",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Milk",
+          "quantity": 750,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Cornstarch & sugar",
+          "quantity": 130,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rose water & pistachios",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slurry into hot milk; stir-thickens."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour cups; chill 3 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Rose drizzle; green crown."
+        }
+      ],
+      "nutrition": {
+        "calories": 207,
+        "protein": 6,
+        "carbohydrates": 30,
+        "fat": 7,
+        "fiber": 0.4,
+        "sugar": 20,
+        "sodium": 95,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "D2pGrlYaQXc",
+          "youtubeUrl": "https://www.youtube.com/watch?v=D2pGrlYaQXc",
+          "videoTitle": "Mahalabia Recipe  Arabic Milk Pudding Quick and Tasty",
+          "channelName": "Mamoo kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "om-ali-baladi",
+      "name": "Om Ali Baladi Bread",
+      "description": "Rustic baladi-bread version, chunkier soul.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baladi bread toasted",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk-cream-sugar pool",
+          "quantity": 900,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Nuts & raisins generous",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Crush bread; nut layers alternate."
+        },
+        {
+          "position": 2,
+          "instruction": "Milk soak full submerge."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 190C 30 minutes bronze."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 9,
+        "carbohydrates": 44,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 26,
+        "sodium": 180,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rice-pudding-egyptian",
+      "name": "Roz bil Laban",
+      "description": "Cinnamon-dusted Egyptian rice pudding, grandma standard.",
+      "categories": [
+        "desserts",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Short grain rice",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk & sugar",
+          "quantity": 900,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Vanilla & cinnamon",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer rice in milk 35 minutes stirring."
+        },
+        {
+          "position": 2,
+          "instruction": "Sugar-vanilla in; thicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Chill; cinnamon cross-hatch."
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 7,
+        "carbohydrates": 40,
+        "fat": 6,
+        "fiber": 0.5,
+        "sugar": 24,
+        "sodium": 110,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "qatayef-cream",
+      "name": "Qatayef Asafiri",
+      "description": "Tiny folded pancakes hugging cream, syrup-kissed.",
+      "categories": [
+        "desserts",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Qatayef mini discs",
+          "quantity": 20,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ashta cream",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar syrup",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook discs one-side bubbles."
+        },
+        {
+          "position": 2,
+          "instruction": "Half-fill cream; pinch close."
+        },
+        {
+          "position": 3,
+          "instruction": "Syrup dip seconds; pistachio edge."
+        }
+      ],
+      "nutrition": {
+        "calories": 284,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 0.8,
+        "sugar": 20,
+        "sodium": 85,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

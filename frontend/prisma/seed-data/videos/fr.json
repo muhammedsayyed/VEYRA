@@ -1,0 +1,82 @@
+{
+  "countryCode": "fr",
+  "videos": [
+    {
+      "recipeSlug": "boeuf-bourguignon",
+      "youtubeVideoId": "lLKOIkAVge8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lLKOIkAVge8",
+      "videoTitle": "How to Make Beef Bourguignon | Step-by-Step With Melissa Clark | NYT Cooking",
+      "channelName": "NYT Cooking"
+    },
+    {
+      "recipeSlug": "pot-au-feu",
+      "youtubeVideoId": "QNh_KMM3I6Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QNh_KMM3I6Q",
+      "videoTitle": "How To Make Pot Au Feu: the mother recipe of French soups ( Tutorial for beginners)",
+      "channelName": "French Cooking Academy"
+    },
+    {
+      "recipeSlug": "steak-frites",
+      "youtubeVideoId": "8ECzvVmSTu0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8ECzvVmSTu0",
+      "videoTitle": "Classic Bistro-Style Steak Frites",
+      "channelName": "Wonder Lab Trend"
+    },
+    {
+      "recipeSlug": "soupe-a-l-oignon",
+      "youtubeVideoId": "iShbUh2FWyM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iShbUh2FWyM",
+      "videoTitle": "How To Make French Onion Soup (Onion Soup Gratinée) | Jacques Pépin",
+      "channelName": "Rachael Ray Show"
+    },
+    {
+      "recipeSlug": "salade-de-chevre-chaud",
+      "youtubeVideoId": "omx8FAKgba0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=omx8FAKgba0",
+      "videoTitle": "LA SALADE DE CHÈVRE CHAUD : MES DEUX VERSIONS ! VOUS PRÉFÉREZ LAQUELLE ?",
+      "channelName": "Norbert Tarayre"
+    },
+    {
+      "recipeSlug": "daube-provencal",
+      "youtubeVideoId": "7FhIo7C2ErM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7FhIo7C2ErM",
+      "videoTitle": "EASY FRENCH DAUBE PROVENÇALE (BRAISED BEEF STEW)",
+      "channelName": "HER COPPER KITCHEN"
+    },
+    {
+      "recipeSlug": "bavette-sauce-echalotes",
+      "youtubeVideoId": "3MM9jw6LK-I",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3MM9jw6LK-I",
+      "videoTitle": "Bavette sauce à l'échalote",
+      "channelName": "CuisineAZ.com"
+    },
+    {
+      "recipeSlug": "entrecote-marchand-de-vin",
+      "youtubeVideoId": "ZgJBAZGBGMs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZgJBAZGBGMs",
+      "videoTitle": "Entrecôte sauce marchand de vin",
+      "channelName": "Simon VIGNAUX"
+    },
+    {
+      "recipeSlug": "ratatouille",
+      "youtubeVideoId": "q1vmVmbeH20",
+      "youtubeUrl": "https://www.youtube.com/watch?v=q1vmVmbeH20",
+      "videoTitle": "Traditional ratatouille recipe by chef Vivien",
+      "channelName": "Chef Vivien"
+    },
+    {
+      "recipeSlug": "tarte-tatin",
+      "youtubeVideoId": "sYrVmYmxj0g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sYrVmYmxj0g",
+      "videoTitle": "Tarte Tatin recette facile et simple à faire | Tarte Tatin avec la pâte brisée",
+      "channelName": "Cuisine Facile"
+    },
+    {
+      "recipeSlug": "creme-brulee",
+      "youtubeVideoId": "oWwQ6E5HAhU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oWwQ6E5HAhU",
+      "videoTitle": "Recette de la crème brûlée à la vanille par HervéCuisine",
+      "channelName": "Hervé Cuisine"
+    }
+  ]
+}

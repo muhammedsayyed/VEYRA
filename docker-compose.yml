@@ -14,5 +14,37 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
+  veyra-mongo:
+    image: mongo:7
+    container_name: veyra-mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: veyra
+
+  veyra-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: veyra-backend
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      PORT: 5000
+      MONGODB_URI: mongodb://veyra-mongo:27017/veyra
+      JWT_SECRET: veyra_dev_secret_change_in_production_32chars
+      CLIENT_URL: http://localhost:8443
+      NODE_ENV: development
+    depends_on:
+      - veyra-mongo
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
 volumes:
   postgres_data:
+  mongo_data:

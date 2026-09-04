@@ -1,0 +1,75 @@
+{
+  "countryCode": "de",
+  "videos": [
+    {
+      "recipeSlug": "sauerbraten",
+      "youtubeVideoId": "6BMagxuKiT8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6BMagxuKiT8",
+      "videoTitle": "Sauerbraten Rhenish - Authentic German Sauerbraten Recipe",
+      "channelName": "German Recipes by All Tastes German"
+    },
+    {
+      "recipeSlug": "rouladen",
+      "youtubeVideoId": "Hgm6UmpbRa0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Hgm6UmpbRa0",
+      "videoTitle": "Beef Rouladen - Delicious Beef Rolls from Germany",
+      "channelName": "Recipe30"
+    },
+    {
+      "recipeSlug": "deutscher-rindergulasch",
+      "youtubeVideoId": "5YUQa8GR5Q8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5YUQa8GR5Q8",
+      "videoTitle": "German Beef Goulash (Rindergulasch) with My Spicy Twist | Served with Spätzle",
+      "channelName": "The Rock Chilli Queen"
+    },
+    {
+      "recipeSlug": "frikadellen",
+      "youtubeVideoId": "5cRyT5t2nW8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5cRyT5t2nW8",
+      "videoTitle": "Frikadellen – Authentic German Meatballs | Juicy & Easy to Make!",
+      "channelName": "Lees Cooking"
+    },
+    {
+      "recipeSlug": "schmorbraten",
+      "youtubeVideoId": "SlAPha3rsJY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SlAPha3rsJY",
+      "videoTitle": "German Cuisine: Schmorbraten mit saurer Sahnensauce (Pot Roast & gravy)",
+      "channelName": "Cookbook Journey"
+    },
+    {
+      "recipeSlug": "beef-rouladen",
+      "youtubeVideoId": "d25b4BfA1Z8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=d25b4BfA1Z8",
+      "videoTitle": "How to make Traditional German Beef Rouladen｜Rinderrouladen｜ Rouladen｜best German Rouladen Recipe",
+      "channelName": "Dan's cuisine channel"
+    },
+    {
+      "recipeSlug": "gulasch",
+      "youtubeVideoId": "TbBQCEr8tAc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TbBQCEr8tAc",
+      "videoTitle": "RINDERGULASCH (German Goulash)",
+      "channelName": "Food from afar"
+    },
+    {
+      "recipeSlug": "kartoffelpuffer",
+      "youtubeVideoId": "obs5MhNA4Rs",
+      "youtubeUrl": "https://www.youtube.com/watch?v=obs5MhNA4Rs",
+      "videoTitle": "German Potato Pancakes | Kartoffelpuffer | Reibekuchen Homemade",
+      "channelName": "Ninik Becker"
+    },
+    {
+      "recipeSlug": "sauerkraut",
+      "youtubeVideoId": "0_N8NWKb3HU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0_N8NWKb3HU",
+      "videoTitle": "Deftiges Sauerkraut zubereiten und kochen nach Oma's Rezept",
+      "channelName": "JANNIK kocht - leckere Rezepte!"
+    },
+    {
+      "recipeSlug": "apfelstrudel",
+      "youtubeVideoId": "uzc2xfnk6wo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uzc2xfnk6wo",
+      "videoTitle": "The Secret Behind How Original Viennese Apple Strudel Is Made | Food Secrets Ep. 10",
+      "channelName": "DW Food"
+    }
+  ]
+}

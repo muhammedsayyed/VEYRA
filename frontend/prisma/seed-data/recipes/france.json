@@ -1,0 +1,6928 @@
+{
+  "countryCode": "fr",
+  "recipes": [
+    {
+      "slug": "boeuf-bourguignon",
+      "name": "Boeuf Bourguignon",
+      "description": "Beef braised in red Burgundy with lardons, pearl onions and mushrooms until fork-tender.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 180,
+      "servings": 6,
+      "servingSize": "1 plate (360g)",
+      "homePrepCost": 18,
+      "restaurantPrice": 24,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 95,
+      "tags": [
+        "wine-braise",
+        "iconic"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "large cubes"
+        },
+        {
+          "name": "Red Burgundy Wine",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "name": "Smoked Lardons",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Pearl Onions & Mushrooms",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots & Onion",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Beef Stock & Bouquet Garni",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Butter & Flour Beurre Manie",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown lardons then beef; cook vegetables; deglaze with wine."
+        },
+        {
+          "position": 2,
+          "instruction": "Add stock and bouquet garni; braise covered at 150°C ~3 hours."
+        },
+        {
+          "position": 3,
+          "instruction": "Glaze onions and mushrooms in butter; add for last 30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Thicken with beurre manié to a lacquered sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 46,
+        "carbohydrates": 14,
+        "fat": 34,
+        "fiber": 2.5,
+        "sugar": 5,
+        "sodium": 780,
+        "saturatedFat": 13
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "lLKOIkAVge8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=lLKOIkAVge8",
+          "videoTitle": "How to Make Beef Bourguignon | Step-by-Step With Melissa Clark | NYT Cooking",
+          "channelName": "NYT Cooking",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "pot-au-feu",
+      "name": "Pot-au-Feu",
+      "description": "France's Sunday hearth: beef cuts poached with root vegetables, served as broth-then-platter.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 30,
+      "cookTimeMin": 210,
+      "servings": 6,
+      "servingSize": "1 platter portion (420g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 22,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "poached",
+        "sunday"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shank & Brisket",
+          "quantity": 1500,
+          "unit": "g"
+        },
+        {
+          "name": "Marrow Bone",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Carrots, Leeks & Turnips",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Cabbage & Potatoes",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Onion Studded with Cloves",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Bouquet Garni",
+          "quantity": 1,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cover meats with cold water; bring barely to a simmer and skim religiously."
+        },
+        {
+          "position": 2,
+          "instruction": "Poach gently 2.5 hours with aromatics."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables in stages by hardness."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve broth first with croutons, then meats and vegetables with mustard and cornichons."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 44,
+        "carbohydrates": 28,
+        "fat": 25,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "QNh_KMM3I6Q",
+          "youtubeUrl": "https://www.youtube.com/watch?v=QNh_KMM3I6Q",
+          "videoTitle": "How To Make Pot Au Feu: the mother recipe of French soups ( Tutorial for beginners)",
+          "channelName": "French Cooking Academy",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 240,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "steak-frites",
+      "name": "Steak Frites",
+      "description": "Bistro eternal: seared sirloin under a knob of maître d' butter beside twice-cooked pommes frites.",
+      "categories": [
+        "beef",
+        "street-food",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "servingSize": "1 steak + fries (380g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 21,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "bistro"
+      ],
+      "ingredients": [
+        {
+          "name": "Sirloin Steaks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "250g each"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 600,
+          "unit": "g",
+          "note": "for frites"
+        },
+        {
+          "name": "Beurre Maître d'Hôtel",
+          "quantity": 60,
+          "unit": "g",
+          "note": "butter whipped w/ parsley-lemon"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 1000,
+          "unit": "ml"
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry potatoes at 150°C until soft; rest; fry again at 190°C until gold."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear seasoned steaks hard 2 minutes per side; rest 5."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with melting herb butter; serve alongside frites."
+        }
+      ],
+      "nutrition": {
+        "calories": 780,
+        "protein": 48,
+        "carbohydrates": 52,
+        "fat": 42,
+        "fiber": 5,
+        "sugar": 3,
+        "sodium": 760,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "8ECzvVmSTu0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=8ECzvVmSTu0",
+          "videoTitle": "Classic Bistro-Style Steak Frites",
+          "channelName": "Wonder Lab Trend",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "daube-provencal",
+      "name": "Daube Provençale",
+      "description": "Provence's wine-braised beef scented with orange peel, herbs de Provence and black olives.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 35,
+      "cookTimeMin": 180,
+      "servings": 6,
+      "servingSize": "1 plate (340g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 23,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "marinated-braise"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Shin or Chuck",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Robust Red Wine",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "name": "Pancetta or Salt Pork",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Carrots, Onion & Orange Peel",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Black Olives",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Herbes de Provence",
+          "quantity": 2,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef in wine and aromatics overnight."
+        },
+        {
+          "position": 2,
+          "instruction": "Drain, pat dry, brown with pork; return marinade plus stock."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise low 3 hours; stir in olives at the end."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 45,
+        "carbohydrates": 10,
+        "fat": 31,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 820,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "7FhIo7C2ErM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=7FhIo7C2ErM",
+          "videoTitle": "EASY FRENCH DAUBE PROVENÇALE (BRAISED BEEF STEW)",
+          "channelName": "HER COPPER KITCHEN",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 215,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "soupe-a-l-oignon",
+      "name": "Soupe à l'Oignon Gratinée",
+      "description": "Caramelized onion soup under a lid of crusty baguette and molten Gruyère.",
+      "categories": [
+        "beef",
+        "starter",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 70,
+      "servings": 4,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 6,
+      "restaurantPrice": 11,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "cheese-topped",
+        "warming"
+      ],
+      "ingredients": [
+        {
+          "name": "Yellow Onions",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Butter & Olive Oil",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Vegetable or Beef Stock",
+          "quantity": 1200,
+          "unit": "ml"
+        },
+        {
+          "name": "Baguette Slices",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": "toasted"
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 180,
+          "unit": "g",
+          "note": "grated"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize onions properly - 45-55 minutes, low and patient."
+        },
+        {
+          "position": 2,
+          "instruction": "Deglaze with wine; add stock; simmer 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Ladle into bowls; float toast; blanket with cheese."
+        },
+        {
+          "position": 4,
+          "instruction": "Gratinée under broiler until blistering."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 16,
+        "carbohydrates": 38,
+        "fat": 22,
+        "fiber": 5,
+        "sugar": 14,
+        "sodium": 850,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "iShbUh2FWyM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=iShbUh2FWyM",
+          "videoTitle": "How To Make French Onion Soup (Onion Soup Gratinée) | Jacques Pépin",
+          "channelName": "Rachael Ray Show",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "salade-de-chevre-chaud",
+      "name": "Salade de Chèvre Chaud",
+      "description": "Warm goat-cheese toasts over bitter greens, walnuts and honey-mustard vinaigrette.",
+      "categories": [
+        "beef",
+        "starter",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 6.5,
+      "restaurantPrice": 12,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "salad",
+        "cafe-classic"
+      ],
+      "ingredients": [
+        {
+          "name": "Goat Cheese Logs",
+          "quantity": 240,
+          "unit": "g",
+          "note": "sliced into rounds"
+        },
+        {
+          "name": "Baguette Rounds",
+          "quantity": 8,
+          "unit": "pcs"
+        },
+        {
+          "name": "Mixed Bitter Greens",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Walnuts",
+          "quantity": 80,
+          "unit": "g",
+          "note": "toasted"
+        },
+        {
+          "name": "Honey-Mustard Vinaigrette",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Honey Drizzle",
+          "quantity": 2,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Toast baguette rounds; top each with a cheese round."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill until cheese slumps and browns."
+        },
+        {
+          "position": 3,
+          "instruction": "Dress greens; arrange toasts and walnuts; drizzle honey."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 17,
+        "carbohydrates": 26,
+        "fat": 29,
+        "fiber": 4,
+        "sugar": 7,
+        "sodium": 720,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "omx8FAKgba0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=omx8FAKgba0",
+          "videoTitle": "LA SALADE DE CHÈVRE CHAUD : MES DEUX VERSIONS ! VOUS PRÉFÉREZ LAQUELLE ?",
+          "channelName": "Norbert Tarayre",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "bavette-sauce-echalotes",
+      "name": "Bavette Sauce Échalotes",
+      "description": "Thin flank steak seared hard and rested under a silky shallot red-wine reduction.",
+      "categories": [
+        "beef",
+        "dinner",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bavette Flank Steak",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 120,
+          "unit": "g",
+          "note": "finely sliced"
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Flat-Leaf Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season steaks generously with salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear in a screaming-hot pan 3 minutes per side; rest 8 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "In the same pan, sweat shallots in butter until golden; deglaze with wine and stock."
+        },
+        {
+          "position": 4,
+          "instruction": "Reduce by half; whisk in mustard and cold butter; slice steak and pour sauce over."
+        }
+      ],
+      "nutrition": {
+        "calories": 390,
+        "protein": 42,
+        "carbohydrates": 6,
+        "fat": 22,
+        "fiber": 0.5,
+        "sugar": 2,
+        "sodium": 580,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "3MM9jw6LK-I",
+          "youtubeUrl": "https://www.youtube.com/watch?v=3MM9jw6LK-I",
+          "videoTitle": "Bavette sauce à l'échalote",
+          "channelName": "CuisineAZ.com",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "boudin-noir",
+      "name": "Boudin Noir",
+      "description": "Classic French blood sausage with caramelised apples and creamy mash.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Boudin Noir Sausages",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tart Cooking Apples",
+          "quantity": 300,
+          "unit": "g",
+          "note": "quartered"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "for mash"
+        },
+        {
+          "name": "Butter",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole Milk",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil potatoes until tender; mash with butter and warm milk."
+        },
+        {
+          "position": 2,
+          "instruction": "Prick boudin noir; poach gently in simmering water 12 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry in butter until casing crisps and chars slightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Sauté apple quarters in butter until caramelised; serve with mash."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 18,
+        "carbohydrates": 28,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "entrecote-marchand-de-vin",
+      "name": "Entrecôte Marchand de Vin",
+      "description": "Rib steak bathed in a rich Bordeaux wine and bone-marrow butter sauce.",
+      "categories": [
+        "beef",
+        "dinner",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rib Steaks (entrecôte)",
+          "quantity": 500,
+          "unit": "g",
+          "note": "2 thick-cut"
+        },
+        {
+          "name": "Bone Marrow",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Bordeaux Wine",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 80,
+          "unit": "g",
+          "note": "minced"
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Thyme & Bay Leaf",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season steaks and sear hard in a hot pan; rest."
+        },
+        {
+          "position": 2,
+          "instruction": "Add marrow and shallots; cook until softened."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine and stock; add herbs; reduce until syrupy."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice steak; spoon sauce over with marrow pieces."
+        }
+      ],
+      "nutrition": {
+        "calories": 452,
+        "protein": 46,
+        "carbohydrates": 4,
+        "fat": 28,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 620,
+        "saturatedFat": 11
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ZgJBAZGBGMs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ZgJBAZGBGMs",
+          "videoTitle": "Entrecôte sauce marchand de vin",
+          "channelName": "Simon VIGNAUX",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pieds-et-paquets",
+      "name": "Pieds et Paquets",
+      "description": "Niçois specialty of stuffed tripe parcels braised in white wine with olives.",
+      "categories": [
+        "beef",
+        "traditional",
+        "regional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef Tripe",
+          "quantity": 600,
+          "unit": "g",
+          "note": "cut into parcels"
+        },
+        {
+          "name": "Green Olives",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bouquet Garni",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch tripe in boiling water 5 minutes; drain and cut into parcels, tie with string."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onions and garlic in olive oil until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Brown parcels lightly; deglaze with wine; add olives and bouquet garni."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise covered 2.5 hours until very tender; season boldly."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 680,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "carbonnade-flamande",
+      "name": "Carbonnade Flamande",
+      "description": "Flemish beer-braised beef with caramelised onions, mustard and dark bread.",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef Chuck",
+          "quantity": 800,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Dark Belgian Beer",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Yellow Onions",
+          "quantity": 500,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Brown Bread Slice",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "with mustard spread"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef cubes in batches; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Caramelise onions slowly in butter 30 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return beef; pour in beer and stock; add mustard-soaked bread."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise covered at 160°C for 2.5 hours until fork-tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 422,
+        "protein": 38,
+        "carbohydrates": 18,
+        "fat": 22,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 710,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "braise-de-boeuf",
+      "name": "Braise de Boeuf",
+      "description": "Slow-braised beef cheeks in red wine with root vegetables and fresh herbs.",
+      "categories": [
+        "beef",
+        "braise",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef Cheeks",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots & Celery",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red Wine",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bouquet Garni",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pat cheeks dry; sear hard on all sides until deeply browned."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté mirepoix; add tomato paste and cook 2 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; add stock and bouquet garni."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise covered at 150°C for 3 hours; rest 10 minutes before slicing."
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 44,
+        "carbohydrates": 12,
+        "fat": 24,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 650,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "rumsteck",
+      "name": "Rumsteck",
+      "description": "Pan-seared rump steak with herb butter and haricots verts.",
+      "categories": [
+        "beef",
+        "dinner",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rump Steaks",
+          "quantity": 500,
+          "unit": "g",
+          "note": "2 steaks"
+        },
+        {
+          "name": "Herb Butter",
+          "quantity": 60,
+          "unit": "g",
+          "note": "parsley, chive, garlic"
+        },
+        {
+          "name": "Green Beans",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 60,
+          "unit": "g",
+          "note": "halved"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch green beans; refresh in ice water."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear steaks in hot oil 3 minutes per side; rest under herb butter."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté shallots until golden; toss with green beans."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice steak; serve with vegetables and melting butter."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 42,
+        "carbohydrates": 8,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 540,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "cote-de-boeuf",
+      "name": "Côte de Boeuf",
+      "description": "Thick bone-in rib steak roasted with thyme, garlic and sea salt.",
+      "categories": [
+        "beef",
+        "dinner",
+        "grill",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bone-In Rib Steak",
+          "quantity": 600,
+          "unit": "g",
+          "note": "1 thick côte"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "smashed"
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 4,
+          "unit": "sprigs",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "coarsely ground"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring steak to room temperature; season generously 30 minutes ahead."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear in a very hot cast-iron pan 4 minutes per side."
+        },
+        {
+          "position": 3,
+          "instruction": "Add butter, garlic and thyme; baste continuously 3 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 minutes on a warm plate; carve off the bone and slice."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 48,
+        "carbohydrates": 2,
+        "fat": 30,
+        "fiber": 0.3,
+        "sugar": 0.5,
+        "sodium": 580,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tournedos-rossini",
+      "name": "Tournedos Rossini",
+      "description": "Beef filet crowned with seared foie gras and truffle on a crouton.",
+      "categories": [
+        "beef",
+        "dinner",
+        "celebration"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef Filet Mignon",
+          "quantity": 400,
+          "unit": "g",
+          "note": "2 thick rounds"
+        },
+        {
+          "name": "Foie Gras Slice",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Baguette Crouton",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Madeira Sauce",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Black Truffle",
+          "quantity": 10,
+          "unit": "g",
+          "note": "shaved"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear filets in foie gras fat 2 minutes per side; rest."
+        },
+        {
+          "position": 2,
+          "instruction": "Quickly sear foie gras slices until golden outside."
+        },
+        {
+          "position": 3,
+          "instruction": "Toast croutons in butter; place filets on top."
+        },
+        {
+          "position": 4,
+          "instruction": "Crown with foie gras, truffle shavings and Madeira sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 428,
+        "protein": 36,
+        "carbohydrates": 8,
+        "fat": 28,
+        "fiber": 0.3,
+        "sugar": 1,
+        "sodium": 490,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "andouillette",
+      "name": "Andouillette",
+      "description": "Grilled coarse tripe sausage from Troyes with Dijon mustard and frites.",
+      "categories": [
+        "beef",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Andouillette Sausages",
+          "quantity": 500,
+          "unit": "g",
+          "note": "4 sausages"
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 600,
+          "unit": "g",
+          "note": "for frites"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score andouillettes; poach briefly in simmering white wine 8 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Pat dry; grill over medium-high heat until casing chars and crisps."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry potatoes at 150°C until soft; rest; refry at 190°C until golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve andouillettes with hot frites and generous Dijon mustard."
+        }
+      ],
+      "nutrition": {
+        "calories": 364,
+        "protein": 24,
+        "carbohydrates": 22,
+        "fat": 20,
+        "fiber": 1.5,
+        "sugar": 2,
+        "sodium": 760,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "paupiettes-de-veau",
+      "name": "Paupiettes de Veau",
+      "description": "Thin veal escalopes rolled around bacon and herbs, braised in white wine.",
+      "categories": [
+        "beef",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Veal Escalopes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "4 thin slices"
+        },
+        {
+          "name": "Smoked Bacon",
+          "quantity": 120,
+          "unit": "g",
+          "note": "4 slices"
+        },
+        {
+          "name": "Shallots",
+          "quantity": 80,
+          "unit": "g",
+          "note": "minced"
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Veal Stock",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bouquet Garni",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Lay bacon on each escalope; add shallots; roll and tie with string."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown paupiettes on all sides in butter."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; add stock and bouquet garni."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise covered 1.5 hours; reduce sauce and serve over the rolls."
+        }
+      ],
+      "nutrition": {
+        "calories": 304,
+        "protein": 34,
+        "carbohydrates": 6,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "jambonneau",
+      "name": "Jambonneau",
+      "description": "Braised smoked ham hock served over Puy lentils with Dijon vinaigrette.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Smoked Ham Hock",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "~800g"
+        },
+        {
+          "name": "Puy Lentils",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Carrots & Celery",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "studded with cloves"
+        },
+        {
+          "name": "Dijon Vinaigrette",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Bouquet Garni",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cover ham hock with cold water; bring to simmer with aromatics."
+        },
+        {
+          "position": 2,
+          "instruction": "Poach gently 2 hours until meat is tender and falling off bone."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook lentils in strained broth with vegetables until just tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice hock; serve over lentils dressed with Dijon vinaigrette."
+        }
+      ],
+      "nutrition": {
+        "calories": 362,
+        "protein": 36,
+        "carbohydrates": 14,
+        "fat": 18,
+        "fiber": 5,
+        "sugar": 2,
+        "sodium": 840,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hachis-parmentier",
+      "name": "Hachis Parmentier",
+      "description": "French shepherd's pie: savoury beef mince under a blanket of creamy potato mash.",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 600,
+          "unit": "g",
+          "note": "for mash"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomato Paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 80,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onions and garlic; brown ground beef; add tomato paste and stock."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer until thick and rich; season well."
+        },
+        {
+          "position": 3,
+          "instruction": "Boil and mash potatoes with butter and milk."
+        },
+        {
+          "position": 4,
+          "instruction": "Layer meat in a dish; top with mash and cheese; bake at 200°C until golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 394,
+        "protein": 28,
+        "carbohydrates": 30,
+        "fat": 18,
+        "fiber": 2.5,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "faux-filet-sauce-poivre",
+      "name": "Faux Filet Sauce Poivre",
+      "description": "Sirloin steak flambéed with cognac and finished in creamy green-peppercorn sauce.",
+      "categories": [
+        "beef",
+        "dinner",
+        "high-protein"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sirloin Steaks",
+          "quantity": 500,
+          "unit": "g",
+          "note": "2 steaks"
+        },
+        {
+          "name": "Green Peppercorns",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Cognac",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Beef Stock",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear steaks in a very hot pan 3 minutes per side; rest."
+        },
+        {
+          "position": 2,
+          "instruction": "Deglaze pan with cognac; flambé carefully."
+        },
+        {
+          "position": 3,
+          "instruction": "Add stock and peppercorns; reduce by half."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with cream and butter; pour over sliced steaks."
+        }
+      ],
+      "nutrition": {
+        "calories": 408,
+        "protein": 44,
+        "carbohydrates": 4,
+        "fat": 24,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 560,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "coq-au-vin",
+      "name": "Coq au Vin",
+      "description": "Chicken braised in red wine with lardons, mushrooms and shallots - French farmhouse grandeur.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 90,
+      "servings": 4,
+      "servingSize": "1 leg+breast portion (350g)",
+      "homePrepCost": 14,
+      "restaurantPrice": 22,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "wine-braise"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Legs & Breasts",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Red Wine (Burgundy)",
+          "quantity": 750,
+          "unit": "ml"
+        },
+        {
+          "name": "Lardons",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Button Mushrooms & Pearl Onions",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Brandy & Flour",
+          "quantity": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "Bouquet Garni & Garlic",
+          "quantity": 1,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Render lardons; brown chicken in the fat; flame with brandy."
+        },
+        {
+          "position": 2,
+          "instruction": "Add wine, garlic, bouquet; braise covered 45 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté mushrooms and onions separately; fold in."
+        },
+        {
+          "position": 4,
+          "instruction": "Reduce sauce until glossy; season boldly."
+        }
+      ],
+      "nutrition": {
+        "calories": 540,
+        "protein": 43,
+        "carbohydrates": 12,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 740,
+        "saturatedFat": 7.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "poulet-basquaise",
+      "name": "Poulet Basquaise",
+      "description": "Basque-country chicken simmered in piperade of peppers, tomatoes and Espelette pepper.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 portion (330g)",
+      "homePrepCost": 11,
+      "restaurantPrice": 19,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 77,
+      "tags": [
+        "peppers"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Red & Green Peppers",
+          "quantity": 500,
+          "unit": "g",
+          "note": "slivered"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "crushed"
+        },
+        {
+          "name": "Piment d'Espelette",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive Oil & Bay Leaf",
+          "quantity": 3,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season and brown chicken; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook peppers and onions slowly 20 minutes; add garlic, tomato, Espelette."
+        },
+        {
+          "position": 3,
+          "instruction": "Nestle chicken into piperade; simmer covered 30 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 39,
+        "carbohydrates": 17,
+        "fat": 23,
+        "fiber": 4.5,
+        "sugar": 11,
+        "sodium": 640,
+        "saturatedFat": 5.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chicken-normandy",
+      "name": "Poulet à la Normande",
+      "description": "Cream-and-apple country: chicken braised with cider, Calvados, mushrooms and cream.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 65,
+      "servings": 4,
+      "servingSize": "1 portion (340g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 21,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 75,
+      "tags": [
+        "cider-cream"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1300,
+          "unit": "g"
+        },
+        {
+          "name": "Dry Cider",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Calvados",
+          "quantity": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Shallots & Butter",
+          "quantity": 180,
+          "unit": "g"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken in butter; sauté shallots and mushrooms."
+        },
+        {
+          "position": 2,
+          "instruction": "Flambé with Calvados; pour in cider."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise covered 35 minutes; finish with cream reduced in."
+        }
+      ],
+      "nutrition": {
+        "calories": 610,
+        "protein": 41,
+        "carbohydrates": 12,
+        "fat": 38,
+        "fiber": 1.5,
+        "sugar": 5,
+        "sodium": 620,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "roast-chicken-france",
+      "name": "Poulet Rôti",
+      "description": "The simplest Sunday ritual: butter-basted roast chicken with lemon and thyme pan juices.",
+      "categories": [
+        "chicken",
+        "easy-recipes",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 75,
+      "servings": 4,
+      "servingSize": "1 quarter (320g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 18,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "sunday-roast"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "~1.6kg"
+        },
+        {
+          "name": "Butter (softened)",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Lemon & Thyme",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "in cavity"
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Water or Stock Splash",
+          "quantity": 100,
+          "unit": "ml",
+          "note": "for jus"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub herbed butter all over and under skin; salt generously."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast at 210°C 20 minutes; reduce to 180°C for 55 more, basting."
+        },
+        {
+          "position": 3,
+          "instruction": "Rest 15 minutes; make quick jus from pan juices."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbohydrates": 1,
+        "fat": 33,
+        "fiber": 0.4,
+        "sugar": 0.6,
+        "sodium": 720,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "poulet-a-l-estragon",
+      "name": "Poulet à l'Estragon",
+      "description": "Chicken braised in white wine with fresh tarragon and crème fraîche.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Fresh Tarragon",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 100,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken pieces in butter; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté shallots until translucent; deglaze with wine."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken; simmer covered 30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in cream and torn tarragon; reduce to a glossy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 36,
+        "carbohydrates": 4,
+        "fat": 20,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-creme-de-moutarde",
+      "name": "Poulet Crème de Moutarde",
+      "description": "Pan-fried chicken thighs in a luscious Dijon and whole-grain mustard cream.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Whole-Grain Mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 80,
+          "unit": "g",
+          "note": "minced"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear chicken thighs skin-side down until golden and crisp."
+        },
+        {
+          "position": 2,
+          "instruction": "Remove; sauté shallots in the same pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; stir in both mustards and cream."
+        },
+        {
+          "position": 4,
+          "instruction": "Return chicken; simmer 25 minutes until cooked through."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 34,
+        "carbohydrates": 4,
+        "fat": 22,
+        "fiber": 0.3,
+        "sugar": 1,
+        "sodium": 580,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fricasse-de-volaille",
+      "name": "Fricassée de Volaille",
+      "description": "Creamy white stew of chicken with button mushrooms and pearl onions.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 250,
+          "unit": "g",
+          "note": "halved"
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 150,
+          "unit": "g",
+          "note": "peeled"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken lightly in butter; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté mushrooms and onions; sprinkle flour and cook 1 minute."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; add cream and nutmeg."
+        },
+        {
+          "position": 4,
+          "instruction": "Return chicken; simmer gently 25 minutes until just cooked."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-roti-aux-herbes",
+      "name": "Poulet Rôti aux Herbes",
+      "description": "Whole chicken rubbed with herbes de Provence butter and roasted until golden.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "~1.6kg"
+        },
+        {
+          "name": "Herbes de Provence Butter",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "halved"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "smashed"
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rub herbed butter all over and under the chicken skin."
+        },
+        {
+          "position": 2,
+          "instruction": "Stuff cavity with lemon halves and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 200°C for 1 hour, basting every 20 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 minutes; carve and serve with pan juices."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 40,
+        "carbohydrates": 2,
+        "fat": 28,
+        "fiber": 0.5,
+        "sugar": 0.5,
+        "sodium": 520,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-vinaigrette",
+      "name": "Poulet Vinaigrette",
+      "description": "Tender poached chicken served chilled with a sharp Dijon vinaigrette and herbs.",
+      "categories": [
+        "chicken",
+        "salad",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "White Wine Vinegar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 60,
+          "unit": "g",
+          "note": "finely diced"
+        },
+        {
+          "name": "Cornichons",
+          "quantity": 60,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Flat-Leaf Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken breasts in gently simmering broth 15 minutes; cool completely."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk Dijon, vinegar and olive oil into a sharp vinaigrette."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice chicken; arrange on plates with shallots and cornichons."
+        },
+        {
+          "position": 4,
+          "instruction": "Spoon vinaigrette over; scatter parsley; serve chilled."
+        }
+      ],
+      "nutrition": {
+        "calories": 274,
+        "protein": 34,
+        "carbohydrates": 3,
+        "fat": 14,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 480,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-au-cidre",
+      "name": "Poulet au Cidre",
+      "description": "Normandy chicken braised in dry cider with Calvados, cream and mushrooms.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dry Cider",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Calvados",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken in butter; sauté shallots and mushrooms."
+        },
+        {
+          "position": 2,
+          "instruction": "Flambé with Calvados; pour in cider."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise covered 35 minutes until chicken is tender."
+        },
+        {
+          "position": 4,
+          "instruction": "Stir in cream; reduce sauce until silky."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 34,
+        "carbohydrates": 10,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-a-la-moutarde",
+      "name": "Poulet à la Moutarde",
+      "description": "Chicken thighs baked in whole-grain mustard and honey cream.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 800,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Whole-Grain Mustard",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 3,
+          "unit": "sprigs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season chicken thighs; sear skin-side down in an oven-safe pan."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix mustard, cream, honey and garlic into a sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour sauce over chicken; scatter thyme leaves."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180°C for 30 minutes until golden and bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 32,
+        "carbohydrates": 4,
+        "fat": 24,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 620,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "coq-au-vin-jaune",
+      "name": "Coq au Vin Jaune",
+      "description": "Jura classic: chicken braised in smoky vin jaune with morel mushrooms.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "regional",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vin Jaune (Jura)",
+          "quantity": 350,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dried Morels",
+          "quantity": 30,
+          "unit": "g",
+          "note": "rehydrated"
+        },
+        {
+          "name": "Lardons",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Render lardons; brown chicken in the rendered fat."
+        },
+        {
+          "position": 2,
+          "instruction": "Deglaze with vin jaune; add stock and braise covered 45 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté morels and pearl onions in butter separately."
+        },
+        {
+          "position": 4,
+          "instruction": "Fold into the stew with a splash of cream; reduce until glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 38,
+        "carbohydrates": 6,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 580,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-aux-olives",
+      "name": "Poulet aux Olives",
+      "description": "Provençal chicken with green olives, tomatoes and rosemary.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green Olives",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cherry Tomatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fresh Rosemary",
+          "quantity": 3,
+          "unit": "sprigs",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken legs in olive oil; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté garlic; add tomatoes and rosemary; cook 5 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken; pour in wine and olives."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer covered 35 minutes until chicken is tender and saucy."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 34,
+        "carbohydrates": 6,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 640,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-tandoori-francais",
+      "name": "Poulet Tandoori Français",
+      "description": "French-accented tandoori chicken with warming spices and crème fraîche.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 1000,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Natural Yogurt",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tandoori Spice Mix",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic & Ginger Paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Crème Fraîche",
+          "quantity": 100,
+          "unit": "g",
+          "note": "to serve"
+        },
+        {
+          "name": "Naan Bread",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Score chicken; marinate in yogurt, spices, garlic, ginger and lemon 4 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Roast on a rack at 220°C for 35 minutes, basting with juices."
+        },
+        {
+          "position": 3,
+          "instruction": "Brush with remaining marinade halfway through."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve with crème fraîche and warm naan bread."
+        }
+      ],
+      "nutrition": {
+        "calories": 318,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-a-la-creme",
+      "name": "Poulet à la Crème",
+      "description": "Chicken braised in a velvety cream sauce with button mushrooms.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 250,
+          "unit": "g",
+          "note": "quartered"
+        },
+        {
+          "name": "Shallots",
+          "quantity": 80,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken in butter; set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté shallots and mushrooms until golden."
+        },
+        {
+          "position": 3,
+          "instruction": "Deglaze with wine; add cream and nutmeg."
+        },
+        {
+          "position": 4,
+          "instruction": "Return chicken; simmer gently 30 minutes until very tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 378,
+        "protein": 32,
+        "carbohydrates": 4,
+        "fat": 26,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 540,
+        "saturatedFat": 11
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "cuisses-de-poulet",
+      "name": "Cuisses de Poulet",
+      "description": "Pan-seared chicken legs with roasted garlic and thyme jus.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Legs",
+          "quantity": 800,
+          "unit": "g",
+          "note": "4 legs"
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": "whole"
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 4,
+          "unit": "sprigs",
+          "note": null
+        },
+        {
+          "name": "Rosemary",
+          "quantity": 2,
+          "unit": "sprigs",
+          "note": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "quartered"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season legs generously; sear skin-side down in butter until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Flip; add garlic, herbs and lemon quarters."
+        },
+        {
+          "position": 3,
+          "instruction": "Transfer to oven at 180°C for 25 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 5 minutes; serve with pan juices spooned over."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 36,
+        "carbohydrates": 2,
+        "fat": 22,
+        "fiber": 0.3,
+        "sugar": 0.5,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-saute-chasseur",
+      "name": "Poulet Sauté Chasseur",
+      "description": "Hunter's-style chicken sautéed with mushrooms, tomatoes and tarragon.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 250,
+          "unit": "g",
+          "note": "quartered"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": "concassé"
+        },
+        {
+          "name": "Dry White Wine",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Shallots",
+          "quantity": 80,
+          "unit": "g",
+          "note": "minced"
+        },
+        {
+          "name": "Fresh Tarragon",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dredge chicken in seasoned flour; brown in butter."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté shallots and mushrooms in the same pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Add tomatoes and wine; return chicken."
+        },
+        {
+          "position": 4,
+          "instruction": "Simmer 25 minutes; finish with fresh tarragon."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 36,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 560,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "volaille-de-bresse",
+      "name": "Volaille de Bresse",
+      "description": "AOC Bresse chicken roasted simply with butter, salt and pepper to showcase terroir.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "celebration",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole Bresse Chicken",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "~1.5kg"
+        },
+        {
+          "name": "Beurre de Bresse",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 3,
+          "unit": "sprigs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring chicken to room temperature; season inside and out."
+        },
+        {
+          "position": 2,
+          "instruction": "Truss neatly with kitchen string."
+        },
+        {
+          "position": 3,
+          "instruction": "Roast at 190°C for 1 hour 15 minutes, basting with melted butter."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 15 minutes; carve and serve with pan juices."
+        }
+      ],
+      "nutrition": {
+        "calories": 398,
+        "protein": 40,
+        "carbohydrates": 1,
+        "fat": 26,
+        "fiber": 0.2,
+        "sugar": 0.3,
+        "sodium": 480,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "poulet-a-la-biere",
+      "name": "Poulet à la Bière",
+      "description": "Chicken braised in blonde beer with lardons, mushrooms and mustard.",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken Pieces",
+          "quantity": 1200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Blonde Beer",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lardons",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 100,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Render lardons; brown chicken in the fat."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté onions and mushrooms in the same pan."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken; add beer and mustard."
+        },
+        {
+          "position": 4,
+          "instruction": "Braise covered 40 minutes; thicken with beurre manié if needed."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 34,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 560,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "blanquette-de-dinde",
+      "name": "Blanquette de Dinde",
+      "description": "Turkey in a classic white cream sauce with button mushrooms and pearl onions.",
+      "categories": [
+        "chicken",
+        "comfort-food",
+        "winter"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Turkey Breast",
+          "quantity": 800,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Button Mushrooms",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pearl Onions",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Egg Yolks",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach turkey cubes with aromatics in bouillon 45 minutes; reserve liquid."
+        },
+        {
+          "position": 2,
+          "instruction": "Sauté mushrooms and onions in butter."
+        },
+        {
+          "position": 3,
+          "instruction": "Make velouté with flour, butter and poaching liquid."
+        },
+        {
+          "position": 4,
+          "instruction": "Add cream, lemon juice and yolks off heat; fold in turkey and vegetables."
+        }
+      ],
+      "nutrition": {
+        "calories": 314,
+        "protein": 30,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ratatouille",
+      "name": "Ratatouille",
+      "description": "Provencal summer stew of eggplant, zucchini, peppers and tomato cooked apart, married slowly.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 60,
+      "servings": 6,
+      "servingSize": "1 bowl (280g)",
+      "homePrepCost": 9,
+      "restaurantPrice": 15,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 91,
+      "tags": [
+        "vegan",
+        "provencale"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplant & Zucchini",
+          "quantity": 900,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 700,
+          "unit": "g",
+          "note": "crushed"
+        },
+        {
+          "name": "Onions & Garlic",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Olive Oil & Thyme & Bay",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Fresh Basil",
+          "quantity": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook each vegetable separately in olive oil; reserve."
+        },
+        {
+          "position": 2,
+          "instruction": "Build an onion-tomato base with thyme and bay."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold vegetables through; stew gently 25 minutes uncovered."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with torn basil; better the next day."
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 5,
+        "carbohydrates": 22,
+        "fat": 13,
+        "fiber": 7,
+        "sugar": 14,
+        "sodium": 420,
+        "saturatedFat": 1.8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "q1vmVmbeH20",
+          "youtubeUrl": "https://www.youtube.com/watch?v=q1vmVmbeH20",
+          "videoTitle": "Traditional ratatouille recipe by chef Vivien",
+          "channelName": "Chef Vivien",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "gratin-dauphinois",
+      "name": "Gratin Dauphinois",
+      "description": "Potato slices baked in cream and garlic until unctuously tender - no cheese allowed, tradition says.",
+      "categories": [
+        "vegetarian",
+        "comfort-food",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 90,
+      "servings": 6,
+      "servingSize": "1 square (240g)",
+      "homePrepCost": 5.5,
+      "restaurantPrice": 9,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "cream",
+        "potato"
+      ],
+      "ingredients": [
+        {
+          "name": "Waxy Potatoes",
+          "quantity": 1200,
+          "unit": "g",
+          "note": "2mm slices"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Whole Milk",
+          "quantity": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Nutmeg, Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": "for the dish"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat cream, milk, garlic and seasonings; poach potato slices 10 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Layer into a buttered dish, pressing down."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour over cream; bake 160°C ~75 minutes until knife-slides-easy."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 8,
+        "carbohydrates": 38,
+        "fat": 22,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 480,
+        "saturatedFat": 13
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "fritot-de-tripe",
+      "name": "Fritot de Tripe",
+      "description": "Lightly battered and deep-fried tripe strips with garlicky aïoli.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Honeycomb Tripe",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Plain Flour",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Breadcrumbs",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic Aïoli",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer tripe in aromatics 2 hours; cool and cut into thin strips."
+        },
+        {
+          "position": 2,
+          "instruction": "Dredge in seasoned flour, dip in egg wash, coat in breadcrumbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry at 180°C until golden and crisp, about 3 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain; serve hot with garlic aïoli for dipping."
+        }
+      ],
+      "nutrition": {
+        "calories": 304,
+        "protein": 22,
+        "carbohydrates": 18,
+        "fat": 16,
+        "fiber": 0.5,
+        "sugar": 1,
+        "sodium": 580,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "soupe-au-pistou",
+      "name": "Soupe au Pistou",
+      "description": "Provençal vegetable soup brightened with basil-pistou, the French answer to pesto.",
+      "categories": [
+        "vegetarian",
+        "soup",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Green Beans",
+          "quantity": 200,
+          "unit": "g",
+          "note": "cut"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": 300,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": "crushed"
+        },
+        {
+          "name": "Fresh Basil",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Small Pasta (ditalini)",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sauté onion and garlic in olive oil; add potatoes, beans and tomatoes with water."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer 20 minutes; add zucchini and pasta; cook 10 minutes more."
+        },
+        {
+          "position": 3,
+          "instruction": "Pound basil, garlic and olive oil into a vibrant pistou."
+        },
+        {
+          "position": 4,
+          "instruction": "Swirl pistou into soup just before serving; season well."
+        }
+      ],
+      "nutrition": {
+        "calories": 190,
+        "protein": 8,
+        "carbohydrates": 26,
+        "fat": 6,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 580,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tarte-a-l-oignon",
+      "name": "Tarte à l'Oignon",
+      "description": "Alsatian onion tart with crème fraîche and Gruyère on flaky pastry.",
+      "categories": [
+        "vegetarian",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Onions",
+          "quantity": 800,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Crème Fraîche",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 100,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Puff Pastry",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize sliced onions slowly in butter with thyme 40 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Roll pastry into a tart tin; blind-bake 10 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix crème fraîche, eggs and cheese; fold in onions."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into shell; bake at 200°C for 30 minutes until golden."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 10,
+        "carbohydrates": 34,
+        "fat": 22,
+        "fiber": 2.5,
+        "sugar": 8,
+        "sodium": 640,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gratin-de-courgettes",
+      "name": "Gratin de Courgettes",
+      "description": "Zucchini baked in garlic cream with a bubbling Gruyère and Parmesan crust.",
+      "categories": [
+        "vegetarian",
+        "comfort-food",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Zucchini",
+          "quantity": 800,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": "crushed"
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 80,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Parmesan",
+          "quantity": 40,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": "for the dish"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice zucchini; layer in a buttered gratin dish."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat cream with garlic and nutmeg; pour over."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with grated Gruyère and Parmesan."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 180°C for 40 minutes until golden and bubbling."
+        }
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 10,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 520,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "quiche-lorraine",
+      "name": "Quiche Lorraine",
+      "description": "Classic egg custard tart with crisp lardons in buttery shortcrust.",
+      "categories": [
+        "vegetarian",
+        "lunch",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Shortcrust Pastry",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Smoked Lardons",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 80,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Line tart tin with pastry; blind-bake 10 minutes at 200°C."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook lardons until crisp; drain."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk eggs, cream, nutmeg and seasoning; stir in lardons and cheese."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into shell; bake at 180°C for 35 minutes until just set."
+        }
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 16,
+        "carbohydrates": 28,
+        "fat": 26,
+        "fiber": 1.5,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "crepes-salees",
+      "name": "Crêpes Salées",
+      "description": "Savoury buckwheat crêpes filled with melted Gruyère and topped with a fried egg.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Buckwheat Flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 120,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk buckwheat flour, eggs and milk into a smooth batter; rest 30 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Ladle into a hot buttered pan; cook until edges crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill with grated Gruyère; fold into triangle."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve hot with a fried egg on top and green salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 18,
+        "carbohydrates": 30,
+        "fat": 20,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "socca",
+      "name": "Socca",
+      "description": "Blistered chickpea-flour flatbread from Nice, perfumed with rosemary and olive oil.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "vegan-option",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chickpea Flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Fresh Rosemary",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": "chopped"
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk chickpea flour with water and 3 tbsp olive oil into a thin batter."
+        },
+        {
+          "position": 2,
+          "instruction": "Rest batter at least 2 hours at room temperature."
+        },
+        {
+          "position": 3,
+          "instruction": "Heat oiled cast-iron skillet until smoking; pour batter."
+        },
+        {
+          "position": 4,
+          "instruction": "Broil until blistered and golden; scatter rosemary and salt."
+        }
+      ],
+      "nutrition": {
+        "calories": 234,
+        "protein": 8,
+        "carbohydrates": 28,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 420,
+        "saturatedFat": 1.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "brandade-vegetale",
+      "name": "Brandade Végétale",
+      "description": "Whipped potato and olive-oil purée inspired by the Niçoise salt-cod classic.",
+      "categories": [
+        "vegetarian",
+        "comfort-food",
+        "regional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Waxy Potatoes",
+          "quantity": 800,
+          "unit": "g",
+          "note": "peeled and cubed"
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "White Pepper",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Fresh Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": "chopped"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil potatoes until very tender; drain well and let steam dry."
+        },
+        {
+          "position": 2,
+          "instruction": "Rice potatoes while hot; vigorously beat in olive oil and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with lemon juice, white pepper and a pinch of salt."
+        },
+        {
+          "position": 4,
+          "instruction": "Spread in a baking dish; brown under broiler until golden crust forms."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 6,
+        "carbohydrates": 32,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pissaladiere",
+      "name": "Pissaladière",
+      "description": "Niçoise onion flatbread studded with black olives and fragrant thyme.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "street-food",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bread Dough",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Onions",
+          "quantity": 800,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Black Olives",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Fresh Thyme",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize onions slowly in olive oil with thyme 40 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Stretch dough into a rectangular tart on an oiled baking sheet."
+        },
+        {
+          "position": 3,
+          "instruction": "Spread onions evenly; stud with olives in lines."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake at 220°C for 20 minutes until crust is golden and crisp."
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 8,
+        "carbohydrates": 36,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 7,
+        "sodium": 560,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "farinata",
+      "name": "Farinata",
+      "description": "Crispy chickpea-flour pancake from the Riviera, seasoned with cumin and rosemary.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "vegan-option"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chickpea Flour",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 350,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Ground Cumin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Rosemary",
+          "quantity": 2,
+          "unit": "sprigs",
+          "note": null
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk chickpea flour with water and 2 tbsp oil; rest 4 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Season with cumin and salt; preheat oven to 220°C."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into hot oiled cast-iron pan."
+        },
+        {
+          "position": 4,
+          "instruction": "Bake 20 minutes until crisp-edged and golden; scatter rosemary."
+        }
+      ],
+      "nutrition": {
+        "calories": 214,
+        "protein": 7,
+        "carbohydrates": 24,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 1,
+        "sodium": 380,
+        "saturatedFat": 1.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "pan-bagnat-veg",
+      "name": "Pan Bagnat Végétarien",
+      "description": "Nice-style round sandwich stuffed with marinated tomatoes, peppers, olives and basil.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "summer",
+        "lunch"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Round Bread Rolls",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ripe Tomatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 200,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 80,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Black Olives",
+          "quantity": 80,
+          "unit": "g",
+          "note": "pitted"
+        },
+        {
+          "name": "Fresh Basil",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dice tomatoes, peppers, onion and olives; toss with oil, vinegar and torn basil."
+        },
+        {
+          "position": 2,
+          "instruction": "Split rolls; press filling generously inside."
+        },
+        {
+          "position": 3,
+          "instruction": "Wrap tightly in foil and press under a heavy weight 30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Unwrap and serve — the bread should be soaked with juices."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 8,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 620,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "salade-composee",
+      "name": "Salade Composée",
+      "description": "A composed salad of greens, eggs, potatoes, green beans and Dijon vinaigrette.",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "healthy",
+        "lunch"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mixed Greens",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hard-Boiled Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Cherry Tomatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green Beans",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "New Potatoes",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Black Olives",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dijon Vinaigrette",
+          "quantity": 80,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook green beans and potatoes until just tender; cool."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange mixed greens on a large platter."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with beans, potatoes, tomatoes, olives and halved eggs."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle with Dijon vinaigrette; season and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 248,
+        "protein": 12,
+        "carbohydrates": 14,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 480,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "celeri-remoulade",
+      "name": "Céleri Rémoulade",
+      "description": "Julienne of celeriac tossed in a creamy Dijon mustard dressing.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Celeriac",
+          "quantity": 500,
+          "unit": "g",
+          "note": "peeled"
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Mayonnaise",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Flat-Leaf Parsley",
+          "quantity": 10,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Julienne celeriac finely; plunge into lemon water to prevent browning."
+        },
+        {
+          "position": 2,
+          "instruction": "Pat dry thoroughly."
+        },
+        {
+          "position": 3,
+          "instruction": "Whisk mustard, mayonnaise and lemon juice into dressing."
+        },
+        {
+          "position": 4,
+          "instruction": "Toss celeriac with dressing; garnish with parsley; chill before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 194,
+        "protein": 5,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "flamiche-aux-poireaux",
+      "name": "Flamiche aux Poireaux",
+      "description": "Delicate leek tart in puff pastry with cream, nutmeg and Gruyère.",
+      "categories": [
+        "vegetarian",
+        "dinner",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Puff Pastry",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Leeks",
+          "quantity": 600,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": 150,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 60,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sweat sliced leeks gently in butter until very soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Line tart tin with puff pastry."
+        },
+        {
+          "position": 3,
+          "instruction": "Mix cream, eggs, cheese and nutmeg; fold in leeks."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into shell; bake at 200°C for 30 minutes until golden and set."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 10,
+        "carbohydrates": 30,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 540,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "veloute-de-courgettes",
+      "name": "Velouté de Courgettes",
+      "description": "Silky zucchini soup finished with a drizzle of olive oil and fresh chives.",
+      "categories": [
+        "vegetarian",
+        "soup",
+        "healthy",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Zucchini",
+          "quantity": 800,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "name": "Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "Vegetable Stock",
+          "quantity": 600,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Fresh Chives",
+          "quantity": 10,
+          "unit": "g",
+          "note": "snipped"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sweat onion and garlic in olive oil until soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add zucchini and stock; simmer 15 minutes until tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Blend until completely silky smooth."
+        },
+        {
+          "position": 4,
+          "instruction": "Drizzle with olive oil; garnish with snipped chives."
+        }
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": 7,
+        "carbohydrates": 16,
+        "fat": 12,
+        "fiber": 2.5,
+        "sugar": 6,
+        "sodium": 480,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "omelette-aux-fines-herbes",
+      "name": "Omelette aux Fines Herbes",
+      "description": "Classic French omelette trembling with chervil, parsley, tarragon and chive.",
+      "categories": [
+        "vegetarian",
+        "easy-recipes",
+        "lunch"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Chervil",
+          "quantity": 5,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Flat-Leaf Parsley",
+          "quantity": 5,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Tarragon",
+          "quantity": 3,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Chive",
+          "quantity": 5,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Butter",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fleur de Sel",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs gently with chopped herbs and seasoning — do not over-beat."
+        },
+        {
+          "position": 2,
+          "instruction": "Melt butter in a non-stick pan over medium heat until foaming."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in eggs; stir gently with a fork while shaking the pan."
+        },
+        {
+          "position": 4,
+          "instruction": "Fold omelette when just set but still creamy inside; serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 226,
+        "protein": 14,
+        "carbohydrates": 2,
+        "fat": 18,
+        "fiber": 0.3,
+        "sugar": 1,
+        "sodium": 420,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "galette-sarrasin",
+      "name": "Galette de Sarrasin",
+      "description": "Buckwheat crêpe filled with sautéed mushrooms and Gruyère, topped with an egg.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "lunch"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Buckwheat Flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Gruyère",
+          "quantity": 100,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": 200,
+          "unit": "g",
+          "note": "sliced"
+        },
+        {
+          "name": "Butter",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk buckwheat flour, eggs and milk into a thin batter; rest 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook galette in a buttered pan until edges crisp."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauté mushrooms; add with Gruyère to the galette; fold into a square."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with a fried egg; serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 16,
+        "carbohydrates": 28,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 620,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "brochette-de-boeuf",
+      "name": "Brochette de Boeuf",
+      "description": "Marinated beef skewers with peppers and red onion grilled over charcoal.",
+      "categories": [
+        "vegetarian",
+        "grill",
+        "street-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef Sirloin",
+          "quantity": 600,
+          "unit": "g",
+          "note": "cubed"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": 300,
+          "unit": "g",
+          "note": "chunked"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": 150,
+          "unit": "g",
+          "note": "quartered"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic & Herbes de Provence",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef cubes in herbed olive oil at least 2 hours."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread onto skewers alternating meat, peppers and onion."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over high heat 3 minutes per side until charred outside."
+        },
+        {
+          "position": 4,
+          "instruction": "Squeeze lemon over; serve with a fresh green salad."
+        }
+      ],
+      "nutrition": {
+        "calories": 336,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "creme-brulee",
+      "name": "Crème Brûlée",
+      "description": "Cold vanilla custard beneath a shattering sheet of caramelized sugar.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 40,
+      "servings": 6,
+      "servingSize": "1 ramekin (130g)",
+      "homePrepCost": 5,
+      "restaurantPrice": 9,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 93,
+      "tags": [
+        "custard",
+        "caramel"
+      ],
+      "ingredients": [
+        {
+          "name": "Heavy Cream",
+          "quantity": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Vanilla Pod",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Egg Yolks",
+          "quantity": 6,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 90,
+          "unit": "g"
+        },
+        {
+          "name": "Demerara Sugar Topping",
+          "quantity": 6,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Infuse cream with vanilla; temper into whisked yolks and sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Strain into ramekins; bake in water bath at 140°C ~35 min until just set."
+        },
+        {
+          "position": 3,
+          "instruction": "Chill 4 hours minimum."
+        },
+        {
+          "position": 4,
+          "instruction": "Sugar coat; torch to amber; crack dramatically."
+        }
+      ],
+      "nutrition": {
+        "calories": 390,
+        "protein": 5,
+        "carbohydrates": 20,
+        "fat": 32,
+        "fiber": 0,
+        "sugar": 19,
+        "sodium": 55,
+        "saturatedFat": 19
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "oWwQ6E5HAhU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=oWwQ6E5HAhU",
+          "videoTitle": "Recette de la crème brûlée à la vanille par HervéCuisine",
+          "channelName": "Hervé Cuisine",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tarte-tatin",
+      "name": "Tarte Tatin",
+      "description": "Upside-down caramelized apple tart born of accident in Lamotte-Beuvron.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 55,
+      "servings": 8,
+      "servingSize": "1 wedge (150g)",
+      "homePrepCost": 6,
+      "restaurantPrice": 10,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 87,
+      "tags": [
+        "upside-down",
+        "apple"
+      ],
+      "ingredients": [
+        {
+          "name": "Bramley or Golden Apples",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": "quartered"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "All-Butter Puff Pastry",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Vanilla & Salt Pinch",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Crème Fraîche",
+          "quantity": 150,
+          "unit": "g",
+          "note": "to serve"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook sugar-butter into deep caramel in an oven-safe skillet."
+        },
+        {
+          "position": 2,
+          "instruction": "Pack apples tightly over; top with pastry, tucking edges."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 190°C ~40 minutes until pastry golden."
+        },
+        {
+          "position": 4,
+          "instruction": "Rest 10 brave minutes; invert confidently; serve warm with crème fraîche."
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 3,
+        "carbohydrates": 46,
+        "fat": 19,
+        "fiber": 3,
+        "sugar": 30,
+        "sodium": 190,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "sYrVmYmxj0g",
+          "youtubeUrl": "https://www.youtube.com/watch?v=sYrVmYmxj0g",
+          "videoTitle": "Tarte Tatin recette facile et simple à faire | Tarte Tatin avec la pâte brisée",
+          "channelName": "Cuisine Facile",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "eclair",
+      "name": "Éclair",
+      "description": "Choux pastry shell filled with vanilla crème pâtissière and glossy chocolate glaze.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 125,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Vanilla Bean",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dark Chocolate",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook flour, butter and water into a panade; beat in eggs one at a time."
+        },
+        {
+          "position": 2,
+          "instruction": "Pipe into 12cm logs; bake at 200°C until puffed and hollow."
+        },
+        {
+          "position": 3,
+          "instruction": "Make pastry cream with vanilla, milk, yolks and sugar; chill."
+        },
+        {
+          "position": 4,
+          "instruction": "Fill éclairs through the base; dip tops in melted dark chocolate."
+        }
+      ],
+      "nutrition": {
+        "calories": 374,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 24,
+        "sodium": 280,
+        "saturatedFat": 10
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "paris-brest",
+      "name": "Paris-Brest",
+      "description": "Ring of choux pastry filled with praline mousseline cream and toasted almonds.",
+      "categories": [
+        "desserts",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Choux Pastry",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Praline Paste",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 150,
+          "unit": "g",
+          "note": "for mousseline"
+        },
+        {
+          "name": "Egg Yolks",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sliced Almonds",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pipe choux into a ring on parchment; sprinkle with almonds."
+        },
+        {
+          "position": 2,
+          "instruction": "Bake at 190°C until deeply golden and dry inside."
+        },
+        {
+          "position": 3,
+          "instruction": "Make praline mousseline cream with custard base and softened butter."
+        },
+        {
+          "position": 4,
+          "instruction": "Split ring; pipe generous cream inside; replace top; dust with sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 452,
+        "protein": 8,
+        "carbohydrates": 42,
+        "fat": 28,
+        "fiber": 2,
+        "sugar": 22,
+        "sodium": 220,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mille-feuille",
+      "name": "Mille-Feuille",
+      "description": "Thousand-layer puff pastry with vanilla cream and feathered chocolate fondant.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "All-Butter Puff Pastry",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Vanilla Bean",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Egg Yolks",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Powdered Sugar",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dark Chocolate",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bake puff pastry sheets between trays until flat and caramelized."
+        },
+        {
+          "position": 2,
+          "instruction": "Make thick vanilla crème pâtissière; chill."
+        },
+        {
+          "position": 3,
+          "instruction": "Layer: pastry, cream, pastry, cream, pastry."
+        },
+        {
+          "position": 4,
+          "instruction": "Ice with fondant; feather with chocolate lines; chill until set."
+        }
+      ],
+      "nutrition": {
+        "calories": 434,
+        "protein": 6,
+        "carbohydrates": 44,
+        "fat": 26,
+        "fiber": 1,
+        "sugar": 28,
+        "sodium": 240,
+        "saturatedFat": 14
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "religieuse",
+      "name": "Religieuse",
+      "description": "Stacked choux buns with vanilla pastry cream and cherry fondant collar.",
+      "categories": [
+        "desserts",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Choux Pastry",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Pastry Cream",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cherry Fondant",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 40,
+          "unit": "g",
+          "note": "for cream"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pipe and bake large and small choux buns until hollow and golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill both with vanilla pastry cream using a piping tip."
+        },
+        {
+          "position": 3,
+          "instruction": "Stack the small bun on the large; pipe a buttercream collar around the join."
+        },
+        {
+          "position": 4,
+          "instruction": "Glaze both tops with cherry fondant; decorate with piped rosettes."
+        }
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 6,
+        "carbohydrates": 40,
+        "fat": 24,
+        "fiber": 0.5,
+        "sugar": 26,
+        "sodium": 200,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "madeleines",
+      "name": "Madeleines",
+      "description": "Shell-shaped lemon-scented butter cakes from Lorraine with a characteristic bump.",
+      "categories": [
+        "desserts",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g",
+          "note": "browned"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 120,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lemon Zest",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "finely grated"
+        },
+        {
+          "name": "Baking Powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown butter until nutty-smelling; cool slightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk eggs and sugar until pale and thick; fold in flour and baking powder."
+        },
+        {
+          "position": 3,
+          "instruction": "Add brown butter, lemon zest and honey; chill batter 1 hour."
+        },
+        {
+          "position": 4,
+          "instruction": "Pipe into shell molds; bake at 210°C for 10 minutes then 180°C for 5 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 258,
+        "protein": 5,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 0.5,
+        "sugar": 16,
+        "sodium": 180,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "financier",
+      "name": "Financier",
+      "description": "Brown-butter almond cake with crispy golden edges and a moist centre.",
+      "categories": [
+        "desserts",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Almond Flour",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g",
+          "note": "brown"
+        },
+        {
+          "name": "Egg Whites",
+          "quantity": 5,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Powdered Sugar",
+          "quantity": 130,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vanilla Extract",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown butter until deep amber and nutty; cool."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk egg whites with powdered sugar until frothy."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold in almond flour, flour and vanilla; add brown butter."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into buttered financier molds; bake at 200°C for 12 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 6,
+        "carbohydrates": 24,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 16,
+        "sodium": 160,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tarte-aux-fruits",
+      "name": "Tarte aux Fruits",
+      "description": "Butter-crust tart with crème pâtissière and a mosaic of fresh seasonal fruits.",
+      "categories": [
+        "desserts",
+        "summer",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Shortcrust Pastry",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Vanilla Bean",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Egg Yolks",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mixed Fresh Fruits",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Apricot Glaze",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blind-bake pastry shell until golden and fully cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Make crème pâtissière with vanilla, milk, yolks and sugar; chill."
+        },
+        {
+          "position": 3,
+          "instruction": "Fill cooled shell with cream; arrange fresh fruits decoratively on top."
+        },
+        {
+          "position": 4,
+          "instruction": "Warm apricot jam; brush over fruits for a glossy finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 4,
+        "carbohydrates": 36,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 20,
+        "sodium": 180,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "fondant-au-chocolat",
+      "name": "Fondant au Chocolat",
+      "description": "Dark chocolate lava cake with a molten centre, served within minutes of baking.",
+      "categories": [
+        "desserts",
+        "celebration",
+        "dinner"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark Chocolate (70%)",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Butter",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Flour",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cocoa Powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Melt chocolate and butter together over a bain-marie; cool slightly."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk eggs and sugar until thick and pale."
+        },
+        {
+          "position": 3,
+          "instruction": "Fold chocolate mixture into eggs; sift in flour and cocoa."
+        },
+        {
+          "position": 4,
+          "instruction": "Pour into buttered and cocoa-dusted ramekins; bake at 220°C for exactly 10 minutes."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 6,
+        "carbohydrates": 32,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 24,
+        "sodium": 160,
+        "saturatedFat": 12
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

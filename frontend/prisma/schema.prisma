@@ -1,0 +1,414 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id                 String              @id @default(uuid())
+  firstName          String
+  lastName           String
+  email              String              @unique
+  passwordHash       String
+  wellnessGoal       String              @default("Lose Weight")
+  age                Int                 @default(28)
+  gender             String?
+  height             Float               @default(178)
+  weight             Float               @default(80)
+  targetWeight       Float               @default(75)
+  activityLevel      String              @default("moderate")
+  dietaryPreferences String[]            @default([])
+  allergens          String[]            @default([])
+  favoriteFoods      String[]            @default([])
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+
+  dailyNutritions    DailyNutrition[]
+  foodLogs           FoodLog[]
+  scanHistories      ScanHistory[]
+  workoutHistories   WorkoutHistory[]
+  aiConversations    AiConversation[]
+  pantryItems        PantryItem[]
+  shoppingListItems  ShoppingListItem[]
+  mealPlans          MealPlan[]
+  weightHistories    WeightHistory[]
+  favoriteRecipes    FavoriteRecipe[]
+  recipeReviews      RecipeReview[]
+  notifications      Notification[]
+}
+
+model DailyNutrition {
+  id               String   @id @default(uuid())
+  userId           String
+  user             User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  date             String   // YYYY-MM-DD
+  calorieTarget    Float    @default(2100)
+  caloriesConsumed Float    @default(0)
+  proteinTarget    Float    @default(130)
+  proteinConsumed  Float    @default(0)
+  carbsTarget      Float    @default(240)
+  carbsConsumed    Float    @default(0)
+  fatTarget        Float    @default(70)
+  fatConsumed      Float    @default(0)
+  waterTarget      Float    @default(2.5)
+  waterConsumed    Float    @default(0)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  @@unique([userId, date])
+}
+
+model FoodLog {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  date           String   // YYYY-MM-DD
+  mealType       String   // breakfast, lunch, snack, dinner, drinks
+  productBarcode String?
+  productName    String
+  brand          String?
+  imageUrl       String?
+  servingSize    String?
+  grams          Float    @default(100)
+  servings       Float    @default(1)
+
+  // Verified Nutrition
+  calories       Float    @default(0)
+  protein        Float    @default(0)
+  carbs          Float    @default(0)
+  sugar          Float?
+  fat            Float    @default(0)
+  saturatedFat   Float?
+  fiber          Float?
+  sodium         Float?
+  salt           Float?
+
+  // Micronutrients
+  calcium        Float?
+  iron           Float?
+  magnesium      Float?
+  potassium      Float?
+  zinc           Float?
+  vitaminA       Float?
+  vitaminC       Float?
+  vitaminD       Float?
+  vitaminE       Float?
+  vitaminK       Float?
+  vitaminB1      Float?
+  vitaminB2      Float?
+  vitaminB6      Float?
+  vitaminB12     Float?
+  folate         Float?
+
+  createdAt      DateTime @default(now())
+}
+
+model ScanHistory {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  barcode     String
+  productName String
+  brand       String?
+  imageUrl    String?
+  scannedAt   DateTime @default(now())
+
+  @@index([userId, barcode])
+}
+
+model WorkoutHistory {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  workoutName    String
+  duration       Int      // in minutes
+  caloriesBurned Float?
+  completedAt    DateTime @default(now())
+}
+
+model AiConversation {
+  id        String      @id @default(uuid())
+  userId    String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+  messages  AiMessage[]
+}
+
+model AiMessage {
+  id             String         @id @default(uuid())
+  conversationId String
+  conversation   AiConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  role           String         // user or ai
+  content        String
+  createdAt      DateTime       @default(now())
+}
+
+model PantryItem {
+  id             String    @id @default(uuid())
+  userId         String
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name           String
+  quantity       Float     @default(1)
+  unit           String    @default("pcs")
+  addedDate      DateTime  @default(now())
+  expirationDate DateTime?
+  isUsed         Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  @@index([userId])
+}
+
+model ShoppingListItem {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name        String
+  quantity    Float    @default(1)
+  unit        String   @default("pcs")
+  isPurchased Boolean  @default(false)
+  recipeId    String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([userId])
+}
+
+model MealPlan {
+  id            String   @id @default(uuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  weekStartDate String   // YYYY-MM-DD
+  mealsJson     String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@unique([userId, weekStartDate])
+}
+
+model WeightHistory {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  weight    Float
+  date      String   // YYYY-MM-DD
+  createdAt DateTime @default(now())
+
+  @@index([userId, date])
+}
+
+model FavoriteRecipe {
+  id             String   @id @default(uuid())
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  recipeId       String
+  recipeTitle    String
+  recipeImage    String?
+  recipeCategory String?
+  recipeCountry  String?
+  createdAt      DateTime @default(now())
+
+  @@unique([userId, recipeId])
+}
+
+model RecipeReview {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  recipeId  String
+  rating    Int
+  text      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([recipeId])
+}
+
+model Notification {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     String
+  message   String
+  category  String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@index([userId, isRead])
+}
+
+// ---------------------------------------------------------------------------
+// Food System (Countries / Recipes / Ingredients / Nutrition / Videos)
+// ---------------------------------------------------------------------------
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum ProteinType {
+  BEEF
+  CHICKEN
+  SEAFOOD
+  PORK
+  LAMB
+  MIXED
+  VEGETARIAN
+  NONE
+}
+
+enum DietType {
+  BALANCED
+  HIGH_PROTEIN
+  LOW_CARB
+  KETO
+  VEGETARIAN
+  VEGAN
+  GLUTEN_FREE
+  HALAL
+}
+
+model Country {
+  id           Int      @id @default(autoincrement())
+  code         String   @unique // ISO-like code, e.g. "eg", "jp"
+  slug         String?  @unique // URL-safe identifier, e.g. "egypt"
+  name         String   @unique // e.g. "Egypt"
+  region       String? // e.g. "Middle East & North Africa"
+  cuisineLabel String // e.g. "Egyptian"
+  currency     String? // e.g. "EGP"
+  createdAt    DateTime @default(now())
+
+  recipes Recipe[]
+
+  @@index([name])
+}
+
+model Category {
+  id          Int      @id @default(autoincrement())
+  slug        String   @unique // e.g. "beef", "chicken", "vegetarian"
+  name        String // e.g. "Beef"
+  description String?
+  sortOrder   Int      @default(0)
+
+  recipes RecipeCategory[]
+}
+
+model Ingredient {
+  id                Int                @id @default(autoincrement())
+  name              String             @unique // canonical name, e.g. "Beef Sirloin"
+  slug              String             @unique
+  recipeIngredients RecipeIngredient[]
+}
+
+model Recipe {
+  id              String       @id @default(cuid())
+  slug            String       @unique // URL-safe unique identifier
+  name            String
+  description     String?
+  countryId       Int
+  country         Country      @relation(fields: [countryId], references: [id])
+  difficulty      Difficulty   @default(MEDIUM)
+  proteinType     ProteinType?
+  dietType        DietType?
+  prepTimeMin     Int?
+  cookTimeMin     Int?
+  servings        Int          @default(1)
+  servingSize     String? // e.g. "1 bowl (400g)"
+  homePrepCost    Float? // estimated cost to prepare at home
+  restaurantPrice Float? // estimated restaurant price
+  currency        String? // price currency, e.g. "EGP"
+  imageUrl        String?
+  isPopular       Boolean      @default(false)
+  isTrending      Boolean      @default(false)
+  isFeatured      Boolean      @default(false)
+  popularityScore Int          @default(0) // manual ranking score, higher = more popular
+  published       Boolean      @default(true)
+  tags            String[]     @default([])
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime     @updatedAt
+
+  ingredients     RecipeIngredient[]
+  steps           RecipeStep[]
+  nutrition       RecipeNutrition?
+  videos          RecipeVideo[]
+  categories      RecipeCategory[]
+
+  @@index([countryId])
+  @@index([countryId, popularityScore])
+  @@index([isPopular])
+  @@index([proteinType])
+}
+
+// Many-to-many: one recipe -> multiple categories, one category -> many recipes
+model RecipeCategory {
+  recipeId   String
+  recipe     Recipe   @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  categoryId Int
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([recipeId, categoryId])
+  @@index([categoryId])
+}
+
+// One recipe -> many ingredients; one ingredient -> many recipes.
+// Exact quantity/unit per recipe lives here (e.g. 200 g, 2 pcs, 1 tbsp).
+model RecipeIngredient {
+  id           Int        @id @default(autoincrement())
+  recipeId     String
+  recipe       Recipe     @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  ingredientId Int
+  ingredient   Ingredient @relation(fields: [ingredientId], references: [id])
+  quantity     Float? // e.g. 200, 2, 1
+  unit         String? // e.g. "g", "pcs", "ml", "tbsp"
+  note         String? // e.g. "finely chopped"
+  position     Int        @default(0)
+
+  @@unique([recipeId, position])
+  @@index([ingredientId])
+}
+
+// Ordered preparation/cooking instructions
+model RecipeStep {
+  id          Int    @id @default(autoincrement())
+  recipeId    String
+  recipe      Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  position    Int
+  instruction String
+
+  @@unique([recipeId, position])
+}
+
+// Detailed per-serving nutrition (one-to-one with Recipe)
+model RecipeNutrition {
+  id            Int    @id @default(autoincrement())
+  recipeId      String @unique
+  recipe        Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  calories      Float
+  protein       Float
+  carbohydrates Float
+  fat           Float
+  fiber         Float?
+  sugar         Float?
+  sodium        Float? // milligrams
+  saturatedFat  Float? // grams
+}
+
+// Verified cooking/preparation videos only. Rows are omitted entirely
+// when no verified video exists for a recipe - never fabricate entries.
+model RecipeVideo {
+  id             Int     @id @default(autoincrement())
+  recipeId       String
+  recipe         Recipe  @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  youtubeVideoId String
+  youtubeUrl     String
+  videoTitle     String?
+  channelName    String?
+  isPrimary      Boolean @default(true)
+
+  @@index([recipeId])
+}

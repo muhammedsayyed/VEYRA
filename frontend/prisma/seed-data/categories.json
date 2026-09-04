@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "beef",
+    "name": "Beef",
+    "description": "Recipes featuring beef as the primary protein.",
+    "sortOrder": 10
+  },
+  {
+    "slug": "chicken",
+    "name": "Chicken",
+    "description": "Recipes featuring chicken as the primary protein.",
+    "sortOrder": 20
+  },
+  {
+    "slug": "vegetarian",
+    "name": "Vegetarian",
+    "description": "Meat-free recipes.",
+    "sortOrder": 30
+  },
+  {
+    "slug": "seafood",
+    "name": "Seafood",
+    "description": "Fish and seafood recipes.",
+    "sortOrder": 40
+  },
+  {
+    "slug": "desserts",
+    "name": "Desserts",
+    "description": "Sweet dishes and desserts.",
+    "sortOrder": 50
+  },
+  {
+    "slug": "breakfast",
+    "name": "Breakfast",
+    "description": "Morning meals.",
+    "sortOrder": 60
+  },
+  {
+    "slug": "lunch",
+    "name": "Lunch",
+    "description": "Midday meals.",
+    "sortOrder": 70
+  },
+  {
+    "slug": "dinner",
+    "name": "Dinner",
+    "description": "Evening meals.",
+    "sortOrder": 80
+  },
+  {
+    "slug": "street-food",
+    "name": "Street Food",
+    "description": "Iconic street food classics.",
+    "sortOrder": 90
+  },
+  {
+    "slug": "traditional",
+    "name": "Traditional",
+    "description": "Heritage and traditional preparations.",
+    "sortOrder": 100
+  },
+  {
+    "slug": "healthy",
+    "name": "Healthy",
+    "description": "Nutritionally balanced choices.",
+    "sortOrder": 110
+  },
+  {
+    "slug": "high-protein",
+    "name": "High Protein",
+    "description": "Protein-forward meals.",
+    "sortOrder": 120
+  },
+  {
+    "slug": "budget-friendly",
+    "name": "Budget Friendly",
+    "description": "Low-cost everyday cooking.",
+    "sortOrder": 130
+  },
+  {
+    "slug": "easy-recipes",
+    "name": "Easy Recipes",
+    "description": "Simple, quick preparations.",
+    "sortOrder": 140
+  },
+  {
+    "slug": "celebration",
+    "name": "Celebration",
+    "description": null,
+    "sortOrder": 150
+  },
+  {
+    "slug": "comfort-food",
+    "name": "Comfort Food",
+    "description": null,
+    "sortOrder": 160
+  },
+  {
+    "slug": "curry",
+    "name": "Curry",
+    "description": null,
+    "sortOrder": 170
+  },
+  {
+    "slug": "grill",
+    "name": "Grill",
+    "description": null,
+    "sortOrder": 180
+  },
+  {
+    "slug": "stew",
+    "name": "Stew",
+    "description": null,
+    "sortOrder": 190
+  },
+  {
+    "slug": "stir-fry",
+    "name": "Stir Fry",
+    "description": null,
+    "sortOrder": 200
+  },
+  {
+    "slug": "soup",
+    "name": "Soup",
+    "description": null,
+    "sortOrder": 210
+  },
+  {
+    "slug": "salad",
+    "name": "Salad",
+    "description": null,
+    "sortOrder": 220
+  },
+  {
+    "slug": "starter",
+    "name": "Starter",
+    "description": null,
+    "sortOrder": 230
+  },
+  {
+    "slug": "side",
+    "name": "Side",
+    "description": null,
+    "sortOrder": 240
+  },
+  {
+    "slug": "snack",
+    "name": "Snack",
+    "description": null,
+    "sortOrder": 250
+  },
+  {
+    "slug": "noodles",
+    "name": "Noodles",
+    "description": null,
+    "sortOrder": 260
+  },
+  {
+    "slug": "rice-dish",
+    "name": "Rice Dish",
+    "description": null,
+    "sortOrder": 270
+  },
+  {
+    "slug": "one-pot",
+    "name": "One Pot",
+    "description": null,
+    "sortOrder": 280
+  },
+  {
+    "slug": "hotpot",
+    "name": "Hotpot",
+    "description": null,
+    "sortOrder": 290
+  },
+  {
+    "slug": "braise",
+    "name": "Braise",
+    "description": null,
+    "sortOrder": 300
+  },
+  {
+    "slug": "sharing",
+    "name": "Sharing",
+    "description": null,
+    "sortOrder": 310
+  },
+  {
+    "slug": "family",
+    "name": "Family",
+    "description": null,
+    "sortOrder": 320
+  },
+  {
+    "slug": "regional",
+    "name": "Regional",
+    "description": null,
+    "sortOrder": 330
+  },
+  {
+    "slug": "home-style",
+    "name": "Home Style",
+    "description": null,
+    "sortOrder": 340
+  },
+  {
+    "slug": "party-food",
+    "name": "Party Food",
+    "description": null,
+    "sortOrder": 350
+  },
+  {
+    "slug": "ramadan",
+    "name": "Ramadan",
+    "description": null,
+    "sortOrder": 360
+  },
+  {
+    "slug": "summer",
+    "name": "Summer",
+    "description": null,
+    "sortOrder": 370
+  },
+  {
+    "slug": "winter",
+    "name": "Winter",
+    "description": null,
+    "sortOrder": 380
+  },
+  {
+    "slug": "tapas",
+    "name": "Tapas",
+    "description": null,
+    "sortOrder": 390
+  },
+  {
+    "slug": "meze",
+    "name": "Meze",
+    "description": null,
+    "sortOrder": 400
+  },
+  {
+    "slug": "dim-sum",
+    "name": "Dim Sum",
+    "description": null,
+    "sortOrder": 410
+  },
+  {
+    "slug": "vegan-option",
+    "name": "Vegan Option",
+    "description": null,
+    "sortOrder": 420
+  },
+  {
+    "slug": "gluten-free",
+    "name": "Gluten Free",
+    "description": null,
+    "sortOrder": 430
+  },
+  {
+    "slug": "tofu",
+    "name": "Tofu",
+    "description": null,
+    "sortOrder": 440
+  },
+  {
+    "slug": "spicy",
+    "name": "Spicy",
+    "description": null,
+    "sortOrder": 450
+  },
+  {
+    "slug": "cantonese",
+    "name": "Cantonese",
+    "description": null,
+    "sortOrder": 460
+  },
+  {
+    "slug": "vegan",
+    "name": "Vegan",
+    "description": "Fully plant-based recipes.",
+    "sortOrder": 35
+  },
+  {
+    "slug": "clay-pot",
+    "name": "Clay Pot",
+    "description": null,
+    "sortOrder": 308
+  },
+  {
+    "slug": "oven-rice",
+    "name": "Oven Rice",
+    "description": null,
+    "sortOrder": 309
+  },
+  {
+    "slug": "baked",
+    "name": "Baked",
+    "description": null,
+    "sortOrder": 305
+  }
+]

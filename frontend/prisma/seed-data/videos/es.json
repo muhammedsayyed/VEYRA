@@ -1,0 +1,82 @@
+{
+  "countryCode": "es",
+  "videos": [
+    {
+      "recipeSlug": "rabo-de-toro",
+      "youtubeVideoId": "rL-eStX3WnE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rL-eStX3WnE",
+      "videoTitle": "DELICIOUSLY TENDER - SPANISH OXTAIL IN RED WINE - RABO DE TORO (the classic recipe)",
+      "channelName": "Meet Me in Madrid"
+    },
+    {
+      "recipeSlug": "carne-con-tomate",
+      "youtubeVideoId": "FPL7DKbzf_A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FPL7DKbzf_A",
+      "videoTitle": "Magro de cerdo con tomate, un verdadero clásico 👌 #recetas #receta",
+      "channelName": "Poesía De Fogón"
+    },
+    {
+      "recipeSlug": "albondigas-espanolas",
+      "youtubeVideoId": "FMPMqx_3y_g",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FMPMqx_3y_g",
+      "videoTitle": "Albóndigas en salsa ¡irresistibles! (receta casera y fácil)",
+      "channelName": "Comecontriple"
+    },
+    {
+      "recipeSlug": "pollo-al-ajillo",
+      "youtubeVideoId": "TUFhktJvjS4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=TUFhktJvjS4",
+      "videoTitle": "Pollo al Ajillo | Recetas de Cocina Española",
+      "channelName": "Platos Fáciles con Tamara"
+    },
+    {
+      "recipeSlug": "tortilla-espanola",
+      "youtubeVideoId": "w_3YM-DZVOE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=w_3YM-DZVOE",
+      "videoTitle": "La Autentica Tortilla de Patatas Española",
+      "channelName": "En Casa Contigo"
+    },
+    {
+      "recipeSlug": "cocido-madrileno-beef",
+      "youtubeVideoId": "xDMvbtlP-e8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=xDMvbtlP-e8",
+      "videoTitle": "Cocido Madrileño BRUTAL con solo con dos Trucos ¡Caldo y carnes PERFECTOS !",
+      "channelName": "Los ARROCES de CHEF"
+    },
+    {
+      "recipeSlug": "arroz-con-pollo",
+      "youtubeVideoId": "_wNBr4LwOBk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_wNBr4LwOBk",
+      "videoTitle": "The FAMOUS Spanish Chicken and Rice | Authentic Arroz con Pollo Recipe",
+      "channelName": "Spain on a Fork"
+    },
+    {
+      "recipeSlug": "pinchos-morunos-chicken",
+      "youtubeVideoId": "WsZVdp_31gQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WsZVdp_31gQ",
+      "videoTitle": "Chicken Pinchos Morunos (Spanish Bar Food)",
+      "channelName": "Lola Jay, Yum! "
+    },
+    {
+      "recipeSlug": "gazpacho-andaluz",
+      "youtubeVideoId": "iexBDbEdyaA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=iexBDbEdyaA",
+      "videoTitle": "Gazpacho andaluz 🍅 Receta tradicional, fácil y refrescante",
+      "channelName": "Poesía De Fogón"
+    },
+    {
+      "recipeSlug": "pisto-manchego",
+      "youtubeVideoId": "irGHvbYtR-4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=irGHvbYtR-4",
+      "videoTitle": "Pisto Manchego👩🏻‍🍳 #recetaespañola#pisto#pistomanchego",
+      "channelName": "Laura Suarez"
+    },
+    {
+      "recipeSlug": "crema-catalana",
+      "youtubeVideoId": "DCHn2k6OUpo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DCHn2k6OUpo",
+      "videoTitle": "Crema Catalana 1.1",
+      "channelName": "nobradors"
+    }
+  ]
+}

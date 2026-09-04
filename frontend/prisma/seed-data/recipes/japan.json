@@ -1,0 +1,7297 @@
+{
+  "countryCode": "jp",
+  "recipes": [
+    {
+      "slug": "gyudon",
+      "name": "Gyudon",
+      "description": "Thinly sliced beef simmered in sweet soy-dashi broth piled over steaming rice - Japan's beloved fast bowl.",
+      "categories": [
+        "beef",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "servingSize": "1 large bowl (420g)",
+      "homePrepCost": 700,
+      "restaurantPrice": 900,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 93,
+      "tags": [
+        "donburi",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef (thinly sliced)",
+          "quantity": 300,
+          "unit": "g",
+          "note": "hot-pot cut"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "thickly sliced"
+        },
+        {
+          "name": "Dashi Stock",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Japanese Short Grain Rice",
+          "quantity": 350,
+          "unit": "g",
+          "note": "cooked"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer onion in dashi until translucent; season with soy, mirin, sake and sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Add beef slices; simmer 5 minutes skimming foam."
+        },
+        {
+          "position": 3,
+          "instruction": "Pile beef and onions over hot rice with plenty of broth."
+        },
+        {
+          "position": 4,
+          "instruction": "Top with pickled red ginger or a raw egg yolk if desired."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 34,
+        "carbohydrates": 78,
+        "fat": 17,
+        "fiber": 2,
+        "sugar": 9,
+        "sodium": 1150,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ko9FceT8ZVU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ko9FceT8ZVU",
+          "videoTitle": "How to Make Gyudon (Japanese Beef Rice Bowl Recipe)",
+          "channelName": "Just One Cookbook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "sukiyaki",
+      "name": "Sukiyaki",
+      "description": "Communal hotpot of marbled beef, tofu, noodles and vegetables sweetened with warishita soy-mirin broth.",
+      "categories": [
+        "beef",
+        "traditional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "servingSize": "1 pot share (450g)",
+      "homePrepCost": 3200,
+      "restaurantPrice": 6500,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "hotpot",
+        "celebration"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef Ribeye (thinly sliced)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Napa Cabbage",
+          "quantity": 400,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "name": "Shirataki Noodles",
+          "quantity": 200,
+          "unit": "g",
+          "note": "parboiled"
+        },
+        {
+          "name": "Firm Tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": "seared"
+        },
+        {
+          "name": "Shiitake Mushrooms",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Soy Sauce & Mirin (warishita)",
+          "quantity": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Beef Tallow or Oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat tallow in a wide pot; sear a few beef slices and sprinkle sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Add warishita, then arrange cabbage, tofu, mushrooms and noodles."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered 8-10 minutes, adding remaining beef on top to cook briefly."
+        },
+        {
+          "position": 4,
+          "instruction": "Dip ingredients in raw beaten egg as you eat, Japanese-style."
+        }
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 42,
+        "carbohydrates": 32,
+        "fat": 40,
+        "fiber": 4,
+        "sugar": 12,
+        "sodium": 1350,
+        "saturatedFat": 15
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "oqq3iMo0XTY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=oqq3iMo0XTY",
+          "videoTitle": "Ultimate Homemade Sukiyaki Guide (Japanese Recipe From Scratch)",
+          "channelName": "Sudachi | Japanese Recipes | Yuto Omura",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "nikujaga",
+      "name": "Nikujaga",
+      "description": "Meat-and-potato stew simmered in sweet soy-dashi - the soul of Japanese home cooking.",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "servingSize": "1 bowl (330g)",
+      "homePrepCost": 950,
+      "restaurantPrice": 1600,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 75,
+      "tags": [
+        "stew",
+        "home-style"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef (thinly sliced)",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 600,
+          "unit": "g",
+          "note": "peeled, chunked"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "wedges"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "chunks"
+        },
+        {
+          "name": "Dashi Stock",
+          "quantity": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef briefly; add onion, then potatoes and carrot."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour in dashi with soy, mirin and sake."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered with a drop-lid (otoshi-buta) 25-30 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Uncover to reduce until liquid is nearly gone."
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 18,
+        "carbohydrates": 44,
+        "fat": 10,
+        "fiber": 5,
+        "sugar": 8,
+        "sodium": 920,
+        "saturatedFat": 3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "a_X-YEhVzU8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=a_X-YEhVzU8",
+          "videoTitle": "Experience True Japanese Flavors: \"Nikujaga\" Cooking Tutorial!",
+          "channelName": "Oishii Cooking",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-korokke",
+      "name": "Beef Korokke",
+      "description": "Crisp panko croquettes of savory minced beef and potato - bakery-counter royalty across Japan.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "2 croquettes (200g)",
+      "homePrepCost": 800,
+      "restaurantPrice": 1200,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 72,
+      "tags": [
+        "fried",
+        "snack"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 500,
+          "unit": "g",
+          "note": "mashed while hot"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "finely diced"
+        },
+        {
+          "name": "Flour, Egg & Panko",
+          "quantity": 200,
+          "unit": "g",
+          "note": "breading station"
+        },
+        {
+          "name": "Nutmeg, Salt & Pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Tonkatsu Sauce",
+          "quantity": 60,
+          "unit": "ml",
+          "note": "to serve"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 600,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef and onion; season with nutmeg, salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold into mashed potatoes; cool completely."
+        },
+        {
+          "position": 3,
+          "instruction": "Shape ovals; flour, egg and panko each one."
+        },
+        {
+          "position": 4,
+          "instruction": "Deep-fry at 170°C until deep golden; serve with tonkatsu sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 22,
+        "carbohydrates": 48,
+        "fat": 21,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 720,
+        "saturatedFat": 5.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-tataki",
+      "name": "Beef Tataki",
+      "description": "Seared beef sliced thin and served with ponzu, grated daikon, and scallions",
+      "categories": [
+        "beef",
+        "dinner",
+        "starter",
+        "easy-recipes",
+        "high-protein",
+        "summer"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef tenderloin",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ponzu sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "daikon radish",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef tenderloin on all sides over high heat until browned but rare inside"
+        },
+        {
+          "position": 2,
+          "instruction": "Let rest briefly then slice thinly against the grain"
+        },
+        {
+          "position": 3,
+          "instruction": "Serve topped with grated daikon, scallions, sesame seeds, and ponzu sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 300,
+        "protein": 35,
+        "carbohydrates": 4,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 680,
+        "saturatedFat": 7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "H8ycKLh8c9E",
+          "youtubeUrl": "https://www.youtube.com/watch?v=H8ycKLh8c9E",
+          "videoTitle": "The secret to perfect beef tataki | Simple recipe with garlic chips & ponzu",
+          "channelName": "AIArtefex",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hambagu",
+      "name": "Hambagu",
+      "description": "Juicy Japanese-style beef patty glazed with demi-glace and served with rice",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "family"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion, minced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Worcestershire sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ketchup",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute minced onion until soft, then cool and mix with beef, breadcrumbs, egg, milk, and soy sauce"
+        },
+        {
+          "position": 2,
+          "instruction": "Form into oval patties and cook in a skillet over medium heat until browned on both sides"
+        },
+        {
+          "position": 3,
+          "instruction": "Glaze with a mixture of Worcestershire sauce and ketchup and serve with steamed rice and vegetables"
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 30,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "koDdjLFQt8U",
+          "youtubeUrl": "https://www.youtube.com/watch?v=koDdjLFQt8U",
+          "videoTitle": "How to Make Hambagu (Japanese Hamburger Steak) (Recipe) ハンバーグの作り方 (レシピ)",
+          "channelName": "Just One Cookbook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-nikomi",
+      "name": "Beef Nikomi",
+      "description": "Dashi-simmered beef chunks with daikon and burdock in a savory broth",
+      "categories": [
+        "beef",
+        "dinner",
+        "stew",
+        "comfort-food",
+        "winter",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "daikon radish",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "burdock root",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "konnyaku",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut beef into chunks and parboil to remove excess fat"
+        },
+        {
+          "position": 2,
+          "instruction": "Cut daikon, carrot, and burdock into pieces and add to pot with konnyaku and dashi stock"
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer with soy sauce, sake, and mirin until beef is fork-tender and vegetables have absorbed the broth"
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 36,
+        "carbohydrates": 15,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 920,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yakiniku",
+      "name": "Yakiniku",
+      "description": "Grilled beef slices with a sweet soy sesame marinade served with rice and vegetables",
+      "categories": [
+        "beef",
+        "dinner",
+        "grill",
+        "party-food",
+        "sharing",
+        "summer"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef ribeye, sliced",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "lettuce leaves",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef slices in soy sauce, sesame oil, sugar, garlic, and ginger for 30 minutes"
+        },
+        {
+          "position": 2,
+          "instruction": "Grill beef over high heat in batches until charred and cooked to desired doneness"
+        },
+        {
+          "position": 3,
+          "instruction": "Serve grilled beef in lettuce leaves with scallions and steamed rice"
+        }
+      ],
+      "nutrition": {
+        "calories": 390,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 22,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 760,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-shogayaki",
+      "name": "Beef Shogayaki",
+      "description": "Thinly sliced beef grilled with a ginger soy glaze, served with shredded cabbage",
+      "categories": [
+        "beef",
+        "dinner",
+        "lunch",
+        "easy-recipes",
+        "home-style",
+        "stir-fry"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef loin, thinly sliced",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "cabbage, shredded",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix grated ginger, soy sauce, mirin, sake, and sugar to make the shogayaki marinade"
+        },
+        {
+          "position": 2,
+          "instruction": "Marinate beef slices for 15 minutes then cook in a hot skillet until browned"
+        },
+        {
+          "position": 3,
+          "instruction": "Serve immediately over rice with a side of shredded cabbage"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 34,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 710,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-nabe",
+      "name": "Gyu-Nabe",
+      "description": "Beef and vegetable hot pot with tofu in a rich soy dashi broth",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food",
+        "sharing",
+        "winter",
+        "soup"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef ribeye, thinly sliced",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "napa cabbage",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "enoki mushrooms",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "firm tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "negi leek",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shirataki noodles",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring dashi stock to a simmer and season with soy sauce and mirin in a large pot"
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange vegetables, tofu, shirataki, and mushrooms around the pot and simmer until tender"
+        },
+        {
+          "position": 3,
+          "instruction": "Add beef slices and cook briefly, then serve with ponzu or sesame dipping sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 388,
+        "protein": 34,
+        "carbohydrates": 18,
+        "fat": 20,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 840,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-no-tsukudani",
+      "name": "Gyu no Tsukudani",
+      "description": "Beef simmered in sweet soy sauce until rich and tender, served over steamed rice",
+      "categories": [
+        "beef",
+        "dinner",
+        "lunch",
+        "home-style",
+        "rice-dish",
+        "budget-friendly"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ginger, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut beef into bite-sized pieces and blanch to remove scum"
+        },
+        {
+          "position": 2,
+          "instruction": "Combine soy sauce, sake, mirin, sugar, and ginger in a pot and bring to a boil"
+        },
+        {
+          "position": 3,
+          "instruction": "Add beef and simmer gently until the liquid reduces to a thick glaze coating the meat"
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 35,
+        "carbohydrates": 16,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 8,
+        "sodium": 980,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-tofu",
+      "name": "Beef Tofu",
+      "description": "Braised beef and soft tofu in a savory miso soy broth with scallions",
+      "categories": [
+        "beef",
+        "dinner",
+        "comfort-food",
+        "home-style",
+        "stew",
+        "family"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck, sliced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "silken tofu",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "miso paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef slices in a pot with grated ginger until no longer pink"
+        },
+        {
+          "position": 2,
+          "instruction": "Add dashi stock, soy sauce, miso, sake, and mirin and bring to a gentle simmer"
+        },
+        {
+          "position": 3,
+          "instruction": "Add cubed tofu and simmer for ten minutes, then garnish with sliced scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 330,
+        "protein": 30,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 750,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kimchi-nikujaga",
+      "name": "Kimchi Nikujaga",
+      "description": "Spicy variation of the classic beef and potato stew with kimchi and gochujang",
+      "categories": [
+        "beef",
+        "dinner",
+        "spicy",
+        "comfort-food",
+        "stew",
+        "winter"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck, sliced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "kimchi",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shirataki noodles",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil and chunk potatoes and carrots"
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer beef and kimchi in dashi with gochujang, soy sauce, and mirin"
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes, carrots, and shirataki and cook until everything is tender and flavors have melded"
+        }
+      ],
+      "nutrition": {
+        "calories": 366,
+        "protein": 28,
+        "carbohydrates": 32,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 870,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "negi-maki",
+      "name": "Negi Maki",
+      "description": "Thin beef slices rolled around green onion and grilled with a sweet soy glaze",
+      "categories": [
+        "beef",
+        "dinner",
+        "grill",
+        "party-food",
+        "sharing",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef ribeye, thinly sliced",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "negi leek",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "toothpicks",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut green onion into 10cm lengths"
+        },
+        {
+          "position": 2,
+          "instruction": "Roll each piece of green onion with a slice of beef and secure with a toothpick"
+        },
+        {
+          "position": 3,
+          "instruction": "Grill or pan-sear until beef is browned, then brush with a mixture of soy sauce, mirin, and sugar"
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-hire",
+      "name": "Gyu Hire",
+      "description": "Grilled beef tenderloin seasoned with salt and served with wasabi and soy",
+      "categories": [
+        "beef",
+        "dinner",
+        "grill",
+        "easy-recipes",
+        "high-protein",
+        "summer"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef tenderloin",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "wasabi",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Season beef tenderloin generously with salt and pepper and let rest at room temperature"
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over high heat to desired doneness, turning once"
+        },
+        {
+          "position": 3,
+          "instruction": "Slice and serve with soy sauce, wasabi, and a squeeze of lemon"
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 42,
+        "carbohydrates": 2,
+        "fat": 20,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 580,
+        "saturatedFat": 9
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-kare",
+      "name": "Gyu Kare",
+      "description": "Japanese-style beef curry with potatoes and carrots served over steamed rice",
+      "categories": [
+        "beef",
+        "dinner",
+        "curry",
+        "comfort-food",
+        "family",
+        "rice-dish"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck, cubed",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potatoes",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Japanese curry roux",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef cubes in a pot, then add diced onion, potato, and carrot and cook for a few minutes"
+        },
+        {
+          "position": 2,
+          "instruction": "Add water and bring to a boil, then reduce heat and simmer until beef and vegetables are tender"
+        },
+        {
+          "position": 3,
+          "instruction": "Break curry roux into the pot and stir until dissolved and thickened, then serve over steamed rice"
+        }
+      ],
+      "nutrition": {
+        "calories": 424,
+        "protein": 30,
+        "carbohydrates": 40,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 5,
+        "sodium": 950,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-nikujaga-extra",
+      "name": "Beef Nikujaga Extra",
+      "description": "Classic beef and potato simmered stew with shirataki",
+      "categories": [
+        "beef",
+        "comfort-food",
+        "stew",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef chuck",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "potato",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shirataki noodle",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef slices and sliced onion in a pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add potatoes shirataki dashi and seasonings."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer covered until potatoes are tender and liquid reduces."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 28,
+        "carbohydrates": 34,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-sukiyaki-extra",
+      "name": "Gyu Sukiyaki Extra",
+      "description": "Sweet soy hotpot with beef tofu and vegetables",
+      "categories": [
+        "beef",
+        "hotpot",
+        "celebration",
+        "dinner",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "napa cabbage",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shiitake",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "tofu",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shirataki noodle",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef slices in a hot sukiyaki pan with sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Add dashi soy sauce and mirin to create broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Add vegetables tofu and shirataki simmer until cooked."
+        }
+      ],
+      "nutrition": {
+        "calories": 386,
+        "protein": 34,
+        "carbohydrates": 22,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 740,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yakiniku-extra",
+      "name": "Yakiniku Extra",
+      "description": "Japanese BBQ beef with dipping tare sauce",
+      "categories": [
+        "beef",
+        "grill",
+        "dinner",
+        "celebration",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef sirloin",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef thinly and arrange on a plate."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix soy sauce mirin sugar sesame oil and garlic for tare."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill beef over high heat dip in tare and serve."
+        }
+      ],
+      "nutrition": {
+        "calories": 304,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kokoro-nikomi",
+      "name": "Kokoro Nikomi",
+      "description": "Hearty beef tendon and tripe stew in rich miso",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food",
+        "traditional",
+        "braise"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef tendon",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "beef tripe",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "miso paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "daikon",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dashi",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Braise tendon and tripe in dashi until very tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Add daikon and carrot simmer until soft."
+        },
+        {
+          "position": 3,
+          "instruction": "Dissolve miso into broth and serve in a deep bowl with green onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 26,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 820,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-teriyaki-don",
+      "name": "Chicken Teriyaki Don",
+      "description": "Glossy pan-glazed chicken thigh over steamed rice with edamame and toasted sesame - a Japanese weeknight staple.",
+      "categories": [
+        "chicken",
+        "lunch",
+        "dinner",
+        "high-protein",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 850,
+      "restaurantPrice": 2200,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": true,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 90,
+      "tags": [
+        "donburi",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "name": "Japanese Short Grain Rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Edamame",
+          "quantity": 100,
+          "unit": "g",
+          "note": "shelled"
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk soy sauce, mirin, sake and sugar into a teriyaki glaze."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-fry chicken thighs skin-side down until deeply golden; flip and cook through."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour off excess fat, add glaze and reduce until it lacquers the chicken."
+        },
+        {
+          "position": 4,
+          "instruction": "Slice chicken; serve over hot rice with edamame and sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 48,
+        "carbohydrates": 52,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 10,
+        "sodium": 980,
+        "saturatedFat": 3.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "1yIL6msp8AE",
+          "youtubeUrl": "https://www.youtube.com/watch?v=1yIL6msp8AE",
+          "videoTitle": "Japanese Chicken Teriyaki Don Recipe - Easy And Quick",
+          "channelName": "Michel Cellier",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 25
+    },
+    {
+      "slug": "oyakodon",
+      "name": "Oyakodon",
+      "description": "'Parent-and-child' bowl: chicken and egg softly set over rice in sweet soy-dashi broth.",
+      "categories": [
+        "chicken",
+        "lunch",
+        "budget-friendly",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "servingSize": "1 bowl (380g)",
+      "homePrepCost": 600,
+      "restaurantPrice": 1100,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "donburi",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 300,
+          "unit": "g",
+          "note": "bite-sized"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": "lightly beaten"
+        },
+        {
+          "name": "Onion",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": "sliced"
+        },
+        {
+          "name": "Dashi Stock",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Japanese Short Grain Rice",
+          "quantity": 350,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "name": "Mitsuba or Parsley",
+          "quantity": 5,
+          "unit": "g",
+          "note": "chopped"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer onion in dashi, soy and mirin until soft; add chicken and poach through."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour beaten egg evenly over; cover and cook just until softly set."
+        },
+        {
+          "position": 3,
+          "instruction": "Slide half the mixture over each bowl of hot rice."
+        },
+        {
+          "position": 4,
+          "instruction": "Scatter herbs and serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 590,
+        "protein": 38,
+        "carbohydrates": 74,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 7,
+        "sodium": 1050,
+        "saturatedFat": 3.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "pPbiWWOuDDU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=pPbiWWOuDDU",
+          "videoTitle": "Perfect Oyakodon Recipe (The Ultimate Japanese Chicken & Egg Rice Bowl)",
+          "channelName": "Sudachi | Japanese Recipes | Yuto Omura",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "karaage",
+      "name": "Karaage",
+      "description": "Twice-fried Japanese fried chicken marinated in ginger-soy - crackly outside, juicy inside.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "6 pieces (240g)",
+      "homePrepCost": 750,
+      "restaurantPrice": 1400,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 94,
+      "tags": [
+        "fried",
+        "izakaya"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs (boneless)",
+          "quantity": 800,
+          "unit": "g",
+          "note": "large chunks"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Ginger (grated)",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic (grated)",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Potato Starch (katakuri-ko)",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 700,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in soy, sake, ginger and garlic for 1 hour."
+        },
+        {
+          "position": 2,
+          "instruction": "Toss pieces in potato starch just before frying."
+        },
+        {
+          "position": 3,
+          "instruction": "Fry at 160°C for 4 minutes; rest, then fry again at 190°C for 1-2 minutes."
+        },
+        {
+          "position": 4,
+          "instruction": "Drain and serve with lemon and mayo if liked."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 41,
+        "carbohydrates": 24,
+        "fat": 27,
+        "fiber": 0.8,
+        "sugar": 2,
+        "sodium": 890,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "NRSQ4OdMNaQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=NRSQ4OdMNaQ",
+          "videoTitle": "Japanese Chicken Karaage (Japanese Fried Chicken)",
+          "channelName": "Japanese Cooking 101",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "yakitori",
+      "name": "Yakitori",
+      "description": "Charcoal-grilled chicken skewers glazed with tare sauce - izakaya nightlife in finger food form.",
+      "categories": [
+        "chicken",
+        "street-food",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "4 skewers (220g)",
+      "homePrepCost": 850,
+      "restaurantPrice": 1800,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "grill",
+        "skewers"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken Thighs & Skin",
+          "quantity": 700,
+          "unit": "g",
+          "note": "bite-sized pieces"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Sake",
+          "quantity": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Bamboo Skewers",
+          "quantity": 16,
+          "unit": "pcs",
+          "note": "soaked"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer soy, mirin, sake and sugar into a glossy tare glaze."
+        },
+        {
+          "position": 2,
+          "instruction": "Thread chicken onto skewers, folding skin between pieces."
+        },
+        {
+          "position": 3,
+          "instruction": "Grill over medium charcoal, turning and brushing tare repeatedly."
+        },
+        {
+          "position": 4,
+          "instruction": "Cook 10-12 minutes until lacquered and charred at edges."
+        }
+      ],
+      "nutrition": {
+        "calories": 430,
+        "protein": 39,
+        "carbohydrates": 16,
+        "fat": 23,
+        "fiber": 0.5,
+        "sugar": 13,
+        "sodium": 1250,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XFe9T1s2hrs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XFe9T1s2hrs",
+          "videoTitle": "Yakitori Recipe - Japanese Cooking 101",
+          "channelName": "JapaneseCooking101",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "chicken-nanban",
+      "name": "Chicken Nanban",
+      "description": "Crispy chicken served with a sweet vinegar nanban sauce and creamy tartar topping",
+      "categories": [
+        "chicken",
+        "dinner",
+        "lunch",
+        "easy-recipes",
+        "family",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "rice vinegar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mayonnaise",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cucumber, finely diced",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cabbage, shredded",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Coat chicken thigh in flour and beaten egg, then cook in oil until golden and crispy"
+        },
+        {
+          "position": 2,
+          "instruction": "Mix rice vinegar, soy sauce, and sugar for the nanban sauce and pour over hot chicken"
+        },
+        {
+          "position": 3,
+          "instruction": "Top with a mixture of mayonnaise and diced cucumber and serve with shredded cabbage"
+        }
+      ],
+      "nutrition": {
+        "calories": 406,
+        "protein": 30,
+        "carbohydrates": 22,
+        "fat": 22,
+        "fiber": 1,
+        "sugar": 5,
+        "sodium": 690,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tebasaki",
+      "name": "Tebasaki",
+      "description": "Glazed chicken wings with a sweet soy and pepper coating served as an appetizer",
+      "categories": [
+        "chicken",
+        "snack",
+        "party-food",
+        "starter",
+        "sharing",
+        "grill"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken wings",
+          "quantity": 12,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "slices",
+          "note": null
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer chicken wings in water with garlic and ginger to remove scum, then drain"
+        },
+        {
+          "position": 2,
+          "instruction": "Combine soy sauce, mirin, sake, and sugar in a pan and bring to a boil"
+        },
+        {
+          "position": 3,
+          "instruction": "Add wings and cook, turning frequently, until the glaze is thick and sticky, then sprinkle with pepper and sesame"
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 26,
+        "carbohydrates": 14,
+        "fat": 18,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 780,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-katsu",
+      "name": "Chicken Katsu",
+      "description": "Crispy panko-crusted chicken cutlet served with tonkatsu sauce and shredded cabbage",
+      "categories": [
+        "chicken",
+        "dinner",
+        "lunch",
+        "easy-recipes",
+        "family",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "tonkatsu sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cabbage, shredded",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "lemon wedge",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound chicken breast to even thickness, then coat in flour, beaten egg, and panko"
+        },
+        {
+          "position": 2,
+          "instruction": "Deep fry in oil at 170 degrees until golden brown and cooked through"
+        },
+        {
+          "position": 3,
+          "instruction": "Slice and serve with tonkatsu sauce, shredded cabbage, and a lemon wedge"
+        }
+      ],
+      "nutrition": {
+        "calories": 412,
+        "protein": 34,
+        "carbohydrates": 24,
+        "fat": 20,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 620,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-nabe",
+      "name": "Tori Nabe",
+      "description": "Chicken hot pot with napa cabbage, mushrooms, and tofu in a light dashi broth",
+      "categories": [
+        "chicken",
+        "dinner",
+        "comfort-food",
+        "sharing",
+        "winter",
+        "soup"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh, sliced",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "napa cabbage",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 6,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "enoki mushrooms",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "firm tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "negi leek",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring dashi stock to a simmer and season with soy sauce, mirin, and sake"
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange cabbage, mushrooms, tofu, and leek in the pot and simmer until tender"
+        },
+        {
+          "position": 3,
+          "instruction": "Add chicken slices and cook through, then serve with ponzu dipping sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 28,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mizutaki",
+      "name": "Mizutaki",
+      "description": "Chicken and vegetable stew simmered in a rich dashi broth with sesame dipping sauce",
+      "categories": [
+        "chicken",
+        "dinner",
+        "stew",
+        "comfort-food",
+        "winter",
+        "sharing"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken drumsticks",
+          "quantity": 6,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "napa cabbage",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "daikon radish",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 6,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "firm tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil chicken drumsticks to remove scum and set aside"
+        },
+        {
+          "position": 2,
+          "instruction": "Bring dashi to a simmer, add daikon, carrots, and chicken, and simmer until tender"
+        },
+        {
+          "position": 3,
+          "instruction": "Add cabbage, mushrooms, and tofu, cook briefly, and serve with sesame paste dipping sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 294,
+        "protein": 30,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 740,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "negima-chicken",
+      "name": "Negima Chicken",
+      "description": "Skewered chicken thigh and green onion grilled with a sweet soy glaze",
+      "categories": [
+        "chicken",
+        "snack",
+        "street-food",
+        "party-food",
+        "grill",
+        "sharing"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh, cubed",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "negi leek",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "bamboo skewers",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Alternate chicken thigh cubes and green onion pieces on bamboo skewers"
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over medium-high heat, turning frequently to cook evenly"
+        },
+        {
+          "position": 3,
+          "instruction": "Brush with a glaze of soy sauce, mirin, sake, and sugar during the last few minutes of grilling"
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 30,
+        "carbohydrates": 8,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 5,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-tatsuta",
+      "name": "Chicken Tatsuta",
+      "description": "Marinated chicken thigh coated in potato starch and deep-fried until crispy",
+      "categories": [
+        "chicken",
+        "dinner",
+        "snack",
+        "party-food",
+        "easy-recipes",
+        "street-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "potato starch",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "lemon wedges",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "shichimi togarashi",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in soy sauce, sake, and grated ginger for at least 30 minutes"
+        },
+        {
+          "position": 2,
+          "instruction": "Coat each piece generously with potato starch, shaking off excess"
+        },
+        {
+          "position": 3,
+          "instruction": "Deep fry in oil at 170 degrees until golden and crispy, drain, and serve with lemon and shichimi"
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 28,
+        "carbohydrates": 10,
+        "fat": 22,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 690,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "doro-meshi",
+      "name": "Doro Meshi",
+      "description": "Clay pot chicken and rice cooked together with ginger, soy sauce, and sesame oil",
+      "categories": [
+        "chicken",
+        "dinner",
+        "rice-dish",
+        "clay-pot",
+        "comfort-food",
+        "one-pot"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh, diced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "japanese rice",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mushrooms",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash rice and place in a clay pot with water, soy sauce, mirin, and sesame oil"
+        },
+        {
+          "position": 2,
+          "instruction": "Top with diced chicken, mushrooms, and grated ginger"
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and cook over medium-low heat until rice is fluffy and chicken is cooked through, garnish with scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 388,
+        "protein": 28,
+        "carbohydrates": 42,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 780,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "soboro-don",
+      "name": "Soboro Don",
+      "description": "Seasoned ground chicken served over rice with scrambled egg and pickled vegetables",
+      "categories": [
+        "chicken",
+        "dinner",
+        "lunch",
+        "rice-dish",
+        "easy-recipes",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground chicken",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "pickled ginger",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook ground chicken in a pan with soy sauce, sake, mirin, and sugar, breaking into fine crumbles"
+        },
+        {
+          "position": 2,
+          "instruction": "Scramble eggs softly in a separate pan until just set"
+        },
+        {
+          "position": 3,
+          "instruction": "Serve chicken soboro and scrambled egg over steamed rice with pickled vegetables and scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 26,
+        "carbohydrates": 36,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-sumibi",
+      "name": "Tori Sumibi",
+      "description": "Charcoal-grilled chicken thigh marinated in soy and mirin, served with scallion",
+      "categories": [
+        "chicken",
+        "dinner",
+        "grill",
+        "easy-recipes",
+        "home-style",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "steamed rice",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken thigh in soy sauce, mirin, sake, garlic, and ginger for at least one hour"
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over high heat until charred on the outside and cooked through"
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with steamed rice and garnish with sliced scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 322,
+        "protein": 32,
+        "carbohydrates": 8,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 740,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-dango",
+      "name": "Tori Dango",
+      "description": "Seasoned chicken dumplings served in a light dashi broth with scallions",
+      "categories": [
+        "chicken",
+        "dinner",
+        "soup",
+        "comfort-food",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce for broth",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix ground chicken, breadcrumbs, egg, ginger, and soy sauce, then form into small balls"
+        },
+        {
+          "position": 2,
+          "instruction": "Bring dashi stock to a simmer and season with soy sauce and mirin"
+        },
+        {
+          "position": 3,
+          "instruction": "Drop chicken balls into the broth and simmer until cooked through, then garnish with scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 268,
+        "protein": 26,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 680,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-den",
+      "name": "Tori Den",
+      "description": "Chicken meatballs simmered in a sweet soy broth with grated daikon on the side",
+      "categories": [
+        "chicken",
+        "dinner",
+        "lunch",
+        "home-style",
+        "comfort-food",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "ground chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 0.5,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "daikon radish, grated",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix ground chicken, breadcrumbs, egg, and ginger, then form into oval-shaped meatballs"
+        },
+        {
+          "position": 2,
+          "instruction": "Brown meatballs lightly in a pan, then add dashi, soy sauce, mirin, and sugar"
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until the sauce reduces and coats the meatballs, serve with grated daikon"
+        }
+      ],
+      "nutrition": {
+        "calories": 302,
+        "protein": 28,
+        "carbohydrates": 16,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 6,
+        "sodium": 760,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-hiyashi",
+      "name": "Chicken Hiyashi",
+      "description": "Chilled poached chicken breast served with a ginger soy dressing and cucumber",
+      "categories": [
+        "chicken",
+        "lunch",
+        "salad",
+        "summer",
+        "healthy",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ginger, sliced",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "rice vinegar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken breast gently in water with ginger slices until cooked through, then chill in ice water"
+        },
+        {
+          "position": 2,
+          "instruction": "Shred chilled chicken into bite-sized strips"
+        },
+        {
+          "position": 3,
+          "instruction": "Mix soy sauce, rice vinegar, sesame oil, and sugar for dressing, then toss chicken with dressing, cucumber, and scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 32,
+        "carbohydrates": 6,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 650,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tori-meshi",
+      "name": "Tori Meshi",
+      "description": "Chicken and rice cooked together in dashi with shiitake mushrooms and carrot",
+      "categories": [
+        "chicken",
+        "dinner",
+        "rice-dish",
+        "one-pot",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "BALANCED",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh, diced",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "japanese rice",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1.5,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Wash rice and place in a pot with dashi stock, soy sauce, mirin, and sake"
+        },
+        {
+          "position": 2,
+          "instruction": "Top with diced chicken, sliced shiitake, and carrot"
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and cook over medium-low heat until rice absorbs all liquid and chicken is cooked through, garnish with scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 372,
+        "protein": 26,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 720,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yakitori-extra",
+      "name": "Yakitori Extra",
+      "description": "Grilled chicken skewers with tare glaze",
+      "categories": [
+        "chicken",
+        "grill",
+        "street-food",
+        "dinner",
+        "high-protein"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken thigh",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sake",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "green onion",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Thread chicken and green onion onto bamboo skewers."
+        },
+        {
+          "position": 2,
+          "instruction": "Grill over charcoal while basting with tare."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until charred and glazed serve immediately."
+        }
+      ],
+      "nutrition": {
+        "calories": 294,
+        "protein": 30,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 540,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-katsu-extra",
+      "name": "Chicken Katsu Extra",
+      "description": "Japanese breaded chicken cutlet with tonkatsu sauce",
+      "categories": [
+        "chicken",
+        "lunch",
+        "dinner",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "panko",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "tonkatsu sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cabbage",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pound chicken breast and season with salt and pepper."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat in flour egg and panko breadcrumbs."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry until golden slice and serve with tonkatsu sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 384,
+        "protein": 36,
+        "carbohydrates": 24,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "nasu-dengaku",
+      "name": "Nasu Dengaku",
+      "description": "Miso-glazed eggplant halves broiled until the sweet-salty glaze caramelizes.",
+      "categories": [
+        "vegetarian",
+        "side",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "servingSize": "1 half eggplant (180g)",
+      "homePrepCost": 500,
+      "restaurantPrice": 900,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 70,
+      "tags": [
+        "miso",
+        "glazed"
+      ],
+      "ingredients": [
+        {
+          "name": "Japanese Eggplants",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": "halved lengthwise, scored"
+        },
+        {
+          "name": "White Miso Paste",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sake",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Neutral Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pan-fry eggplant cut-side down in oil until deeply browned; flip and soften."
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer miso, mirin, sake and sugar into thick dengaku glaze."
+        },
+        {
+          "position": 3,
+          "instruction": "Spread glaze thickly over the cut faces."
+        },
+        {
+          "position": 4,
+          "instruction": "Broil 2-3 minutes until bubbling; finish with sesame."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 5,
+        "carbohydrates": 28,
+        "fat": 11,
+        "fiber": 6,
+        "sugar": 17,
+        "sodium": 880,
+        "saturatedFat": 1.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "9BjXyJ8xLX8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=9BjXyJ8xLX8",
+          "videoTitle": "How to make Nasu dengaku. Japanese traditional Miso Eggplant dish!",
+          "channelName": "Kyodokan ~Japanese culture to the world~",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "agedashi-tofu",
+      "name": "Agedashi Tofu",
+      "description": "Silken tofu in a delicate katakuriko crust floating in hot tsuyu with grated daikon and ginger.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "2 blocks (220g)",
+      "homePrepCost": 550,
+      "restaurantPrice": 1100,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 73,
+      "tags": [
+        "fried",
+        "tofu"
+      ],
+      "ingredients": [
+        {
+          "name": "Silken Firm Tofu",
+          "quantity": 600,
+          "unit": "g",
+          "note": "drained, cubed"
+        },
+        {
+          "name": "Potato Starch",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Dashi Stock",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Grated Daikon & Ginger",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Spring Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "thin rings"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press tofu 15 minutes; pat very dry."
+        },
+        {
+          "position": 2,
+          "instruction": "Coat cubes generously in potato starch."
+        },
+        {
+          "position": 3,
+          "instruction": "Deep-fry at 175°C about 3 minutes until light gold; drain."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve in warm tsuyu (dashi + soy + mirin) topped with daikon, ginger, spring onion."
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 13,
+        "carbohydrates": 22,
+        "fat": 13,
+        "fiber": 1.5,
+        "sugar": 5,
+        "sodium": 950,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "P0DNVx3SBpo",
+          "youtubeUrl": "https://www.youtube.com/watch?v=P0DNVx3SBpo",
+          "videoTitle": "Make Easy & Delicious Agedashi Tofu (Fried Tofu)! Enjoyed With the Sauce Full of Umami!",
+          "channelName": "Japanese Cooking Ichie",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "vegetable-tempura",
+      "name": "Vegetable Tempura",
+      "description": "Feather-light ice-cold batter around sweet potato, shiso, lotus root and seasonal vegetables.",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "servingSize": "8 pieces (200g)",
+      "homePrepCost": 800,
+      "restaurantPrice": 1700,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "fried",
+        "seasonal"
+      ],
+      "ingredients": [
+        {
+          "name": "Sweet Potato & Lotus Root",
+          "quantity": 300,
+          "unit": "g",
+          "note": "thin slices"
+        },
+        {
+          "name": "Shiso Leaves & Green Beans",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Cake Flour",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Ice-Cold Sparkling Water",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Egg Yolk",
+          "quantity": 1,
+          "unit": "pcs"
+        },
+        {
+          "name": "Frying Oil",
+          "quantity": 700,
+          "unit": "ml"
+        },
+        {
+          "name": "Tentsuyu Dipping Sauce",
+          "quantity": 150,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk yolk with icy water; fold in flour with chopsticks, leaving lumps."
+        },
+        {
+          "position": 2,
+          "instruction": "Dip vegetables and fry small batches at 175°C until pale gold."
+        },
+        {
+          "position": 3,
+          "instruction": "Drain upright on a rack; season lightly with fine salt."
+        },
+        {
+          "position": 4,
+          "instruction": "Serve immediately with tentsuyu."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 6,
+        "carbohydrates": 36,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "yasai-yakisoba",
+      "name": "Yasai Yakisoba",
+      "description": "Stir-fried noodles tossed with cabbage, bean sprouts and yakisoba sauce - festival-night comfort.",
+      "categories": [
+        "vegetarian",
+        "street-food",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "servingSize": "1 plate (360g)",
+      "homePrepCost": 550,
+      "restaurantPrice": 1000,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 71,
+      "tags": [
+        "noodles",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "name": "Yakisoba Noodles",
+          "quantity": 2,
+          "unit": "packs"
+        },
+        {
+          "name": "Green Cabbage",
+          "quantity": 300,
+          "unit": "g",
+          "note": "roughly chopped"
+        },
+        {
+          "name": "Bean Sprouts",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": "julienned"
+        },
+        {
+          "name": "Yakisoba Sauce",
+          "quantity": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "Pickled Ginger (beni shoga)",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Aonori Seaweed Flakes",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": "keep vegetarian - no katsuobushi"
+        },
+        {
+          "name": "Vegetable Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry harder vegetables first in hot oil, then cabbage and sprouts."
+        },
+        {
+          "position": 2,
+          "instruction": "Add noodles with a splash of water, loosening as they heat."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in yakisoba sauce; toss until every strand is coated."
+        },
+        {
+          "position": 4,
+          "instruction": "Finish with beni shoga and aonori flakes."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 11,
+        "carbohydrates": 74,
+        "fat": 14,
+        "fiber": 6,
+        "sugar": 14,
+        "sodium": 1250,
+        "saturatedFat": 2.5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 27,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "horenso-goma",
+      "name": "Horenso Goma",
+      "description": "Blanched spinach dressed with a savory sesame paste sauce and topped with sesame seeds",
+      "categories": [
+        "side",
+        "salad",
+        "healthy",
+        "vegan",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sesame paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "salt for blanching",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch spinach in salted boiling water for 30 seconds, then transfer to ice water and squeeze dry"
+        },
+        {
+          "position": 2,
+          "instruction": "Mix sesame paste, soy sauce, sugar, and a splash of water to make the dressing"
+        },
+        {
+          "position": 3,
+          "instruction": "Dress spinach with the sesame sauce and top with toasted sesame seeds"
+        }
+      ],
+      "nutrition": {
+        "calories": 214,
+        "protein": 12,
+        "carbohydrates": 10,
+        "fat": 14,
+        "fiber": 6,
+        "sugar": 3,
+        "sodium": 520,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shira-ae",
+      "name": "Shira-ae",
+      "description": "Tofu-dressed salad of blanched vegetables including green beans and carrots",
+      "categories": [
+        "side",
+        "salad",
+        "healthy",
+        "vegetarian",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "firm tofu",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "green beans",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame paste",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press tofu to remove excess moisture, then mash until smooth"
+        },
+        {
+          "position": 2,
+          "instruction": "Blanch green beans and sliced carrots until tender-crisp and drain well"
+        },
+        {
+          "position": 3,
+          "instruction": "Mix mashed tofu with sesame paste, soy sauce, and sugar, then toss with the vegetables and top with sesame seeds"
+        }
+      ],
+      "nutrition": {
+        "calories": 194,
+        "protein": 14,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kinpira-gobo",
+      "name": "Kinpira Gobo",
+      "description": "Burdock root and carrot julienned and sauteed in soy sauce and sesame",
+      "categories": [
+        "side",
+        "healthy",
+        "vegan",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "burdock root",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrot",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dried chili",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Julienne burdock root and carrot into thin matchsticks, soak burdock in water to remove bitterness"
+        },
+        {
+          "position": 2,
+          "instruction": "Heat sesame oil in a pan with dried chili and stir-fry burdock and carrot until tender"
+        },
+        {
+          "position": 3,
+          "instruction": "Season with soy sauce, mirin, and sugar, cook until liquid evaporates, and garnish with sesame seeds"
+        }
+      ],
+      "nutrition": {
+        "calories": 184,
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 8,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 540,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yasai-itame",
+      "name": "Yasai Itame",
+      "description": "Stir-fried mixed vegetables with bean sprouts in a savory soy sauce seasoning",
+      "categories": [
+        "dinner",
+        "side",
+        "stir-fry",
+        "vegan",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "bean sprouts",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "cabbage, sliced",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots, julienned",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat sesame oil in a wok or large pan over high heat with garlic"
+        },
+        {
+          "position": 2,
+          "instruction": "Add carrots, cabbage, and mushrooms and stir-fry until slightly softened"
+        },
+        {
+          "position": 3,
+          "instruction": "Add bean sprouts and soy sauce, toss quickly until just heated through, season with salt"
+        }
+      ],
+      "nutrition": {
+        "calories": 184,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 560,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hiyayakko",
+      "name": "Hiyayakko",
+      "description": "Chilled silken tofu topped with ginger, scallions, sesame seeds, and soy sauce",
+      "categories": [
+        "starter",
+        "summer",
+        "easy-recipes",
+        "healthy",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "silken tofu",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "ginger, grated",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scallions, finely sliced",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "shichimi togarashi",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Chill silken tofu in the refrigerator for at least 30 minutes"
+        },
+        {
+          "position": 2,
+          "instruction": "Cut into blocks and place on a plate"
+        },
+        {
+          "position": 3,
+          "instruction": "Top with grated ginger, sliced scallions, sesame seeds, shichimi, and drizzle with soy sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 136,
+        "protein": 10,
+        "carbohydrates": 6,
+        "fat": 8,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "nasu-miso",
+      "name": "Nasu Miso",
+      "description": "Eggplant chunks braised in a rich miso and dashi broth until meltingly tender",
+      "categories": [
+        "dinner",
+        "side",
+        "comfort-food",
+        "home-style",
+        "vegan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "eggplant",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "red miso paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut eggplant into chunks and fry in sesame oil until browned on all sides"
+        },
+        {
+          "position": 2,
+          "instruction": "Add dashi stock, miso paste, mirin, and sugar to the pan and stir to combine"
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until eggplant is very tender and the sauce has thickened, garnish with scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 186,
+        "protein": 8,
+        "carbohydrates": 16,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 10,
+        "sodium": 560,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "vegetable-nikujaga",
+      "name": "Vegetable Nikujaga",
+      "description": "Hearty vegetable stew with potatoes, shirataki, and mushrooms in dashi broth",
+      "categories": [
+        "dinner",
+        "comfort-food",
+        "vegan",
+        "stew",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "shirataki noodles",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shiitake mushrooms",
+          "quantity": 6,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "konnyaku",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Parboil potatoes and carrots, then cut into chunks"
+        },
+        {
+          "position": 2,
+          "instruction": "Simmer shirataki, konnyaku, and mushrooms in dashi with soy sauce, mirin, and sugar"
+        },
+        {
+          "position": 3,
+          "instruction": "Add potatoes and carrots and simmer until tender and the broth has reduced slightly"
+        }
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 10,
+        "carbohydrates": 38,
+        "fat": 2,
+        "fiber": 5,
+        "sugar": 6,
+        "sodium": 780,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hijiki-nimono",
+      "name": "Hijiki Nimono",
+      "description": "Hijiki seaweed simmered with carrots, aburaage, and soy sauce in dashi",
+      "categories": [
+        "side",
+        "healthy",
+        "vegan",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "hijiki seaweed, dried",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "aburaage, fried tofu pouch",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak dried hijiki in water for 30 minutes, then drain"
+        },
+        {
+          "position": 2,
+          "instruction": "Julienne carrots and cut aburaage into strips, then place in a pot with dashi"
+        },
+        {
+          "position": 3,
+          "instruction": "Add hijiki, soy sauce, mirin, and sugar, and simmer until the liquid is nearly absorbed"
+        }
+      ],
+      "nutrition": {
+        "calories": 142,
+        "protein": 8,
+        "carbohydrates": 14,
+        "fat": 6,
+        "fiber": 8,
+        "sugar": 4,
+        "sodium": 520,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kanroni",
+      "name": "Kanroni",
+      "description": "Sweet soy braised daikon radish until tender and translucent, served as a side",
+      "categories": [
+        "side",
+        "healthy",
+        "vegan",
+        "budget-friendly",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "daikon radish",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Peel daikon and cut into thick rounds, then parboil in water with a little rice to remove bitterness"
+        },
+        {
+          "position": 2,
+          "instruction": "Place daikon in a pot with dashi stock, soy sauce, mirin, and sugar"
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer gently until daikon is translucent and has absorbed the sweet soy broth, garnish with scallions"
+        }
+      ],
+      "nutrition": {
+        "calories": 106,
+        "protein": 4,
+        "carbohydrates": 18,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 560,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kabocha-ni",
+      "name": "Kabocha Ni",
+      "description": "Sweet simmered kabocha squash in dashi with soy sauce and mirin",
+      "categories": [
+        "side",
+        "comfort-food",
+        "vegan",
+        "home-style",
+        "budget-friendly"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "kabocha squash",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cut kabocha into wedges and remove seeds"
+        },
+        {
+          "position": 2,
+          "instruction": "Place in a pot with dashi stock, sugar, and salt, bring to a boil, then reduce to a simmer"
+        },
+        {
+          "position": 3,
+          "instruction": "Add soy sauce and mirin and cook until kabocha is tender but still holds its shape"
+        }
+      ],
+      "nutrition": {
+        "calories": 113,
+        "protein": 6,
+        "carbohydrates": 20,
+        "fat": 1,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 380,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "takuan",
+      "name": "Takuan",
+      "description": "Sun-dried daikon pickled in rice bran and salt, served as a crunchy side",
+      "categories": [
+        "side",
+        "budget-friendly",
+        "vegan",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "daikon radish",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "rice bran",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dried chili",
+          "quantity": 2,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "kombu seaweed",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 200,
+          "note": null,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Salt daikon radish and weight it down for one day to draw out moisture"
+        },
+        {
+          "position": 2,
+          "instruction": "Mix rice bran with water, salt, chili, and kombu to make the pickling bed"
+        },
+        {
+          "position": 3,
+          "instruction": "Bury daikon in the rice bran mixture and ferment in a cool dark place for at least one week"
+        }
+      ],
+      "nutrition": {
+        "calories": 44,
+        "protein": 3,
+        "carbohydrates": 8,
+        "fat": 0,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 480,
+        "saturatedFat": 0
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "XR-IRDOJAUY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=XR-IRDOJAUY",
+          "videoTitle": "たくあんの作り方（漬け方） - How to make Takuwan (Japanese Radish Pickles)",
+          "channelName": "marronrecipe",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ohitashi",
+      "name": "Ohitashi",
+      "description": "Blanched spinach seasoned with dashi, soy sauce, and topped with sesame seeds",
+      "categories": [
+        "side",
+        "healthy",
+        "vegan",
+        "easy-recipes",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dashi stock",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch spinach in boiling water for 30 seconds, then shock in ice water and squeeze dry"
+        },
+        {
+          "position": 2,
+          "instruction": "Mix dashi stock, soy sauce, and mirin for the seasoning"
+        },
+        {
+          "position": 3,
+          "instruction": "Toss spinach with the seasoning and serve topped with toasted sesame seeds"
+        }
+      ],
+      "nutrition": {
+        "calories": 126,
+        "protein": 10,
+        "carbohydrates": 8,
+        "fat": 6,
+        "fiber": 5,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 1
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "h2_SQcVZUko",
+          "youtubeUrl": "https://www.youtube.com/watch?v=h2_SQcVZUko",
+          "videoTitle": "Ohitashi - Japanese Spinach Salad",
+          "channelName": "No Recipes",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yasai-goroke",
+      "name": "Yasai Goroke",
+      "description": "Vegetable croquettes with mashed potato and mixed vegetables coated in panko",
+      "categories": [
+        "snack",
+        "street-food",
+        "party-food",
+        "vegetarian",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "corn kernels",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "panko breadcrumbs",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "tonkatsu sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Boil and mash potatoes, mix with cooked diced carrot, corn, and sauteed onion, season with salt"
+        },
+        {
+          "position": 2,
+          "instruction": "Shape into oval patties, coat in flour, dip in beaten egg, then roll in panko"
+        },
+        {
+          "position": 3,
+          "instruction": "Deep fry in oil at 170 degrees until golden and crispy, serve with tonkatsu sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 328,
+        "protein": 10,
+        "carbohydrates": 36,
+        "fat": 16,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "goma-ae",
+      "name": "Goma Ae",
+      "description": "Sesame dressed blanched vegetables including green beans and carrots",
+      "categories": [
+        "side",
+        "healthy",
+        "vegan",
+        "easy-recipes",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "green beans",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "carrots",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame seeds, ground",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch green beans and julienned carrots until tender-crisp, then drain and cool"
+        },
+        {
+          "position": 2,
+          "instruction": "Grind sesame seeds and mix with soy sauce, sugar, and mirin to make the dressing"
+        },
+        {
+          "position": 3,
+          "instruction": "Toss vegetables with the sesame dressing until evenly coated and serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 178,
+        "protein": 8,
+        "carbohydrates": 14,
+        "fat": 10,
+        "fiber": 5,
+        "sugar": 4,
+        "sodium": 420,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "edamame-miso",
+      "name": "Edamame Miso",
+      "description": "Steamed edamame tossed with white miso butter",
+      "categories": [
+        "side",
+        "starter",
+        "vegan",
+        "healthy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "edamame",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "white miso",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "butter",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sesame seed",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Steam edamame in pods until just tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Melt butter with miso until smooth."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss hot edamame with miso butter and sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 192,
+        "protein": 18,
+        "carbohydrates": 12,
+        "fat": 8,
+        "fiber": 5,
+        "sugar": 2,
+        "sodium": 280,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "gyu-sashi",
+      "name": "Gyu Sashi",
+      "description": "Thinly sliced beef sashimi with ponzu and garlic",
+      "categories": [
+        "vegetarian",
+        "starter",
+        "healthy",
+        "party-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "beef tenderloin",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "ponzu",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "daikon",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "shiso leaf",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef paper-thin against the grain."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange on chilled plate with grated daikon and shiso."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with ponzu sliced garlic and sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 202,
+        "protein": 24,
+        "carbohydrates": 4,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 380,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "matcha-mochi",
+      "name": "Matcha Mochi",
+      "description": "Chewy rice cakes dusted in matcha sugar - springtime sweetness in two bites.",
+      "categories": [
+        "desserts",
+        "vegetarian"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 10,
+      "servings": 8,
+      "servingSize": "2 pieces (80g)",
+      "homePrepCost": 600,
+      "restaurantPrice": 1200,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 74,
+      "tags": [
+        "mochi",
+        "matcha"
+      ],
+      "ingredients": [
+        {
+          "name": "Shiratamako Rice Flour",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Water",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Matcha Powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "divided: dough + dusting"
+        },
+        {
+          "name": "Potato Starch",
+          "quantity": 50,
+          "unit": "g",
+          "note": "for handling"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk shiratamako, sugar, matcha and water into a smooth slurry."
+        },
+        {
+          "position": 2,
+          "instruction": "Microwave 1 minute, stir, repeat in 30-second bursts until translucent."
+        },
+        {
+          "position": 3,
+          "instruction": "Turn onto starch-dusted tray; cool slightly."
+        },
+        {
+          "position": 4,
+          "instruction": "Portion with a starch-coated knife; dust with matcha-sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 130,
+        "protein": 1,
+        "carbohydrates": 31,
+        "fat": 0.3,
+        "fiber": 0.5,
+        "sugar": 14,
+        "sodium": 5,
+        "saturatedFat": 0.1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "dorayaki",
+      "name": "Dorayaki",
+      "description": "Fluffy honey pancakes sandwiched with sweet azuki bean paste - Doraemon's favorite.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "easy-recipes"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 6,
+      "servingSize": "1 pancake sandwich (110g)",
+      "homePrepCost": 650,
+      "restaurantPrice": 1100,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 78,
+      "tags": [
+        "pancake",
+        "azuki"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Honey",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cake Flour",
+          "quantity": 140,
+          "unit": "g"
+        },
+        {
+          "name": "Baking Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Water",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Anko Red Bean Paste",
+          "quantity": 300,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Beat eggs with sugar and honey until thick; whisk in water."
+        },
+        {
+          "position": 2,
+          "instruction": "Fold in flour and baking powder; rest batter 15 minutes."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook 9cm rounds in a dry pan until bubbles set the top; flip briefly."
+        },
+        {
+          "position": 4,
+          "instruction": "Sandwich generous anko between two pancakes."
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 7,
+        "carbohydrates": 56,
+        "fat": 3,
+        "fiber": 3,
+        "sugar": 30,
+        "sodium": 95,
+        "saturatedFat": 0.9
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Q5sWR6ytsCY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Q5sWR6ytsCY",
+          "videoTitle": "Easy Dorayaki (Red Bean Pancakes)",
+          "channelName": "Sudachi | Japanese Recipes | Yuto Omura",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "dango",
+      "name": "Dango",
+      "description": "Chewy rice dumplings on skewers glazed with sweet soy or red bean paste",
+      "categories": [
+        "desserts",
+        "snack",
+        "street-food",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "shiratamako glutinous rice flour",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "bamboo skewers",
+          "quantity": 6,
+          "unit": "pieces",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix shiratamako with water to form a smooth dough, then shape into small round dumplings"
+        },
+        {
+          "position": 2,
+          "instruction": "Boil dumplings in water until they float, then transfer to ice water"
+        },
+        {
+          "position": 3,
+          "instruction": "Thread onto skewers and brush with a mixture of soy sauce, mirin, and sugar, or serve with red bean paste"
+        }
+      ],
+      "nutrition": {
+        "calories": 170,
+        "protein": 6,
+        "carbohydrates": 32,
+        "fat": 2,
+        "fiber": 0,
+        "sugar": 8,
+        "sodium": 320,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "yokan",
+      "name": "Yokan",
+      "description": "Firm sweet red bean jelly set with agar and sliced into elegant blocks",
+      "categories": [
+        "desserts",
+        "traditional",
+        "celebration",
+        "vegan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "red bean paste",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "agar powder",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dissolve agar powder in water and bring to a boil, stirring until fully dissolved"
+        },
+        {
+          "position": 2,
+          "instruction": "Add red bean paste, sugar, and salt, and stir until smooth and well combined"
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into a mold and refrigerate until firm, then slice into blocks and serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 242,
+        "protein": 8,
+        "carbohydrates": 48,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 30,
+        "sodium": 120,
+        "saturatedFat": 0
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "BlqvMeIki4Y",
+          "youtubeUrl": "https://www.youtube.com/watch?v=BlqvMeIki4Y",
+          "videoTitle": "How to Make Mizu-Yokan (Japanese Soft Azuki Bean Jelly) Recipe 水ようかんの作り方 (和菓子レシピ)",
+          "channelName": "ochikeron",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "castella",
+      "name": "Castella",
+      "description": "Light and airy Japanese sponge cake with a golden crust and moist crumb",
+      "categories": [
+        "desserts",
+        "celebration",
+        "traditional",
+        "sharing"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "mirin",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk eggs and sugar until thick and pale, then gently fold in sifted flour"
+        },
+        {
+          "position": 2,
+          "instruction": "Add honey, mirin, and milk and fold until just combined without deflating the batter"
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into a lined rectangular pan and bake at 170 degrees for 35 minutes, then cool and slice"
+        }
+      ],
+      "nutrition": {
+        "calories": 246,
+        "protein": 10,
+        "carbohydrates": 38,
+        "fat": 6,
+        "fiber": 1,
+        "sugar": 20,
+        "sodium": 220,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "jN7b9Nutaok",
+          "youtubeUrl": "https://www.youtube.com/watch?v=jN7b9Nutaok",
+          "videoTitle": "Honey Castella (Kasutera)Cake (蜂蜜蛋糕) **",
+          "channelName": "Mack Lim",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "monaka",
+      "name": "Monaka",
+      "description": "Crispy wafer shells filled with sweet red bean paste and shaped into elegant forms",
+      "categories": [
+        "desserts",
+        "traditional",
+        "snack",
+        "vegan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "wafer shells, monaka",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "red bean paste",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "chestnuts in syrup",
+          "quantity": 4,
+          "unit": "pieces",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Place a spoonful of red bean paste on one wafer shell"
+        },
+        {
+          "position": 2,
+          "instruction": "Add a piece of chestnut on top of the paste"
+        },
+        {
+          "position": 3,
+          "instruction": "Cover with another wafer shell and press gently to form the monaka"
+        }
+      ],
+      "nutrition": {
+        "calories": 178,
+        "protein": 6,
+        "carbohydrates": 34,
+        "fat": 2,
+        "fiber": 2,
+        "sugar": 18,
+        "sodium": 80,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ohagi",
+      "name": "Ohagi",
+      "description": "Sweet rice balls coated in red bean paste or kinako roasted soybean flour",
+      "categories": [
+        "desserts",
+        "traditional",
+        "snack",
+        "celebration",
+        "vegan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "glutinous rice",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 1.2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "red bean paste",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kinako roasted soybean flour",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 1,
+          "unit": "pinch",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook glutinous rice with water until very soft, then pound lightly with a pestle"
+        },
+        {
+          "position": 2,
+          "instruction": "Form into small oval balls while still warm"
+        },
+        {
+          "position": 3,
+          "instruction": "Coat half in red bean paste and half in a mixture of kinako, sugar, and salt"
+        }
+      ],
+      "nutrition": {
+        "calories": 194,
+        "protein": 8,
+        "carbohydrates": 36,
+        "fat": 2,
+        "fiber": 3,
+        "sugar": 14,
+        "sodium": 60,
+        "saturatedFat": 0
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "taiyaki",
+      "name": "Taiyaki",
+      "description": "Fish-shaped pastry filled with sweet red bean paste, cooked until golden",
+      "categories": [
+        "desserts",
+        "street-food",
+        "snack",
+        "traditional",
+        "celebration"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 1,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "eggs",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "milk",
+          "quantity": 0.75,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "baking powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "red bean paste",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "vegetable oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Whisk flour, egg, sugar, milk, and baking powder into a smooth batter"
+        },
+        {
+          "position": 2,
+          "instruction": "Heat a taiyaki mold and brush with oil, pour batter into each fish-shaped cavity"
+        },
+        {
+          "position": 3,
+          "instruction": "Add a spoonful of red bean paste, cover with more batter, and cook until golden on both sides"
+        }
+      ],
+      "nutrition": {
+        "calories": 254,
+        "protein": 10,
+        "carbohydrates": 40,
+        "fat": 6,
+        "fiber": 2,
+        "sugar": 18,
+        "sodium": 320,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "suman",
+      "name": "Suman",
+      "description": "Steamed sweet rice cake wrapped in banana leaves with a hint of coconut",
+      "categories": [
+        "desserts",
+        "traditional",
+        "snack",
+        "vegan"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "glutinous rice, soaked overnight",
+          "quantity": 2,
+          "unit": "cups",
+          "note": null
+        },
+        {
+          "name": "coconut milk",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 0.5,
+          "unit": "cup",
+          "note": null
+        },
+        {
+          "name": "salt",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "banana leaves",
+          "quantity": 8,
+          "unit": "pieces",
+          "note": null
+        },
+        {
+          "name": "pandan leaves",
+          "quantity": 2,
+          "unit": "pieces",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix soaked glutinous rice with coconut milk, sugar, salt, and pandan leaves"
+        },
+        {
+          "position": 2,
+          "instruction": "Place portions of the rice mixture onto banana leaves and wrap into neat parcels"
+        },
+        {
+          "position": 3,
+          "instruction": "Steam for 30 to 40 minutes until the rice is translucent and fully cooked"
+        }
+      ],
+      "nutrition": {
+        "calories": 272,
+        "protein": 6,
+        "carbohydrates": 44,
+        "fat": 8,
+        "fiber": 1,
+        "sugar": 12,
+        "sodium": 40,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "anmitsu",
+      "name": "Anmitsu",
+      "description": "Agar jelly dessert with red bean and mochi",
+      "categories": [
+        "desserts",
+        "traditional",
+        "summer"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "agar agar",
+          "quantity": 5,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "red bean paste",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "mochi",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "kuromitsu",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "water",
+          "quantity": 300,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "fruit",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dissolve agar in water and set in a shallow tray."
+        },
+        {
+          "position": 2,
+          "instruction": "Cut agar into cubes and place in a bowl."
+        },
+        {
+          "position": 3,
+          "instruction": "Top with red bean paste mochi fruit and kuromitsu syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 258,
+        "protein": 6,
+        "carbohydrates": 54,
+        "fat": 2,
+        "fiber": 4,
+        "sugar": 28,
+        "sodium": 60,
+        "saturatedFat": 1
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

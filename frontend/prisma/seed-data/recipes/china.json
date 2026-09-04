@@ -1,0 +1,6406 @@
+{
+  "countryCode": "cn",
+  "recipes": [
+    {
+      "slug": "beef-chow-fun",
+      "name": "Beef Chow Fun (Gan Chao Niu He)",
+      "description": "Wok-charred wide rice noodles with beef and sprouts - Cantonese breath of the wok.",
+      "categories": [
+        "beef",
+        "street-food",
+        "stir-fry"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "servingSize": "1 plate (400g)",
+      "homePrepCost": 38,
+      "restaurantPrice": 68,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 91,
+      "tags": [
+        "wok-hei"
+      ],
+      "ingredients": [
+        {
+          "name": "Fresh wide rice noodles",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Beef slices velveted",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Bean sprouts & Scallions & Ginger",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Light soy + dark soy + Shaoxing",
+          "quantity": 60,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef hot; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Noodles char undisturbed; toss soy mix."
+        },
+        {
+          "position": 3,
+          "instruction": "Beef + sprouts + scallion; two flips only."
+        }
+      ],
+      "nutrition": {
+        "calories": 620,
+        "protein": 28,
+        "carbohydrates": 82,
+        "fat": 18,
+        "fiber": 3.5,
+        "sugar": 5,
+        "sodium": 1150,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "cc3aj1vp8SM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=cc3aj1vp8SM",
+          "videoTitle": "Beef Chow Fun (干炒牛河) | Cantonese Beef Ho Fun Recipe",
+          "channelName": "Kitchen Catalog",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "cumin-beef",
+      "name": "Cumin Beef (Ziran Niu Rou)",
+      "description": "Xinjiang-style smoky cumin-chile seared beef.",
+      "categories": [
+        "beef",
+        "street-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 42,
+      "restaurantPrice": 72,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 79,
+      "tags": [
+        "xinjiang"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef strips",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Ground cumin & chile flakes",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Onion & Garlic & Scallion",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Soy & Sesame oil",
+          "quantity": 40,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Velvet beef briefly."
+        },
+        {
+          "position": 2,
+          "instruction": "Blast fry; aromatics in."
+        },
+        {
+          "position": 3,
+          "instruction": "Cumin-chile shower; toss off heat."
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 36,
+        "carbohydrates": 10,
+        "fat": 26,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 820,
+        "saturatedFat": 8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "DMk_LVk1JWo",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DMk_LVk1JWo",
+          "videoTitle": "Cumin Beef (孜然牛肉) Recipe",
+          "channelName": "Omnivore's Cookbook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "hong-shao-beef",
+      "name": "Hong Shao Beef (Red-Braised)",
+      "description": "Soy-caramel braised beef with star anise warmth.",
+      "categories": [
+        "beef",
+        "traditional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 20,
+      "cookTimeMin": 120,
+      "servings": 4,
+      "servingSize": "1 bowl (300g)",
+      "homePrepCost": 48,
+      "restaurantPrice": 85,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "red-braise"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef chuck cubes",
+          "quantity": 900,
+          "unit": "g"
+        },
+        {
+          "name": "Rock sugar caramel",
+          "quantity": 40,
+          "unit": "g"
+        },
+        {
+          "name": "Light+dark soy, Shaoxing, Star anise, Ginger",
+          "quantity": 150,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Caramelize sugar; coat beef."
+        },
+        {
+          "position": 2,
+          "instruction": "Liquids in; braise covered 90 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Reduce glossy lacquer."
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 39,
+        "carbohydrates": 14,
+        "fat": 29,
+        "fiber": 1,
+        "sugar": 9,
+        "sodium": 950,
+        "saturatedFat": 10
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "ZXEdHOl_ueU",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ZXEdHOl_ueU",
+          "videoTitle": "How to Make Perfect Braised Beef (Hong Shao Niu Rou) - Easy Chinese Recipe",
+          "channelName": "Home Cooked Chinese Wonders",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "kung-pao-beef",
+      "name": "Kung Pao Beef",
+      "description": "Sichuan peppercorn-tingle beef with peanuts.",
+      "categories": [
+        "beef",
+        "stir-fry"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "servingSize": "1 plate (280g)",
+      "homePrepCost": 45,
+      "restaurantPrice": 78,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 83,
+      "tags": [
+        "mala"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef cubes velveted",
+          "quantity": 550,
+          "unit": "g"
+        },
+        {
+          "name": "Dried chilies & Sichuan peppercorns",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Roasted peanuts & Scallion",
+          "quantity": 130,
+          "unit": "g"
+        },
+        {
+          "name": "Kung pao sauce (soy-vinegar-sugar)",
+          "quantity": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry chilies-peppercorn fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Beef flash-sear."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauce reduce; peanuts/scallion last."
+        }
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 35,
+        "carbohydrates": 14,
+        "fat": 31,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 1050,
+        "saturatedFat": 7
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 37,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "vegetarian-mapo-tofu",
+      "name": "Vegetarian Mapo Tofu",
+      "description": "Mala tofu with mushroom-mince replacing the pork.",
+      "categories": [
+        "beef",
+        "vegan-option",
+        "spicy",
+        "tofu"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 3,
+      "servingSize": "1 bowl (280g)",
+      "homePrepCost": 16,
+      "restaurantPrice": 38,
+      "isPopular": false,
+      "isTrending": true,
+      "isFeatured": false,
+      "popularityScore": 82,
+      "tags": [
+        "mala",
+        "sichuan"
+      ],
+      "ingredients": [
+        {
+          "name": "Soft tofu cubes",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Doubanjiang & douchi",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Shiitake mince (replacing pork)",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Sichuan pepper powder & Scallion",
+          "quantity": 2,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown mushroom mince; bean pastes bloom."
+        },
+        {
+          "position": 2,
+          "instruction": "Water + tofu gentle simmer 8 min (spoon-fold)."
+        },
+        {
+          "position": 3,
+          "instruction": "Starch thicken; pepper-scallion snowfall."
+        }
+      ],
+      "nutrition": {
+        "calories": 230,
+        "protein": 14,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 880,
+        "saturatedFat": 2
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "DFSfNF-wkpY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DFSfNF-wkpY",
+          "videoTitle": "Vegetarian Mapo Tofu",
+          "channelName": "Omnivore's Cookbook",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "beef-broccoli",
+      "name": "Beef and Broccoli",
+      "description": "Classic tender beef with broccoli in a savory oyster sauce",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "dinner",
+        "family"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Broccoli florets",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Oyster sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef with soy sauce and cornstarch for 15 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef in hot wok until seared, set aside."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook broccoli with garlic, return beef, toss with oyster sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 347,
+        "protein": 35,
+        "carbohydrates": 18,
+        "fat": 15,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "NO-jVr3pIn0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=NO-jVr3pIn0",
+          "videoTitle": "Easy Beef and Broccoli Recipe by Masterchef • Taste Show",
+          "channelName": "Taste Show",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "braised-beef-noodles",
+      "name": "Braised Beef Noodle Soup",
+      "description": "Hearty braised beef noodle soup with rich soy-anise broth",
+      "categories": [
+        "beef",
+        "braise",
+        "noodles",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wheat noodles",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Star anise",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bok choy",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Braise beef with soy sauces, rock sugar, and star anise until tender."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook wheat noodles and blanch bok choy."
+        },
+        {
+          "position": 3,
+          "instruction": "Assemble bowls with noodles, sliced beef, bok choy, and hot broth."
+        }
+      ],
+      "nutrition": {
+        "calories": 408,
+        "protein": 40,
+        "carbohydrates": 35,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 920,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "five-spice-beef-shank",
+      "name": "Five-Spice Braised Beef Shank",
+      "description": "Warm five-spice braised beef shank, sliced thin for sharing",
+      "categories": [
+        "beef",
+        "braise",
+        "traditional",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef shank",
+          "quantity": 600,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Five-spice powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Star anise",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear beef shank until deeply browned on all sides."
+        },
+        {
+          "position": 2,
+          "instruction": "Combine with five-spice, soy sauces, rock sugar, and aromatics."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise gently until very tender, then slice thinly."
+        }
+      ],
+      "nutrition": {
+        "calories": 327,
+        "protein": 38,
+        "carbohydrates": 10,
+        "fat": 15,
+        "fiber": 0,
+        "sugar": 3,
+        "sodium": 800,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "black-pepper-beef",
+      "name": "Black Pepper Beef",
+      "description": "Bold black pepper beef with crisp onions and bell peppers",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "dinner",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef with soy sauce and cornstarch."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef in hot wok until browned, remove."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook vegetables, return beef, season with oyster sauce and cracked black pepper."
+        }
+      ],
+      "nutrition": {
+        "calories": 301,
+        "protein": 31,
+        "carbohydrates": 15,
+        "fat": 13,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 720,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "water-boiled-beef",
+      "name": "Water-Boiled Beef",
+      "description": "Sichuan fire-poached beef in a chili and peppercorn broth",
+      "categories": [
+        "beef",
+        "stew",
+        "spicy",
+        "regional",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Napa cabbage",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sichuan peppercorn",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dried chilies",
+          "quantity": 10,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch cabbage with doubanjiang and aromatics, spread on a plate."
+        },
+        {
+          "position": 2,
+          "instruction": "Poach marinated beef slices in spicy broth."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour over cabbage, top with peppercorns and chilies, sizzle with hot oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 350,
+        "protein": 35,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 880,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "hoisin-beef",
+      "name": "Hoisin Glazed Beef",
+      "description": "Sweet and savory hoisin glazed beef with snap peas",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "dinner",
+        "family"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hoisin sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Snap peas",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix hoisin, soy sauce, and rice vinegar for glaze."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef until seared, add snap peas."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour in glaze and toss until coated and glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 303,
+        "protein": 29,
+        "carbohydrates": 22,
+        "fat": 11,
+        "fiber": 2,
+        "sugar": 10,
+        "sodium": 740,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-and-tomato-stew",
+      "name": "Beef and Tomato Stew",
+      "description": "Comforting Chinese beef and tomato stew with potato chunks",
+      "categories": [
+        "beef",
+        "stew",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Potato",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef chunks and set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute onion, ginger, and tomatoes until jammy."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer beef with potatoes and tomato paste until thick and tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 370,
+        "protein": 33,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 8,
+        "sodium": 650,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "scallion-beef",
+      "name": "Scallion Beef",
+      "description": "Tender beef strips with thick scallion segments and ginger",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Large scallions",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Shaoxing wine",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate sliced beef in soy sauce, wine, and cornstarch."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat oil until smoking, sear beef in a single layer."
+        },
+        {
+          "position": 3,
+          "instruction": "Add scallion segments and ginger, toss until fragrant."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 30,
+        "carbohydrates": 10,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 700,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "spicy-beef-noodles",
+      "name": "Spicy Beef Noodle Soup",
+      "description": "Fiery Sichuan beef noodle soup with chili oil and minced beef",
+      "categories": [
+        "beef",
+        "noodles",
+        "spicy",
+        "soup",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Wheat noodles",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ground beef",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bok choy",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown ground beef with doubanjiang until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook noodles and blanch bok choy."
+        },
+        {
+          "position": 3,
+          "instruction": "Assemble bowls with noodles, spicy beef, hot broth, and chili oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 414,
+        "protein": 34,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 950,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-eggplant-claypot",
+      "name": "Beef and Eggplant Clay Pot",
+      "description": "Clay-pot braised beef and eggplant in savory bean sauce",
+      "categories": [
+        "beef",
+        "clay-pot",
+        "braise",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chinese eggplant",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Sear eggplant pieces until golden, set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef with doubanjiang, garlic, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine in clay pot, braise until eggplant is silky and beef is tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 328,
+        "protein": 28,
+        "carbohydrates": 18,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 6,
+        "sodium": 760,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ginger-beef",
+      "name": "Ginger Beef",
+      "description": "Tender beef slices with fresh ginger and aromatic scallions",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "home-style",
+        "easy-recipes"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fresh ginger",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Shaoxing wine",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate beef with soy sauce, wine, and cornstarch for 20 minutes."
+        },
+        {
+          "position": 2,
+          "instruction": "Sear beef in hot oil with ginger strips until just cooked."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with scallions, white pepper, and sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 277,
+        "protein": 28,
+        "carbohydrates": 12,
+        "fat": 13,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 690,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "shredded-beef-peppers",
+      "name": "Shredded Beef with Peppers",
+      "description": "Sizzling shredded beef with mixed peppers in spicy sauce",
+      "categories": [
+        "beef",
+        "stir-fry",
+        "spicy",
+        "dinner"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef flank",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Green bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Red bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Dried chilies",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice beef into thin strips and marinate."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry beef strips in batches until crisp-edged."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss with peppers, dried chilies, garlic, vinegar, and sugar."
+        }
+      ],
+      "nutrition": {
+        "calories": 284,
+        "protein": 30,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 730,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-and-corn-soup",
+      "name": "Beef and Sweet Corn Soup",
+      "description": "Silky Chinese sweet corn soup with tender beef slices",
+      "categories": [
+        "beef",
+        "soup",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1558030006-450066393d65?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sliced beef",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet corn kernels",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring broth with corn and ginger to a simmer."
+        },
+        {
+          "position": 2,
+          "instruction": "Add thinly sliced beef and cook until just done."
+        },
+        {
+          "position": 3,
+          "instruction": "Drizzle beaten egg into soup, season with sesame oil and soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 25,
+        "carbohydrates": 22,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 680,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "szechuan-beef-stew",
+      "name": "Szechuan Beef Stew",
+      "description": "Hearty Sichuan beef stew with star anise and chili bean paste",
+      "categories": [
+        "beef",
+        "stew",
+        "spicy",
+        "regional",
+        "comfort-food"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964124-0c56318b59be?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Star anise",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Cinnamon stick",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef chuck cubes until deeply seared."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute doubanjiang, ginger, and garlic until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer beef with potatoes and spices until thick and tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 34,
+        "carbohydrates": 24,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 820,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "beef-tendon-braise",
+      "name": "Braised Beef Tendon",
+      "description": "Gelatinous beef tendon braised in soy and aromatic spices",
+      "categories": [
+        "beef",
+        "braise",
+        "traditional",
+        "sharing"
+      ],
+      "proteinType": "BEEF",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1546964053-d93311cf64a3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef tendon",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blanch beef tendon until collagen begins to soften."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise with soy sauces, rock sugar, ginger, and star anise."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until tendon is meltingly soft and sauce is glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 312,
+        "protein": 32,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 1,
+        "sugar": 2,
+        "sodium": 780,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kung-pao-chicken",
+      "name": "Kung Pao Chicken",
+      "description": "The classic: diced chicken, peanuts, dried chilies, mala tingle.",
+      "categories": [
+        "chicken",
+        "traditional",
+        "stir-fry"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "servingSize": "1 plate (300g)",
+      "homePrepCost": 36,
+      "restaurantPrice": 68,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": true,
+      "popularityScore": 94,
+      "tags": [
+        "sichuan-icon"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thigh dice",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Dried chilies & Sichuan peppercorns",
+          "quantity": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Peanuts & Scallions",
+          "quantity": 140,
+          "unit": "g"
+        },
+        {
+          "name": "Kung pao sauce",
+          "quantity": 90,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Chili-pepper oil fragrant."
+        },
+        {
+          "position": 2,
+          "instruction": "Chicken sear till just done."
+        },
+        {
+          "position": 3,
+          "instruction": "Sauce glaze; peanuts finish."
+        }
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 37,
+        "carbohydrates": 13,
+        "fat": 27,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 1080,
+        "saturatedFat": 5.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "5hwa7GQIanM",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5hwa7GQIanM",
+          "videoTitle": "Authentic Kung Pao Chicken Recipe | Flavor Badshah",
+          "channelName": "Woks of Life",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 37,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "da-pan-ji",
+      "name": "Da Pan Ji (Big Plate Chicken)",
+      "description": "Xinjiang chicken-potato-pepper stew served over wide noodles.",
+      "categories": [
+        "chicken",
+        "one-pot",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 25,
+      "cookTimeMin": 55,
+      "servings": 4,
+      "servingSize": "1 big-plate share (430g)",
+      "homePrepCost": 52,
+      "restaurantPrice": 98,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "shared-platter"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken chop-ups bone-in",
+          "quantity": 1200,
+          "unit": "g"
+        },
+        {
+          "name": "Potato chunks",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Green/red peppers",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Doubanjiang + whole spices",
+          "quantity": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Wide belt noodles",
+          "quantity": 300,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown chicken; doubanjiang + spices bloom."
+        },
+        {
+          "position": 2,
+          "instruction": "Potatoes + water; braise 30 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Peppers; ladle over boiled belt noodles."
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 41,
+        "carbohydrates": 62,
+        "fat": 24,
+        "fiber": 6,
+        "sugar": 8,
+        "sodium": 1180,
+        "saturatedFat": 5.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "8JNT2ceEhro",
+          "youtubeUrl": "https://www.youtube.com/watch?v=8JNT2ceEhro",
+          "videoTitle": "How to Make PERFECT Chinese Big Plate Chicken (Da Pan Ji) - The Secret Restaurant Recipe!",
+          "channelName": "Cooking Fundamentals",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "white-cut-chicken",
+      "name": "White Cut Chicken (Bai Qie Ji)",
+      "description": "Poached-then-iced chicken, silky skin, ginger-scallion oil.",
+      "categories": [
+        "chicken",
+        "cantonese",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "servingSize": "1 quarter (280g)",
+      "homePrepCost": 44,
+      "restaurantPrice": 88,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 84,
+      "tags": [
+        "poached"
+      ],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "quantity": 1400,
+          "unit": "g"
+        },
+        {
+          "name": "Ginger-scallion oil",
+          "quantity": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "Poaching aromatics (ginger-scallion-salt)",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Submerge-boil then off-heat poach 35 min."
+        },
+        {
+          "position": 2,
+          "instruction": "Ice bath for jelly-skin."
+        },
+        {
+          "position": 3,
+          "instruction": "Chop through bone; sauce pool alongside."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 39,
+        "carbohydrates": 2,
+        "fat": 23,
+        "fiber": 0.6,
+        "sugar": 0.8,
+        "sodium": 720,
+        "saturatedFat": 6
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "zm1X1LSVxc0",
+          "youtubeUrl": "https://www.youtube.com/watch?v=zm1X1LSVxc0",
+          "videoTitle": "White Cut Chicken – Chinese Poached Chicken",
+          "channelName": "ChinaSichuanFood by Elaine",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "three-cup-chicken",
+      "name": "Three-Cup Chicken (San Bei Ji)",
+      "description": "Sesame-soy-rice wine braised chicken with basil.",
+      "categories": [
+        "chicken",
+        "braise",
+        "regional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 3,
+      "servingSize": "1 clay pot share (300g)",
+      "homePrepCost": 42,
+      "restaurantPrice": 78,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 81,
+      "tags": [
+        "taiwan-classic"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thigh chunks skin-on",
+          "quantity": 800,
+          "unit": "g"
+        },
+        {
+          "name": "Sesame oil : Soy : Rice wine (three cups)",
+          "quantity": 240,
+          "unit": "ml"
+        },
+        {
+          "name": "Ginger slices & Garlic & Dried chili",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Thai basil handful",
+          "quantity": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Fry ginger-garlic in sesame oil."
+        },
+        {
+          "position": 2,
+          "instruction": "Chicken brown; liquids; reduce covered 20 min."
+        },
+        {
+          "position": 3,
+          "instruction": "Basil wilt-in uncovered glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 36,
+        "carbohydrates": 7,
+        "fat": 37,
+        "fiber": 1.5,
+        "sugar": 4,
+        "sodium": 1350,
+        "saturatedFat": 8
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "sesame-chicken",
+      "name": "Sesame Chicken",
+      "description": "Crispy sesame chicken coated in a sweet and tangy glaze",
+      "categories": [
+        "chicken",
+        "dinner",
+        "family",
+        "easy-recipes"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Coat chicken pieces in cornstarch."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-sear chicken until golden and cooked through."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss in glaze of soy sauce, vinegar, and honey, top with sesame seeds."
+        }
+      ],
+      "nutrition": {
+        "calories": 338,
+        "protein": 33,
+        "carbohydrates": 20,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 8,
+        "sodium": 780,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "cashew-chicken",
+      "name": "Cashew Chicken",
+      "description": "Cashew chicken with crisp vegetables in a savory sauce",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "dinner",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Roasted cashews",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Water chestnuts",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry diced chicken until white, set aside."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook bell peppers and water chestnuts with garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken, add cashews and oyster sauce, toss to combine."
+        }
+      ],
+      "nutrition": {
+        "calories": 335,
+        "protein": 34,
+        "carbohydrates": 16,
+        "fat": 15,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 700,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "ginger-scallion-chicken",
+      "name": "Ginger Scallion Chicken",
+      "description": "Simple poached chicken with vibrant ginger-scallion oil",
+      "categories": [
+        "chicken",
+        "home-style",
+        "easy-recipes",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fresh ginger",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Shaoxing wine",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Poach chicken thighs in seasoned broth until just cooked."
+        },
+        {
+          "position": 2,
+          "instruction": "Make sauce from minced ginger, scallions, salt, and hot sesame oil."
+        },
+        {
+          "position": 3,
+          "instruction": "Slice chicken and drizzle generously with ginger-scallion sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 278,
+        "protein": 28,
+        "carbohydrates": 10,
+        "fat": 14,
+        "fiber": 0,
+        "sugar": 1,
+        "sodium": 620,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "lemon-chicken",
+      "name": "Lemon Chicken",
+      "description": "Tangy lemon chicken with a bright citrus sauce",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Coat chicken breast slices in cornstarch."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-sear until golden on both sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer lemon juice with broth and sugar, pour over chicken."
+        }
+      ],
+      "nutrition": {
+        "calories": 282,
+        "protein": 30,
+        "carbohydrates": 18,
+        "fat": 10,
+        "fiber": 0,
+        "sugar": 6,
+        "sodium": 650,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-lettuce-cups",
+      "name": "Chicken Lettuce Cups",
+      "description": "Savory minced chicken in crisp lettuce cups",
+      "categories": [
+        "chicken",
+        "starter",
+        "party-food",
+        "healthy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Ground chicken",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water chestnuts",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Hoisin sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Butter lettuce",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry ground chicken with garlic and diced water chestnuts."
+        },
+        {
+          "position": 2,
+          "instruction": "Season with hoisin sauce and soy sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Spoon mixture into lettuce leaves and garnish with scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 251,
+        "protein": 26,
+        "carbohydrates": 12,
+        "fat": 11,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 680,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "spicy-chicken-noodles",
+      "name": "Spicy Chicken Noodle Soup",
+      "description": "Fiery chicken noodle soup with chili oil and Sichuan pepper",
+      "categories": [
+        "chicken",
+        "noodles",
+        "spicy",
+        "soup",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Wheat noodles",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chicken thigh",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bok choy",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Cook noodles and blanch bok choy."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry chicken with doubanjiang, garlic, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Assemble noodles, chicken, and bok choy, ladle spicy broth and chili oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 389,
+        "protein": 32,
+        "carbohydrates": 36,
+        "fat": 13,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 940,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-corn-soup",
+      "name": "Chicken Sweet Corn Soup",
+      "description": "Silky sweet corn soup with shredded chicken and egg ribbons",
+      "categories": [
+        "chicken",
+        "soup",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet corn",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": 800,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Shred poached chicken breast."
+        },
+        {
+          "position": 2,
+          "instruction": "Bring broth with corn to a simmer, add chicken."
+        },
+        {
+          "position": 3,
+          "instruction": "Drizzle beaten egg, season with sesame oil and soy sauce, garnish with scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 256,
+        "protein": 26,
+        "carbohydrates": 20,
+        "fat": 8,
+        "fiber": 2,
+        "sugar": 5,
+        "sodium": 640,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "black-bean-chicken",
+      "name": "Black Bean Chicken",
+      "description": "Savory chicken with fermented black beans and garlic",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "dinner",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fermented black beans",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rinse and chop fermented black beans."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry chicken pieces until seared."
+        },
+        {
+          "position": 3,
+          "instruction": "Add black beans, garlic, ginger, and peppers, toss with soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 264,
+        "protein": 29,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 780,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "mushroom-chicken-claypot",
+      "name": "Mushroom Chicken Clay Pot",
+      "description": "Chicken braised with shiitake mushrooms in a sizzling clay pot",
+      "categories": [
+        "chicken",
+        "clay-pot",
+        "braise",
+        "comfort-food"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dried shiitake mushrooms",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rehydrate shiitake mushrooms."
+        },
+        {
+          "position": 2,
+          "instruction": "Brown chicken pieces with ginger and garlic."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise with mushrooms and soy sauces until rich and tender."
+        }
+      ],
+      "nutrition": {
+        "calories": 294,
+        "protein": 30,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 760,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sweet-chili-chicken",
+      "name": "Sweet Chili Chicken",
+      "description": "Glazed chicken with a sweet and mildly spicy chili sauce",
+      "categories": [
+        "chicken",
+        "dinner",
+        "easy-recipes",
+        "family"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet chili sauce",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Honey",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken in soy sauce, garlic, and ginger."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-sear chicken until golden and cooked through."
+        },
+        {
+          "position": 3,
+          "instruction": "Warm chili sauce with honey and vinegar, toss chicken in glaze."
+        }
+      ],
+      "nutrition": {
+        "calories": 328,
+        "protein": 31,
+        "carbohydrates": 24,
+        "fat": 12,
+        "fiber": 0,
+        "sugar": 14,
+        "sodium": 790,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "scallion-chicken-rice",
+      "name": "Scallion Chicken Rice",
+      "description": "Fragrant one-pot chicken rice with scallion and ginger",
+      "categories": [
+        "chicken",
+        "rice-dish",
+        "one-pot",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Jasmine rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Saute chicken with ginger and garlic."
+        },
+        {
+          "position": 2,
+          "instruction": "Add rice and chicken broth to the pot."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook rice with chicken on top, drizzle scallion oil and soy sauce before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 30,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 1,
+        "sodium": 700,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "emperor-chicken",
+      "name": "Emperor Chicken",
+      "description": "Elegant steamed chicken with goji berries and red dates",
+      "categories": [
+        "chicken",
+        "celebration",
+        "healthy",
+        "traditional"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Goji berries",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red dates",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Shaoxing wine",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Marinate chicken with wine, salt, and ginger."
+        },
+        {
+          "position": 2,
+          "instruction": "Top with goji berries and red dates."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam over high heat until cooked through, drizzle with soy sauce and sesame oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 248,
+        "protein": 34,
+        "carbohydrates": 10,
+        "fat": 8,
+        "fiber": 0,
+        "sugar": 4,
+        "sodium": 580,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "soy-sauce-chicken",
+      "name": "Soy Sauce Chicken",
+      "description": "Poached chicken in aromatic soy sauce broth until lacquered",
+      "categories": [
+        "chicken",
+        "one-pot",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "quantity": 1400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 120,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Star anise",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Combine soy sauces, rock sugar, and spices to make braising liquid."
+        },
+        {
+          "position": 2,
+          "instruction": "Bring to a gentle simmer and lower chicken in."
+        },
+        {
+          "position": 3,
+          "instruction": "Poach at low heat, turning occasionally, until deeply colored."
+        }
+      ],
+      "nutrition": {
+        "calories": 324,
+        "protein": 35,
+        "carbohydrates": 10,
+        "fat": 16,
+        "fiber": 0,
+        "sugar": 2,
+        "sodium": 900,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chicken-peanut-sauce",
+      "name": "Chicken in Peanut Sauce",
+      "description": "Chicken in a rich peanut sauce with scallions and chili",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "dinner",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken thigh",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Peanut butter",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Stir-fry diced chicken until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Mix peanut butter with soy sauce, vinegar, and chili."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss chicken in peanut sauce, top with crushed peanuts and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 344,
+        "protein": 32,
+        "carbohydrates": 18,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "garlic-chicken-stirfry",
+      "name": "Garlic Chicken Stir-Fry",
+      "description": "Garlic-loaded chicken with crisp snow peas",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "easy-recipes",
+        "dinner"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": 350,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Snow peas",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Coat chicken in cornstarch and sear until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry garlic cloves and snow peas until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Return chicken, toss with soy sauce and oyster sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 296,
+        "protein": 33,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "kung-pao-chicken-peanut",
+      "name": "Kung Pao Chicken Peanut",
+      "description": "Spicy stir-fried chicken with peanuts",
+      "categories": [
+        "chicken",
+        "stir-fry",
+        "dinner",
+        "spicy",
+        "traditional",
+        "sharing",
+        "spicy"
+      ],
+      "proteinType": "CHICKEN",
+      "dietType": "HIGH_PROTEIN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "peanuts",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "dried chili",
+          "quantity": 6,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "note": null
+        },
+        {
+          "name": "ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Sichuan peppercorn",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Dice chicken and marinate in soy sauce and cornstarch."
+        },
+        {
+          "position": 2,
+          "instruction": "Heat oil and fry dried chili and peppercorn."
+        },
+        {
+          "position": 3,
+          "instruction": "Add chicken and stir-fry until cooked."
+        },
+        {
+          "position": 4,
+          "instruction": "Add peanuts, vinegar, and sugar, toss quickly."
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 32,
+        "carbohydrates": 12,
+        "fat": 16,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 680,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tomato-egg-stirfry",
+      "name": "Tomato & Egg Stir-Fry",
+      "description": "China's most-made home dish: silky eggs through jammy tomatoes.",
+      "categories": [
+        "vegetarian",
+        "budget-friendly",
+        "easy-recipes",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "servingSize": "1 plate (260g)",
+      "homePrepCost": 12,
+      "restaurantPrice": 28,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 88,
+      "tags": [
+        "national-comfort"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggs beaten w/ pinch salt",
+          "quantity": 5,
+          "unit": "pcs"
+        },
+        {
+          "name": "Ripe tomatoes wedged",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "name": "Scallion & Sugar pinch & Soy few drops",
+          "quantity": 1,
+          "unit": "set"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Scramble eggs soft-gold; remove."
+        },
+        {
+          "position": 2,
+          "instruction": "Tomatoes down to saucy; sugar-season."
+        },
+        {
+          "position": 3,
+          "instruction": "Eggs back; two folds; scallion."
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 14,
+        "carbohydrates": 11,
+        "fat": 16,
+        "fiber": 2.5,
+        "sugar": 8,
+        "sodium": 520,
+        "saturatedFat": 4.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Eo2doZBmZiY",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Eo2doZBmZiY",
+          "videoTitle": "THE BEST Tomato Egg Stir Fry Recipe! (Simple & Quick Comfort Food)",
+          "channelName": "Nael Oz",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "di-san-xian",
+      "name": "Di San Xian",
+      "description": "Earth's three fresh things: potato, eggplant, pepper stir-fried glossy.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": 15,
+      "restaurantPrice": 34,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 76,
+      "tags": [
+        "northeast-china"
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplant chunks",
+          "quantity": 350,
+          "unit": "g"
+        },
+        {
+          "name": "Potato chunks",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Green peppers",
+          "quantity": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Garlic & Soy-sugar glaze",
+          "quantity": 70,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Pan-fry potato golden; eggplant soft; separately."
+        },
+        {
+          "position": 2,
+          "instruction": "Garlic + peppers flash."
+        },
+        {
+          "position": 3,
+          "instruction": "Glaze everything glossy."
+        }
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 6,
+        "carbohydrates": 38,
+        "fat": 13,
+        "fiber": 7,
+        "sugar": 9,
+        "sodium": 640,
+        "saturatedFat": 1.8
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "qh8yfW84-AE",
+          "youtubeUrl": "https://www.youtube.com/watch?v=qh8yfW84-AE",
+          "videoTitle": "Di San Xian (地三鲜) | Chinese Potato Eggplant Pepper Recipe",
+          "channelName": "Kitchen Catalog",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format"
+    },
+    {
+      "slug": "scallion-pancakes",
+      "name": "Cong You Bing (Scallion Pancakes)",
+      "description": "Flaky layered pancakes studded with scallion.",
+      "categories": [
+        "vegetarian",
+        "vegan-option",
+        "street-food",
+        "snack"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "servingSize": "1 pancake (180g)",
+      "homePrepCost": 10,
+      "restaurantPrice": 32,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 86,
+      "tags": [
+        "flaky"
+      ],
+      "ingredients": [
+        {
+          "name": "Flour dough (hot + cold water mix)",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Scallions chopped",
+          "quantity": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Oil-flour paste (lamination)",
+          "quantity": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Salt & white pepper",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Roll thin; paste + scallions; roll coil; flatten."
+        },
+        {
+          "position": 2,
+          "instruction": "Rest 20 min; re-flatten."
+        },
+        {
+          "position": 3,
+          "instruction": "Pan-fry medium oil both sides crisp-blistered."
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 8,
+        "carbohydrates": 58,
+        "fat": 13,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 480,
+        "saturatedFat": 1.7
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "bJhAbPEwvS8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=bJhAbPEwvS8",
+          "videoTitle": "Scallion Pancakes Recipe from my Chinese Grandma 👵🏼",
+          "channelName": "Jess Wang Pastry",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "tofu-broccoli-stirfry",
+      "name": "Tofu and Broccoli Stir-Fry",
+      "description": "Crispy tofu and broccoli in a savory garlic sauce",
+      "categories": [
+        "vegetarian",
+        "stir-fry",
+        "vegan",
+        "healthy",
+        "high-protein"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Broccoli florets",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Mushroom sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press tofu, cube, coat in cornstarch, and pan-sear until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry broccoli with garlic and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine tofu and broccoli, toss in mushroom sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 286,
+        "protein": 24,
+        "carbohydrates": 16,
+        "fat": 14,
+        "fiber": 4,
+        "sugar": 3,
+        "sodium": 680,
+        "saturatedFat": 4
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "DBeteOIy124",
+          "youtubeUrl": "https://www.youtube.com/watch?v=DBeteOIy124",
+          "videoTitle": "Broccoli and Tofu Stir Fry | Quick, Plant-Based & Full of Flavor #shorts",
+          "channelName": "Seeking Good Eats",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sesame-tofu",
+      "name": "Sesame Crusted Tofu",
+      "description": "Golden sesame-crusted tofu with a sweet soy glaze",
+      "categories": [
+        "vegetarian",
+        "stir-fry",
+        "vegan",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 4,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press tofu, slice into slabs, coat in cornstarch and sesame seeds."
+        },
+        {
+          "position": 2,
+          "instruction": "Pan-sear until golden and crispy on both sides."
+        },
+        {
+          "position": 3,
+          "instruction": "Serve with glaze of soy sauce, vinegar, sugar, and garlic."
+        }
+      ],
+      "nutrition": {
+        "calories": 277,
+        "protein": 22,
+        "carbohydrates": 18,
+        "fat": 13,
+        "fiber": 2,
+        "sugar": 6,
+        "sodium": 620,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "eggplant-tofu-claypot",
+      "name": "Eggplant and Tofu Clay Pot",
+      "description": "Silky eggplant and tofu braised in chili bean sauce",
+      "categories": [
+        "vegetarian",
+        "clay-pot",
+        "vegan",
+        "comfort-food"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chinese eggplant",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, pan-sear until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Saute eggplant with doubanjiang, garlic, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Combine in clay pot with soy sauce and sugar, braise until silky."
+        }
+      ],
+      "nutrition": {
+        "calories": 274,
+        "protein": 22,
+        "carbohydrates": 15,
+        "fat": 14,
+        "fiber": 5,
+        "sugar": 5,
+        "sodium": 740,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "spicy-tofu-noodles",
+      "name": "Spicy Tofu Noodle Soup",
+      "description": "Fiery tofu noodle soup with chili oil and scallions",
+      "categories": [
+        "vegetarian",
+        "noodles",
+        "spicy",
+        "vegan",
+        "soup"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wheat noodles",
+          "quantity": 250,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Bok choy",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, pan-sear until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Cook noodles and blanch bok choy."
+        },
+        {
+          "position": 3,
+          "instruction": "Assemble noodles, tofu, and bok choy, ladle spicy broth with chili oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 352,
+        "protein": 23,
+        "carbohydrates": 38,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 860,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tofu-peanut-stew",
+      "name": "Tofu Peanut Stew",
+      "description": "Hearty tofu stew with peanuts in a savory sauce",
+      "categories": [
+        "vegetarian",
+        "stew",
+        "vegan",
+        "comfort-food",
+        "high-protein"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Roasted peanuts",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Doubanjiang",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, brown in a pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add doubanjiang, garlic, ginger, and peanuts."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until sauce thickens and tofu absorbs flavor."
+        }
+      ],
+      "nutrition": {
+        "calories": 324,
+        "protein": 25,
+        "carbohydrates": 20,
+        "fat": 16,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 720,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "braised-daikon-tofu",
+      "name": "Braised Daikon with Tofu",
+      "description": "Gentle braised daikon radish with silky tofu",
+      "categories": [
+        "vegetarian",
+        "braise",
+        "vegan",
+        "comfort-food",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Daikon radish",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Firm tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice daikon and simmer in broth until translucent."
+        },
+        {
+          "position": 2,
+          "instruction": "Add tofu cubes and soy sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise gently until daikon is melting, finish with sesame oil and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 222,
+        "protein": 21,
+        "carbohydrates": 12,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 4,
+        "sodium": 650,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "cold-sesame-tofu",
+      "name": "Cold Sesame Tofu",
+      "description": "Chilled silken tofu drizzled with sesame sauce",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "vegan",
+        "starter",
+        "summer"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Silken tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sesame paste",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice silken tofu and arrange on a chilled plate."
+        },
+        {
+          "position": 2,
+          "instruction": "Whisk sesame paste with soy sauce, vinegar, and water."
+        },
+        {
+          "position": 3,
+          "instruction": "Drizzle sauce over tofu, top with chili oil and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 236,
+        "protein": 22,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 580,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "chili-oil-tofu",
+      "name": "Chili Oil Tofu",
+      "description": "Tofu cubes drenched in fragrant Sichuan chili oil",
+      "categories": [
+        "vegetarian",
+        "spicy",
+        "starter",
+        "traditional"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 4,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press tofu and cut into cubes."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange on plate and pour chili oil over top."
+        },
+        {
+          "position": 3,
+          "instruction": "Season with soy sauce, minced garlic, vinegar, and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 262,
+        "protein": 24,
+        "carbohydrates": 10,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 780,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tofu-mushroom-rice",
+      "name": "Tofu Mushroom Rice",
+      "description": "One-pot braised tofu and mushroom rice",
+      "categories": [
+        "vegetarian",
+        "rice-dish",
+        "vegan",
+        "one-pot",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Jasmine rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, brown in a pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add sliced mushrooms, rice, and broth with soy sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until rice is fluffy and tofu has absorbed the savory broth."
+        }
+      ],
+      "nutrition": {
+        "calories": 318,
+        "protein": 22,
+        "carbohydrates": 35,
+        "fat": 10,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 640,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "garlic-tofu-stirfry",
+      "name": "Garlic Tofu Stir-Fry",
+      "description": "Pungent garlic tofu with chili flakes",
+      "categories": [
+        "vegetarian",
+        "stir-fry",
+        "vegan",
+        "easy-recipes",
+        "spicy"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 8,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Chili flakes",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, coat in cornstarch, pan-sear."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry sliced garlic and chili flakes until fragrant."
+        },
+        {
+          "position": 3,
+          "instruction": "Toss tofu in garlic-chili mixture with soy sauce and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 256,
+        "protein": 23,
+        "carbohydrates": 14,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 3,
+        "sodium": 660,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "five-spice-tofu",
+      "name": "Five-Spice Braised Tofu",
+      "description": "Deeply flavored five-spice braised tofu",
+      "categories": [
+        "vegetarian",
+        "braise",
+        "vegan",
+        "traditional",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Five-spice powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, sear until golden."
+        },
+        {
+          "position": 2,
+          "instruction": "Braise with five-spice, soy sauces, sugar, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook until tofu has absorbed the warm aromatic sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 24,
+        "carbohydrates": 12,
+        "fat": 14,
+        "fiber": 1,
+        "sugar": 3,
+        "sodium": 700,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tofu-vegetable-soup",
+      "name": "Tofu Vegetable Soup",
+      "description": "Light tofu soup with mixed vegetables and ginger broth",
+      "categories": [
+        "vegetarian",
+        "soup",
+        "vegan",
+        "healthy",
+        "home-style"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Silken tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Napa cabbage",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Bring broth with ginger to a simmer."
+        },
+        {
+          "position": 2,
+          "instruction": "Add mushrooms, cabbage, and tofu cubes."
+        },
+        {
+          "position": 3,
+          "instruction": "Simmer until vegetables are tender, season with soy sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 221,
+        "protein": 20,
+        "carbohydrates": 15,
+        "fat": 9,
+        "fiber": 4,
+        "sugar": 4,
+        "sodium": 620,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "wood-ear-tofu-salad",
+      "name": "Wood Ear and Tofu Salad",
+      "description": "Refreshing wood ear mushroom and tofu salad",
+      "categories": [
+        "vegetarian",
+        "salad",
+        "vegan",
+        "healthy",
+        "side"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Silken tofu",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wood ear mushrooms",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Rice vinegar",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Rehydrate and slice wood ear mushrooms."
+        },
+        {
+          "position": 2,
+          "instruction": "Slice tofu and arrange with cucumber and mushrooms."
+        },
+        {
+          "position": 3,
+          "instruction": "Dress with soy sauce, vinegar, sesame oil, and chili oil."
+        }
+      ],
+      "nutrition": {
+        "calories": 223,
+        "protein": 21,
+        "carbohydrates": 10,
+        "fat": 11,
+        "fiber": 3,
+        "sugar": 2,
+        "sodium": 560,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "sweet-pepper-tofu",
+      "name": "Sweet Pepper Tofu",
+      "description": "Tofu with sweet bell peppers in a glossy sauce",
+      "categories": [
+        "vegetarian",
+        "stir-fry",
+        "vegan",
+        "dinner",
+        "family"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1512621776952-a57141f2eefd?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Bell peppers",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sweet bean sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, pan-sear until crispy."
+        },
+        {
+          "position": 2,
+          "instruction": "Stir-fry bell peppers with garlic and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Add sweet bean sauce, toss tofu back in, thicken with cornstarch."
+        }
+      ],
+      "nutrition": {
+        "calories": 273,
+        "protein": 23,
+        "carbohydrates": 16,
+        "fat": 13,
+        "fiber": 3,
+        "sugar": 5,
+        "sodium": 640,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "clay-pot-tofu",
+      "name": "Clay Pot Tofu",
+      "description": "Bubbling clay pot tofu with mushrooms and scallions",
+      "categories": [
+        "vegetarian",
+        "clay-pot",
+        "vegan",
+        "comfort-food",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 3,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Press and cube tofu, brown in clay pot."
+        },
+        {
+          "position": 2,
+          "instruction": "Add mushrooms, ginger, and soy sauce."
+        },
+        {
+          "position": 3,
+          "instruction": "Cover and braise until bubbling, finish with sesame oil and scallions."
+        }
+      ],
+      "nutrition": {
+        "calories": 287,
+        "protein": 24,
+        "carbohydrates": 14,
+        "fat": 15,
+        "fiber": 3,
+        "sugar": 3,
+        "sodium": 750,
+        "saturatedFat": 5
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "steamed-tofu-herbs",
+      "name": "Steamed Tofu with Herbs",
+      "description": "Delicate steamed tofu with fresh herbs and soy drizzle",
+      "categories": [
+        "vegetarian",
+        "vegan",
+        "healthy",
+        "starter",
+        "easy-recipes"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "VEGAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Silken tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Scallions",
+          "quantity": 2,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Chili oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Slice silken tofu and arrange on a steaming plate."
+        },
+        {
+          "position": 2,
+          "instruction": "Steam for 8 minutes until heated through."
+        },
+        {
+          "position": 3,
+          "instruction": "Drizzle with soy sauce, sesame oil, chili oil, and fresh herbs."
+        }
+      ],
+      "nutrition": {
+        "calories": 218,
+        "protein": 22,
+        "carbohydrates": 10,
+        "fat": 10,
+        "fiber": 2,
+        "sugar": 2,
+        "sodium": 520,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "soy-braised-beef",
+      "name": "Soy-Braised Beef",
+      "description": "Classic soy-braised beef chunks with rich caramelized sauce",
+      "categories": [
+        "vegetarian",
+        "braise",
+        "home-style",
+        "dinner"
+      ],
+      "proteinType": "VEGETARIAN",
+      "dietType": "HALAL",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beef chuck",
+          "quantity": 500,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Dark soy sauce",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Shaoxing wine",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Brown beef chunks and caramelize rock sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Add soy sauces, wine, and ginger."
+        },
+        {
+          "position": 3,
+          "instruction": "Braise until beef is fork-tender and sauce is reduced."
+        }
+      ],
+      "nutrition": {
+        "calories": 354,
+        "protein": 36,
+        "carbohydrates": 12,
+        "fat": 18,
+        "fiber": 1,
+        "sugar": 4,
+        "sodium": 850,
+        "saturatedFat": 6
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "egg-tarts-hk",
+      "name": "Hong Kong Egg Tarts",
+      "description": "Buttery pastry cups of barely-set sweet egg custard.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "dim-sum"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 40,
+      "cookTimeMin": 25,
+      "servings": 12,
+      "servingSize": "2 tarts (110g)",
+      "homePrepCost": 22,
+      "restaurantPrice": 42,
+      "isPopular": true,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 89,
+      "tags": [
+        "dim-sum-icon"
+      ],
+      "ingredients": [
+        {
+          "name": "Pastry shells (shortcrust or puff)",
+          "quantity": 12,
+          "unit": "pcs"
+        },
+        {
+          "name": "Eggs + evaporated milk + sugar syrup custard",
+          "quantity": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "Vanilla pinch",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Strain custard twice; rest to de-bubble."
+        },
+        {
+          "position": 2,
+          "instruction": "Fill shells 80%."
+        },
+        {
+          "position": 3,
+          "instruction": "Bake 200°C ~18 min until centers barely wobble."
+        }
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 5,
+        "carbohydrates": 22,
+        "fat": 12,
+        "fiber": 0.5,
+        "sugar": 12,
+        "sodium": 95,
+        "saturatedFat": 5.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "U3iwtrqBEhs",
+          "youtubeUrl": "https://www.youtube.com/watch?v=U3iwtrqBEhs",
+          "videoTitle": "Hong Kong Egg Tarts (Dan Tat)",
+          "channelName": "The Woks of Life",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "mango-pudding",
+      "name": "Mango Pudding",
+      "description": "Silky dim-sum mango set cream with fresh mango cubes.",
+      "categories": [
+        "desserts",
+        "vegetarian",
+        "dim-sum"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "EASY",
+      "prepTimeMin": 15,
+      "servings": 6,
+      "servingSize": "1 cup (150g)",
+      "homePrepCost": 18,
+      "restaurantPrice": 36,
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 80,
+      "tags": [
+        "no-bake",
+        "chilled"
+      ],
+      "ingredients": [
+        {
+          "name": "Ripe mangoes",
+          "quantity": 600,
+          "unit": "g"
+        },
+        {
+          "name": "Evaporated milk + cream",
+          "quantity": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "Gelatin bloomed (or agar)",
+          "quantity": 12,
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Blend mango smooth; warm milk-sugar-gelatin."
+        },
+        {
+          "position": 2,
+          "instruction": "Combine; strain; pour cups."
+        },
+        {
+          "position": 3,
+          "instruction": "Chill 4 hours; cube-top."
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbohydrates": 28,
+        "fat": 6,
+        "fiber": 1.8,
+        "sugar": 26,
+        "sodium": 45,
+        "saturatedFat": 3.5
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "rH7QvIIgdH4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=rH7QvIIgdH4",
+          "videoTitle": "Restaurant-Style Mango Pudding | Easy 2-Layer Mango Dessert Recipe | Mango pudding",
+          "channelName": "Suman's Authentic Recipe",
+          "isPrimary": true
+        }
+      ],
+      "cookTimeMin": 25,
+      "images": null,
+      "totalTimeMin": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&auto=format"
+    },
+    {
+      "slug": "sesame-balls",
+      "name": "Sesame Balls",
+      "description": "Golden sesame-coated glutinous rice balls with sweet filling",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "snack",
+        "traditional",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Glutinous rice flour",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Black sesame paste",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "White sesame seeds",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Mix glutinous rice flour with warm water into a dough."
+        },
+        {
+          "position": 2,
+          "instruction": "Wrap sesame-sugar filling in dough balls, roll in sesame seeds."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook in hot oil until golden and hollow, drain on paper towels."
+        }
+      ],
+      "nutrition": {
+        "calories": 358,
+        "protein": 20,
+        "carbohydrates": 38,
+        "fat": 14,
+        "fiber": 3,
+        "sugar": 8,
+        "sodium": 220,
+        "saturatedFat": 3
+      },
+      "videos": [
+        {
+          "youtubeVideoId": "Qpzay_yDzFA",
+          "youtubeUrl": "https://www.youtube.com/watch?v=Qpzay_yDzFA",
+          "videoTitle": "Sesame Balls (煎堆/芝麻球) with Red Bean Paste Filling",
+          "channelName": "Wei's Red House Kitchen",
+          "isPrimary": true
+        }
+      ],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "red-bean-soup",
+      "name": "Red Bean Sweet Soup",
+      "description": "Sweet red bean soup with lotus seeds and tangerine peel",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "soup",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Red beans",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lotus seeds",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dried tangerine peel",
+          "quantity": 1,
+          "unit": "pcs",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 80,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak red beans overnight, simmer until very soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add lotus seeds and tangerine peel, cook until tender."
+        },
+        {
+          "position": 3,
+          "instruction": "Sweeten with rock sugar and finish with a splash of coconut milk."
+        }
+      ],
+      "nutrition": {
+        "calories": 334,
+        "protein": 21,
+        "carbohydrates": 40,
+        "fat": 10,
+        "fiber": 6,
+        "sugar": 12,
+        "sodium": 160,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "tang-yuan",
+      "name": "Tang Yuan",
+      "description": "Glutinous rice balls in sweet fermented rice broth",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "traditional",
+        "celebration",
+        "winter"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Glutinous rice flour",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Black sesame paste",
+          "quantity": 100,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Fermented rice wine",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 40,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Ginger",
+          "quantity": 20,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Make sesame-sugar filling and roll into small balls."
+        },
+        {
+          "position": 2,
+          "instruction": "Wrap filling in glutinous rice dough."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook in sweet ginger-laced fermented rice broth until balls float."
+        }
+      ],
+      "nutrition": {
+        "calories": 356,
+        "protein": 20,
+        "carbohydrates": 42,
+        "fat": 12,
+        "fiber": 2,
+        "sugar": 14,
+        "sodium": 180,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "taro-sweet-soup",
+      "name": "Taro Sweet Soup",
+      "description": "Creamy taro and sweet potato soup with coconut milk",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "soup",
+        "comfort-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Taro",
+          "quantity": 300,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Sweet potato",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": 200,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Tapioca pearls",
+          "quantity": 50,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Simmer diced taro and sweet potato until soft."
+        },
+        {
+          "position": 2,
+          "instruction": "Add coconut milk and rock sugar."
+        },
+        {
+          "position": 3,
+          "instruction": "Cook tapioca pearls separately, add to soup before serving."
+        }
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 20,
+        "carbohydrates": 35,
+        "fat": 10,
+        "fiber": 4,
+        "sugar": 15,
+        "sodium": 150,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "eight-treasure-rice",
+      "name": "Eight-Treasure Rice",
+      "description": "Sticky rice pudding studded with eight dried fruits and nuts",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "celebration",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Glutinous rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Red bean paste",
+          "quantity": 150,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Dried dates",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Lotus seeds",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Raisins",
+          "quantity": 30,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Soak and steam glutinous rice with sugar."
+        },
+        {
+          "position": 2,
+          "instruction": "Arrange dried fruits and nuts in a bowl, pack with rice."
+        },
+        {
+          "position": 3,
+          "instruction": "Steam again, then invert and drizzle with sweet sauce."
+        }
+      ],
+      "nutrition": {
+        "calories": 376,
+        "protein": 22,
+        "carbohydrates": 45,
+        "fat": 12,
+        "fiber": 3,
+        "sugar": 16,
+        "sodium": 200,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "osmanthus-jelly",
+      "name": "Osmanthus Jelly",
+      "description": "Ethereal osmanthus and wolfberry jelly with rock sugar",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dried osmanthus flowers",
+          "quantity": 10,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Wolfberries",
+          "quantity": 15,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Agar powder",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rock sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Steep osmanthus flowers in hot water to make fragrant tea."
+        },
+        {
+          "position": 2,
+          "instruction": "Dissolve agar and rock sugar in osmanthus water."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into molds with wolfberries and chill until set."
+        }
+      ],
+      "nutrition": {
+        "calories": 281,
+        "protein": 20,
+        "carbohydrates": 30,
+        "fat": 9,
+        "fiber": 1,
+        "sugar": 18,
+        "sodium": 120,
+        "saturatedFat": 2
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "almond-tofu",
+      "name": "Almond Tofu",
+      "description": "Silky almond tofu with fruit cocktail and sweet syrup",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "traditional"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Almond extract",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 500,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Agar powder",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Canned fruit",
+          "quantity": 200,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Rock sugar syrup",
+          "quantity": 60,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Warm milk with sugar and almond extract."
+        },
+        {
+          "position": 2,
+          "instruction": "Dissolve agar in warm milk, stir until smooth."
+        },
+        {
+          "position": 3,
+          "instruction": "Pour into molds, chill until set, serve with fruit and syrup."
+        }
+      ],
+      "nutrition": {
+        "calories": 306,
+        "protein": 20,
+        "carbohydrates": 25,
+        "fat": 14,
+        "fiber": 2,
+        "sugar": 8,
+        "sodium": 160,
+        "saturatedFat": 4
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    },
+    {
+      "slug": "coconut-milk-pudding",
+      "name": "Coconut Milk Pudding",
+      "description": "Creamy coconut milk pudding with palm sugar caramel",
+      "categories": [
+        "vegetarian",
+        "desserts",
+        "summer",
+        "street-food"
+      ],
+      "proteinType": "NONE",
+      "dietType": "VEGETARIAN",
+      "difficulty": "MEDIUM",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "servingSize": "1 plate (320g)",
+      "homePrepCost": null,
+      "restaurantPrice": null,
+      "currency": null,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&auto=format",
+      "isPopular": false,
+      "isTrending": false,
+      "isFeatured": false,
+      "popularityScore": 62,
+      "published": true,
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coconut milk",
+          "quantity": 400,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Milk",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        },
+        {
+          "name": "Sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Agar powder",
+          "quantity": 8,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Palm sugar",
+          "quantity": 60,
+          "unit": "g",
+          "note": null
+        },
+        {
+          "name": "Water",
+          "quantity": 100,
+          "unit": "ml",
+          "note": null
+        }
+      ],
+      "steps": [
+        {
+          "position": 1,
+          "instruction": "Heat coconut milk with sugar and agar until dissolved."
+        },
+        {
+          "position": 2,
+          "instruction": "Pour into cups and chill until set."
+        },
+        {
+          "position": 3,
+          "instruction": "Melt palm sugar into a caramel sauce, pour over pudding."
+        }
+      ],
+      "nutrition": {
+        "calories": 309,
+        "protein": 20,
+        "carbohydrates": 28,
+        "fat": 13,
+        "fiber": 1,
+        "sugar": 12,
+        "sodium": 140,
+        "saturatedFat": 3
+      },
+      "videos": [],
+      "images": null,
+      "totalTimeMin": 45
+    }
+  ]
+}

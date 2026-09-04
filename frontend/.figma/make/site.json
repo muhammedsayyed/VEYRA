@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines task initiation by providing a simple interface to start and manage projects efficiently, ideal for professionals seeking quick setup.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

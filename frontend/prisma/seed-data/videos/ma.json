@@ -1,0 +1,82 @@
+{
+  "countryCode": "ma",
+  "videos": [
+    {
+      "recipeSlug": "beef-tagine-prunes",
+      "youtubeVideoId": "HDv1tYgElqc",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HDv1tYgElqc",
+      "videoTitle": "Beef Tagine With Prunes",
+      "channelName": "The Delicious Crescent"
+    },
+    {
+      "recipeSlug": "kefta-mkaouara",
+      "youtubeVideoId": "4bxPu3GAuto",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4bxPu3GAuto",
+      "videoTitle": "Kefta Mkaouara (Moroccan Meatballs in Tomato Sauce) Recipe",
+      "channelName": "bakery without borders"
+    },
+    {
+      "recipeSlug": "couscous-tfaya-beef",
+      "youtubeVideoId": "jLAQ46mZBvE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jLAQ46mZBvE",
+      "videoTitle": "Couscous au bœuf et tfaya, un classique plein de saveurs ! 🥙",
+      "channelName": "gourmmy"
+    },
+    {
+      "recipeSlug": "mechoui",
+      "youtubeVideoId": "ZVe2GWiaOt0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZVe2GWiaOt0",
+      "videoTitle": "Quick and Easy Moroccan Mechoui Lamb",
+      "channelName": "Simple Cooking Tips"
+    },
+    {
+      "recipeSlug": "tangia-marrakesh",
+      "youtubeVideoId": "FOXZCCAYB4o",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FOXZCCAYB4o",
+      "videoTitle": "Slow Cook Tangia Marrakchia Authentic Recipe",
+      "channelName": "Moroccan Cuisine – Authentic Recipes"
+    },
+    {
+      "recipeSlug": "beef-briouat",
+      "youtubeVideoId": "B5xaYxUUzno",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B5xaYxUUzno",
+      "videoTitle": "BRIOUATES BOEUF HACHÉ & VERMICELLES ✨Recette Spécial Ramadan 🎋Faciles rapide | Briouate Kefta Recipe",
+      "channelName": "Cuisine Marocaine"
+    },
+    {
+      "recipeSlug": "kefta-tagine-egg",
+      "youtubeVideoId": "wNpU0DlAQyU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wNpU0DlAQyU",
+      "videoTitle": "Easy Moroccan Kefta Tagine with Eggs | Authentic Recipe",
+      "channelName": "Moroccan Kitchen Secrets"
+    },
+    {
+      "recipeSlug": "beef-brochettes",
+      "youtubeVideoId": "EiWRwIyd8iM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EiWRwIyd8iM",
+      "videoTitle": "Beef Brochette Recipe by Chef Mehboob Khan | Juicy & Easy Homemade BBQ | Masala TV",
+      "channelName": "Masala TV Recipes"
+    },
+    {
+      "recipeSlug": "harira-soup",
+      "youtubeVideoId": "K0vbwA58uAk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=K0vbwA58uAk",
+      "videoTitle": "How to make an authentic Moroccan Harira",
+      "channelName": "Kuzina With Simo"
+    },
+    {
+      "recipeSlug": "zaalouk",
+      "youtubeVideoId": "kfrjbEDd-OE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kfrjbEDd-OE",
+      "videoTitle": "Zaalouk Recipe - Vegan Eggplant Dip",
+      "channelName": "Foodotomic"
+    },
+    {
+      "recipeSlug": "chebakia",
+      "youtubeVideoId": "56NZ2u780So",
+      "youtubeUrl": "https://www.youtube.com/watch?v=56NZ2u780So",
+      "videoTitle": "[ENG] Moroccan Chebakia (Sesame Cookies) | Flavors of Morocco",
+      "channelName": "OhDelices Culinary Academy"
+    }
+  ]
+}

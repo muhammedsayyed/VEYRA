@@ -1,0 +1,82 @@
+{
+  "countryCode": "br",
+  "videos": [
+    {
+      "recipeSlug": "feijoada-completa",
+      "youtubeVideoId": "ntdm7Eno_-w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ntdm7Eno_-w",
+      "videoTitle": "FEIJOADA COMPLETA | Receita de Feijoada Tradicional Fácil e Prática",
+      "channelName": "Alexandre Kattore | Receitas"
+    },
+    {
+      "recipeSlug": "bife-a-role",
+      "youtubeVideoId": "4V66XpY2tbA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4V66XpY2tbA",
+      "videoTitle": "Bife à Rolê - Receita Tradicional",
+      "channelName": "Ogros Culinária"
+    },
+    {
+      "recipeSlug": "carne-seca-com-mandioca",
+      "youtubeVideoId": "FxPkWAcUlhM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FxPkWAcUlhM",
+      "videoTitle": "CARNE SECA COM MANDIOCA DO CHEF TAICO",
+      "channelName": "ChefTaico"
+    },
+    {
+      "recipeSlug": "strogonoff-de-frango-brasileiro",
+      "youtubeVideoId": "YKTzprOfBRA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YKTzprOfBRA",
+      "videoTitle": "Brazilian Chicken Stroganoff Recipe | Estrogonofe de Frango",
+      "channelName": "Life is a Blitz"
+    },
+    {
+      "recipeSlug": "strogonoff-de-carne",
+      "youtubeVideoId": "HSTHL4Qh2-M",
+      "youtubeUrl": "https://www.youtube.com/watch?v=HSTHL4Qh2-M",
+      "videoTitle": "ESTROGONOFE | BEEF STROGANOFF | Brazilian Kitchen",
+      "channelName": "Brazilian Kitchen"
+    },
+    {
+      "recipeSlug": "escondidinho-carne-seca",
+      "youtubeVideoId": "oIDZYX8kPfg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oIDZYX8kPfg",
+      "videoTitle": "Aprenda a fazer o melhor Escondidinho de Carne Seca!",
+      "channelName": "RoboChefBrasil"
+    },
+    {
+      "recipeSlug": "picadinho-de-carne",
+      "youtubeVideoId": "rEFqv3aNafw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rEFqv3aNafw",
+      "videoTitle": "PICADINHO DE CARNE, MUITO FÁCIL E PRÁTICO! TODAS AS DICAS PRA FICAR PERFEITO!",
+      "channelName": "Ana Zambrin"
+    },
+    {
+      "recipeSlug": "fraldinha-grelhada",
+      "youtubeVideoId": "r37x68en5cw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=r37x68en5cw",
+      "videoTitle": "FRALDINHA NA GRELHA | CHURRASCO DO FELIPE",
+      "channelName": "Churrasco do Felipe"
+    },
+    {
+      "recipeSlug": "pao-de-queijo",
+      "youtubeVideoId": "OrjTrJIpLIM",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OrjTrJIpLIM",
+      "videoTitle": "PÃO DE QUEIJO MINEIRO DE VERDADE❗😍 CROCANTE POR FORA, MOLINHO POR DENTRO E NÃO MURCHA!",
+      "channelName": "Delícias da Cíntia"
+    },
+    {
+      "recipeSlug": "brigadeiro",
+      "youtubeVideoId": "ieIUPsHty2Q",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ieIUPsHty2Q",
+      "videoTitle": "DOCINHOS PERFEITOS DE BRIGADEIRO",
+      "channelName": "Kelly Chocolates"
+    },
+    {
+      "recipeSlug": "pudim-de-leite",
+      "youtubeVideoId": "LsGYcPDMSJY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=LsGYcPDMSJY",
+      "videoTitle": "Como fazer PUDIM DE LEITE CONDENSADO TRADICIONAL",
+      "channelName": "MM Receitas"
+    }
+  ]
+}
