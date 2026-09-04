@@ -2,9 +2,7 @@ import { IServerAIProvider } from '../../src/services/ai/serverAIProvider';
 import { LocalOllamaProvider } from '../../src/services/ai/ollamaProvider';
 import { CloudAIProvider } from '../../src/services/ai/cloudAIProvider';
 
-export const config = {
-  runtime: 'edge',
-};
+
 
 const CORS_HEADERS = {
   'Content-Type': 'application/json',

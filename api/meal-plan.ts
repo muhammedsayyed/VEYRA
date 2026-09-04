@@ -2,9 +2,7 @@ import { VeyraApiRouter, authenticateRequest } from '../src/services/backend/api
 import { selectServerAIProvider } from './ai/chat';
 import { dbStore } from '../src/services/backend/dbStore';
 
-export const config = {
-  runtime: 'edge',
-};
+
 
 export default async function handler(req: Request) {
   try {
