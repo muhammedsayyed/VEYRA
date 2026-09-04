@@ -1,6 +1,4 @@
-
-
-export default async function handler() {
+export default async function handleAuthLogout() {
   return new Response(JSON.stringify({ success: true, message: 'Logged out' }), {
     status: 200,
     headers: {

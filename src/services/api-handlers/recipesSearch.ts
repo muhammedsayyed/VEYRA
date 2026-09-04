@@ -2,23 +2,17 @@ import {
   jsonOk,
   preflightResponse,
   withApiErrors,
-} from '../../src/services/backend/apiResponse';
-import { listRecipes } from '../../src/services/backend/foodService';
+} from '../backend/apiResponse';
+import { listRecipes } from '../backend/foodService';
 import {
   invalidParam,
   isValidResourceId,
   methodNotAllowed,
   parsePagination,
   sanitizeSearchQuery,
-} from '../../src/services/backend/validation';
+} from '../backend/validation';
 
-/**
- * GET /api/recipes/search?q=<term>&country=eg&category=beef&page=1&limit=20
- *
- * Backend-side search across recipe name/description, country name/cuisine,
- * category names/slugs and canonical ingredient names.
- */
-export default async function handler(req: Request) {
+export default async function handleRecipesSearch(req: Request) {
   if (req.method === 'OPTIONS') return preflightResponse();
   if (req.method !== 'GET') return methodNotAllowed();
 

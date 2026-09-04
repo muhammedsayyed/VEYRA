@@ -3,13 +3,13 @@ import {
   jsonOk,
   preflightResponse,
   withApiErrors,
-} from '../src/services/backend/apiResponse';
+} from '../backend/apiResponse';
 import {
   listRecipes,
   getRecipeDetail,
   RECIPE_SORT_OPTIONS,
   type RecipeSort,
-} from '../src/services/backend/foodService';
+} from '../backend/foodService';
 import {
   invalidParam,
   isValidResourceId,
@@ -19,32 +19,17 @@ import {
   parseEnumList,
   parsePagination,
   sanitizeSearchQuery,
-} from '../src/services/backend/validation';
+} from '../backend/validation';
 
-/**
- * GET /api/recipes?id=<recipeId|slug> -> single recipe detail
- * GET /api/recipes
- *      ?country=eg                    (country code)
- *      &category=beef,chicken         (category slugs, comma separated)
- *      &proteinType=beef,vegetarian   (enum csv)
- *      &dietType=high_protein,keto    (enum csv)
- *      &difficulty=easy               (enum csv)
- *      &popular=1 trending=1 featured=1
- *      &q=search term                 (name/description/country/category/ingredient)
- *      &sort=popular|newest|time
- *      &page=1&limit=20
- *
- * All filtering happens server-side; responses are always paginated.
- */
-export default async function handler(req: Request) {
+export default async function handleRecipes(req: Request, recipeIdParam?: string) {
   if (req.method === 'OPTIONS') return preflightResponse();
   if (req.method !== 'GET') return methodNotAllowed();
 
   return withApiErrors(async () => {
     const url = new URL(req.url);
 
-    // Single recipe detail via query param (keeps flat-file routing simple).
-    const idParam = url.searchParams.get('id') || url.searchParams.get('slug');
+    // Single recipe detail via query param or explicit param
+    const idParam = recipeIdParam || url.searchParams.get('id') || url.searchParams.get('slug');
     if (idParam) {
       if (!isValidResourceId(idParam)) return notFound('Recipe');
       const recipe = await getRecipeDetail(idParam);

@@ -2,24 +2,15 @@ import {
   jsonOk,
   preflightResponse,
   withApiErrors,
-} from '../../src/services/backend/apiResponse';
-import { listRecipes } from '../../src/services/backend/foodService';
+} from '../backend/apiResponse';
+import { listRecipes } from '../backend/foodService';
 import {
   invalidParam,
   isValidResourceId,
-  MAX_PAGE_LIMIT,
   methodNotAllowed,
-  parsePagination,
-} from '../../src/services/backend/validation';
+} from '../backend/validation';
 
-/**
- * GET /api/recipes/popular?country=eg&limit=10
- * GET /api/recipes/popular?type=trending|featured
- *
- * Backed by explicit database flags (isPopular/isTrending/isFeatured) and
- * popularityScore ordering - never hardcoded on the frontend.
- */
-export default async function handler(req: Request) {
+export default async function handleRecipesPopular(req: Request) {
   if (req.method === 'OPTIONS') return preflightResponse();
   if (req.method !== 'GET') return methodNotAllowed();
 
